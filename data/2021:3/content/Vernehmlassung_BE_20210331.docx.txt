@@ -1,0 +1,384 @@
++-------------------------+-------------------------+----------------+
+| Regierungsrat           | Staatskanzlei,          |                |
+|                         | Postfach, 3000 Bern 8   |                |
+| Postgasse 68            |                         |                |
+|                         |                         |                |
+| Postfach                |                         |                |
+|                         |                         |                |
+| 3000 Bern 8             |                         |                |
+|                         |                         |                |
+| in                      |                         |                |
+| fo.regierungsrat\@be.ch |                         |                |
+|                         |                         |                |
+| www.be.ch/rr            |                         |                |
++=========================+=========================+================+
+|                         | Platzhalter Leerzeilen  |                |
+|                         | kant CICD.              |                |
+|                         |                         |                |
+|                         | Platzhalter Leerzeilen  |                |
+|                         | kant CICD.              |                |
+|                         |                         |                |
+|                         | Eidgenössisches         |                |
+|                         | Departement für         |                |
+|                         | Wirtschaft,\            |                |
+|                         | Bildung und Forschung\  |                |
+|                         | Bundeshaus Ost\         |                |
+|                         | 3003 Bern               |                |
++-------------------------+-------------------------+----------------+
+|                         |                         |                |
++-------------------------+-------------------------+----------------+
+| Ihr Zeichen:            | Referenz des Absenders  | 31\. März 2021 |
++-------------------------+-------------------------+----------------+
+| Unser Zeichen:          | 2021.BKD.16270          |                |
++-------------------------+-------------------------+----------------+
+|                         |                         |                |
++-------------------------+-------------------------+----------------+
+| RRB Nr.:                | 398/2021                |                |
++-------------------------+-------------------------+----------------+
+| Direktion:              | Bildungs- und           |                |
+|                         | Kulturdirektion         |                |
++-------------------------+-------------------------+----------------+
+| Klassifizierung:        | Nicht klassifiziert     |                |
++-------------------------+-------------------------+----------------+
+|                         |                         |                |
++-------------------------+-------------------------+----------------+
+
+Vernehmlassung des Bundes: Totalrevision des Bundesgesetzes über
+Beiträge für die kantonale französischsprachige Schule in Bern.
+
+Stellungnahme des Kantons Bern
+
+Sehr geehrter Herr Bundespräsident\
+Sehr geehrte Damen und Herren
+
+Der Kanton Bern dankt Ihnen für die Möglichkeit, zur Totalrevision des
+Bundesgesetzes über Beiträge für die kantonale französischsprachige
+Schule in Bern (Ecole cantonale de langue française -- ECLF) Stellung
+nehmen zu können.
+
+# Grundsätzliches {#grundsätzliches .H1}
+
+Mit dem neuen Gesetz gibt der Bund die Verantwortung für die ECLF
+vollständig an den Kanton Bern ab. Er zieht sich damit aus der
+Mitverantwortung für eine seit mehr als 60 Jahren gelebte, konkrete
+Massnahme zur Verständigung und zum Austausch zwischen den
+Sprachgemeinschaften in der Bundeshauptstadt zurück.
+
+Der Kanton Bern lehnt diese Totalrevision ab.
+
+Er ist der Meinung, dass sich die Gründe für die gemeinsame
+Verantwortung von Bund und Kanton Bern für die ECLF seit deren Gründung
+nicht geändert haben: Die Verantwortung für die Verständigung zwischen
+der französisch- und der deutschsprachigen Gemeinschaft in der
+Bundeshauptstadt. Dies ist eine in der Verfassung verbriefte Aufgabe,
+die Bund und Kanton auch weiterhin gemeinsam wahrzunehmen haben.[^1] Sie
+ist nicht allein Aufgabe des Kantons Bern. Dass sich der Bund aus
+finanzpolitischen Gründen aus dieser bewährten, gemeinsamen
+Verantwortung zieht, lehnt der Kanton Bern ab.
+
+## Ausgangslage {#ausgangslage .Überschrift-2-nummeriert}
+
+### Geschichte und Gründung der ECLF {#geschichte-und-gründung-der-eclf .Überschrift-3-nummeriert}
+
+Im aufstrebenden Bundesbern der ersten Hälfte des 20. Jahrhunderts war
+der Ruf nach einer französischsprachigen Schule immer lauter geworden.
+Die betroffenen Familien ersuchten den Bundesrat, «die sprachliche
+Exterritorialität der aus sprachlichen und kulturellen Gründen nach Bern
+berufenen französischsprachigen Bundesbeamten und ihrer Familien zu
+anerkennen, durch Vereinbarungen mit der Stadt Bern eine Primar- und
+Sekundarschulbildung in der Muttersprache zu gewährleisten und die
+französische Schule finanziell zu unterstützen».[^2]
+
+Da die Familien vorerst kein Gehör fanden, gründete und eröffnete 1944
+die privatrechtliche «Société des amis de l'école de langue française»
+die französischsprachige Schule in Bern. Die Privatschule entwickelte
+sich ausserordentlich rasch. Die Forderung nach einer öffentlichen,
+französischsprachigen Schule in der Bundeshauptstadt wurde stärker. Aber
+sowohl eine Sprachenzulage für die Bundesangestellten als auch eine
+staatliche Übernahme der Privatschule wurden verworfen. Schlussendlich
+verständigten sich der Bund, der Kanton Bern und die Stadt Bern auf eine
+direkte finanzielle Unterstützung der Privatschule und nahmen Einsitz in
+den Stiftungsrat.
+
+In den 1970er Jahren wurde ein neues Schulgebäude nötig. Die nötigen
+Investitionen waren durch die bisherigen Beiträge nicht möglich. Der
+Bund und der Kanton Bern verständigten sich auf eine Teilung der
+Investitionskosten (Bund: 40 Prozent -- Kanton Bern: 60 Prozent). Der
+Kanton Bern übernahm die Trägerschaft der Schule, die strategische
+Führung wurde mit Vertretungen von Bund, Kanton Bern und Stadt Bern
+besetzt und die drei Partner verpflichteten sich, die Betriebskosten
+gemeinsam zu tragen (Bund: 25 Prozent -- Kanton Bern: 65 Prozent --
+Stadt: Bern 10 Prozent). Diese Lösung wurde im heutigen
+Bundesgesetz[^3], im kantonalen Dekret[^4] und in der Vereinbarung
+zwischen dem Bund, dem Kanton Bern, der Stadt Bern, dem Verein der
+französischsprachigen Schule in Bern und der Stiftung der
+französischsprachigen Schule in Bern[^5] verbrieft. Im Jahr 2002
+entschied die Stadt Bern, sich aus der spezifischen Mitfinanzierung
+zurückzuziehen, weil sie in einer schwierigen Finanzsituation sei und
+weil es Aufgabe von Bund und Kantonen sei, die Verständigung und den
+Austausch zwischen den Sprachgemeinschaften zu fördern.[^6] Die Stadt
+Bern trägt allerdings, wie alle Gemeinden im Kanton Bern, weiterhin über
+ein Lastenausgleichssystem zur Finanzierung der ECLF bei.
+
+Die ECLF ist bis heute eine gemeinsame Aufgabe von Bund und Kanton Bern.
+Sowohl die Führung (Vertretungen im strategischen Organ) wie auch das
+finanzielle Risiko werden gemeinsam getragen.
+
+### Heutige Sprachenpolitik {#heutige-sprachenpolitik .Überschrift-3-nummeriert}
+
+Als sich in den 1990er Jahren die Diskussionen rund um die Sprachenfrage
+wieder intensivierten, setzten die eidgenössischen Räte u.a. eine
+«Verständigungskommission» zur Abklärung des Grabens zwischen Deutsch-
+und Westschweiz ein, eine Untersuchung über den Sprachengegensatz wurde
+in Auftrag gegeben, entsprechende Vorstösse wurden bearbeitet und eine
+Arbeitsgruppe aus Bund und Kantonen arbeitete an gesetzlichen
+Grundlagen. Schlussendlich wurde in der neuen Bundesverfassung 1999 ein
+erweiterter Sprachenartikel eingefügt. 2007 wurde das Sprachengesetz[^7]
+erlassen. Als Grundsatz wurde u.a. festgelegt, dass der Bund bei der
+Erfüllung seiner sprach- und verständigungspolitischen Aufgaben mit den
+Kantonen zusammenarbeite.[^8]
+
+Dem Ziel einer genügenden Vertretung aller Sprachgemeinschaften in der
+Bundesverwaltung verlieh der Bundesrat mit verschiedenen Massnahmen
+Nachdruck.[^9] Neben Weisungen für die Ausschreibung von Bundesstellen
+und deren Besetzung, dient nach wie vor auch die ECLF diesem Ziel. Sie
+ermöglicht französischsprachigen Bundesangestellten und ihren Familien
+eine Wohnsitznahme in der Nähe des Arbeitsortes Bern, ohne die Kinder in
+einer deutschsprachigen Schule einschulen zu müssen. Sie dient damit der
+angemessenen Vertretung der Sprachgemeinschaften in der Bundesverwaltung
+und gleichzeitig auch derjenigen der Sprachgemeinschaften in der
+Bundeshauptstadt.
+
+In der neuesten Kulturbotschaft des Bundesrats wird ausgeführt, dass die
+Koexistenz von vier Landessprachen und die kulturelle Vielfalt, für die
+sie stehen, eine Grundlage der Identität und des Funktionierens der
+Schweiz sind. Die Mehrsprachigkeit sei ein Wesensmerkmal unseres
+Staates. [^10] Die Förderung der Mehrsprachigkeit und der Verständigung
+zwischen den Sprachgemeinschaften spielt eine tragende Rolle in der
+Schweizer Sprachenpolitik. Die Mitverantwortung des Bundes für die ECLF
+ist seit langem ein konkreter Ausdruck der Förderung der
+Mehrsprachigkeit. Die ECLF erleichtert es französischsprachigen
+Familien, in der deutschsprachigen Bundeshauptstadt zu leben und
+gleichzeitig ihre sprachlichen und kulturellen Wurzeln an die Kinder
+weiterzugeben.
+
+### Spezielle Schule im Kanton Bern {#spezielle-schule-im-kanton-bern .Überschrift-3-nummeriert}
+
+Die ECLF bietet Unterricht auf der Primarstufe (inklusive Kindergarten)
+und der Sekundarstufe an. Sie ist eine öffentliche, kantonal getragene
+Volksschule. Es wird in französisch nach dem Plan d'étude romand (PER)
+unterrichtet. Die ECLF wird heute zu 25 Prozent vom Bund und zu 75
+Prozent vom Kanton Bern finanziert. Sie kann von Kindern französisch-,
+italienisch- oder romanischsprachiger Eltern besucht werden, unabhängig
+von deren Aufenthaltsort. Genügen die Plätze nicht, haben Kinder von
+Bundes- und von Kantonsangestellten Vorrang.
+
+Für ordentliche Volksschulen im Kanton Bern gilt:
+
+-   Kinder im Kanton Bern können ihre Schulpflicht in öffentlichen oder
+    > in einer Privatschule erfüllen. Die Privatschulen sind in der Wahl
+    > der Unterrichtssprache an das Territorialitätsprinzip gebunden (es
+    > sei denn, sie unterrichten Kinder, die keiner Integration
+    > bedürfen). Sie können ihren Unterricht aber nach einem eigenen
+    > Lehrplan gestalten, solange die Kinder genügende Kompetenzen
+    > erwerben. Privatschulen werden nahezu vollständig durch
+    > Elternbeiträge finanziert.
+
+```{=html}
+<!-- -->
+```
+-   Wäre die ECLF eine ordentliche Privatschule in Bern, könnte sie sich
+    wohl nach einem eigenen Lehrplan richten, müsste aber in deutsch
+    unterrichten und wäre durch die Eltern zu finanzieren.
+
+```{=html}
+<!-- -->
+```
+-   Die öffentlichen Volksschulen im Kanton Bern werden grundsätzlich
+    > von den Gemeinden getragen.
+
+```{=html}
+<!-- -->
+```
+-   Wäre die ECLF eine ordentliche öffentliche Schule, so wäre sie eine
+    kommunale, keine kantonale Schule.
+
+```{=html}
+<!-- -->
+```
+-   Besuchen Kinder die öffentliche Volksschule, so haben sie diese an
+    > ihrem Aufenthaltsort zu besuchen.
+
+```{=html}
+<!-- -->
+```
+-   Wäre die ECLF eine ordentliche öffentliche Schule, so würde sie nur
+    von Kindern der Stadt Bern besucht, nicht von Kindern anderer
+    Gemeinden.
+
+```{=html}
+<!-- -->
+```
+-   Für die Unterrichtssprache und den Lehrplan gilt in öffentlichen
+    > Schulen das Territorialitätsprinzip. Bern ist eine
+    > deutschsprachige Gemeinde.
+
+```{=html}
+<!-- -->
+```
+-   Wäre die ECLF eine ordentliche öffentliche Schule, so wäre in
+    deutsch nach dem Lehrplan 21 zu unterrichten, nicht in französisch
+    nach dem PER.
+
+Die ECLF sprengt alle ordentlichen Vorgaben für Volksschulen im Kanton
+Bern. Sie existiert, weil der Bund und der Kanton Bern einen gemeinsamen
+Willen für ihr Bestehen haben. Sie gründet nicht nur im Bund, sondern
+auch im Kanton Bern auf spezialgesetzlichen Bestimmungen.
+
+# Antrag und Begründung {#antrag-und-begründung .H1}
+
+## Antrag {#antrag .Überschrift-2-nummeriert}
+
+Der Kanton Bern beantragt eine grundlegende Überarbeitung des
+vorliegenden Entwurfs bzw. die Erarbeitung einer neuen Vorlage. Diese
+soll -- wie bis anhin -- Grundlage für die ECLF als gemeinsame Aufgabe
+von Bund und Kanton Bern zur Förderung der Verständigung zwischen den
+Sprachgemeinschaften in der Bundeshauptstadt sein. Die Abstützung der
+Mitverantwortung des Bundes für die ECLF auf die Sprachenpolitik ist
+sichtbar zu machen (Abstützung auf Art. 70 der Bundesverfassung). Die
+Verantwortung, inklusive die finanzielle für Betrieb und Investitionen,
+ist weiterhin von Bund und Kanton -- und nicht vom Kanton Bern allein --
+zu tragen. Aus bundessubventionsrechtlicher Sicht ist von einer
+Abgeltung und nicht von einer Finanzhilfe auszugehen. Die gemeinsamen
+Gouvernance- Instrumente sind im Grundsatz im Gesetz zu verankern. Die
+Aufnahmekriterien und -priorisierung sind gemeinsam festzulegen und
+müssen der Mitverantwortung des Bundes Rechnung tragen.
+
+## Begründung {#begründung .Überschrift-2-nummeriert}
+
+Der vorliegende Entwurf geht davon aus, dass das Bundesinteresse an der
+ECLF ein rein personalpolitisches (genügend französischsprachige
+Mitarbeitende, Diversität) sei. Der Kanton Bern teilt diese Sicht nicht.
+Er ist der Meinung, dass das Bundesinteresse an der Mitverantwortung für
+die ECLF in erster Linie ein sprachenpolitisches ist, das heute noch
+genauso stark ist wie zur Zeit der Gründung der ECLF. Wenn der Bund
+schulische Austauschprogramme finanziert und neue Agenturen aufbaut, die
+den individuellen schulischen Austausch fördern[^11], gleichzeitig aber
+seine langjährige Mitverantwortung für die ECLF aufgibt, so erscheint
+dies nicht kohärent.
+
+Die vorliegende Totalrevision stellt einen massgeblichen Rückschritt in
+der Sprachenpolitik des Bundes dar.
+
+Träger der ECLF ist formell gesehen wohl der Kanton Bern. Der
+Bundesbeitrag an die konkreten, jährlichen Betriebskosten zeigt aber
+auf, dass der Bund bis heute eine Mitverantwortung trägt. Auch die
+Mitsteuerung über ständige Vertreterinnen und Vertreter des Bundes in
+der strategischen Behörde der ECLF zeigt auf, dass eine konstante
+Mitverantwortung gewollt ist. Es wäre falsch, diese Mitverantwortung
+aufzugeben und einseitig finanzpolitisch und subventionsrechtlich zu
+interpretieren. Der Kanton Bern erfüllt mit der ECLF offensichtlich
+keine eigenständig gewählte Aufgabe, die mit Bundes-Finanzhilfen
+unterstützt wird, sondern eine, die auf einem speziellen, gemeinsamen
+Willen von Bund und Kanton gründet. Die Bundesbeteiligung muss denn auch
+nicht den subventionsrechtlichen Vorgaben für Finanzhilfen entsprechen,
+sondern ist vereinbarungsgemäss so zu belassen, wie sie heute ist.
+Ebenfalls nicht massgebend ist, dass das Schulwesen Sache der Kantone
+ist, ist die ECLF doch eben nicht eine ordentliche Volksschule des
+Kantons Bern, sondern eine, deren Existenz auf dem gemeinsamen Willen
+von Bund und Kanton Bern beruht.
+
+Die vorliegende Totalrevision widerspricht der Vereinbarung von Bund und
+Kanton Bern, dass die ECLF eine gemeinsam verantwortete Schule ist.
+
+Die vorliegende Totalrevision scheint auf den ersten Blick eine
+kosmetische. Es wird betont, dass es sich nur um Anpassungen an neuere,
+subventionsrechtliche Bestimmungen handle. Auch die finanziellen
+Auswirkungen sind nicht gross, solange die Schülerzahlen gleich bleiben
+wie heute und die Bundesversammlung die nötigen Kredite genehmigt.
+
+Tatsächlich verabschiedet sich der Bund mit dieser Totalrevision aber
+einseitig aus einer langjährigen Zusammenarbeit. Der Kanton Bern lehnt
+die alleinige Verantwortung für die ECLF ab.
+
+Der Kanton Bern ist aber ohne weiteres einverstanden mit einer
+Aktualisierung des bisherigen Bundesgesetzes. Eine solche Aktualisierung
+hat zwingend von der bisherigen Prämisse einer gemeinsam verantworteten
+Aufgabe auszugehen und nicht von einer Kantonsaufgabe, die mit
+Bundesfinanzhilfen unterstützt wird.
+
+Der Kanton Bern ist auch bereit, die Gouvernance-Instrumente für die
+ECLF zu modernisieren, unter der Voraussetzung, dass diese Instrumente
+gemeinsame bleiben. Auch ist der Kanton Bern bereit, die Zusammenarbeit
+mit dem Bund zu intensivieren, damit die finanziellen Verpflichtungen
+besser planbar sind.
+
+Werden mehr Schulplätze nachgefragt als angeboten, so werden heute
+vorrangig diejenigen Kinder aufgenommen, deren französischsprachige
+Schulung im Interesse des Bundes liegt. Gleichen Vorrang hat die
+Aufnahme von Kindern französischsprachiger Angestellter des Kantons.
+Eine erhöhte Priorisierung der Aufnahmen zugunsten der Bundesinteressen,
+wie dies im Gesetzesentwurf vorgesehen ist, wäre dem Anteil der
+Mitverantwortung des Bundes nicht angemessen.
+
+Der Regierungsrat dankt Ihnen für die Berücksichtigung seiner Anliegen.
+
++----------------------------------+-----------------+
+| Freundliche Grüsse               |                 |
+|                                  |                 |
+| **Im Namen des Regierungsrates** |                 |
++==================================+=================+
+| Pierre-Alain Schnegg             | Christoph Auer  |
+|                                  |                 |
+| Regierungspräsident              | Staatsschreiber |
++----------------------------------+-----------------+
+
+Verteiler
+
+-   Bildungs- und Kulturdirektion
+
+-   Staatskanzlei
+
+-   <isabelle.schenker@sbfi.admin.ch> (als word-Datei)
+
+[^1]: [Art. 70](https://www.fedlex.admin.ch/eli/cc/1999/404/de#art_70)
+    Abs. 3 der Bundesverfassung der Schweizerischen Eidgenossenschaft
+    vom 18. April 1999 (BV; SR 101).
+
+[^2]: vgl. BBl 1959 II 29ff. Ziffer I.
+
+[^3]: Bundesgesetz vom 19. Juni 1981 über Beiträge für die kantonale
+    französischsprachige Schule in Bern ([SR
+    411.3](https://www.fedlex.admin.ch/eli/cc/1982/1461_1461_1461/de)).
+
+[^4]: Dekret vom 5. November 1979 über Struktur und Organisation der
+    kantonalen französischsprachigen Schule in Bern (abrufbar unter
+    [lexfind](https://www.lexfind.ch/fe/de/tol/21328/versions/117173/de));
+    Art. 1 lautete: «Der Staat erstellt und unterhält unter Vorbehalt
+    einer angemessenen finanziellen Beteiligung des Bundes und der
+    Einwohnergemeinde der Stadt Bern eine kantonale französischsprachige
+    Schule mit Sitz in Bern.»
+
+[^5]: Vereinbarung vom 17. Dezember 1980, 16. Oktober 1981, 7. und 13.
+    Mai 1982 und 2. Juni 1982
+
+[^6]: vgl. Antwort des Regierungsrates des Kantons Bern auf die
+    [Interpellation
+    067/2002](https://www.gr.be.ch/gr/de/index/geschaefte/geschaefte/suche/geschaeft.gid-1c2bef2171e84701a7c76de1462d9121.html).
+
+[^7]: Bundesgesetz vom 5. Oktober 2007 über die Landessprachen und die
+    Verständigung zwischen den Sprachgemeinschaften (Sprachengesetz,
+    SpG; [SR 441.1](https://www.fedlex.admin.ch/eli/cc/2009/821/de)).
+
+[^8]: Art. 3 Abs. 2 SpG
+
+[^9]: Mehrsprachigkeitsweisungen ([BBL 204
+    6659](https://www.fedlex.admin.ch/eli/fga/2014/1501/de)).
+
+[^10]: Ziffer 3.6.2 der Botschaft vom 26. Februar 2020 zur Förderung der
+    Kultur in den Jahren 2021-2024 (Kulturbotschaft 2021-2024; [BBl 2020
+    3131](https://www.fedlex.admin.ch/eli/fga/2020/725/de))
+
+[^11]: Ziffer 3.6.2 der Botschaft vom 26. Februar 2020 zur Förderung der
+    Kultur in den Jahren 2021-2024 (Kulturbotschaft 2021-2024; [BBl 2020
+    3131](https://www.fedlex.admin.ch/eli/fga/2020/725/de))

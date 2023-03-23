@@ -1,6 +1,6 @@
 {
     "consultation": {
-        "title": "Consultation on new regulations",
+        "title": "Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern",
         "date": "2023-03-23",
         "sender": "John Doe",
         "answers": [
@@ -14,7 +14,7 @@
                     {
                         "name": "Article A",
                         "sentiment": 0.8,
-                        "summary": ""
+                        "summary": "Short Summary Article1"
                     },
                     {
                         "name": "Article B",
