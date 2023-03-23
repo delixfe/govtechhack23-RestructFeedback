@@ -1,0 +1,34 @@
+{
+  "consultation": {
+    "title": "Consultation on new regulations",
+    "date": "2023-03-23",
+    "sender": "John Doe",
+    "answers": [
+      {
+        "sender": "Jane Smith",
+        "has_answer": true,
+        "feedback": "This is a great proposal",
+        "sentiment": 0.9,
+        "law_articles": [
+          {
+            "name": "Article A",
+            "sentiment": 0.8
+          },
+          {
+            "name": "Article B",
+            "sentiment": 0.7
+          }
+        ],
+        "summary": "Supports the proposal"
+      },
+      {
+        "sender": "Bob Johnson",
+        "has_answer": false,
+        "feedback": null,
+        "sentiment": null,
+        "law_articles": [],
+        "summary": "Did not provide an answer"
+      }
+    ]
+  }
+}
