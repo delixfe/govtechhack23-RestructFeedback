@@ -1,35 +1,35 @@
 {
     "consultation": {
         "title": "Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern",
-        "date": "2023-03-23",
-        "sender": "John Doe",
+        "date": "20. Januar 2021",
+        "sender": "Das Staatssekretariat für Bildung, Forschung und Innovation",
         "answers": [
             {
-                "sender": "Jane Smith",
+                "sender": "Kanton Bern",
                 "has_answer": true,
-                "summary": "",
-                "feedback": "This is a great proposal",
-                "sentiment": 0.9,
+                "feedback": true,
+		"summary": "Summary",
+                "sentiment": -0.9,
                 "law_articles": [
                     {
-                        "name": "Article A",
-                        "sentiment": 0.8,
-                        "summary": "Short Summary Article1"
+                        "name": "Allgemein",
+                        "sentiment": -0.8,
+                        "summary": ""
                     },
                     {
                         "name": "Article B",
-                        "sentiment": 0.7,
+                        "sentiment": 0.2,
                         "summary": ""
                     }
                 ]
             },
             {
-                "sender": "Bob Johnson",
-                "has_answer": false,
+                "sender": "Kanton Schwyz",
+                "has_answer": true,
                 "feedback": false,
-                "sentiment": true,
+                "sentiment": 0,
                 "law_articles": [],
-                "summary": "Did not provide an answer"
+                "summary": ""
             }
         ]
     }

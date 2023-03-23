@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Consultation on new regulations</title>
+    <link rel="stylesheet" href="https://swiss.github.io/styleguide/css/admin.css">
+  </head>
+  <body class="container">
+    <header class="header row">
+      <div class="col-lg-8 col-md-6 col-sm-6 col-6">
+        <h1 class="header__title" id="title"></h1>
+      </div>
+      <div class="col-lg-4 col-md-6 col-sm-6 col-6">
+        <ul class="list-unstyled header__meta">
+          <li class="header__meta-item"><span class="header__meta-label">Datum:</span> <span id="date"></span></li>
+          <li class="header__meta-item"><span class="header__meta-label">Vernehmlasser:</span> <span id="sender"></span></li>
+        </ul>
+      </div>
+    </header>
+
+    <main class="main">
+      <h2 class="main__title">Stellungsnahmen</h2>
+      <table id="answers-table" class="table">
+        <thead>
+          <tr>
+            <th>Stellungsnehmer</th>
+            <th>Stellungsnahme</th>
+            <th></th>
+            <th>Abschnitte</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </main>
+
+    <script>
+      // Load the JSON data
+
+	function senSym(value) {
+	  if (value < -0.5) {
+	    return '--';
+	  } else if (value >= -0.5 && value < -0.1) {
+	    return '-';
+	  } else if (value >= -0.1 && value <= 0.1) {
+	    return '|';
+	  } else if (value > 0.1 && value <= 0.5) {
+	    return '+';
+	  } else {
+	    return '++';
+	  }
+	}
+      const url = '../schema/consultation.json';
+      fetch(url)
+        .then(response => response.json())
+        .then(data => {
+          // Set the consultation details
+          document.getElementById('title').textContent = data.consultation.title;
+          document.getElementById('date').textContent = data.consultation.date;
+          document.getElementById('sender').textContent = data.consultation.sender;
+
+          // Create an HTML table of answers
+          const tableBody = document.querySelector('#answers-table tbody');
+          data.consultation.answers.forEach(answer => {
+            const tableRow = document.createElement('tr');
+            tableRow.innerHTML = `
+              <td>${answer.sender}</td>
+              <td>${answer.feedback?answer.summary:'-'}</td>
+              <td>${answer.feedback?senSym(answer.sentiment):''}</td>
+              <td>
+                <ul class="list-unstyled">
+                  ${answer.law_articles.map(article => `<li>${article.name} ${senSym(article.sentiment)}</li>`).join('')}
+                </ul>
+              </td>
+            `;
+            tableBody.appendChild(tableRow);
+          });
+        })
+        .catch(error => console.error(error));
+    </script>
+
+  </body>
+</html>
+
