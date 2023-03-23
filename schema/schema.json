@@ -1,6 +1,6 @@
 {
     "$schema": "http://json-schema.org/draft-04/schema#",
-    "title": "test",
+    "title": "consultation",
     "type": "object",
     "properties": {
         "consultation": {
@@ -48,11 +48,15 @@
                                         },
                                         "sentiment": {
                                             "type": "number"
+                                        },
+                                        "summary": {
+                                            "type": "string"
                                         }
                                     },
                                     "required": [
                                         "name",
-                                        "sentiment"
+                                        "sentiment",
+                                        "summary"
                                     ]
                                 }
                             },
