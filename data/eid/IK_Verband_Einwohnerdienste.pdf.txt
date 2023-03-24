@@ -1,0 +1,262 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Per E-Mail 
+rechtsinformatik@bj.admin.ch 
+ 
+Eidgenössisches Justiz- und Polizeidepartement EJPD 
+ 
+ 
+ 
+Winterthur/Zofingen, 20. Oktober 2022 
+ 
+Vernehmlassung  zum  Vorentwurf  des  Bundesgesetzes  über  den  elektronischen 
+Identitätsnachweis und andere elektronische Nachweise (E-ID-Gesetz, BGEID) 
+ 
+Sehr geehrte Damen und Herren 
+ 
+Wir danken Ihnen für die Gelegenheit zur Stellungnahme. Gerne machen wir davon Gebrauch 
+und äussern uns wie folgt: 
+ 
+Aus Sicht des Verbandes Schweizerischer Einwohnerdienste (VSED) ist die Einführung der 
+E-ID  zu  begrüssen.  Die  E-ID  wird  dank  eindeutiger  Personenidentifikation  die  Abwicklung 
+elektronischer Dienstleistungen auch im Bereich der Einwohnerdienste beschleunigen und da-
+mit einen weiteren Beitrag zum Service Public leisten.  
+ 
+Als Voraussetzung für Synergieeffekte und gleichzeitig auch für eine erhöhte Sicherheit be-
+züglich  der  eindeutigen  Personenidentifikation  erscheint  es  dem  VSED  unerlässlich,  dass 
+kommunale webbasierte Anwendungen (bspw. Onlinemeldungen und -bestellungen) wie auch 
+weitere  damit  zusammenhängende  Applikationen  von  Beginn  weg  mit  E-ID  kommunizieren 
+und funktionieren können. Aus Sicht der Einwohnerdienste besonders zentral erscheint in die-
+sem Kontext ein frühzeitiger Miteinbezug von eOperationsCH respektive deren für die Bevöl-
+kerung mittlerweile fundamental wichtige Dienstleistung «eUmzugCH». 
+ 
+Für die Akzeptanz und Glaubwürdigkeit der E-ID begrüsst der VSED die anfängliche Perso-
+nenidentifikation durch eine staatliche Stelle. Da eine Personenidentifikation respektive -veri-
+fikation  für  die  Ausstellung  einer  E-ID  mutmasslich  auf  rein  elektronischem  Weg  und  ohne 
+persönliche Vorsprache auf einer lokalen Verwaltungsstelle erfolgen soll, erkennt der VSED 
+darin  ein  potentielles  Missbrauchsrisiko.  Unabhängig  wie  die  Personenidentifikation  erfolgt, 
+muss sichergestellt sein, dass solch potentielle Missbräuche mit entsprechenden technischen 
+und/oder organisatorischen Massnahmen a priori verhindert werden können. 
+ 
+Im Sinne von kritischen Hinweisen möchten wir nachstehend auf einige Bestimmungen des 
+Entwurfes eingehen: 
+ 
+
+ 
+
+Präsidium 
+
+Sekretariat 
+
+ 
+
+Carmela Schürmann, Leiterin Einwohnerkontrolle Stadt Winterthur, 
+Pionierstrasse 7, 8403 Winterthur, Tel. 052 267 57 54, carmela.schuermann@win.ch 
+ 
+Corinne Schär, Leiterin Einwohnerdienste Zofingen, Kirchplatz 26, 4800 Zofingen 
+Tel. 062 745 71 41, corinne.schaer@zofingen.ch 
+
+ 
+ 
+2. Abschnitt: E-ID 
+ 
+Art. 2 BGEID Form und Inhalt 
+Im Gesetzestext werden in Abs. 2 die einzelnen Personenidentifizierungsdaten aufgeführt. 
+Besonders herausfordernd könnten sich die in den verschiedenen Registern unterschiedlich 
+geführten Identifikationsmerkmale erweisen: 
+ 
+Unterschiedliche  Namensführungen  (insbesondere  auch  Sonderzeichen)  in  verschiedenen 
+Registern sind ein altbekanntes Phänomen (beispielswiese bei ausländischen Staatsangehö-
+rigen im Zemis «Name nach Ausweisdokument» versus «Namensführung nach Zivilstandsre-
+gister» resp. nach Infostar im Anschluss an ein Zivilstandereignis). Neben der Namensführung, 
+kann  dies  auch  andere  Merkmale  betreffen,  wie  beispielsweise  den  Geburtsort,  vereinzelt 
+auch das Geschlecht oder das Geburtsdatum. Gemäss geltender Ausweisverordnung ist es 
+beim Namen auf Reisedokumenten (Pass und Identitätskarte) zudem möglich, auch einen Al-
+lianznamen (Ledigname mit Bindestrich hinter Familienname) zu führen.  
+ 
+Der VSED kann sich demzufolge vorstellen, dass ein automatisches Weiterverwenden solcher 
+Namensdaten oder weiterer Merkmale (sofern auch in der E-ID berücksichtigt) dann zu allfäl-
+ligen Problemen in den lokalen Applikationen führen könnte – dies insbesondere in Anbetracht 
+der sich ebenfalls in Vernehmlassung befindlichen Revision des Schweizerischen Zivilgesetz-
+buches zur Ermöglichung von Doppelnamen bei der Heirat, wo auch weiterhin die Verwendung 
+eines Allianznamens nicht per se ausgeschlossen sein soll. 
+ 
+Bei der Umsetzung ist daher diesen beiden Aspekten die nötige Beachtung zu widmen. 
+ 
+In der Praxis hat sich gezeigt, dass mit der zunehmenden Vernetzung unterschiedlich geführte 
+Daten zu Verwirrung, Ineffizienz und zu Missverständnissen führen. Insbesondere die Einwoh-
+nerdienste haben viel Abklärungs- und Datenbereinigungsaufwand, was die voneinander ab-
+weichenden Daten in den verschiedenen Registern anbelangen. Diese sind meist auf unter-
+schiedliche rechtliche Grundlagen oder mangelnde harmonisierte Richtlinien zurückzuführen.  
+ 
+ 
+Art. 3 BGEID Persönliche Voraussetzungen 
+Als persönliche Voraussetzung wird entweder ein Ausweis nach AwG (bei Schweizer Bürger) 
+oder  -  bei  ausländischen  Staatsangehörigen  -  ein  gültiger  Ausweis  nach  AIG  verlangt.  Das 
+heisst, dass für die Identifizierung von ausländischen Staatsangehörigen eine gültige Bewilli-
+gung notwendig ist. Beim schweizerischen Ausländerausweis handelt es sich jedoch lediglich 
+um  ein  Legitimationspapier.  Wir  regen  daher  an,  diesen  Aspekt  zu  berücksichtigen  und  zu 
+prüfen, ob nicht auch bei ausländischen Personen ein gültiges heimatliches Reisedokument 
+verlangt werden soll. Dieses ist gerade bei Personen mit Bewilligung L, B und C in aller Regel 
+vorhanden.  
+ 
+ 
+Art. 10 BGEID Vorweisen einer E-ID  
+Je nach Kontext muss es zudem möglich bleiben, bei einer persönlichen Vorsprache ein phy-
+sisches Ausweisdokument vorzulegen.  
+ 
+ 
+ 
+ 
+ 
+
+Präsidium 
+
+Sekretariat 
+
+ 
+
+Carmela Schürmann, Leiterin Einwohnerkontrolle Stadt Winterthur, 
+Pionierstrasse 7, 8403 Winterthur, Tel. 052 267 57 54, carmela.schuermann@win.ch 
+ 
+Corinne Schär, Leiterin Einwohnerdienste Zofingen, Kirchplatz 26, 4800 Zofingen 
+Tel. 062 745 71 41, corinne.schaer@zofingen.ch 
+
+3. Abschnitt: Andere elektronische Nachweise 
+ 
+Beim Widerruf von elektronischen Nachweisen fehlt unseres Erachtens allenfalls die Möglich-
+keit einen Nachweis zu revozieren, wenn dieser nicht mehr aktuell oder korrekt und somit nicht 
+mehr gültig ist. 
+ 
+Art. 13 BGEID Widerruf (Ergänzungsvorschlag) 
+d. der elektronische Nachweis nicht mehr gültig ist. 
+ 
+ 
+Auswirkungen auf die Kantone und Gemeinden 
+ 
+Art. 8 BGEID Anlaufstellen der Kantone 
+Das Errichten von Anlaufstellen für die Bevölkerung begrüssen wir, wie auch das Errichten in 
+der Nähe der Personen. Es ist naheliegend, dass die Einwohnerdienste, als meist erste An-
+laufstelle der örtlichen Verwaltung, für diese Aufgabe prädestiniert sind. Dies wäre allerdings 
+nicht  ohne Mehraufwand zu bewältigen, der entsprechend zu entschädigen wäre, damit die 
+personellen Ressourcen zur Verfügung gestellt werden können. 
+ 
+Aus diesem Grund beantragen wir eine Ergänzung in Art. 26 BGEID: 
+ 
+Art. 26 BGEID (Ergänzung) 
+Abs. 5 Der Bundesrat regelt die aufwandgerechte Entschädigung für die von den Kantonen 
+bezeichneten Stellen, die im Zusammenhang mit der Ausstellung und dem Einsatz der E-ID 
+Unterstützung anbieten.  
+ 
+Laut  erläuterndem  Bericht greift das Fedpol für die Ausstellung auf die unter Art. 11 Abs. 3 
+verschiedenen erwähnten Register für die Ausstellung zu und könne seine Aufgabe bei der 
+Ausstellung deshalb automatisiert erfüllen. Dies vermag vermutlich auf einen grossen Teil der 
+Bevölkerung zutreffen. Die jahrelange Erfahrung der Einwohnerdienste mit der zunehmenden 
+Vernetzung der Register zeigt allerdings, dass der Datenbereinigungs- und –abklärungsauf-
+wand aufgrund unterschiedlich geführten Merkmalen bei den Einwohnerdiensten massiv zu-
+genommen hat. Unterschiedlich geführte Merkmale könnte Einfluss auf diesen angedachten 
+Ausstellungsprozess haben.  
+ 
+Das Registerharmonisierungsgesetz (RHG; SR 431.02) bezweckt zwar eine Harmonisierung 
+von Merkmalen um den gesetzlich vorgesehenen Austausch von Personendaten zu vereinfa-
+chen. Die verschiedenen Register führen jedoch trotz dieser Bestrebung teilweise nach wie 
+vor unterschiedliche Merkmale. Diese Tatsache hat im besonderen Masse immer wieder Aus-
+wirkungen  auf  die  Einwohnerregister  der  Gemeinden,  welche  Einwohnerdaten  an  verschie-
+dene Bundesregister liefern. Mit dem vorgesehenen E-ID-Ökosystem stehen deshalb Befürch-
+tungen  im  Raum,  dass  weitere  Datenabklärungsaufgaben  den  Einwohnerdiensten  zufallen 
+werden.  
+ 
+Angesichts dessen stellt sich die Frage, ob nach Art. 26 Abs. 1 BGEID die Gemeinden für die 
+Nutzung  des  Basisregisters  nicht  von  einer  allfälligen  Nutzungsgebühr  entbunden  werden 
+müssten, um diesem Aspekt Rechnung zu tragen.  
+ 
+
+ 
+
+Präsidium 
+
+Sekretariat 
+
+ 
+
+Carmela Schürmann, Leiterin Einwohnerkontrolle Stadt Winterthur, 
+Pionierstrasse 7, 8403 Winterthur, Tel. 052 267 57 54, carmela.schuermann@win.ch 
+ 
+Corinne Schär, Leiterin Einwohnerdienste Zofingen, Kirchplatz 26, 4800 Zofingen 
+Tel. 062 745 71 41, corinne.schaer@zofingen.ch 
+
+ 
+ 
+Wir beantragen deshalb beispielsweise zusätzlich folgende Ergänzung:  
+Abs. 6 Der Bundesrat kann eine Entschädigung vorsehen für Datenbereinigungsaufgaben, die 
+bei den Kantonen und den Gemeinden im Zusammenhang mit dem Ökosystem der E-ID ent-
+stehen. Er kann sie dabei auch von einer allfälligen Nutzungsgebühr bei der Nutzung des Ba-
+sisregisters entbinden. 
+ 
+ 
+Ganz generell würde es der VSED begrüssen, wenn die weitere Harmonisierung der Register 
+generell verstärkt durch den Bund gefördert werden würde, durch beispielsweise eine Anpas-
+sung des Registerharmonisierungsgesetzes. Dies würde die zukünftige Digitalisierung unter-
+stützen und erleichtern.  
+ 
+Zusammenfassend halten wir fest, dass die eindeutige und sichere Identität einer Person so-
+wie eine klare Regelung in Bezug auf die geführten Merkmale von höchster Wichtigkeit sind.  
+ 
+Unser Verband hat in den vergangenen Jahren immer wieder die Erfahrung gemacht, dass 
+Bundesprojekte, bei welchen die involvierten Stellen im Vorfeld nicht einbezogen wurden, nach 
+ihrer Umsetzung in der Praxis grosse Probleme verursacht haben. Wir danken Ihnen daher für 
+die Gelegenheit uns bereits zum Vorentwurf einbringen zu können und stehen Ihnen weiterhin 
+für Fragen gerne zur Verfügung. 
+ 
+ 
+Freundliche Grüsse 
+ 
+ 
+Verband Schweizerischer Einwohnerdienste 
+ 
+ 
+ 
+ 
+Carmela Schürmann 
+Präsidentin 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Kopie: 
+Schweizerischer Gemeindeverband 
+Schweizerischer Städteverband 
+
+Corinne Schär 
+Sekretärin 
+
+Präsidium 
+
+Sekretariat 
+
+ 
+
+Carmela Schürmann, Leiterin Einwohnerkontrolle Stadt Winterthur, 
+Pionierstrasse 7, 8403 Winterthur, Tel. 052 267 57 54, carmela.schuermann@win.ch 
+ 
+Corinne Schär, Leiterin Einwohnerdienste Zofingen, Kirchplatz 26, 4800 Zofingen 
+Tel. 062 745 71 41, corinne.schaer@zofingen.ch 
+
+

@@ -1,0 +1,267 @@
+ 
+ 
+Bern, 20. Oktober 2022 
+
+ 
+ 
+ 
+Per E-Mail  
+Bundesamt für Justiz 
+Bundesrain 20 
+3003 Bern 
+
+rechtsinformatik@bj.admin.ch 
+
+ 
+
+ 
+
+Vernehmlassung zum Vorentwurf des Bundesgesetzes über den 
+elektronischen Identitätsnachweis und andere elektronische Nachweise (E-
+ID-Gesetz, BGEID) 
+Sehr geehrte Frau Bundesrätin 
+Sehr geehrte Damen und Herren 
+Wir bedanken uns für die Möglichkeit zur Stellungnahme, die wir gerne wir folgt wahrnehmen: 
+
+1  Grundsätzliche Bemerkungen 
+
+Die SP Schweiz unterstützt diese Vorlage im Grundsatz. Wie der Abstimmungskampf und 
+das Abstimmungsergebnis zum gescheiterten Bundesgesetz über die elektronischen 
+Identifizierungsdiensten (BGEID) vom März 2021 gezeigt hat, ist es bei der Schaffung einer 
+Rechtsgrundlage für einen elektronischen Identitätsnachweises für die Stimmbürger:innen 
+entscheidend, dass eine solche E-ID von einer staatlichen Stelle herausgegeben wird.1 
+Ebenfalls zentral sind für uns die Grundsätze der Datensparsamkeit, der bestmöglichen 
+Selbstbestimmung der Nutzer:innen einer E-ID über ihre Daten, des "privacy by design" 
+sowie der dezentralen Datenspeicherung2, wie sie in den überparteilichen, auch von der SP 
+eingebrachten und mittlerweile von beiden Räten angenommenen3 Motionen4 auch 
+festgeschrieben ist. Schliesslich ist es für uns auch wichtig, dass auch in Zukunft 
+sichergestellt wird, dass für die Inanspruchnahme von staatlichen Leistungen immer auch 
+eine mit zumutbarem Aufwand benutzbare nicht-digitale Lösung zur Verfügung steht.5 Der 
+
+ 
+
+ 
+1 Vgl. Demoscope Repräsentative Umfrage zu den elektronischen Identifizierungsdiensten (BGEID). 
+2 Vgl. auch Art. 1 Abs. 2 lit. b VE-BGEID, Erläuternder Bericht, S. 7.  
+3 Vgl. Amtliches Bulletin Nationalrat vom 14.9.2021; Amtliches Bulletin Ständerat vom 13.6.2022.  
+4 Vgl. Motion Min Li Marti 21.3126 Vertrauenswürdige staatliche E-ID 
+5 Vgl. Vernehmlassungsantwort Digitale Gesellschaft, Oktober 2022, Abschnitt 
+«Diskriminierungsfreier Zugang zu Leistungen»; siehe auch Stellungnahme der Fachkommission 
+ 
+ 
+ 
+Sozialdemokratische Partei 
+der Schweiz 
+
+Telefon 031 329 69 69 
+Telefax 031 329 69 70 
+
+1 
+
+Theaterplatz 4 
+Postfach · 3001 Bern 
+
+info@spschweiz.ch 
+www.spschweiz.ch 
+
+ 
+ 
+
+vorliegende Vorentwurf des Bundesrates genügt nach Ansicht der SP Schweiz diesen 
+Grundsätzen überwiegend. Ebenfalls erachten wir es als richtig und wichtig, dass diese 
+Vorlage internationalen Entwicklungen insbesondere auf europäischer Ebene Rechnung 
+trägt und der Bundesrat anstrebt, eine internationale Anerkennung der schweizerischen E-
+ID zu erreichen und gleichzeitig auch ausländische E-IDs anerkennen zu wollen.6 Wir 
+begrüssen vor diesem Hintergrund ausdrücklich die rasche Neuauflage einer Vorlage für 
+elektronische Identifizierungsdienste durch die Bundesverwaltung und den partizipativen 
+Ansatz bei deren Ausarbeitung7. Konkreten Verbesserungsbedarf sehen wir insbesondere 
+bei der Verhinderung des Identitätsdiebstahls durch persönliches Erscheinen der 
+antragsstellenden Person für deine E-ID (siehe nachfolgend unter Ziff. 2.2.) sowie bei der 
+Verhinderung einer Überidentifikation bei der Übermittlung der Bestanteile der 
+elektronischen Nachweise an die Verifikator:innen (siehe Ziff. 2.4. unten stehend). 
+
+2 
+
+Kommentar zu den wichtigsten Bestimmungen 
+
+2.1. Persönliches Erscheinen der antragsstellenden Person zur 
+Ausstellung einer E-ID (Art. 4 VE-BGEID) 
+
+Aus Sicht der SP Schweiz ist die Datensicherheit im Allgemeinen und die Vermeidung des 
+Identitätsdiebstahls andrerseits zentral für die Sicherheit und Glaubwürdigkeit einer 
+staatlichen E-ID. Vor diesem Hintergrund finden wir es zur Verhinderung von 
+Identitätsdiebstahl wichtig, dass auf eine vollständig automatisierte Video-Identifikation bei 
+der Ausstellung einer E-ID8 verzichtet wird. Vielmehr sollte die persönliche Identifizierung 
+der Antragssteller:innen mittels persönlichem Erscheinen bei einer entsprechenden 
+Behördenstelle durchgeführt werden.9 
+
+Daher beantragt die SP Schweiz, Art. 4 VE-BGEID entsprechend zu ergänzen. 
+
+2.2. Identifikation durch physischen Ausweis (Art. 10 VE-BGEID) 
+
+Der in diesem Artikel festgeschriebene Grundsatz, dass eine Identifikation vor staatlichen 
+Behörden neben der Möglichkeit der Verwendung einer E-ID immer auch mittels 
+physischen Ausweisen und somit nicht-digital möglich sein muss10, ist für die SP Schweiz 
+von eminenter Bedeutung und unterstützen wir deshalb auch nachdrücklich. Die 
+
+ 
+
+ 
+Netz- und Datenpolitik der SP Schweiz zur öffentlichen Konsultation zum «Zielbild E-ID», September 
+2021, Ziff. 1. 
+6 Vgl. Erläuternder Bericht, S. 3, 5.  
+7 Vgl. Erläuternder Bericht, S. 3. 
+8 Vgl. Erläuternder Bericht, S. 9f. 
+9 Vgl. Vernehmlassungsantwort Digitale Gesellschaft, Oktober 2022, zu Art. 4 Abs. 4. 
+10 Vgl. Erläuternder Bericht, S. 11. 
+ 
+ 
+ 
+
+2 
+
+ 
+ 
+
+entsprechende Einschränkung, wonach dies nur möglich sein soll, wenn die 
+entsprechenden Anforderungen an die Prozesssicherheit gewährleistet sind, finden wir vor 
+diesem Hintergrund verfehlt, da diese Anforderungen bei einer Identifikation durch 
+physische Ausweisdokumente sowieso erfüllt sein müssten.11 
+
+Die SP Schweiz beantragt deshalb, Art. 10 VE-BGEID folgendermassen zu ändern: 
+
+Art. 10 VE-BGEID 
+
+Wer in einem Prozess einer Person, die persönlich erscheint, die Möglichkeit bietet, die E-
+ID oder Teile davon vorzuweisen, muss dieser Person die Wahl lassen, sich stattdessen mit 
+einem Ausweisdokument nach dem AwG6, einem Ausländerausweis nach der 
+Bundesgesetzgebung über Ausländerinnen und Ausländer, Integration und 
+
+Asyl oder einem Ausweis nach Artikel 13 Absatz 1 des Ausländer- und Integrationsgesetzes 
+vom 16. Dezember 20057 auszuweisen, sofern die Anforderungen insbesondere an die 
+Sicherheit des Prozesses auch auf diese Weise erfüllt werden können. 
+
+2.3. Risiko der Überidentifikation bei der Übermittlung der 
+Bestanteile der elektronischen Nachweise an die Verifikator:innen  
+(Art. 16 VE-BGEID) 
+
+Die Grundsätze der Datensparsamkeit und des «privacy by design» sind für die SP Schweiz 
+zentrale Pfeiler für diese Vorlage (siehe dazu obenstehend unter Ziff. 1.). Der Vorschlag des 
+Bundesrates zum Art. 16 BGEID12 erachten wir vor diesem Hintergrund als ungenügend. 
+Für uns ist es problematisch, dass die Verifikatorin frei über das Erfordernis des 
+elektronischen Nachweises und deren Umfang bestimmen können soll. Vielmehr soll dieser 
+Umfang gesetzlich auf das unbedingt Erforderliche beschränkt werden. Andernfalls soll 
+eine informierte und explizite Zustimmung stattfinden müssen.  
+
+Folglich beantragt die SP Schweiz, die entsprechenden Bestimmungen folgendermassen 
+zu ergänzen.13 
+
+Art. 16bis Einschränkung der Datenbearbeitung auf das unbedingt Erforderliche; 
+diskriminierungsfreier Zugang 
+
+1 Die Erfordernis eines elektronischen Nachweises darf von Behörden und Privaten als 
+Voraussetzung für die Erbringung einer Leistung oder Gewährung eines Zugangs nur 
+insoweit gestellt werden als sie für die Erbringung der Leistung oder der Gewährung des 
+Zugangs unbedingt erforderlich ist. 
+
+ 
+
+ 
+11 Vgl. Vernehmlassungsantwort Digitale Gesellschaft, Oktober 2022, zu Art. 10. 
+12 Vgl. Erläuternder Bericht, S. 13. 
+13 Siehe Vernehmlassungsantwort Digitale Gesellschaft, Oktober 2022, zu Art. 16bis, Art. 16ter. 
+ 
+ 
+ 
+
+3 
+
+ 
+ 
+
+2 Falls die Übermittlung von Bestandteilen eines elektronischen Nachweises oder davon 
+abgeleiteten Informationen unbedingt erforderlich ist, so ist stets die Möglichkeit 
+vorzusehen, diese Bestandteile und Informationen ohne vermeidbare Nachteile auf andere 
+Weise zu übermitteln. 
+
+Art. 16ter Informations- und Zustimmungspflicht; Widerrufsrecht 
+
+Für Datenbearbeitungen, welche für die Erbringung der Leistung oder die Gewährung des 
+Zugangs nicht unbedingt erforderlich sind, gelten nachfolgende Bestimmungen: 
+
+a Die Verifikatorin informiert die Inhaberin oder den Inhaber des Ausweises über Art, Zweck 
+und Umfang der Datenbearbeitung. 
+
+b Die Datenbearbeitung bedarf der expliziten und jederzeit widerrufbaren Zustimmungen 
+der Inhaberin und des Inhabers. 
+
+c Erfüllt die Bearbeitung verschiedene Zwecke, so hat die Inhaberin oder der Inhaber die 
+Zustimmung zu jedem dieser Zwecke einzeln zu erteilen. 
+
+d Die Inhaberin oder der Inhaber kann die Zustimmung jederzeit und einzeln widerrufen. 
+
+2.4. Obligatorisches Angebot einer Anwendung zur Prüfung von 
+elektronischen Nachweisen (Art. 20 VE-BGEID) 
+
+Die SP Schweiz findet es im Sinne der Benutzer:innenfreundlichkeit richtig, dass eine 
+Anwendung zur Prüfung von elektronischen Nachweisen zur Verfügung gestellt werden 
+soll. Allerdings soll der Bundesrat nicht bloss die Möglichkeit erhalten, eine solche 
+Anwendung zur Verfügung zu stellen, sondern vielmehr dazu verpflichtet werden. Nur so 
+kann die im Erläuternden Bericht richtigerweise gewünschte Vertrauen der Bevölkerung in 
+die Vertrauensinfrastruktur14 gestärkt werden. 
+
+Daher beantragt die SP Schweiz, Art. 20 VE-BGEID entsprechend zu ergänzen. 
+
+ 
+Wir bitten Sie, unsere Anliegen bei der Überarbeitung der Vorlage zu berücksichtigen. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+14 Vgl. Erläuternder Bericht, S. 16. 
+ 
+ 
+ 
+
+4 
+
+ 
+ 
+
+Mit freundlichen Grüssen 
+SOZIALDEMOKRATISCHE PARTEI DER SCHWEIZ 
+ 
+
+ 
+
+ 
+
+Mattea Meyer 
+
+Co-Präsidentin 
+
+Claudio Marti 
+Politischer Fachsekretär 
+ 
+
+ 
+
+Cédric Wermuth 
+
+Co-Präsident 
+
+ 
+
+ 
+ 
+ 
+
+5 
+
+

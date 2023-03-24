@@ -1,0 +1,323 @@
+Schwarztorstrasse 31 
+CH-3007 Bern 
++41 32 5 1 22 333 
+office@swissinformatics.org 
+
+ 
+
+ 
+ 
+Département fédéral de justice et police DFJP 
+ 
+Madame la Conseillère fédérale Karin Keller-Sutter 
+Exclusivement par e-mail à :  
+rechtsinformatik@bj.admin.ch  
+
+ 
+
+ 
+
+Berne, le 20 octobre 2022  
+
+Loi fédérale sur l'identité électronique et d'autres moyens de preuve électroniques (loi sur 
+l'e-ID, LeDI), avant-projet : réponse à la consultation de la Société suisse d'informatique (SI)   
+
+ 
+Madame la Conseillère fédérale Keller-Sutter,  
+Mesdames et Messieurs, 
+  
+ 
+ 
+Nous vous remercions de nous donner la possibilité de prendre position sur l'objet susmentionné. 
+S’agissant d'un thème informatique d'une grande importance sociopolitique, nous saisissons volon-
+tiers la possibilité de prendre position. 
+ 
+La Société Suisse d'Informatique SI est l'association des professionnels de l'informatique ayant une 
+formation académique en Suisse. La SI s'engage pour la promotion de l'informatique dans l'écono-
+mie, la formation, la recherche et la société en Suisse, dans le but de faire en sorte que la Suisse 
+reste  l'un  des  sites  technologiques  leaders  au  niveau  international.  Cela  implique  que  la  Suisse 
+fasse également partie des pays leaders en matière de numérisation et d'utilisation d'outils numé-
+riques. 
+ 
+ 
+ 
+1.  Résumé  
+
+ 
+
+La SI salue l'orientation de l'avant-projet. Nous saluons également le fait que le projet soit largement 
+neutre sur le plan technologique, ce qui permet un développement technologique continu de la mise 
+en œuvre des processus e-ID, comme décrit dans la loi. 
+ 
+Nous saluons le fait que le principe de "stockage décentralisé des données" soit suivi. Toutefois, 
+l'"infrastructure de confiance de la Confédération" centrale est toujours impliquée dans l'établisse-
+ment et la vérification ainsi que dans l'identification électronique, ce qui va à l'encontre de l'idée de 
+décentralisation. 
+ 
+La  loi  devrait  donc  autoriser,  outre  la  vérification  centralisée,  une  vérification  décentralisée  hors 
+ligne, à condition que celle-ci puisse être réalisée de manière sûre sur le plan technique.  
+
+ 
+
+Page 1 / 5 
+
+Schwarztorstrasse 31 
+CH-3007 Bern 
++41 32 5 1 22 333 
+office@swissinformatics.org 
+
+ 
+
+ 
+
+ 
+ 
+Nous  saluons  la  possibilité  pour  les  fournisseurs  privés  de  fournir  des  preuves  électroniques  en 
+utilisant l'infrastructure de confiance mise à disposition par la Confédération. Les PME, en particulier, 
+qui ne peuvent pas se permettre d'avoir leur propre infrastructure de confiance, profiteront de cette 
+possibilité.  
+Nous regrettons que les bases légales pour une signature électronique (par exemple, pour des do-
+cuments et courriels) utilisant l'e-ID ne soient pas créées en même temps que l'e-ID. 
+ 
+ 
+ 
+ 
+2.  Les différentes dispositions légales selon l'avant-projet 
+
+ 
+
+•  Art. 1 
+Dans le but, seule "l'identification sécurisée au moyen de l'e-ID" est mentionnée. Il faut également 
+mentionner les processus des autres preuves, sinon l'art 1.1.b, qui prévoit une infrastructure à cet 
+effet, n'a pas de sens. 
+ 
+•  Art. 2 
+L'inclusion de l'indicatif dans le contenu de l'e-ID pourrait favoriser l'acceptation de la loi et l'expé-
+rience utilisateur (correspond à eCH 0011 et eCH 0201).   
+De notre point de vue, l'art 2.2.d devrait en outre préciser de quel sexe il s'agit, le sexe biologique 
+ou le sexe perçu. 
+ 
+•  Art. 3 
+Aucune remarque. 
+ 
+•  Art. 4 
+Il faudrait créer la possibilité que d'autres services que Fedpol (p. ex. bureau des passeports, com-
+munes)  soient  légitimés à  établir  l'e-ID.  Ainsi,  une  identité  électronique  pourrait  par  exemple  être 
+demandée en même temps qu'une carte d'identité physique ou un passeport, ce qui augmenterait 
+l'attrait de l'ID électronique 
+
+•  Art. 5 
+Aucune remarque. 
+
+•  Art. 6 
+Aucune remarque. 
+
+•  Art. 7 
+Aucune remarque. 
+
+•  Art. 8 
+Aucune remarque. 
+
+ 
+
+Page 2 / 5 
+
+Schwarztorstrasse 31 
+CH-3007 Bern 
++41 32 5 1 22 333 
+office@swissinformatics.org 
+
+ 
+
+ 
+
+•  Art. 9 
+L'e-ID devrait obligatoirement être acceptée même en cas de "contrôle" physique. Par exemple : "Je 
+présente mon e-ID disponible sur mon mobile pour m'identifier auprès de l'office du registre du com-
+merce".  
+Il  faudrait  exiger  que  le processus  d'"identification  électronique" fonctionne  également  hors  ligne, 
+c'est-à-dire lorsque les composants centraux de l'"infrastructure de confiance de la Confédération" 
+ne sont pas disponibles. Pour ce faire, l'utilisation de composants décentralisés de l'"infrastructure 
+de confiance de la Confédération" doit être prescrite dans la loi. 
+  
+•  Art. 10 
+
+Aucune remarque. 
+ 
+•  Art. 11 
+
+Il convient de régler dans la loi ou au niveau de l'ordonnance qu'à partir du moment où une révoca-
+tion est reçue, les éventuelles transactions effectuées avec l'e-ID révoquée ne sont pas valables et 
+sont considérées comme n'ayant pas eu lieu. Le titulaire d'une e-ID ne doit pas subir de préjudice si 
+l'infrastructure de confiance de la Confédération ne bloque pas une e-ID immédiatement après ré-
+ception d'une révocation. 
+ 
+•  Art. 12 
+
+Il  manque  ici  une  déclaration  indiquant  qui  est  autorisé  à  établir  des  preuves  électroniques  et  à 
+utiliser l'infrastructure visée à la section 5. S'agit-il uniquement d'organismes publics ou également 
+de personnes physiques ou morales privées ? 
+ 
+•  Art. 13 
+
+La même chose que pour la révocation d'une ID électronique s'applique ici ; voir notre commentaire 
+sur l'art. 11. 
+ 
+•  Art. 14 
+
+La phrase de l'art. 2, al. 1, est-elle suffisante pour garantir que l'art. 14 s'applique également à l'e-
+ID et pas seulement aux "autres preuves électroniques" ?  
+Il faudrait régler dans la loi ou au niveau de l'ordonnance si le titulaire peut conserver des copies de 
+la carte d'identité électronique ou d'autres preuves électroniques sur plus d'un appareil. 
+   
+•  Art. 15 
+
+L'art. 15 parle pour la première fois de preuves électroniques qui ne sont pas établies au nom d'une 
+personne physique.   
+La loi devrait indiquer expressément (soit dans le préambule, soit dans le premier article de la section 
+3) que les autres preuves électroniques (c'est-à-dire à l'exception de la carte d'identité électronique) 
+peuvent être délivrées aussi bien à des personnes physiques qu'à des personnes morales. 
+ 
+•  Art. 16 
+
+Conformément au principe de minimisation des données, l'art. 16 devrait explicitement stipuler que, 
+dans le cadre d'une transaction (ou pour autoriser une transaction), le vérificateur ne peut demander 
+que les informations de la preuve électronique qui sont nécessaires au but de la transaction.  
+
+ 
+
+Page 3 / 5 
+
+Schwarztorstrasse 31 
+CH-3007 Bern 
++41 32 5 1 22 333 
+office@swissinformatics.org 
+
+ 
+
+ 
+ 
+•  Art. 17 et 18 
+
+ 
+
+Le registre de base nous semble être une sorte d'e-ID (appelé identificateur) pour les personnes 
+morales, notamment pour identifier de manière sûre les services officiels (Confédération, cantons, 
+communes). La question qui se pose ici est de savoir si et dans quelle mesure tous les services 
+officiels qui offrent des prestations électroniques doivent être obligés de s'inscrire dans le registre 
+de base.  
+Il convient d'examiner si les art. 17 et 18 ne peuvent pas être formulés de manière plus neutre sur 
+le plan technologique, par exemple sans mentionner explicitement les clés cryptographiques.  
+ 
+Grammaire Art 18 al 3 : " Alle Behörden und Private können …" 
+ 
+•  Art. 19 
+
+Par la présente, la Confédération offre gratuitement un "portefeuille électronique" aux titulaires d'une 
+e-ID sur l'"infrastructure de confiance de la Confédération". Cela donnera une impulsion à la diffusion 
+de l'e-ID. Mais les services suivants en font également partie, selon nous, gratuitement et facilement 
+réalisables par les citoyens :  
+
+•  Un processus permettant de récupérer un e-ID perdu sur tous les appareils. Il est probable 
+que le citoyen doive se présenter à nouveau physiquement avec ses documents d'identité.  
+
+•  Un processus de changement d'appareil. 
+•  Le remplacement sans faille d'un e-ID arrivé à échéance par un nouvel e-ID et le maintien 
+
+du "portefeuille électronique".  
+
+ 
+
+•  Art. 20 
+
+La formulation en tant que disposition facultative est trop faible. Nous estimons que la vérification 
+de la validité d'une preuve est un élément central de l'infrastructure de confiance. L'art. 20 devrait 
+donc être rédigé de manière analogue à l'art. 19 : "La Confédération met à disposition une applica-
+tion permettant de vérifier la validité des preuves électroniques".  
+ 
+•  Art. 21 
+
+Si les services que nous proposons sous l'art. 19 sont mis en place, cet article pourrait éventuelle-
+ment être totalement supprimé. 
+Des services gratuits de sauvegarde/restauration contribueraient à la diffusion de l'e-ID.   
+ 
+•  Art. 22 
+
+Aucune remarque. 
+ 
+•  Art. 23 
+
+Un système socio-technique tel que "l'e-ID et les preuves électroniques" ne peut pas être contrôlé 
+uniquement par la divulgation du code source. Il faut également savoir quelles exigences sont (doi-
+vent être) remplies par le code source pour pouvoir dire si le code source est correct ou non.  
+Nous  recommandons  d'exiger  qu'une  documentation  système  conforme  aux meilleures  pratiques 
+de la profession, y compris le code source, soit établie, vérifiée et divulguée.  
+ 
+
+ 
+
+Page 4 / 5 
+
+Schwarztorstrasse 31 
+CH-3007 Bern 
++41 32 5 1 22 333 
+office@swissinformatics.org 
+
+ 
+
+•  Art. 24 
+
+ 
+
+Le système de Fedpol fait-il également partie de l'établissement de l'identité électronique ? Si oui, il 
+faudrait le mentionner explicitement ici.  
+ 
+ 
+•  Art. 25 
+
+Le lien entre les al. 1 et 2 doit être plus clair : Par exemple : " Der Bundesrat kann mit Verordnungen 
+vorsehen, dass…" et également "… treten diese Verordnungen die Bestimmungen ausser Kraft:".  
+ 
+•  Art. 26 
+
+Nous saluons le fait qu'aucun émolument ne soit perçu pour l'utilisation de l'e-ID conformément à 
+l'alinéa 4.  Les frais d'inscription au registre de base devraient être fixés de manière à ce que les 
+particuliers et les PME puissent également se permettre une inscription. 
+ 
+•  Art. 27 
+
+La loi devrait ici exiger expressément que la Confédération prenne les mesures appropriées dans le 
+but de rendre l'e-ID suisse compatible avec les e-ID étrangères, notamment celles de l'Union euro-
+péenne. 
+ 
+•  Art. 28 et suivants 
+
+Aucune remarque. 
+ 
+ 
+ 
+3.  Conclusion 
+La SI, en tant qu'association représentant l’ensemble des professionnels de l'informatique ayant une 
+formation  académique  et  de tous  les  professeurs  d'informatique  enseignant  dans  les  universités, 
+propose volontiers à la Confédération de participer activement à une révision de l'avant-projet e-ID. 
+ 
+ 
+ 
+En vous remerciant de toute l’attention que vous porterez à notre réponse, je vous prie d’agréer, 
+Madame la Conseillère Fédérale, Mesdames et Messieurs, nos plus respectueuses salutations. 
+ 
+Pour la Société Suisse d’Informatique 
+ 
+ 
+ 
+ 
+ 
+ 
+Francis Baud, Président 
+ 
+
+ 
+
+Page 5 / 5 
+
+

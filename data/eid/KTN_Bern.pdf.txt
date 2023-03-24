@@ -1,0 +1,468 @@
+1A4  
+
+'* 	
+
+•/
+
+Kanton Bern 
+Canton de Berne  
+
+Regierungsrat 
+
+Postgasse  68  
+Postfach  
+3000  Bern  8  
+info.regierungsrat@be.ch  
+www.be.ch/rr  
+
+Staatskanzlei, Postfach,  3000  Bern  8 
+
+Per  E-Mail als PDF- und Word-Dokument  an:  
+rechtsinformatik@bj.admin.ch  
+
+RRB Nr.: 	 1057/2022  
+Direktion: 	 Finanzdirektion 
+Klassifizierung: 	Nicht klassifiziert 
+
+19.  Oktober  2022  
+
+Vernehmlassung  des  Bundes: Vorentwurf  des  Bundesgesetzes über  den  elektronischen 
+Identitätsnachweis und andere elektronische Nachweise  (E-ID-Gesetz, BGEID). 
+Stellungnahme  des  Kantons Bern 
+
+Sehr geehrte Frau Bundesrätin 
+Sehr geehrte Damen und Herren  
+
+Der  Regierungsrat dankt Ihnen für  die  Gelegenheit zur Stellungnahme zum titelerwähnten Ge-
+setzesvorentwurf.  
+
+1. 	Grundsätzliches  
+
+Der  Kanton Bern unterstützt  den  Vorentwurf  des  BGEID. Eine sichere, hoch verfügbare und all-
+gemein akzeptierte  E-ID  ist eine unabdingbare Voraussetzung für  die  Digitalisierung  der  Ge-
+schäftsprozesse  der  Verwaltung und  der  Wirtschaft.  
+
+Der  Regierungsrat dankt Ihnen  und  der  Bundesverwaltung für  die  rasche Erarbeitung  des  Vor-
+entwurfs  und  für  den  vorbildlichen, partizipativen Einbezug  der Stakeholder  aus Verwaltung, 
+Wirtschaft  und  Gesellschaft  in den  Konzeptionsprozess. Unserer Meinung nach enthält  der  nun 
+vorliegende Vorentwurf wesentliche Verbesserungen gegenüber dem  in der  Volksabstimmung 
+abgelehnten Gesetz: 
+
+•  Er  sieht eine  rein  staatliche  E-ID-Infrastruktur vor. Damit begegnet er  der  Kritik  an der  im 
+
+ersten BGEID vorgesehenen teilweisen Auslagerung  der  E-ID an die  Privatwirtschaft,  wel-
+che  dem Referendum zugrunde lag. 
+
+•  Er  basiert auf dem zukunftsweisenden Ansatz  der «self-sovereign identity»  (SSI),  die es 
+den  Inhaberinnen  und  Inhabern erlaubt, nur  die  Daten bekanntzugeben,  die  für  den  jeweili-
+gen Geschäftsfall erforderlich sind.  Dies  entspricht dem Gebot  der  Datensparsamkeit  und  
+der «privacy by design»  sowie  der  geplanten europäischen Gesetzgebung. 
+
+ 
+
+3
+0
+v
+I
+D
+1
+4
+0
+1
+3
+0
+
+Nicht klassifiziert  1  Letzte Bearbeitung:  01.09.2022 1 Version: 31  Dok.-Nr.:  254973 1  Geschäftsnummer: 2022.FINGS.212 	
+
+1/8  
+
+Kanton Bern  
+Canton de Berne  
+
+•  Er  erlaubt staatlichen und privaten Stellen, eigene Nachweise auszustellen (wie Führeraus-
+
+weise oder Arztrezepte) und diese über  die  E-ID  zu vermitteln. Damit entsteht ein Ökosys-
+tem digitaler Nachweise, das  den  Nutzen  der  E-ID  weit über  die  eigentliche Identifikation 
+hinaus ausweitet. 
+
+Damit  die  E-ID  ein Erfolg wird, sollte bei  der  Umsetzung u.E. unbedingt Folgendes beachtet 
+werden: 
+
+•  Die  E-ID  muss einfach  und  sicher  sein.  Frühere Vorhaben wie  die  SuisselD scheiterten da-
+
+ran, dass sie zu teuer, zu kompliziert oder zu bürokratisch waren.  Die  E-ID  muss für alle  
+Stakeholder  —  die  Benutzenden,  die  Überprüfenden  und  die  Ausstellerinnen  von  Nachwei-
+sen — möglichst niederschwellig zugänglich  sein.  Gleichzeitig sind  die  Integrität  der  E-ID  und  
+das daran geknüpfte Vertrauen  aller  Beteiligten als zentrale Pfeiler  des  Erfolgs durch geeig-
+nete Massnahmen zu schützen. 
+
+•  Der Support  muss sichergestellt  sein.  Der  SSI-Ansatz ist für  die  Bevölkerung,  die  Wirt-
+
+schaft  und  die  Verwaltung neu.  Er  und  die  E-ID  müssen allen Stakeholdern  mit  einer profes-
+sionellen  Marketing-  und  Sensibilisierungskampagne vermittelt werden.  Und  alle  Stakehol-
+der  müssen bei  der  Anwendung  der  E-ID von  einer gut ausgebauten, zentralen Supportor-
+ganisation  des  Bundes unterstützt werden  (s.  auch unseren Antrag zu  Art. 8  unten). 
+
+Zum  von  Ihnen unterbreiteten Vorentwurf verweist  der  Regierungsrat grundsätzlich auf  die  bei-
+liegende Stellungnahme  der  Konferenz  der  Kantonsregierungen (KdK). Dieser schliesst er sich 
+ausdrücklich  an,  ausser soweit nachstehend Abweichungen und Ergänzungen angebracht wer-
+den.  
+
+2. 	Anträge  
+
+2.1 	Antrag zu Artikel  2  (Form und Inhalt)  
+
+Es  ist sicherzustellen, dass das Ablaufdatum  der  E-ID  keine Auswirkungen auf  die  Gültigkeit di-
+gitaler Ausweise bzw. Nachweise hat,  die  auf  der  Basis  der  E-ID  ausgestellt wurden  (Art. 12 f.  
+BGEID).  
+
+2.1.1 	Begründung 
+
+Einige  der  Nachweise,  die  auf  der  Basis  der  E-ID  ausgestellt werden sollen, wie etwa Führer-
+ausweise, sind unbefristet gültig. Eine Erneuerung  der  E-ID  darf daher keinen bedeutenden 
+Mehraufwand zur Erneuerung  der  auf  der  E-ID  basierenden Ausweise verursachen. 
+
+Mittelfristig wäre  es  im Übrigen zielführend,  die  Personenidentifizierungsdaten  von  ISA, ZEMIS 
+und weiteren Umsystemen wie denen  des  Informationssystems (IVZ)  des  ASTRA zu harmoni-
+sieren.  
+
+2.2 	Antrag zu Artikel  2  Absatz  2  Buchstabe  g  (Gesichtsbild)  
+
+Die  zwingende Notwendigkeit  der  Erfassung eines Gesichtsbilds  in der  E-ID  ist  in der  Botschaft 
+zu begründen, oder  es  ist auf  die  Erfassung eines Gesichtsbilds zu verzichten. 
+
+Nicht klassifiziert  I  Letzte Bearbeitung:  01.09.2022 I Version: 4 I  Dok.-Nr.:  99074402 I  Geschäftsnummer: 2022.FINGS.212 	
+
+2/8  
+
+Kanton Bern  
+Canton de Berne 
+
+2.2.1 	Begründung  
+
+In  Artikel  4  Absatz  4  VE-BGEID und  den  zugehörigen Erläuterungen wird  der  Bedarf nach ei-
+nem biometrischen Gesichtsbild nur für  den  Ausstellungsprozess begründet. Demgegenüber 
+wird  der  Bedarf nach einem biometrischen Gesichtsbild  in der  E-ID  selbst weder  in den  Erläute-
+rungen zu Artikel  2  Absatz  2  Buchstabe  g  —  der  auf  die  Informationssysteme nach dem Aus-
+weisgesetz (AwG) und dem Bundesgesetz über das Informationssystem für  den  Ausländer- und  
+den  Asylbereich (BGIAA) verweist,  die  beide biometrische Gesichtsbilder enthalten können 
+(vgl.  Art. 11  i. V. m.  Art.  2bis AwG und  Art. 1  i. V. m.  Art. 4  Abs.  1  Bst. abis  BGIAA) — noch an-
+derswo erklärt.  Es  bleibt deshalb nicht nachvollziehbar, weshalb auf einer  ID  für  den  Einsatz  in 
+der  digitalen Welt ein biometrisches Gesichtsbild enthalten sein soll.  
+
+2.3 	Antrag zu Artikel  15  (Übertragbarkeit  von  elektronischen Nachweisen) und Arti-
+
+kel  28  (Ausführungsbestimmungen) 
+
+Artikel  15  und  28  sind so anzupassen, dass sichergestellt wird, dass Nachweise,  die  auf  der  Ba-
+sis  der  E-ID  ausgestellt werden  (Art. 12 f.),  wie etwa  der  eFahrzeugausweis, mit anderen Perso-
+nen geteilt werden können.  
+
+2.3.1 	Begründung  
+
+Die  Strassenverkehrsämter planen  den  Fahrzeugausweis künftig als digitalen Ausweis abzuge-
+ben.  Der  Fahrzeugausweis verbleibt bei  der  Halterin oder dem Halter eines Fahrzeuges. Sie 
+oder er hat jedoch  die  Möglichkeit,  den  Fahrzeugausweis einer anderen Person für eine be-
+stimme Zeit «auszuleihen».  Es  muss deshalb  die  Möglichkeit bestehen, einen digitalen Ausweis 
+zeitbefristet oder unbegrenzt «teilen» zu können. Wir bitten Sie daher zu prüfen, wie  dies  im 
+Rahmen  des  BGEID umgesetzt werden kann, etwa dadurch, dass  in  Artikel  15  Absatz  2  auf  den  
+Vorbehalt  «die  nicht auf eine natürliche Person ausgestellt sind» verzichtet wird.  
+
+2.4 	Antrag zu Artikel  16  Absatz  3  (Datenspuren bei  der  Verwendung elektronischer 
+
+Nachweise)  
+
+In  Artikel  16  Absatz  3  VE-BGEID ist das Wort «möglichst» zu streichen. Wenn aus technischen 
+oder rechtlichen Gründen nicht darauf verzichtet werden kann, ist  in der  Botschaft klar darzule-
+gen, warum eine Ausgestaltung eines Systems, das keine Rückschlüsse über  die  Verwendung  
+der  E-ID  oder anderer elektronischer Nachweise zulässt, nicht möglich ist.  
+
+2.4.1 	Begründung  
+
+Die  Prüfung  der  E-ID  oder anderer elektronischer Nachweise durch  die  Verifikatorin im System 
+zur Bestätigung  von  ldentifikatoren  in  Artikel  18  VE-BGEID darf keine Personendaten hinterlas-
+sen.  Es  darf nicht ersichtlich sein, wann, wo und für was eine Nutzerin oder ein Nutzer  der  E-ID  
+oder eines anderen elektronischen Nachweises  die  E-ID  oder  den  elektronischen Nachweis ein-
+gesetzt hat. Artikel  16  Absatz  3  VE-BGEID hält fest, dass  die  Betreiberin  der  Systeme keine 
+Kenntnis  des  Inhalts  der  vorgewiesenen elektronischen Nachweise hat und «möglichst» keine 
+Rückschlüsse auf deren Verwendung und  die  Beteiligten ziehen kann.  Es  ist nicht klar, warum  
+die  Systeme nicht so gestaltet werden müssen bzw. können, dass gar keine Rückschlüsse ge-
+zogen werden können. 
+
+Nicht klassifiziert  I  Letzte Bearbeitung  01.09.20221 Version: 41  Dok.-Nr.:  990744021  Geschäftsnummer: 2022.FINGS.212 	
+
+3/8  
+
+Kanton Bern  
+Canton de Berne 
+
+2.5 	Antrag zu Artikel  17  Absatz  3  (Verifizierung  der  Identität  von  privaten Ausstelle-
+
+rinnen und Verifikatorinnen) 
+
+Artikel  17  Absatz  3  VE-BGEID ist so zu ändern, dass  die  Ausstellerinnen und Verifikatorinnen 
+ihre Daten nicht  in  das Basisregister eintragen können, ohne dass  die  Ausstellerinnen und Veri-
+fikatorinnen sicher identifiziert werden.  
+
+2.5.1 	Begründung  
+
+Die  Öffnung  des  Systems zur Bestätigung  von  Identifikatoren für  die  Zuordnung  von  Identifikato-
+ren und Schlüsseln  von  privaten Ausstellerinnen und Verifikatorinnen bedingt begleitende Mass-
+nahmen. Insbesondere ist eine Verifizierung  der  Identität  der  privaten Ausstellerinnen und Veri-
+fikatorinnen vorzusehen.  In den  Erläuterungen wird das Risiko ausgewiesen, dass Ausstellerin-
+nen oder Verifikatorinnen mit vorgetäuschter Identität elektronische Beweismittel ausstellen 
+könnten.  Weil  jedoch ein Zulassungsverfahren ressourcenintensiv wäre und zu einem teuren 
+und unnötigen Flaschenhals führen würde, soll auf eine Verifikation verzichtet werden. Artikel  
+22  VE-BGEID sieht vor, dass  der  Bund öffentlich über Fälle  von  begründetem Verdacht auf 
+Missbrauch  der  Vertrauensinfrastruktur informiert.  Die  Erläuterungen nennen  dies  als risikomin-
+dernde Massnahme. Ein nachträglicher Kommunikationsweg ausserhalb  der  Systeme  der  VE-
+BGEID erscheint jedoch ungenügend, dem benannten Risiko zu begegnen.  Die  hohen Kosten  
+des  Zulassungsprozesses dürfen zudem kein  Argument  sein,  die  Risiken  des  Missbrauchs  der  
+Vertrauensinfrastruktur zu erhöhen.  Von  einer Vertrauensinfrastruktur kann zudem nur gespro-
+chen werden, wenn  die  Risiken  des  Missbrauchs mit allen möglichen Mitteln reduziert werden. 
+
+Ohne einen Verifizierungsprozess bei  der  Öffnung für Private kann namentlich das folgende  in 
+den  Erläuterungen ausgewiesene Ziel nicht erreicht werden:  «Der  Bund stellt sicher, dass alle 
+interessierten Behörden und Private Zugang zum Mechanismus zur Bestätigung  des  Identifika-
+tors haben. Über diesen Zugang können sie sicherstellen, dass  es  sich bei ihrem Gegenüber  in 
+der  virtuellen Welt tatsächlich um  die Organisation,  Einheit oder  die  Person handelt, für  die  sie 
+sich ausgibt. So kann  die  Authentizität  der an  einem Geschäftsprozess Beteiligten überprüft 
+werden». Diese Authentizität muss beiderseits sichergestellt sein.  
+
+2.6 	Antrag zu Artikel  25  (Technische Entwicklung) 
+
+Artikel  25  Absatz  1  VE-BGEID ist wie folgt anzupassen:  «Der  Bundesrat kann 	vorsehen sieht 
+vor, dass  die in  diesem Gesetz vorgesehene Infrastruktur um zusätzliche Elemente erweitert 
+wird, sofern  dies  angesichts  der  technischen Entwicklung erforderlich ist, um  die  Ziele dieses 
+Gesetzes zu erreichen.  Er  bezieht dazu  die  Kantone und Vertretungen  der  Privatwirtschaft mit 
+ein.»  
+
+2.6.1 	Begründung 
+
+Dass  die  Entwicklung  der  Technik,  der  digitalen Wirtschaft  und  Gesellschaft sowie  der  Cybersi-
+cherheitslage laufend nach Anpassungen  an der  Infrastruktur  der  E-ID  oder ihre Erweiterung 
+verlangen wird, ist sicher.  Die  laufende Weiterentwicklung  des  Systems  E-ID  auf rechtlicher  und  
+technischer Ebene ist daher als Aufgabe  des  Bundes  und  nicht nur als Kann-Bestimmung zu 
+formulieren.  Weil die  E-ID  auch für  die  Kantone  und  die  Wirtschaft als Basis eines Ökosystems 
+digitaler Nachweise dienen soll, sind sie als wichtige  Stakeholder in den  Prozess  der  Erhebung  
+und  Umsetzung neuer Anforderungen  mit  einzubeziehen. 
+
+Nicht klassifiziert  I  Letzte Bearbeitung:  01.09.2022 I Version: 41  Dok.-Nr.:  99074402 I  Geschäftsnummer: 2022.FINGS.212 	
+
+4/8  
+
+Kanton Bern  
+Canton de Berne 
+
+2.7 	Antrag zu Artikel  26  (Gebühren) 
+
+Artikel  26  VE-BGEID ist wie folgt mit einem Absatz  3  zu ergänzen:  «Die  Gebühren sind ange-
+messen auszugestalten und frühzeitig bekanntzugeben.»  
+
+2.7.1 	Begründung 
+
+Im Kontext  der  Führerausweise wäre eine Gebühr  in der  Grössenordnung  der  Gestehungskos-
+ten heutiger physischer Ausweise wünschenswert. Ansonsten müssten  die  Kantone  die  Kosten 
+durch höhere Gebühren für diese Produkte auf  die  Nutzenden abwälzen.  Dies  könnte zur Ableh-
+nung  von  Digitalisierungsvorhaben führen.  
+
+Die  im erläuternden Bericht erwähnten Betriebskosten (jährlich CHF  15— 20  Mio.),  welche  
+durch Gebühren bezahlt werden müssen, sind im Verhältnis zu  den  Projektkosten  von ca. 25  —  
+30  Millionen Franken aus  der  Sicht  des  Regierungsrates zu hoch.  Es  darf nicht  sein,  dass  der  
+Bund  die  E-ID «gratis»  zur Verfügung stellt  und  die  Kantone, Gemeinden  und  Private  mit  den  
+Gebühren für ihre digitalen Ausweise  die  hohen Betriebskosten bezahlen,  welche  dann  an die  
+Nutzenden überwälzt werden müssen.  Dies  könnte zur Folge haben, dass  digitale  Ausweise  
+von  Kantonen  und  Dritten nicht  über  die  Basisinfrastruktur  und  das dazugehörige «Bundeswal-
+let»  verteilt werden, sondern dass sich  alternative  Kanäle etablieren.  
+
+3. 	Weiteres 
+
+Zu einzelnen Punkten  der  Vorlage haben wir folgende Bemerkungen: 
+
+•  Artikel  3  (Persönliche Voraussetzungen): 
+
+•  Den  Antrag  in  Ziffer  2.2 der  Stellungnahme  der  KdK, wonach für weitere Personen mit 
+Aufenthalt  in der  Schweiz eine spezielle  E-ID  vorzusehen ist, halten wir kaum für um-
+setzbar.  Die  KdK kommt selbst zum Schluss,  die  Identität  der  betroffenen Personen 
+dürfte nicht  in  jedem Fall eindeutig festzustellen sein, so dass  der  Einsatzbereich einer 
+solchen  E-ID  entsprechend beschränkt sein dürfte.  Es  fragt sich unter diesen Umstän-
+den, welchen Zweck eine solche  E-ID  überhaupt haben könnte. Laut dem erläuterndem 
+Bericht zu Artikel  3  Buchstabe  b  kann selbst bei bestimmten Ausweiskategorien (z.B. 
+Ausweise  N,  F, S  und  Ci)  nicht davon ausgegangen werden, dass  die  Identität  der  be-
+treffenden Personen verlässlich festgestellt werden kann mit  der  Folge, dass für diese  
+der  Zugang zu gewissen Diensten eingeschränkt werden kann.  Der  Zweck  der  E-ID  be-
+steht ja gerade  in der  sicheren Identifizierung einer Person  (Art. 1  Abs.  2  Bst.  a  E-
+BGEID). 
+In den  Erläuterungen zu Artikel  3  steht, dass mit  der  Kann-Formulierung  von  Absatz  1  
+sichergestellt werde, dass  die  antragstellenden Personen nicht verpflichtet sind, eine E-
+ID zu beziehen oder zu verwenden.  Der  Ein leitungssatz  von  Artikel  3  ist jedoch nicht als 
+Kann-Formulierung ausgestaltet.  Der  Regierungsrat bittet Sie,  dies  zu überprüfen. 
+
+• 
+
+•  Artikel  5  (Widerruf): Ergänzend zum Antrag  der  KdK, wonach bei  der  Änderung  von  Perso-
+nendaten automatisch eine neue  E-ID  ausgestellt werden soll, ist zu bemerken, dass dabei 
+darauf zu achten ist, dass bestehende Nachweise und Berechtigungen,  die  auf  der  bisheri-
+gen  E-ID  basieren, bei  der  Neuausstellung  der  E-ID  nicht ihre Gültigkeit verlieren. Das gilt 
+auch für  den  Fall, dass eine  E-ID  abläuft und deswegen neu ausgestellt wird. 
+
+Nicht klassifiziert  I  Letzte Bearbeitung:  01.09.2022 I Version: 4 I  Dok.-Nr.:  99074402 I  Geschäftsnummer: 2022.FINGS.212 	
+
+5/8  
+
+Kanton Bern  
+Canton de Berne  
+
+•  Artikel  8  (Anlaufstellen  der  Kantone): Ergänzend zu  der in der  Stellungnahme  der  KdK 
+vertretenen Haltung, wonach  der  Aufbau einer Supportinfrastruktur Sache  des  Bundes ist, 
+ist zu bemerken, dass  der  Aufwand für  die  Kantone deshalb besonders gross wäre, weil  die  
+Anlaufstellen nicht nur Unterstützung bei  der  Ausstellung  der  E-ID  leisten müssten, sondern 
+auch bei deren Einsatz.  Die  Abgrenzung zwischen  den  Supportaufgaben  des  Bundes (für  
+die  E-ID  als solche) und  den  Supportaufgaben weiterer Behörden,  die  Nachweise gestützt 
+auf  die  E-ID  ausstellen (für  die von  ihnen ausgestellten Nachweise wie eLernfahrausweis, 
+eFührerausweis, ePersonalausweis, eWohnsitzbestätigung, eStrafregisterauszug, usw.) 
+muss klar erfolgen und kommuniziert werden.  In der  Einführungsphase ist eine diesbezügli-
+che Koordination durch  den  Bund notwendig,  der  z.B. als  Support der  ersten Ebene auftre-
+ten und nachweisspezifische Anliegen  den  zuständigen Fachbehörden weiterleiten könnte, 
+ebenso wie eine direkte Absprache zwischen  den  betroffenen Organisationen. 
+
+•  Artikel  9  (Pflicht zur Akzeptanz  der  E-ID):  Sprachlich und inhaltlich nicht verständlich ist 
+
+u.E.  die  Aussage auf Seite  11 des  erläuternden Berichts zu Artikel  9,  wonach  die  Pflicht zum 
+Akzeptieren  der  E-ID  nur «für ldentifizierungsprozesse [gilt], bei denen ein persönliches Er-
+scheinen  die  Vorlage eines ldentitätsdokuments erforderlich sind»  [sic].  Bei  der  Vorlage ei-
+nes physischen Ausweises findet u.E. gerade keine elektronische Identifizierung statt und 
+findet Artikel  9  daher nicht Anwendung. Irreführend ist u.E. auch  die  Aussage,  die  Pflicht 
+zum Akzeptieren  der  E-ID  betreffe «nicht  die  bestehenden kantonalen und kommunalen Lo-
+gin-Lösungen». Vielmehr werden diese Lösungen gemäss dem klaren Wortlaut  von  Artikel  9  
+(und  den  zutreffenden Aussagen  in  Ziffer  5.2 des  erläuternden Berichts) so anzupassen 
+sein, dass sie  die  E-ID  akzeptieren.  Der  Regierungsrat bittet Sie,  die  Erläuterungen  in der  
+Botschaft entsprechend anzupassen. 
+
+•  Artikel  10  (Vorweisen einer  E-ID): Die  Regelung erscheint unklar. Was für Fälle hat  man  
+im Auge,  in  denen eine Person persönlich bei  der  Behörde vor Ort erscheint,  die  Identifizie-
+rung aber mittels  E-ID  erfolgt? Nach dem erläuternden Bericht zu Artikel  1  Absatz  2  Buch-
+stabe  a  kann  die  E-ID  auf dem Smartphone installiert und so ebenfalls  in der  physischen 
+Welt verwendet werden.  Dies  kann zur Annahme verleiten,  die  E-ID  könne  die  physische 
+ldentitätskarte  (ID)  ersetzen, was jedoch kaum beabsichtigt sein wird.  Der  erläuternde Be-
+richt zu Artikel  10  geht davon aus, dass das Vorweisen  der  E-ID  anstelle  der ID  möglich, 
+aber nicht verpflichtend ist. Wir bitten Sie, diesen Themenbereich klarer zu regeln. Zumin-
+dest sollte  die  Botschaft Ausführungen dazu enthalten, welche Bedeutung  die  E-ID  aus-
+serhalb  des  digitalen Verkehrs haben soll. 
+
+•  Artikel  12  (Ausstellung anderer elektronischer Nachweise): Laut dem erläuternden Be-
+richt zu Absatz  1  können Behörden und Private  die  Vertrauensinfrastruktur  des  Bundes nut-
+zen, um elektronische Nachweise auszustellen.  Die  Arten  von  elektronischen Nachweisen,  
+die  ausgestellt werden können, sind gemäss dem erläuternden Bericht nicht beschränkt;  die  
+Vertrauensinfrastruktur solle verschiedenen Akteuren zur Verfügung stehen und ihnen er-
+möglichen, elektronische Nachweise unterschiedlichster  Art  auszustellen. Indessen wird im 
+erläuterndem Bericht nicht erklärt, welche Beispiele  es  gibt für elektronische Nachweise,  die 
+von  Privaten ausgestellt werden und  die  Vertrauensinfrastruktur  des  BGEID benutzen.  Die  
+Botschaft sollte sich dazu äussern, welche Arten  von  Nachweisen  von  Behörden (z.B.  der  
+digitale Führerausweis,  s.  oben) und Privaten ins Auge gefasst werden. 
+
+•  Artikel  15  (Übertragbarkeit  von  elektronischen Nachweisen):  In  Artikel  15  Absatz  2  wird 
+
+geregelt,  der  Bundesrat könne  die  Übertragung  von  elektronischen Nachweisen,  die  nicht 
+auf natürliche Personen ausgestellt sind, zulassen.  Die  Regelung  von  Artikel  15  ist auch un-
+ter Einbezug  der  Erläuterungen unklar.  Die  Erläuterungen zu Artikel  15  Absatz  2  nehmen 
+Bezug auf das System für Sicherungskopien nach Artikel  21. Der  Zusammenhang zwischen 
+
+Nicht klassifiziert  I  Letzte Bearbeitung:  01.09.2022 I Version: 4 I  Dok.-Nr.:  99074402 I  Geschäftsnummer: 2022.FINGS.212 	
+
+6/8  
+
+Kanton Bern  
+Canton de Berne  
+
+diesen Sicherungskopien und Artikel  15  Absatz  2  ist indessen nicht klar. Nach dem Dafür-
+halten  des  Regierungsrates muss  es  bei Artikel  15  Absatz  2  um  die  Übertragung  von  elekt-
+ronischen Nachweisen auf das System für Sicherungskopien gehen.  In den  Erläuterungen 
+zu Artikel  3  Buchstabe  a  wird ausgeführt, dass juristische Personen nicht Inhaberinnen einer  
+E-ID  sein können und mittels  der  einheitlichen Unternehmens-Identifikationsnummer UID 
+identifiziert werden.  Es  fragt sich, was  der  Gesetzgeber unter «elektronischen Nachweisen,  
+die  nicht auf eine natürliche Person ausgestellt sind» versteht. Wir erachten  es  als unerläss-
+lich, dass  in der  Vernehmlassung eine Klärung  von  Artikel  15  Absatz  2  beantragt wird. 
+
+•  Artikel  17  und  18  (Vertrauensinfrastruktur):  Der  erläuternde Bericht zur Vertrauensinfra-
+struktur (Vorbemerkungen und  Art. 17  —  18)  ist auch unter Zuhilfenahme  der  Grafik schwer 
+verständlich. Insbesondere ist unklar, wie das Zusammenspiel zwischen Verifikatorinnen 
+und ldentifikatorinnen ist und wie  dies  praktisch funktioniert.  Der  Regierungsrat bittet Sie,  
+dies in der  Botschaft verständlicher darzustellen. 
+
+•  Artikel  19  (Anwendung zur Aufbewahrung und Vorweisung  von  elektronischen Nach-
+
+weisen): Im erläuternden Bericht wird dazu ausgeführt:  «Die  Verwendung  von  elektroni-
+schen Brieftaschen,  die von  privaten Akteuren ausgestellt werden, ist im Gesetz nicht gere-
+gelt. Neben  der  staatlichen elektronischen Brieftasche können  die  Nutzerinnen und Nutzer 
+auch andere Anwendungen für  die  Aufbewahrung und Vorweisung ihrer elektronischen 
+Nachweise verwenden». Daraus ist zu schliessen, dass auch Private «elektronische Briefta-
+schen» schaffen können. Darin können nicht nur  die  privaten elektronischen Nachweise 
+nach Artikel  12,  sondern auch  die  staatliche  E-ID  gespeichert werden. Nicht klar ist indes-
+sen, ob umgekehrt  in der  staatlichen «elektronischen Brieftasche» auch  die  privaten elektro-
+nischen Nachweise gespeichert werden können. Dazu sollte  die  Botschaft Stellung nehmen. 
+
+•  Artikel  21  (System für Sicherungskopien):  Die  Sicherheitskopien sollen  der  Wiederher-
+
+stellung  der  E-ID  beim Verlust oder Wechsel  des  Smartphones dienen. Dem Bericht zufolge 
+können nur  die  Inhaberinnen und Inhaber auf  die  Sicherheitskopien zugreifen.  Die  Botschaft 
+oder das Gesetz sollten darauf eingehen, wie sich  die  Inhaberinnen und Inhaber als solche 
+ausweisen sollen, um  die  E-ID  wiederherstellen zu können, wenn sie ihr Smartphone und 
+damit  die  E-ID  verloren haben. 
+
+•  Weitere Anpassungen  des  Bundesrechts: Das  in der  Stellungnahme  der  KdK (Rz.  30)  
+geäusserte Anliegen,  die  Gesetzgebung  des  Bundes systematisch auf Bestimmungen hin 
+zu überprüfen,  in  denen ein physischer Ausweis oder eine qualifizierte elektronische Signa-
+tur verlangt werden, ist mit dem Anliegen zu ergänzen,  die  entsprechenden Bestimmungen 
+so anzupassen, dass auch  die  E-ID  genügt. Im erläuternden Bericht zu Artikel  9  E-BGEID  
+(3.  Abschnitt) steht,  der  Vorentwurf trage insbesondere dem elektronischen Patientendos-
+sier sowie dem Bereich Schuldbetreibung und Konkurs Rechnung. Das Sozialversiche-
+rungsrecht und andere für  die  Massenverwaltung wichtige Bereiche  des  Bundesverwal-
+tungsrechts werden jedoch nicht adressiert.  Der  Regierungsrat bittet Sie, diesen Bereichen 
+besondere Aufmerksamkeit zu schenken. 
+
+•  Pilotprojekt digitaler Führerausweis:  Die  asa (Vereinigung  der  Strassenverkehrsämter) 
+und das ASTRA können mit dem Teilprojekt  T1  (digitaler Führerausweis, mDL) ein Pilotpro-
+jekt im Rahmen  des  Vorhabens  E-ID  realisieren.  Die  Zusammenarbeit mit  der  Projektleitung  
+E-ID  verläuft sehr gut und zielführend.  Der  Kanton Bern bedankt sich, dass er zusammen 
+mit dem ASTRA und  der  asa  an  diesem wegweisenden Digitalisierungsprojekt aktiv mitar-
+beiten und  die  Interessen  der  digitalen Ausweise im Strassenverkehr einbringen darf. Zu-
+dem wird  die  auch  von der  E-ID  genutzte Basisinfrastruktur  die  zeitnahe Einführung digitaler 
+Ausweise  der  Verkehrszulassung schweizweit ermöglichen.  Dies  ist angesichts  der  hohen 
+
+Nicht klassifiziert  I  Letzte Bearbeitung:  01.09.2022 I Version: 4 I  Dok.-Nr.:  99074402 I  Geschäftsnummer: 2022.FINGS.212 	
+
+7/8  
+
+Kanton Bern  
+Canton de Berne  
+
+Anzahl ausgestellter Ausweise  pro  Jahr wichtig (Lernfahrausweis:  300000;  Führerausweis:  
+6.5  Mio.; Ausweis  95  / Chauffeurzulassung; Fahrzeugausweis:  6  Mio.; Schiffsführerausweis:  
+300000;  Schiffsausweis:  100000). 
+
+Der  Regierungsrat dankt Ihnen für  die  Berücksichtigung seiner Anliegen. 
+
+Freundliche Grüsse 
+
+Im Namen  des  Regierungsrates  
+
+Christine  Häsler 	
+Regierungspräsidentin 	
+
+Christoph  Auer  
+Staatsschreiber 
+
+Verteiler 
+—  Finanzdirektion 
+—  Staatskanzlei 
+-  Gremien  der  digitalen Verwaltung und  der  ICT  (via  Finanzdirektion) 
+
+Beilage 
+—  Stellungnahme  der  Konferenz  der  Kantonsregierungen vom  23.  September  2022  
+
+Nicht klassifiziert  I  Letzte Bearbeitung:  01.09.20221 Version: 41  Dok.-Nr.:  990744021  Geschäftsnummer: 2022.FINGS.212 	
+
+9/8  
+
+

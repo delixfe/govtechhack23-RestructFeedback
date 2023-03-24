@@ -1,0 +1,202 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+T   +41(0)31 390 39 39 
+E   catherine.rouvenaz@agile.ch 
+
+Eidgenössisches Justiz- und 
+Polizeidepartement – EJPD 
+Per E-Mail an : 
+rolf.rauschenbach@bj.admin.ch  
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Berne,10. Oktober 2022 
+
+Stellungnahme im Rahmen der Vernehmlassung zur elektronischen Identität  
+
+ 
+
+Sehr geehrte Damen und Herren 
+ 
+Wir  bedanken  uns  für  die  Vorlage  und  den  erläuternden  Bericht  zum  Vorentwurf  des 
+Bundesgesetztes  über  den  elektronischen  Identitätsnachweis  und  andere  elektronische 
+Nachweise (E-ID-Gesetz, BGEID). 
+
+AGILE.CH  begrüsst  die  Einführung  eines  staatlichen  elektronischen  Identitätsnachweises 
+grundsätzlich. In unserer Stellungnahme beschränken wir uns auf den Aspekt der Barrierefreiheit, 
+der beim hier vorliegenden Gesetzesvorhaben von grosser Bedeutung ist. 
+ 
+Grundsätzliche Erwägungen: 
+
+AGILE.CH ist überrascht, dass der Aspekt der E-Accessibility keine Erwähnung in der Vorlage 
+findet. Weder im Vorentwurf für das E-ID-Gesetz noch im erläuternden Bericht wird auf diesen 
+wichtigen Aspekt eingegangen. Diesen Mangel gilt es zu beseitigen, indem im Gesetz sowie den 
+ausführenden  Bestimmungen  detailliert  geregelt  wird,  wie  die  digitale  Barrierefreiheit  (E-
+Accessability)  auf  allen  Ebenen  sichergestellt  wird.  In  der  Entwicklung  sind  sämtliche 
+Umsetzungsschritte  im  Hinblick  auf  den  Standard  eCH-0059  Version  3.0  (oder  spätere 
+Versionen)  zu  prüfen,  der  sich  auf  die  international  anerkannten  Web  Content  Accessibility 
+Guidelines WCAG 2.1 des World Wide Web Consortium W3C stützt und ergänzend Instrumente 
+zur Förderung von E-Accessibility nutzt, welche von der E-Accessibility-Richtlinie der EU inspiriert 
+sind. 
+
+Die Schweiz hat 2014 die UNO-Behindertenrechtskonvention (UNO-BRK) unterzeichnet. Artikel 
+9 der UNO-BRK fordert den gleichberechtigten Zugang für Menschen mit Behinderungen zu allen 
+zentralen Bereichen des täglichen Lebens, um ihnen eine unabhängige Lebensführung und die 
+volle  Teilhabe  in  allen  Lebensbereichen zu  ermöglichen.  Dies  schliessen  auch  die Information 
+
+AGILE.CH 
+Secrétariat général 
+Effingerstrasse 55 
+3008 Berne 
+
+ 
+
++41 (0)31 390 39 39 
+www.agile.ch 
+info@agile.ch 
+
+CCP 30-16945-0 
+IBAN CH49 0900 0000 3001 69450 
+
+ 
+
+Page 1 
+
+und  Kommunikation,  einschliesslich  der  entsprechenden  Technologien  und  -systeme  ein.  Das 
+Behindertengleichstellungsgesetz (BehiG) schreibt in Art. 14 vor, dass die Behörden im Verkehr 
+mit  der  Bevölkerung  Rücksicht  auf  die  besonderen  Anliegen  der  Sprach-,  Hör-  oder 
+Sehbehinderten  nehmen  müssen.  Ohne  Gewährleistung  der  E-Accessability  wären  vor  allem 
+Menschen  mit  Sehbeeinträchtigung  vom  staatlichen  Angebot  in  Form  eines  staatlichen 
+elektronischen 
+Identitätsnachweises  sowie  einer  staatlichen  elektronischen  Brieftasche 
+ausgeschlossen.  
+
+Die  Schweiz  ist  also  vertraglich  und  gesetzlich  verpflichtet,  die  barrierefreie  Nutzung 
+elektronischer Dienste sicherzustellen.  
+
+ 
+
+Praktische Überlegungen: 
+
+Für  Menschen  mit  Sehbeeinträchtigung  stellt  die  Digitalisierung  eine  Chance  dar  zu  einem 
+breiteren  Zugang  zu  Dienstleistungen  aller  Art.  Die  digitalen  Kommunikationskanäle  sind  das 
+eigentliche  Tor  zu  den 
+für  die  sehbehinderten  Menschen.  Zwingende 
+Voraussetzung  für  die  Nutzbarkeit  der  digitalen  Angebote  ist  aber,  dass  diese  barrierefrei  zur 
+Verfügung stehen. Deshalb muss vor jeder Publikation eines Web-basierten Produkts und auch 
+vor jedem Update geprüft werden, ob dieses barrierefrei zugänglich ist. Bei der Beschaffung von 
+digitalen Produkten muss zudem zwingend das design-for-all-Prinzip zur Anwendung kommen, 
+analog dem europäischen Recht. 
+
+Informationen 
+
+Zu diesem Zweck ist die zu entwickelnde Informatikinfrastruktur unbedingt auf sämtlichen Ebenen 
+nachhaltig  barrierefrei  zu  planen  und  die  Barrierefreiheit  durch  entsprechende  Tests 
+sicherzustellen. Wir verweisen diesbezüglich auch auf die Antwort des Bundesrates auf die Frage 
+22.7406 von Nationalrätin Franziska Ryser, in der er ausführt, dass der standardmässige Einsatz 
+von Usability-Tests im Rahmen der Weiterentwicklung der Instrumente zur Gewährleistung der 
+Barrierefreiheit geprüft wird. Die Freigabe bzw. Lancierung der E-ID darf erst erfolgen, wenn 
+die Barrierefreiheit durch Fachpersonen aus dem Kreis der Betroffenen bestätigt worden 
+ist. Es ist zudem sicherzustellen, dass bei jeder Anpassung und jedem Update die Barrierefreiheit 
+erneut geprüft wird. Neue Versionen dürfen erst freigegeben werden, wenn die Barrierefreiheit 
+durch Fachpersonen aus dem Kreis der Betroffenen bestätigt worden ist. Dies ist leider aktuell 
+nicht gewährleistet. 
+
+ 
+
+Anträge: 
+
+1.  Im Bundesgesetz über den elektronischen Identitätsnachweis (E-ID-Gesetz, BGEID) sei 
+ein  eigener  Artikel  «Barrierefreiheit»  aufzunehmen.  Darin  ist  der  Grundsatz  der 
+barrierefreien Nutzbarkeit festzuschreiben. Dies gilt für sämtliche Infrastrukturebenen die 
+
+AGILE.CH 
+Secrétariat général 
+Effingerstrasse 55 
+3008 Berne 
+
+ 
+
++41 (0)31 390 39 39 
+www.agile.ch 
+info@agile.ch 
+
+CCP 30-16945-0 
+IBAN CH49 0900 0000 3001 69450 
+
+ 
+
+Page 2 
+
+von  Antragstellenden,  Inhaber:innen  einer  E-ID,  Aussteller:innen,  Verifikator:innen  und 
+weiteren Usergruppen genutzt oder betrieben werden können.  
+
+2.  In  den  Ausführungsbestimmungen  zum  E-ID-Gesetz  sei  ein  eigenes  Kapitel  zur 
+Barrierefreiheit aufzunehmen. Dieses beschreibt  detailliert, wie die Zugänglichkeit des 
+elektronischen  Identitätsausweises  für  Menschen  mit  Beeinträchtigungen  sichergestellt 
+wird.  
+
+3.  Zur  Kontrolle  der  Barrierefreiheit  sei  ein  Auftrag  an  eine  anerkannte  Fachinstitution  zu 
+erteilen, die zusammen mit betroffenen Personen die Infrastruktur im Hinblick auf die 
+Barrierefreiheit prüft. 
+
+ 
+
+Wir danken Ihnen für die Betrachtung unserer Stellungnahme. 
+
+ 
+
+AGILE.CH Die Organisationen von Menschen mit Behinderungen 
+ 
+ 
+
+Raphaël de Riedmatten 
+
+ 
+ 
+Geschäftsleiter 
+ 
+
+Catherine Rouvenaz 
+ 
+ 
+ 
+Secrétaire romande 
+
+ 
+
+ 
+
+AGILE.CH 
+Secrétariat général 
+Effingerstrasse 55 
+3008 Berne 
+
+ 
+
++41 (0)31 390 39 39 
+www.agile.ch 
+info@agile.ch 
+
+CCP 30-16945-0 
+IBAN CH49 0900 0000 3001 69450 
+
+ 
+
+Page 3 
+
+

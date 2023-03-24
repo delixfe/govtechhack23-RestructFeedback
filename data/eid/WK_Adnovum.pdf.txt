@@ -1,0 +1,333 @@
+ 
+
+ 
+
+Bundesrätin Karin Keller-Sutter 
+Vorsteherin des Eidgenössischen Justiz- 
+und Polizeidepartements EJPD 
+Bundeshaus West 
+CH-3003 Bern 
+ 
+Einreichung per Mail an: 
+rechtsinformatik@bj.admin.ch 
+ 
+ 
+ 
+Zürich, 7. Oktober 2022 
+ 
+ 
+Betreff: Vernehmlassung Bundesgesetz über den elektronischen Identitäts- 
+nachweis und andere elektronische Nachweise (E-ID-Gesetz, BGEID) 
+ 
+ 
+Sehr geehrte Frau Bundesrätin  
+Sehr geehrte Damen und Herren 
+ 
+Wir danken Ihnen für die Gelegenheit, uns zum Vorentwurf des neuen E-ID-Gesetzes 
+als langjähriger Dienstleistungspartner des Bundes äussern zu dürfen. 
+ 
+Als Experten im Bereich Identity und Access Management, Mitgründer des Vereins 
+cardossier, aktives Mitglied des Vereins DIDAS und Co-Initiant der SSI-Initiative mit dem 
+Kanton AG setzen wir uns seit mehreren Jahren in unterschiedlichen Projekten mit den 
+Themen E-ID und Self-Sovereign Identity intensiv auseinander. In diesem Kontext 
+pflegen wir einen regen Austausch mit Vertreterinnen und Vertretern der Wirtschaft, der 
+IT-Branche sowie Non-Profit-Organisationen. Dabei stellen wir fest, dass der neue 
+Vorschlag für das E-ID-Gesetz auf breite positive Resonanz stösst. Zudem werden die 
+Geschwindigkeit und die Transparenz des Gesetzgebungsprozesses von allen 
+Beteiligten sehr geschätzt. Da der Vorentwurf bereits eine sehr hohe Qualität aufweist, 
+fokussiert sich unsere Stellungnahme mehrheitlich auf Empfehlungen für die 
+Umsetzung. Die Kommentare zu einzelnen Artikeln finden Sie im Anhang.  
+ 
+ 
+Gestaltung des neuen E-ID-Ökosystems  
+ 
+Wir begrüssen es, dass Bürgerinnen und Bürger mit der neuen E-ID einen universell 
+einsetzbaren Identitätsnachweis mit hohem Datenschutz erhalten sollen, der die Online-
+Anmeldungen und die Onboarding-Prozesse stark vereinfacht und sicherer macht. 
+ 
+Im Sinne einer ganzheitlichen digitalen Transformation sind wir jedoch der Meinung, 
+dass die E-ID ihr volles Potenzial erst mit der Umsetzung eines umfangreichen E-ID-
+Ökosystems mit Einbezug aller Wirtschaftssektoren wie Bildung, Gesundheit, Finanz 
+und Mobilität entfaltet. Wie wir in verschiedenen Umsetzungs-Projekten wie cardossier 
+oder der SSI-Initiative mit dem Kanton AG aufzeigen konnten, ermöglicht das E-ID-
+Ökosystem nicht nur eine effizientere Ausstellung und Verifikation digitaler Nachweise, 
+
+Adnovum Informatik AG 
+Schweiz 
+ 
+
+Badenerstrasse 170 
+8004 Zürich 
+
+T +41 44 272 61 11 
+info@adnovum.ch 
+
+adnovum.com 
+Seite 1/5 
+
+ 
+
+sondern auch die Gestaltung neuer Arbeitsprozesse und allenfalls neuer 
+Geschäftsmodelle. Richtig eingesetzt bringt das Ökosystem damit markante Vorteile für 
+alle Akteure, also sowohl für die Wirtschaft und die Verwaltung als auch für Bürgerinnen 
+und Bürger.  
+ 
+Für den Erfolg der E-ID ist es aus unserer Sicht deshalb zentral, dass bei der Gestaltung 
+und Umsetzung des neuen Gesetzes dem E-ID-Ökosystem die gleiche Aufmerksamkeit 
+geschenkt wird wie der E-ID selbst. 
+ 
+ 
+Verbindliche und ausgeglichene Governance 
+ 
+Ein wichtiger Erfolgsfaktor für einen hohen Nutzen der E-ID ist eine frühzeitige und aus-
+balancierte Regelung der Governance für die Nutzung der Vertrauensinfrastruktur. Sie 
+definiert die Rollen der einzelnen Akteure und die Regeln. So wird zum Beispiel festge-
+legt, wie die Identität der Beteiligten verifiziert wird, wie die hoheitlichen Nachweise stan-
+dardisiert werden, wie der Zugang zur Vertrauensinfrastruktur geregelt ist und wie die 
+Gebührenstruktur für die Nutzung der Infrastruktur gestaltet wird. Diese Governance-
+Themen müssen frühzeitig geklärt werden, damit sich die verschiedenen Akteure auf die 
+Nutzung der Vertrauensinfrastruktur vorbereiten sowie sinnvolle Anwendungen und al-
+lenfalls Produkte identifizieren und mit dem nötigen Investitionsschutz implementieren 
+können. Dabei sollte sich der Bund an den bereits existierenden Rollen- und Verantwor-
+tungs-Modellen orientieren, die in den o.g. Wirtschaftssektoren bereits implementiert 
+sind. 
+ 
+ 
+Bürgerinnen und Bürger im Zentrum 
+ 
+Ein weiteres Thema, das bei der Gestaltung und Umsetzung des neuen Gesetzes mit 
+Priorität angegangen werden muss, ist die Akzeptanz in der Bevölkerung. Der Erfolg der 
+E-ID hängt davon ab, wie konsequent und überzeugend das Gesetz aus der Perspektive 
+der Nutzerinnen und Nutzer zu Ende gedacht und umgesetzt wird (z.B. praxisrelevante 
+Anwendungsfälle, Benutzerfreundlichkeit der Wallets, breite Hardware-Kompatibilität, 
+Delegation von Rechten, einfaches Backup und rasche Wiederherstellung bei Verlust 
+etc.). Dies ist deshalb besonders wichtig, weil die Self-Sovereign-Identity die Verantwor-
+tung für die Verwaltung der Identität weitgehend an die Bürgerinnen und Bürger dele-
+giert. Das Spannungsfeld zwischen Sicherheit, Kundenerfahrung und Betriebsorganisa-
+tion muss deshalb aus der Optik der Nutzerbedürfnisse betrachtet und gelöst werden.  
+ 
+ 
+Vertrauen in die Technologie durch offene Standards und 
+Referenzimplementierungen 
+ 
+Das Vertrauen in die eingesetzte Technologie bildet die Basis für den Erfolg der E-ID. 
+Damit Bürgerinnen und Bürger der Technologie vertrauen, braucht es robuste offene 
+Standards und solide Referenzimplementierungen. Abhängig von der Kritikalität der An-
+wendungsfälle und den rechtlichen Anforderungen müssen strenge Sicherheits- und 
+Qualitätsanforderungen für kritische Architekturkomponenten der Vertrauensinfrastruktur 
+und der Integrationskomponenten gelten, die durch Zertifizierung durchgesetzt werden.  
+ 
+
+Adnovum Informatik AG 
+Schweiz 
+ 
+
+Badenerstrasse 170 
+8004 Zürich 
+
+T +41 44 272 61 11 
+info@adnovum.com 
+
+adnovum.com 
+Seite 2/5 
+
+ 
+
+Der Bund soll die Standards sowie die Zertifizierungsprozesse für die relevanten Kompo-
+nenten des E-ID-Ökosystems definieren und verwalten (z. B. in Form von eCH-Stan-
+dards, welche die W3C/DIF-Standards ergänzen und Anforderungen für Aussteller, Inha-
+ber und Prüfer definieren). Diese Standards sollten sich an der internationalen Umset-
+zung (insbesondere eIDAS 2.0) orientieren. 
+ 
+Für spezifische Architekturkomponenten empfehlen wir, dass der Bund Referenzimple-
+mentierungen veröffentlicht. Dabei soll berücksichtigt werden, dass die Niveaus 2 und 3 
+des E-ID-Ökosystems auf eine einfache Integration in die Businessprozesse von Unter-
+nehmen und Verwaltungsprozesse der Kantone und Gemeinden angewiesen sind. Dies 
+muss durch ein technologisch adaptives Konzept ermöglicht werden. 
+ 
+ 
+Enge Zusammenarbeit von Privatwirtschaft und Verwaltung 
+ 
+Die oben geschilderten Themen sind komplex und verlangen deshalb ein iteratives Vor-
+gehen. Aus unserer Sicht ist es wünschenswert, die Privatwirtschaft zum Beispiel in 
+Form von gemeinsamen Arbeitsgruppen, Studien und Pilotprojekten frühzeitig zu invol-
+vieren. So können wir gemeinsam innerhalb der erwähnten Spannungsfelder schnell die 
+notwendigen Erkenntnisse gewinnen, um das E-ID-Ökosystem agil und gewinnbringend 
+zu gestalten. 
+ 
+ 
+Fazit  
+ 
+Adnovum steht hinter dem neuen Gesetz, vor allem im Hinblick auf das E-ID-Ökosys-
+tem, das zusammen mit der E-ID einen markanten Digitalisierungs-Vorteil für alle Betei-
+ligten bringt.  
+ 
+Aus unserer Sicht werden die E-ID und das E-ID-Ökosystem ein Erfolg sein, wenn man  
+‒  dem E-ID-Ökosystem die gleiche Aufmerksamkeit schenkt wie der E-ID selbst, 
+‒  die Governance frühzeitig und ausbalanciert definiert, 
+‒  die Nutzenden ins Zentrum stellt, 
+‒  das Vertrauen in die Technologie durch offene Standards und Referenzimplementie-
+
+rungen fördert, 
+
+‒  und die Erfahrungen der Privatwirtschaft von Beginn an einbindet.  
+ 
+Als langjähriger Vertrauens- und Umsetzungspartner des Bundes freuen wir uns, dieses 
+Vorhaben zu unterstützen.  
+ 
+ 
+Freundliche Grüsse 
+ 
+ 
+ 
+Stefan Hediger                                                                     Stéphane Mingot 
+Managing Director Public Sector                                         Head of Adnovum Incubator 
+ 
+ 
+Anhang: Kommentare zu einzelnen Artikeln 
+
+Adnovum Informatik AG 
+Schweiz 
+ 
+
+Badenerstrasse 170 
+8004 Zürich 
+
+T +41 44 272 61 11 
+info@adnovum.com 
+
+adnovum.com 
+Seite 3/5 
+
+ 
+
+ 
+ 
+ 
+
+Referenz 
+Art. 5 e 
+ 
+
+Art. 12.1 
+
+Art 13.2 
+
+Art. 15 
+
+Anhang: Kommentare zu einzelnen Artikeln 
+
+Kommentar 
+"Das fedpol widerruft die E-ID unverzüglich, wenn: e. für dieselbe Person 
+eine neue E-ID ausgestellt wird." 
+ 
+Dies impliziert, dass es pro Person nur eine E-ID augestellt werden kann. 
+In der digitalen Welt könnte diese Einschränkung, die für physische 
+Ausweise Sinn macht, negative Auswirkungen haben. Es kann durchaus 
+sinnvoll und nötig sein, dass eine Person in mehreren Wallets eine E-ID 
+besitzt. Insbesondere für Anwendungsfälle, in welchen eine Verifikatorin 
+Daten von mehreren elektronischen Ausweisen verlangt. Der Inhaber kann 
+für solche Fälle z.B. auf dem Firmentelefon Wallet die E-ID mit weiteren 
+Nachweisen zu seiner Rolle in der Firma und auf dem privaten Telefon 
+eine Wallet mit E-ID und weiteren Nachweisen aus seinem privaten 
+Kontext verwalten. Daher empfehlen wir dies nicht im Gesetz 
+auszuschliessen.  
+"1 Wer elektronische Nachweise ausstellen möchte, kann die Infrastruktur 
+nach dem 5. Abschnitt nutzen." 
+ 
+Dieser Artikel könnte restriktiver formuliert werden, so dass die 
+Ausstellung eines Zertifikats nur unter Beachtung der Governance der 
+vertrauenswürdigen Infrastruktur zulässig ist. Zum E-ID-Ökosystem 
+gehören auch Richtlinien, Vorgaben, Rahmenbedingungen etc., welche 
+vom Aussteller erfüllt werden müssen, um ausstellen zu dürfen. 
+"1 Die Ausstellerinnen können die von ihnen ausgestellten elektronischen 
+Nachweise widerrufen. 
+ 
+2 Sie widerrufen diese unverzüglich, wenn: 
+a. die Inhaberin oder der Inhaber dies verlangt; 
+b. die gesetzliche Vertretung von Minderjährigen bis zum vollendeten 
+vierzehnten Lebensjahr oder von Personen unter umfassender 
+Beistandschaft dies verlangt; 
+c. der begründete Verdacht auf Missbrauch des elektronischen 
+Nachweises besteht; "  
+ 
+Dieser Artikel geht davon aus, dass alle Nachweise revozierbar sein 
+müssen, und schliesst die Austellung und Nutzung von nicht-revozierbaren 
+Nachweisen aus. 
+Die Regel für die Erstellung, den Widerruf und die Verwendung privater 
+Beweismittel muss nicht unbedingt im Gesetz verankert sein, sondern im 
+Governance-Framework. 
+Übertragbarkeit von elektronischen Nachweisen 
+1 Elektronische Nachweise können nicht einer anderen Inhaberin oder ei-
+nem anderen Inhaber übertragen werden.  
+
+Im Fall von Minderjährigen, falls eine Übertragbarkeit in das Wallet der 
+Eltern nicht möglich ist, soll mindestens eine Art Delegation der Rechte für 
+die Nutzung des E-ID des Minderjährigen möglich sein. 
+
+Adnovum Informatik AG 
+Schweiz 
+ 
+
+Badenerstrasse 170 
+8004 Zürich 
+
+T +41 44 272 61 11 
+info@adnovum.com 
+
+adnovum.com 
+Seite 4/5 
+
+ 
+
+Referenz 
+Art. 17.1 
+
+Art. 18.2  
+
+Art. 24 
+
+ 
+ 
+
+Kommentar 
+"Der Bund stellt ein öffentlich zugängliches Register (Basisregister) zur 
+Verfügung, das Daten enthält über: 
+a. die Ausstellerinnen elektronischer Nachweise; 
+b. die Verifikatorinnen; 
+c. den Widerruf von elektronischen Nachweisen." 
+ 
+Die Daten der Verifikatorinnen müssen nicht zwingend im Basisregister 
+publiziert werden, sondern im separaten Vertrauensregister (Trust 
+Registry). 
+ 
+"Der Bundesrat kann vorsehen, dass der Bund auch die Zuordnung von 
+Identifikatoren und Schlüsseln von privaten Ausstellerinnen und Verifikato-
+rinnen bestätigt".  
+
+Aus unserer Sicht sind der Einbezug bzw. die Zulassung und Bestätigung 
+von ausgewählten privaten Ausstellerinnen und Verifikatorinnen für einen 
+erfolgreichen E-ID-Ökosystem zwingend notwendig. Dies sollte daher nicht 
+nur als Möglichkeit formuliert, sondern als Tatsache.   
+"Der Betrieb der Elemente der Vertrauensinfrastruktur erfolgt durch eine 
+Leistungserbringerin innerhalb der Bundesverwaltung."  
+ 
+Im Sinne der Vertrauensbildung und der föderalen Struktur unseres 
+Staates Rechnung tragend, könnten Elemente der Vertrauensinfrastruktur 
+auch durch kantonale oder kommunale Leistungserbringer betrieben 
+werden. 
+
+Adnovum Informatik AG 
+Schweiz 
+ 
+
+Badenerstrasse 170 
+8004 Zürich 
+
+T +41 44 272 61 11 
+info@adnovum.com 
+
+adnovum.com 
+Seite 5/5 
+
+

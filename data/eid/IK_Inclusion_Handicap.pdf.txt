@@ -1,0 +1,343 @@
+ 
+
+Vorsteherin des Eidgenössischen 
+Justiz- und Polizeidepartements EJPD 
+
+Per E-Mail an: rechtsinformatik@bj.admin.ch  
+
+Bern, 20. Oktober 2022 
+
+VERNEHMLASSUNGSANTWORT 
+
+Bundesgesetz über den elektronischen Identitätsnachweis und 
+andere elektronische Nachweise (E-ID-Gesetz, BGEID) 
+
+Sehr geehrte Frau Bundesrätin, sehr geehrte Damen und Herren 
+
+Inclusion Handicap vertritt als Dachverband der Behindertenorganisationen die Inte-
+ressen der rund 1,8 Mio. Menschen mit Behinderungen in der Schweiz.1 Die Abteilung 
+Gleichstellung von Inclusion Handicap hat die Aufgabe, die Umsetzung und Weiter-
+entwicklung des Behindertengleichstellungsrechts zu fördern und dadurch die au-
+tonome Lebensführung von Menschen mit Behinderungen in allen Aspekten des 
+täglichen Lebens zu unterstützen. 
+
+Die Bundesverfassung (BV)2 verbietet in Art. 8 Abs. 2 Diskriminierungen wegen einer 
+körperlichen,  geistigen oder  psychischen Behinderung. Art. 8 Abs.  4  BV verpflichtet 
+den  Gesetzgeber,  Massnahmen  zur Beseitigung  der  Benachteiligung  von  Men-
+schen mit Behinderungen zu ergreifen. Demnach müssen die in Erarbeitung stehen-
+den oder einer Revision unterliegenden Gesetze sowie Verordnungen immer auch un-
+ter dem Aspekt der Gleichstellung von Menschen mit Behinderungen überprüft wer-
+den. Führen sie zu einer direkten oder indirekten Diskriminierung, sind sie mit Art. 8 
+Abs. 2 BV nicht vereinbar. Den Auftrag von Art. 8 Abs. 4 BV hat der Bundesgesetzge-
+ber bis jetzt hauptsächlich durch den Erlass des Behindertengleichstellungsgesetzes 
+
+                                            
+1 Bundesamt für Statistik BFS, Anzahl Menschen mit Behinderungen. 
+2 Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999 (BV; SR 101). 
+
+Vernehmlassungsantwort E-ID-Gesetz (BGEID) 
+
+ 
+ 
+
+(BehiG)3 wahrgenommen,  aber auch durch  die Verankerung von behindertengleich-
+stellungsrechtlicher Vorschriften in der Spezialgesetzgebung. 
+
+Zudem verpflichtet die UNO-Konvention über die Rechte von Menschen mit Behinde-
+rungen (BRK)4 die Schweiz seit Mai 2014 zur Berücksichtigung derer Anliegen, insbe-
+sondere auch im Gesetzgebungsverfahren (Art. 4 Abs. 1 lit. a und b BRK). Weiter hat 
+der Staat bei der Ausarbeitung von Rechtsvorschriften, die Menschen mit Behinderun-
+gen betreffen, Behindertenorganisationen aktiv miteinzubeziehen (Art. 4 Abs. 3 BRK). 
+
+1. Behindertengleichstellungsrechtliche Grundlagen 
+
+1.1 Recht auf Autonomie von Menschen mit Behinderungen 
+
+Das Recht von Menschen mit Behinderungen, autonom am gesellschaftlichen Leben 
+teilzuhaben,  steht  im  Zentrum  des  Behindertengleichstellungsrechts  sowohl  auf  der 
+Ebene  des  Völkerrechts  als  auch  auf  der  Ebene  des  Verfassungs-  und  Gesetzes-
+rechts.  Die  BRK  garantiert  u.a.  das  Recht  auf  ein  unabhängiges  und  selbstbe-
+stimmtes Leben5 und verankert die Achtung der individuellen Autonomie, einschliess-
+lich der Freiheit, eigene Entscheidungen zu treffen, sowie der Unabhängigkeit als all-
+gemeinen  Grundsatz  (Art.  3  lit.  a  BRK).  Die  Gewährleistung  der  Möglichkeit  einer 
+autonomen Lebensführung von Menschen mit Behinderungen stellt auch einen zent-
+ralen Teilgehalt des Diskriminierungsverbotes von Art. 8 Abs. 2 BV dar.6  
+
+Zum Recht auf Autonomie gehört insbesondere auch das Recht auf autonomen Zu-
+gang  zu  Information  und  Kommunikation,  einschliesslich  Informations-  und 
+Kommunikationstechnologien und  -systeme, und  damit u.a. das Recht, Informa-
+tions-  und  Kommunikationstechnologien  und  -systeme  grundsätzlich  ohne  fremde 
+Hilfe  zu  benutzen. Wenn  Informations-  und  Kommunikationstechnologien  und  -sys-
+teme für Menschen mit Behinderungen nur mit Hilfe Dritter zugänglich sind, ist ihr un-
+abhängiges und selbstbestimmtes Handeln in einem Bereich, der für eine autonome 
+Lebensführung von zentraler Bedeutung ist, nicht gewährleistet. Dadurch werden Men-
+schen mit Behinderungen gegenüber Menschen ohne Behinderungen benachteiligt. 
+
+1.2  Pflicht zur Gewährleistung der Zugänglichkeit (Barrierefreiheit) 
+
+Art.  9  Abs. 1  BRK  verpflichtet  die  Schweiz,  geeignete  Massnahmen  zu  treffen,  um 
+Menschen mit Behinderungen den gleichberechtigten Zugang zu Information und 
+
+                                            
+3 Bundesgesetz über die Beseitigung von Benachteiligungen von Menschen mit Behinderungen vom 
+13. Dezember 2013 (Behindertengleichstellungsgesetz, BehiG; SR 151.3). 
+4 Übereinkommen über die Rechte von Menschen mit Behinderungen vom 13. Dezember 2006, in 
+Kraft getreten für die Schweiz am 15. Mai 2014 (BRK; SR 0.109). 
+5 Botschaft zur Genehmigung des Übereinkommens vom 13. Dezember 2006 über die Rechte von 
+Menschen mit Behinderungen vom 19. Dezember 2012, BBl 2013 661, S. 665. 
+6 MARKUS SCHEFER/CAROLINE HESS-KLEIN, Behindertengleichstellungsrecht, Bern 2014, S. 181. 
+
+2 
+
+ 
+
+ 
+ 
+
+Vernehmlassungsantwort E-ID-Gesetz (BGEID) 
+
+ 
+ 
+
+Kommunikation,  einschliesslich  Informations-  und  Kommunikationstechnolo-
+gien und -systeme, zu gewährleisten. Dieser Zugang soll Menschen mit Behinderun-
+gen deren unabhängige Lebensführung und die volle Teilhabe in allen Lebensbe-
+reichen ermöglichen. Zugänglichkeit i.S.v. Art. 9 BRK, insbesondere auch zu Informa-
+tion und Kommunikation, ist wesentliche Voraussetzung dafür, dass Menschen mit Be-
+hinderungen unabhängig leben, voll und gleichberechtigt an der Gesellschaft teilhaben 
+und  in den  uneingeschränkten  Genuss  aller  ihrer  Menschen- und  Grundrechte 
+kommen, und zwar gleichberechtigt mit anderen.7 Sie ist für die Inklusion von zentraler 
+Bedeutung. 
+
+Dabei ist zu unterscheiden zwischen der Zugänglichkeit, die sich auf Gruppen bezieht, 
+und angemessenen Vorkehrungen, die sich auf Einzelpersonen beziehen. Die Pflicht 
+zur Gewährleistung der Zugänglichkeit (Barrierefreiheit) ist bedingungslos und 
+eine Pflicht ex ante: Die Zugänglichkeit (Barrierefreiheit) ist bereits vor und unabhän-
+gig von individuellen Rechten und Anträgen zu gewährleisten, z.B. durch universelles 
+Design (design for all). Für Menschen mit Behinderungen, für die trotz dieser Zugäng-
+lichkeit der Zugang nicht gewährleistet ist, müssen zusätzlich angemessene Vorkeh-
+rungen i.S.v. Art. 2 BRK getroffen werden, es sei denn, dies wäre unverhältnismässig. 
+Dabei handelt es sich um eine Pflicht ex nunc.8 Die Verweigerung des Zugangs, ins-
+besondere auch zu Information und Kommunikation und den entsprechenden Tech-
+nologien  und Systemen, stellt eine Diskriminierung aufgrund von Behinderung i.S.v. 
+Art. 5 BRK dar.9  
+
+Nach Art. 9 BRK10 müssen auch bei der Entwicklung von Informations- und Kommuni-
+kationstechnologien und -systemen, einschliesslich des Internets und digitalen Dienst-
+leistungen, die Bedürfnisse von Menschen mit Behinderungen berücksichtigt werden. 
+Die Schweiz ist somit verpflichtet, zur Sicherstellung des Zugangs von Menschen mit 
+Behinderungen zu digitalen Dienstleistungen die nötigen Massnahmen zu ergrei-
+fen. Dabei hat sie  nach Art. 9 Abs.  2 lit.  b BRK insbesondere  auch sicherzustellen, 
+dass private Rechtsträger, die öffentlich-zugängliche  Dienste  anbieten,  alle  Aspekte 
+der Zugänglichkeit für Menschen mit Behinderungen berücksichtigen. Art. 14 Abs. 1 
+BehiG hält zudem fest, dass Behörden im Verkehr mit der Bevölkerung Rücksicht auf 
+die  besonderen  Anliegen  der  Menschen  mit  Sprach-,  Hör-  oder  Sehbehinderungen 
+nehmen  müssen.  Soweit  Behörden  ihre  Dienstleistungen  online  anbieten,  müssen 
+diese  gemäss  Art.  14  Abs.  2  BehiG  für  Menschen  mit  Sehbehinderungen  ohne  er-
+schwerende Bedingungen zugänglich sein. Die Schweiz ist somit rechtlich verpflichtet, 
+
+                                            
+7 United Nations, Committee on the Rights of Persons with Disabilities CRPD, General comment No. 2 
+(2014), 22 May 2014, CRPD/C/GC/2, p. 4, para. 14. 
+8 United Nations, Committee on the Rights of Persons with Disabilities CRPD, General comment No. 2 
+(2014), 22 May 2014, CRPD/C/GC/2, p. 7 f., para. 25 f. 
+9 United Nations, Committee on the Rights of Persons with Disabilities CRPD, General comment No. 2 
+(2014), 22 May 2014, CRPD/C/GC/2, p. 10, para. 34. 
+10 Vgl. insbesondere Art. 9 Abs. 1 lit. b und Abs. 2 lit. a, b,f und g BRK. 
+
+3 
+
+ 
+
+ 
+ 
+
+Vernehmlassungsantwort E-ID-Gesetz (BGEID) 
+
+ 
+ 
+
+die barrierefreie Nutzung sowohl staatlicher elektronischer Dienste als auch pri-
+vater elektronischer Dienste sicherzustellen (E-Accessibility). 
+
+2. Anwendung auf das E-ID-Gesetz 
+
+2.1 Ausdrückliche Verankerung der Zugänglichkeit (Barrierefreiheit) 
+
+Vor diesem Hintergrund ist für Inclusion Handicap nicht nachvollziehbar, dass die 
+Zugänglichkeit  (Barrierefreiheit)  des  elektronischen  Identitätsnachweises  und  der 
+anderen elektronischen Nachweise sowie der damit einhergehenden Infrastruktur für 
+Menschen mit Behinderungen in der Vorlage nicht enthalten ist. Weder im Vorent-
+wurf für  das E-ID-Gesetz noch im Erläuternden Bericht wird  auf das entsprechende 
+Recht von Menschen mit Behinderungen und die entsprechende rechtliche Pflicht der 
+Behörden eingegangen.  
+
+Relevant im Zusammenhang mit dem Vorentwurf des E-ID-Gesetzes ist insbesondere 
+Art. 9 BRK11 als allgemeine Klausel zur Gewährleistung der Zugänglichkeit. Um Be-
+nachteiligungen von Menschen mit Behinderungen zu verhindern, welche die Dienst-
+leistungen gemäss dem Vorentwurf zum E-ID-Gesetz – die Ausstellung und die Nut-
+zung einer E-ID und weiterer elektronischer Nachweise sowie die Installation und Nut-
+zung einer Brieftasche – in Anspruch nehmen, müssen diese Dienstleistungen dem-
+zufolge nach dem design for all ausgestaltet sein (Art. 2 Abs. 5 BRK). Im vorliegen-
+den Zusammenhang von Bedeutung ist auch Art. 5 Abs. 2 BRK, der ein Verbot der 
+Diskriminierung wegen einer Behinderung beinhaltet. Schliesslich hat sich die Schweiz 
+als Folge von Art. 4 Abs. 1 lit. e BRK ausdrücklich dazu verpflichtet, alle geeigneten 
+Massnahmen zur Beseitigung der Diskriminierung aufgrund von Behinderung  zu er-
+greifen. 
+
+Eine Umsetzung der Verpflichtungen aus der BRK hat im vorliegenden Vorentwurf zum 
+E-ID-Gesetz  offensichtlich  erneut  nicht  stattgefunden;  dies  war  bereits  beim  am 
+7. März 2021 abgelehnten Vorentwurf zum E-ID-Gesetz der Fall. Um sicherzustellen, 
+dass Menschen mit Behinderungen aus den Möglichkeiten gesellschaftlicher Teilhabe, 
+die durch die Nutzung einer E-ID und weiterer elektronischer Nachweise eröffnet wer-
+den,  nicht  ausgeschlossen  werden,  fordert  Inclusion  Handicap,  die  Anforderungen 
+an  die  hindernisfreie  Ausgestaltung  ausdrücklich  im  Rahmen  verschiedener 
+Bestimmungen des E-ID-Gesetzes sowie der Ausführungsbestimmungen zu ver-
+ankern. Ohne Gewährleistung der E-Accessibility sind Menschen mit Behinderungen, 
+insbesondere Menschen mit Sehbehinderungen, vom staatlichen Angebot einer E-ID, 
+
+                                            
+11 Zur Tragweite von Art. 9 BRK siehe aus der Lehre PETER TRENK-HINTERBERGER, Zugänglichkeit, 
+Art. 9, in: Kreutz Marcus/Lachwitz Klaus/Trenk-Hinterberger Peter (Hrsg.), Die UNO-Behinderten-
+rechtskonvention in der Praxis, Köln 2013, S. 130 ff. sowie ANTJE WELTI, Zugänglichkeit, Art. 9, in: 
+Welke Antje (Hrsg.), UN-Behindertenrechtskonvention mit rechtlichen Erläuterungen, Ettenheim 2012, 
+S. 127 ff. 
+
+4 
+
+ 
+
+ 
+ 
+
+Vernehmlassungsantwort E-ID-Gesetz (BGEID) 
+
+ 
+ 
+
+weiteren staatlichen Angeboten elektronischer Nachweise und privaten elektronischen 
+Nachweisen sowie einer elektronischen Brieftasche ausgeschlossen. 
+
+Diese Benachteiligung gilt es zu beseitigen, indem im Gesetz sowie den ausführenden 
+Bestimmungen detailliert geregelt wird, wie die digitale Barrierefreiheit (E-Acces-
+sibility) auf allen Ebenen sichergestellt wird. In der Entwicklung sind u.a. sämtliche 
+Umsetzungsschritte im Hinblick auf die jeweils aktuelle Version des Standards eCH-
+0059 (aktuell: Version 3.0) zu prüfen, der sich auf die international anerkannten Web 
+Content Accessibility  Guidelines WCAG  (aktuell: Version  2.1) des World Wide Web 
+Consortium W3C stützt und ergänzend Instrumente zur Förderung von E-Accessibility 
+nutzt, die von der E-Accessibility-Richtlinie der EU inspiriert sind. Zu denken ist ferner 
+z.B.  auch  an  Leichte  Sprache. Wir  ersuchen  Sie  zudem,  zwecks  Überprüfung  der 
+Vereinbarkeit des Gesetzesentwurfs mit BRK, BV und BehiG sowie der Formulierung 
+von  konkreten  Gesetzesbestimmungen  mit  dem  Eidgenössischen  Büro  für  die 
+Gleichstellung von Menschen mit Behinderungen (EBGB) und den Behinderten-
+organisationen Kontakt aufzunehmen und diese beizuziehen.  
+
+2.2 Laufende Prüfung der Zugänglichkeit (Barrierefreiheit) 
+
+Weiter muss vor jeder Publikation eines webbasierten Produkts und auch vor jedem 
+Update geprüft werden, ob diese barrierefrei zugänglich sind. Bei der Beschaffung 
+von digitalen Produkten muss zudem zwingend das Prinzip des design for all zur An-
+wendung kommen, analog zum europäischen Recht. Dabei ist neben E-Accessibility 
+u.a. auch an Leichte Sprache zu denken. 
+
+Zu diesem Zweck ist die zu entwickelnde Informatikinfrastruktur unbedingt auf sämtli-
+chen Ebenen nachhaltig barrierefrei zu planen und die Zugänglichkeit (Barrierefrei-
+heit)  durch  entsprechende  Tests  sicherzustellen.  Wir  verweisen  diesbezüglich 
+auch auf die Antwort des Bundesrates auf die Frage 22.7406 von Nationalrätin Fran-
+ziska Ryser, in der er  ausführt, dass der standardmässige Einsatz von Usability-
+Tests im Rahmen der Weiterentwicklung der Instrumente zur Gewährleistung der Bar-
+rierefreiheit geprüft wird.12 Die Freigabe bzw. Lancierung der E-ID und weiterer elekt-
+ronischer Nachweise darf erst erfolgen, wenn die Barrierefreiheit durch Fachpersonen 
+aus dem Kreis der Betroffenen bestätigt worden ist. Es ist zudem sicherzustellen, dass 
+bei jeder Anpassung und jedem Update die Barrierefreiheit erneut geprüft wird. Neue 
+Versionen dürfen erst freigegeben werden, wenn die Barrierefreiheit durch Fachper-
+sonen aus dem Kreis der Betroffenen bestätigt worden ist. Dies ist leider aktuell nicht 
+gewährleistet, wie aktuelle Beispiele beim Bund (z.B. beim elektronischen Patienten-
+dossier, beim elektronischen Einreiseformular oder beim Covid-Zertifikat) oder in den 
+Kantonen (kantonale eID+ Schaffhausen) zeigen. 
+
+                                            
+12 Bundesrat, Antwort vom 7. Juni 2022 auf die Frage 22.7406 «Digitale Exklusion – Einsatz von Usa-
+bility-Tests» von Nationalrätin Franziska Ryser vom 1. Juni 2022.  
+
+5 
+
+ 
+
+ 
+ 
+
+Vernehmlassungsantwort E-ID-Gesetz (BGEID) 
+
+ 
+ 
+3. Anträge von Inclusion Handicap 
+
+Aus diesen Gründen stellen wir folgende Anträge:  
+
+1.  Im Bundesgesetz über den elektronischen Identitätsnachweis (E-ID-Gesetz, 
+
+BGEID) sei ein eigener Artikel «Barrierefreiheit» aufzunehmen. Darin ist der 
+Grundsatz der barrierefreien Nutzbarkeit festzuschreiben. Dies gilt für 
+sämtliche Infrastrukturebenen, die von Antragstellenden, Inhaber:innen, Aus-
+steller:innen, Verifikator:innen und weiteren Usergruppen genutzt oder betrie-
+ben werden können.  
+
+2.  In den Ausführungsbestimmungen zum E-ID-Gesetz sei ein eigenes Kapitel 
+
+zur Barrierefreiheit aufzunehmen. In diesem Kapitel sei detailliert zu be-
+schreiben, wie die Zugänglichkeit (Barrierefreiheit) des elektronischen Iden-
+titätsausweises und anderer elektronischer Nachweise für Menschen mit Be-
+hinderungen sichergestellt wird.  
+
+3.  Zur Kontrolle der Zugänglichkeit (Barrierefreiheit) sei ein Auftrag an eine 
+
+anerkannte Fachinstitution zu erteilen, die zusammen mit betroffenen Per-
+sonen die Infrastruktur im Hinblick auf die Barrierefreiheit prüft. 
+
+ 
+Bis heute sind die Grundlagen des Behindertengleichstellungsrechts im Dienstleis-
+tungsbereich und insbesondere im Bereich der E-Accessibility in der Praxis wenig 
+bekannt. Sogar in der Bundesverwaltung sind sich viele Behörden ihrer Verpflichtun-
+gen immer noch zu wenig bewusst. Eine klare Verankerung und Konkretisierung 
+der behindertengleichstellungsrechtlichen Anforderungen in der jeweils relevanten 
+Spezialgesetzgebung kann dies ändern und zur konsequenten Umsetzung der 
+Rechte von Menschen mit Behinderungen beitragen. 
+ 
+Wir danken Ihnen im Voraus für die Berücksichtigung unserer Stellungnahme. Gerne 
+stehen wir Ihnen für Rückfragen zur Verfügung.  
+
+Freundliche Grüsse 
+Inclusion Handicap 
+
+Dr. iur. Caroline Hess-Klein 
+Leiterin Abt. Gleichstellung 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+lic. iur. Nuria Frei, Rechtsanwältin 
+Fachmitarbeiterin Abt. Gleichstellung 
+
+ 
+
+ 
+ 
+ 
+ 
+
+6 
+
+ 
+
+ 
+ 
+
+

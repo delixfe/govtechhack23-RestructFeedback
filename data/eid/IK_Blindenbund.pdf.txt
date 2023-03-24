@@ -1,0 +1,191 @@
+Zürich, 17. Oktober 2022 
+
+ 
+
+Schweizerischer Blindenbund 
+Selbsthilfe blinder und sehbehinderter Menschen 
+
+ 
+
+GEMEINSAM NACH VORNE SEHEN. 
+ 
+Geschäftsstelle 
+Friedackerstrasse 8 
+8050 Zürich 
+Tel. 044 317 90 00; Fax 044 317 90 01 
+info@blind.ch; www.blind.ch 
+
+ 
+ 
+Eidgenössisches Justiz- und Polizeidepartement EJPD 
+Frau Bundesrätin Karin Keller-Sutter  
+Bundesamt für Justiz 
+ 
+Per E-Mail an:  rechtsinformatik@bj.admin.ch 
+Dateiformate:  gleichlautend als PDF und Word  
+ 
+ 
+ 
+ 
+ 
+Vorentwurf des Bundesgesetzes über den elektronischen Identitätsnachweis und andere 
+elektronische Nachweise (E-ID-Gesetz, BGEID)  
+
+ 
+
+ 
+
+Sehr geehrte Frau Bundesrätin Karin Keller-Sutter 
+
+Sehr geehrte Damen und Herren 
+
+ 
+
+Der Schweizerische Blindenbund (SBb) ist eine Selbsthilfeorganisation blinder und sehbehinder-
+ter Menschen mit rund 40 Mitarbeiterinnen und Mitarbeitern. Er gewährleistet in 8 Beratungsstel-
+len die professionelle Durchführung von Massnahmen, die eine weitgehende Selbständigkeit 
+blinder und sehbehinderter Menschen in materieller, beruflicher, gesellschaftlicher und kulturel-
+ler Hinsicht ermöglichen und unterstützen sollen. 
+
+ 
+
+Mit Schreiben vom 29.06.2022 haben Sie den Schweizerischen Blindenbund zur Stellungnahme 
+zur rubrizierten Vernehmlassung eingeladen. Dafür bedanken wir uns bestens.  
+
+ 
+
+Grundsätzlich begrüsst der SBb die Einführung eines staatlichen elektronischen Identitätsnach-
+weises.  
+
+ 
+
+Der Schweizerische Blindenbund (SBb) unterstützt die Positionen von Procap Schweiz und dem 
+SBV und folgen diesen weitestgehend in unserer Vernehmlassungsantwort.  
+ 
+
+Wir beschränken uns in unserer Antwort auf den Bereich der Barrierefreiheit, der beim hier vor-
+liegenden Gesetzesvorhaben für Menschen mit Behinderungen - insbesondere Blinde und Seh-
+behinderte - von äusserst grosser Wichtigkeit ist. 
+
+ 
+
+Grundsätzliche Erwägungen: 
+
+Der SBb ist erstaunt, dass der Aspekt der E-Accessibility keine Erwähnung in der Vorlage findet. 
+Weder im Vorentwurf für das E-ID-Gesetz noch im erläuternden Bericht wird auf diesen wichti-
+gen Aspekt eingegangen. Diesen Mangel gilt es zu beseitigen, indem im Gesetz sowie den aus-
+führenden Bestimmungen detailliert geregelt wird, wie die digitale Barrierefreiheit (E-
+
+Unsere Beratungsstellen: Aarau, Bern Kurse, Brig, Schaffhausen, Thun, Uznach, Winterthur, Zürich 
+
+Postkonto: PC 80-11151-1, IBAN CH12 0900 0000 8001 1151 1, CHE-105.837.595 MWST 
+
+Accessibility) auf allen Ebenen sichergestellt wird. In der Entwicklung sind sämtliche Umset-
+zungsschritte im Hinblick auf den Standard eCH-0059 Version 3.0 (oder spätere Versionen) zu 
+prüfen, der sich auf die international anerkannten Web Content Accessibility Guidelines WCAG 
+2.1 des World Wide Web Consortium W3C stützt und ergänzend Instrumente zur Förderung von 
+E-Accessibility nutzt, welche von der E-Accessibility-Richtlinie der EU inspiriert sind. 
+
+ 
+
+Die Schweiz hat 2014 die UNO-Behindertenrechtskonvention (UNO-BRK, Übereinkommen über 
+die Rechte von Menschen mit Behinderungen) ratifiziert. Artikel 9 der UNO-BRK fordert den 
+gleichberechtigten Zugang für Menschen mit Behinderungen zu allen zentralen Bereichen des 
+täglichen Lebens, um ihnen eine unabhängige Lebensführung und die volle Teilhabe in allen Le-
+bensbereichen zu ermöglichen. Dies schliesst auch die Information und Kommunikation, ein-
+schliesslich der entsprechenden Technologien und -systeme ein. Das Bundesgesetz über die 
+Beseitigung von Benachteiligungen von Menschen mit Behinderungen(BehiG) schreibt in Art. 14 
+vor, dass die Behörden im Verkehr mit der Bevölkerung Rücksicht auf die besonderen Anliegen 
+der Sprach-, Hör- oder Sehbehinderten nehmen müssen. Ohne Garantierung der E-Accessibility 
+wären Menschen mit Sehbeeinträchtigung vom staatlichen Angebot in Form eines staatlichen 
+elektronischen Identitätsnachweises sowie einer staatlichen elektronischen Brieftasche ausge-
+schlossen.  
+
+ 
+
+Die Schweiz ist also vertraglich und gesetzlich verpflichtet, die barrierefreie Nutzung elektroni-
+scher Dienste sicherzustellen.  
+
+ 
+
+Praktische Überlegungen: 
+
+Für Menschen mit Sehbeeinträchtigung ist die Digitalisierung eine Chance für einen umfassen-
+den Zugang zu Dienstleistungen aller Art. Die digitalen Kommunikationskanäle sind das eigentli-
+che Tor zu den Informationen für die blinden und sehbehinderten Menschen. Zwingende Vo-
+raussetzung für die Nutzbarkeit der digitalen Angebote ist aber, dass diese barrierefrei zur Ver-
+fügung stehen. Deshalb muss vor jeder Publikation eines Web-basierten Produkts und auch vor 
+jedem Update geprüft werden, ob dieses barrierefrei zugänglich ist. Bei der Beschaffung von di-
+gitalen Produkten muss zudem zwingend das design-for-all-Prinzip zur Anwendung kommen, 
+analog europäischem Recht. 
+
+ 
+
+Zu diesem Zweck ist die zu entwickelnde Informatikinfrastruktur unbedingt auf sämtlichen Ebe-
+nen nachhaltig barrierefrei zu planen und die Barrierefreiheit durch entsprechende Tests sicher-
+zustellen. Auf die Frage 22.7406 von Nationalrätin Franziska Ryser antwortet der Bundesrat, 
+dass der standardmässige Einsatz von Usability-Tests im Rahmen der Weiterentwicklung der 
+Instrumente zur Gewährleistung der Barrierefreiheit geprüft wird. Die Freigabe bzw. Lancierung 
+der E-ID darf erst erfolgen, wenn die Barrierefreiheit durch Fachpersonen aus dem Kreis der Be-
+troffenen bestätigt worden ist. Es ist zudem sicherzustellen, dass bei jeder Anpassung und je-
+dem Update die Barrierefreiheit erneut geprüft wird. Neue Versionen dürfen erst freigegeben 
+werden, wenn die Barrierefreiheit durch Fachpersonen aus dem Kreis der Betroffenen bestätigt 
+worden ist. Dies ist leider aktuell nicht gewährleistet, wie aktuelle Beispiele beim Bund (z.B. 
+beim elektronischen Patientendossier, beim elektronischen Einreiseformular oder beim Covid-
+Zertifikat) oder in den Kantonen (kantonale E-ID Schaffhausen) zeigen. 
+
+ 
+
+Anträge: 
+
+1.  Im Bundesgesetz über den elektronischen Identitätsnachweis (E-ID-Gesetz, BGEID) ist 
+ein eigener Artikel «Barrierefreiheit» aufzunehmen. Darin ist der Grundsatz der barriere-
+freien Nutzbarkeit festzuschreiben. Dies gilt für sämtliche Infrastrukturebenen, die von 
+
+ 
+
+2 
+
+Antragstellenden, InhaberInnen einer E-ID, AusstellerInnen, VerifikatorInnen und weite-
+ren Usergruppen genutzt oder betrieben werden können.  
+
+2.  In den Ausführungsbestimmungen zum E-ID-Gesetz ist ein eigenes Kapitel zur Barriere-
+freiheit aufzunehmen. Dieses beschreibt detailliert, wie die Zugänglichkeit des elektroni-
+schen Identitätsausweises für Menschen mit Beeinträchtigungen sichergestellt wird.  
+
+3.  Zur Kontrolle der Barrierefreiheit ist ein Auftrag an eine anerkannte Fachinstitution zu er-
+teilen, die zusammen mit betroffenen Personen die Infrastruktur im Hinblick auf die Barri-
+erefreiheit prüft. 
+
+ 
+
+Nachträgliche Massnahmen zur Gewährleistung der Zugänglichkeit von IT-Projekten bleiben lü-
+ckenhaft, unbefriedigend und verursachen hohe Kosten, die verhindert werden können. 
+
+ 
+
+ 
+Wir danken Ihnen für die Gelegenheit zur Stellungnahme und bitten Sie, unsere Anliegen zu be-
+rücksichtigen. 
+ 
+Freundliche Grüsse 
+ 
+Schweizerischer Blindenbund 
+
+ 
+
+Paul Cuska 
+Stv. Geschäftsführer 
+
+ 
+
+ 
+
+Roland Gossweiler 
+Delegierter des Vorstandes für Sozialpolitik und Interessensvertretung 
+
+ 
+
+3 
+
+

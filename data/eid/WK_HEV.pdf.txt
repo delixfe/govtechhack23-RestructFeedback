@@ -1,0 +1,232 @@
+Hauseigentümerverband 
+Schweiz   
+
+ 
+
+Seefeldstrasse 60 
+Postfach   8032 Zürich 
+
+ 
+
+Tel.  044  254 90 20   info@hev-schweiz.ch 
+Fax. 044  254 90 21   www.hev-schweiz.ch 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Eidgenössisches Justiz- und Polizeidepar-
+tement EJPD 
+Frau Bundesrätin Karin Keller-Sutter 
+Bundeshaus West 
+3003 Bern 
+ 
+ 
+per E-Mail:  
+rechtsinformatik@bj.admin.ch 
+
+20. Oktober 2022 
+
+ 
+ 
+ 
+Zürich, 
+ 
+ 
+ 
+Stellungnahme des HEV Schweiz 
+ 
+Vernehmlassung  zum Bundesgesetz  über  den  elektronischen  Identitätsnachweis  und 
+andere elektronische Nachweise (E-ID-Gesetz, BGEID) 
+ 
+Sehr geehrter Frau Bundesrätin 
+Sehr geehrte Damen und Herren 
+ 
+I. 
+
+Einleitende Bemerkung 
+
+Mit Ihrem Schreiben vom 29. Juni 2022 haben Sie das Vernehmlassungsverfahren zum Bun-
+desgesetz über den elektronischen Identitätsnachweis und andere elektronische Nachweise 
+(E-ID-Gesetz, BGEID) eröffnet. Der HEV Schweiz ist mit seinen rund 340'000 Mitgliedern der 
+grösste Vertreter der Haus-, Grund- und Stockwerkeigentümer in der Schweiz. Da die Interes-
+sen unserer Mitglieder von der Änderung des E-ID-Gesetzes (BGEID) betroffen sind, halten 
+wir Folgendes fest. 
+ 
+II.  Zur Vorlage 
+
+Der Gesetzesvorentwurf soll die Grundlagen für die Einführung der staatlichen elektronischen 
+Identität  (E-ID)  in  der  Schweiz  schaffen.  Der  Bund  überprüft  die  Identität  einer  Person  und 
+stellt ihr eine E-ID aus. Die E-ID und andere elektronische Nachweise werden über eine vom 
+Bund zur Verfügung gestellte staatliche Vertrauensinfrastruktur herausgegeben. Der Geset-
+zesvorentwurf regelt die Anforderungen an diese Infrastruktur, die sowohl öffentlichen als auch 
+privaten Akteuren zur Verfügung stehen wird. 
+ 
+
+Der HEV Schweiz stellt sich nicht gegen eine staatliche E-ID. Aber der HEV Schweiz hat 
+sich  seit  jeher  gegen  eine  systematische  Verwendung  der  AHV-Nummer  als  Perso-
+nenidentifikator aufgrund des hohen Missbrauchspotentials ausgesprochen und gegen 
+deren Verknüpfung mit anderen Registern.  
+ 
+Der HEV Schweiz äussert sich im Folgenden nur zur Bestimmung betreffend AHV-Nummern-
+verwendung  und  erlaubt  sich  überdies  einen  Hinweis  zum  14.  Altersjahr als  Grenze für  die 
+Errichtung bzw. den Widerruf der E-ID.  
+ 
+1.  Art. 3 lit. a nBGEID Form und Inhalt: AHV-Nummer 
+
+Gemäss nBGEID enthält eine E-ID die folgenden Personenidentifikationsdaten: den amtlichen 
+Namen, die Vornamen, das Geburtsdatum, das Geschlecht, den Geburtsort, die Nationalität 
+und das Gesichtsbild aus dem Informationssystem Ausweisschriften (ISA) oder dem zentralen 
+Migrationsinformationssystem  (ZEMIS).  Diese  Daten  sind  in  den  amtlichen  Registern  des 
+Staates verfügbar, auf die fedpol nach Art. 11 Abs. 3 nBGEID Zugriff hat. Verlangt ein Verifi-
+katorin einen Nachweis, so kann der Inhaber ihr alle diese Daten oder gewisse davon über-
+mitteln (Art. 2 nBGEID). Neben den Personenidentifikationsdaten enthält eine E-ID zusätzliche 
+Informationen. Es handelt sich um folgende Daten: die AHV-Nummer; die E-ID-Nummer; ihr 
+Ausstellungsdatum; ihr Ablaufdatum; Angaben zum Ausweis, der im Ausstellungsprozess ver-
+wendet wurde, insbesondere Typ, Nummer und Gültigkeitsdauer des Ausweises; und Anga-
+ben zum Ausstellungsprozess (diese werden auf Verordnungsstufe ausführlicher geregelt, Art. 
+3 nBGEID).  
+ 
+Der erläuternde Bericht zum Vorentwurf führt dazu Folgendes aus: «Aus Gründen der Trans-
+parenz werden in Artikel 2 die Daten aufgeführt, die die E-ID enthält. Dabei handelt es sich um 
+Personenidentifizierungsdaten (Abs. 2) und weitere Daten (Abs. 3). Die Personenidentifizie-
+rungsdaten der Inhaberin oder des Inhabers umfassen: den amtlichen Namen, die Vornamen, 
+das Geburtsdatum, das Geschlecht, den Geburtsort, die Nationalität und das Gesichtsbild aus 
+ISA und ZEMIS. Diese Daten sind in den amtlichen Registern des Staates verfügbar, auf die 
+fedpol nach Artikel 11 Absatz 3 Zugriff hat. Nebst den Personenidentifizierungsdaten enthält 
+eine E-ID die AHV-Nummer sowie weitere Daten, welche bei der Ausstellung der E-ID gene-
+riert werden: Dabei handelt es sich um die E-ID-Nummer, das Ausstellungsdatum, das Ablauf-
+datum und die Angaben zum Ausstellungsprozess. Ferner enthält die E-ID Daten zum Aus-
+weis, der zur Ausstellung der E-ID verwendet wurde, insbesondere Typ, Nummer und Gültig-
+keitsdauer des Ausweises. Details werden in einer Verordnung noch präzisiert werden.» 
+ 
+Das  Problem  der  systematischen  Verwendung  der  AHV-Nummer  als  Personenidentifikator 
+stellte sich erstmals im Rahmen der ZGB-Revision im Bereich Personenstand und Grundbuch. 
+Der HEV Schweiz  lehnt  diese Verwendung aus Gründen des Datenschutzes und der Miss-
+brauchsgefahr nach wie vor ab. Auch Adrian Lobsiger, eidgenössischer Datenschutz- und Öf-
+fentlichkeitsbeauftragter und die kantonalen Datenschutzbeauftragten lehnen diese Verwen-
+dung der AHV-Nummer ab. Eine Verknüpfung der verschiedenen Register birgt enormes Miss-
+brauchspotential und erleichtert den „Identitätsklau“ immens. Eine ETH Studie von Prof. Dr. 
+David Basin teilt diese Meinung. Sie hält fest, dass bereits jetzt in über 14‘000 administrativen 
+und  organisatorischen  Registern  persönliche  und  sensible  Daten  gespeichert  und  mit  der 
+AHV-Nummer  indexiert  sind.  Sowohl  die  AHV-Nummer  als  auch  Vorname,  Nachname  und 
+Geburtsdatum werden in diesen Registern verwendet, um Personen mit Daten zu verknüpfen. 
+Falls die Daten entwendet werden, sind die dazugehörigen Personen deshalb identifizierbar. 
+
+ 
+
+2/4 
+
+Die Verknüpfung der verschiedenen Register ermöglicht es Angreifern, umfangreiche Informa-
+tionsprofile der betroffenen Personen zu erstellen,  so die Studie. Diesem Missbrauchsrisiko 
+gilt es Einhalt zu gebieten und der „Identitätsklau“ muss verhindert werden. Mit dem automa-
+tischen  Informationsaustausch  in  Steuersachen  wird  die  AHV-Nummer,  welche  als  Steueri-
+dentifikator dient, sogar ins Ausland übermittelt. Dies erhöht das Risiko des Missbrauchs. Trotz 
+aller Risiken beschloss das Parlament die AHV-Nummer als Personenidentifikator zu verwen-
+den,  weshalb  diese  inskünftig  direkt  im  Grundbuch  vermerkt  wird  (nArt.  949b  ZGB).  Immer 
+mehr Gesetze sehen die Verwendung der AHV-Nummer als Personenidentifikator vor. 
+ 
+Nach der Vernehmlassung zum aBGEID hat der Bundesrat aufgrund der geäusserten Kritik 
+von  der  Verwendung  der  AHV-Nummer  zwecks Generierung  der  E-ID  abgesehen,  was  der 
+HEV  Schweiz  begrüsst hat.  Das  aBGEID  wurde  an  der  Urne  am  7.  März  2021  deutlich mit 
+65% Nein-Stimmen abgelehnt.   
+ 
+Auch im vorliegenden Entwurf sieht der Bundesrat von der Verwendung der AHV-Num-
+mer  zwecks  Generierung  der  E-ID  ab.  Der  HEV  Schweiz  begrüsst  dies  ausdrücklich. 
+Umso  unverständlicher  ist  aber,  dass  der  Bundesrat  nun  im  vorliegenden  Entwurf  zum 
+nBGEID  vorschlägt,  dass  nebst  weiteren  Angaben  (beispielsweise  E-ID-Nummer)  auch  die 
+AHV-Nummer in der E-ID enthalten sein soll. Die E-ID Nummer und die AHV-Nummer werden 
+somit nebeneinander in der E-ID aufgeführt, damit findet eine weitere Verknüpfung statt. An-
+gesichts  der  inzwischen beschlossenen  Änderung  des  AHVG,  welche  die  umfassende  Ver-
+wendung der AHV-Nummer als Personenidentifikator durch dazu berechtigte Behörden, und 
+damit einer immensen Anzahl an Personen, erlaubt, wird der Datenschutz vorliegend erst recht 
+torpediert. Die Gefahr des «Identitätsklaus» steigt umso mehr und ebenso die Missbrauchs-
+gefahr. Der HEV Schweiz lehnt deshalb Art. 3 lit. a nBGEID ab.  
+ 
+
+Antrag HEV Schweiz zu Art. 3 lit. a nBGEID: streichen. 
+
+ 
+2.  Art. 4 Abs. 2 nBGEID Ausstellung: Alter und Art. 5 lit. b nBGEID Widerruf 
+
+Der HEV Schweiz erlaubt sich folgenden Hinweis:  
+Unklar ist, weshalb der Bundesart das 14. Altersjahr für die Errichtung bzw. den Widerruf einer 
+E-ID  für  bedeutsam  erklären  will.  Zwar  verweist  der  Erläuterungsbericht  auf  eine  (für  die 
+Schweiz nicht verbindliche) EU-Verordnung, welche eine Altersgrenze von 16 Jahren vorsieht, 
+welche von den Mitgliedstaaten bis auf 13 Jahre gesenkt werden kann (der Inhalt des entspre-
+chenden Artikels wurde sodann bei der Reform des Datenschutzgesetzes nicht übernommen). 
+Dies begründet aber nicht im geringsten, weshalb Schweizer Jugendliche ausgerechnet mit 
+14 Jahren mit der entscheidenden Urteilskraft ausgestattet sein sollten. Es gäbe dann in der 
+Schweiz die folgenden, diversesten «Mündigkeiten» - das heisst Urteilsfähigkeit und (unein-
+geschränkte) Handlungsfähigkeit:  
+ 
+
+  10 Jahre (Jugend-)Strafmündigkeit 
+  13 Jahre medizinische Mündigkeit 
+  14 Jahre informationelle Mündigkeit 
+  16 Jahre sexuelle Mündigkeit  
+  18 Jahre in allen übrigen Bereichen.  
+
+ 
+Der HEV Schweiz regt an,  das 14. Altersjahr für die Errichtung bzw. den Widerruf  der E-ID 
+nochmals zu überdenken, damit in diesem Bereich nicht ein «Wildwuchs» entsteht – und dies 
+ohne Not.  
+
+3/4 
+
+ 
+
+III.  Fazit 
+
+ 
+
+Der HEV Schweiz begrüsst zwar, dass von der Verwendung der AHV-Nummer zwecks 
+Generierung der E-ID abgesehen wurde. Er lehnt aber die parallele Führung von AHV-
+Nummer  und  E-ID  Nummer  in  der  E-ID  aufgrund  der  Gefährdung  des  Datenschutzes, 
+des grossen Missbrauchspotential und der Gefahr des «Identitätsklaus» aufgrund der 
+Verknüpfung ab. Zudem regt er an, die Altersgrenze (14. Altersjahr) für die Errichtung 
+und den Widerruf der E-ID zu überdenken.  
+ 
+Sehr geehrte  Frau  Bundesrätin,  sehr geehrte  Damen  und  Herren,  wir  danken Ihnen für die 
+Berücksichtigung unserer Stellungnahme. 
+ 
+Freundliche Grüsse 
+ 
+Hauseigentümerverband Schweiz 
+ 
+ 
+ 
+aNR Hans Egloff 
+Präsident HEV Schweiz 
+ 
+ 
+ 
+
+MLaw Annekäthi Krebs 
+Rechtskonsulentin 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+4/4 
+
+

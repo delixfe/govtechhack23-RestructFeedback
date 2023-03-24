@@ -1,0 +1,672 @@
+ 
+
+CONSEIL D’ETAT 
+ 
+ 
+Château cantonal 
+1014 Lausanne 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Madame la Conseillère fédérale 
+Karin Keller-Suter 
+Cheffe du Département fédéral de justice 
+et police 
+DFJP 
+3000  Berne 
+ 
+Par courrier électronique à : 
+rechtsdienst@gs-efd.admin.ch 
+
+Lausanne, le 5 octobre 2022 
+
+ 
+ 
+Loi fédérale  sur  l’identité  électronique et  autres  moyens  de  preuve électroniques 
+(LeID) – Avant-projet – Procédure de consultation 
+ 
+ 
+ 
+Madame la Conseillère fédérale, 
+ 
+Le  Conseil  d’Etat  du  Canton  de  Vaud  vous  remercie  d’avoir  sollicité  son  avis  dans  le 
+cadre  de  la  procédure  de  consultation  sur  l’avant-projet  de  la  loi  fédérale  sur  l’identité 
+électronique et autres moyens de preuve électroniques (LeID).  
+
+Une identité électronique fiable accélérera la numérisation des administrations publiques 
+et  participera  grandement  à  la  transition  numérique  de  notre  pays.  Le  Conseil  d’Etat 
+salue  la  diligence  avec  laquelle  le  Conseil  fédéral,  après  le  refus  en  votation  populaire 
+du précédent projet de loi en mars 2021, a su prioriser ce thème important. Il se réjouit 
+de  constater  que  ce  nouveau  projet  prend  en compte  les  éléments  qui  faisaient  défaut 
+dans  le  précédent  projet,  en  particulier  le  rôle  et  la  responsabilité  de  la  Confédération 
+dans  la  délivrance  des  identités  et  dans  la  mise  à  disposition  et  le  maintien  de 
+l’infrastructure  de  confiance,  le  respect  de  la  sphère  privée  par  une  décentralisation  et 
+une minimisation des données personnelles, l’extension du périmètre à un écosystème 
+global qui inclura des moyens de preuve électroniques de tout type ou encore la gratuité 
+pour l’ensemble des individus. Le Conseil d’Etat constate encore que l’avant-projet tient 
+compte  de  la  compatibilité  de  l’identité  électronique  avec  les  projets  européens,  ce  qui 
+est primordial dans un contexte de mobilité et d’amélioration de l’expérience utilisateur. 
+Finalement,  il  reconnait  également  l’importance  que  cette  identité  puisse  être  utilisée 
+dans  de  nombreux  domaines,  en  particulier  celui  de  la  santé  numérique  et  du  dossier 
+électronique du patient. 
+
+Si le Conseil d’Etat soutient de manière générale cet avant-projet qui va dans le sens de 
+la volonté populaire exprimée en votation, il formule toutefois les réserves et remarques 
+suivantes qu’il vous prie de bien vouloir prendre en considération. Les observations ci-
+après sont d’ordre général. Une annexe à ce courrier regroupe les observations article 
+par article et fait partie intégrante de cette prise de position. 
+
+ 
+
+ 
+
+CONSEIL D'ETAT 
+www.vd.ch – T 41 21 316 41 59 
+
+ 
+
+ 
+
+CONSEIL D'ETAT 
+ 
+
+2 
+
+ 
+
+ 
+
+Définitions et terminologie 
+
+Le  Conseil  d’Etat  juge  opportun  d’introduire  dans  la  loi  une  disposition  spécifique 
+destinée  à  définir  certains 
+tels  que  « e-ID »,  « moyens  de  preuve 
+électroniques », « registre de base » ou encore « clé cryptographique ». Le projet de loi 
+gagnerait ainsi en clarté pour les personnes dont les connaissances ne permettent pas 
+d’appréhender la complexité de ce thème. 
+
+termes, 
+
+Simplicité et convivialité 
+
+Le  Conseil  d’Etat  est  d’avis  que  le  succès  de  la  diffusion  de  l’e-ID  au  sein  de  la 
+population  sera  possible  uniquement  si  la  procédure  pour  son  obtention  ainsi  que  son 
+utilisation quotidienne sont rendues simples et conviviales mais également accessibles à 
+l’ensemble  de  la  population,  indépendamment  de  la  réalité  de  la  fracture  numérique 
+dans  notre  pays.  Il  demande  ainsi  au  Conseil  fédéral  de  prévoir  des  dispositions 
+d’exécution dans ce sens. 
+
+De  plus,  le  Conseil  d’Etat  estime  que  la  perception  d’émoluments  pour  l’utilisation  du 
+système  des  copies  de  sécurité  (article  26,  alinéa  2)  pourrait  amener  certaines 
+personnes  à  renoncer  à  la  sécurisation  de  leur  e-ID  et  autres  moyens  de  preuve 
+électroniques, ce qui, à terme, pourrait prétériter une partie de la population. A ce titre, il 
+demande au Conseil fédéral de renoncer à ces émoluments. 
+
+D’un point de vue technique, pour que l’intégration de l’e-ID se passe au mieux dès son 
+entrée en vigueur, le Conseil d’Etat souhaite obtenir rapidement de la Confédération les 
+modèles d’échanges propres à assurer un interfaçage rapide et normalisé. Par ailleurs, 
+pour encourager la population à adopter l’e-ID, il semble indispensable que les moyens 
+de protection contre les abus d’identité et les procédures de révocation de l’e-ID fassent 
+l’objet d’une information et d’une communication systématiques. 
+
+Conditions personnelles et solutions cantonales 
+
+Le Conseil d’Etat relève que l’article 3 de l’avant-projet précise que seules les personnes 
+titulaires d’un document d’identité valable ou d’une pièce de légitimation valable pourront 
+obtenir  une  e-ID,  qui  n’est  dès  lors  pas  qu’un  simple  login  mais  bien  l’équivalent 
+numérique  de  la  pièce  d’identité.  Toutefois,  il  rappelle  que  le  cercle  des  personnes 
+interagissant avec les autorités cantonales et communales est plus large que celui prévu 
+par  cet  article  (frontaliers,  personnes  possédant  une  résidence  secondaire,  etc.).  A  ce 
+jour,  la  loi  sur  la  cyberadministration  vaudoise  permet  d’attribuer  des  moyens 
+d’identification  électronique  à  l’ensemble  de  la  population  avec  laquelle  l’administration 
+cantonale interagit. Le Conseil d’Etat estime donc indispensable que le Conseil fédéral 
+examine  la  possibilité  d’introduire  une  e-ID  spécifique  avec  un  champ  d’application 
+restreint  pour  la  population  qui  ne  remplit  pas  les  conditions  personnelles  prévues  à 
+l’article 3 mais qui interagit régulièrement avec les administrations suisses. 
+
+Pour  résoudre  cette  difficulté,  il  pourrait  également  se  révéler  indispensable  que  les 
+cantons  poursuivent 
+(moyens 
+d’identification électronique) dans le cadre de leur cyberadministration. Ainsi, le Conseil 
+d’Etat demande au Conseil fédéral de déterminer le statut de ces moyens d’identification 
+électronique  par  rapport  à  la  nouvelle  e-ID  et  de  préciser  que  ces  derniers  pourront 
+toujours être utilisés pour des prestations nécessitant une authentification forte. 
+
+leur  propre  solution  cantonale 
+
+l’exploitation  de 
+
+ 
+
+ 
+
+CONSEIL D'ETAT 
+www.vd.ch – T 41 21 316 41 59 
+
+ 
+
+ 
+
+CONSEIL D'ETAT 
+ 
+
+3 
+
+ 
+
+ 
+
+Mineurs 
+
+L’article  4  de  l’avant-projet  énonce  que  seuls  les  mineurs  de  moins  de  14  ans  devront 
+avoir le consentement de leur représentant légal pour recevoir une e-ID. Pour le Conseil 
+d’Etat,  il  est  loin  d’être  certain  que  tous  les  adolescents  dès  l’âge  de  14  ans  soient  à 
+même de prendre la mesure du risque lié à l’usage de leurs données personnelles ou de 
+« prêt » à un camarade de leurs e-ID. La responsabilité civile des mineurs incombe en 
+règle générale à leurs parents et il ne semble donc pas que l’exigence d’une autorisation 
+parentale  pour  tous  les  mineurs  soit  une  exigence  particulièrement  insurmontable.  Le 
+Conseil d’Etat est d’avis que l’obtention d’une e-ID par un mineur doit remplir les mêmes 
+conditions que celle pour l’obtention d’une carte d’identité ou d’un passeport dès l’instant 
+où cette e-ID peut être utilisée de manière beaucoup plus large que dans une interaction 
+avec une autorité publique. 
+
+Si  l’objectif  est  aussi  de  permettre  aux  mineurs  d’être  les  seuls  à  pouvoir  accéder  à  la 
+totalité de leur dossier électronique du patient, il semblerait alors préférable de prendre 
+d’autres  mesures,  par  exemple  en  rendant  certains  éléments  du  dossier  du  patient 
+inaccessibles aux parents du patient. 
+
+Emoluments et coûts pour les cantons  
+
+L’article 9 de l’avant-projet prévoit que toute autorité ou tout service qui accomplit des 
+tâches  publiques  doit  accepter  l’e-ID  lorsqu’il  recourt  à  l’identification  électronique. 
+Cette norme vise également les autorités cantonales et communales. Le Conseil d’Etat 
+rappelle  à  ce  titre  que  certains  cantons  ont  déjà  développé  leur  propre  système  de 
+cyberadministration  avec  des  solutions  diverses  de  moyens  d’identification 
+électronique, pour lequel ils ont assumé des coûts de mise en œuvre puis des coûts de 
+maintenance.  
+
+Ainsi, le Conseil d’Etat estime que le coût que représente l’introduction de l’e-ID pour 
+les cantons n’est pas suffisamment pris en compte dans le projet mis en consultation. 
+En  effet,  le  rapport  explicatif  indique  que  les  éventuels  coûts  d’adaptation  des 
+systèmes  cantonaux  seront  contrebalancés  par  les  gains  d’efficacité  en  lien  avec 
+l’introduction de l’e-ID. Or, à ce stade, même s’il reste très difficile de prévoir les coûts 
+des  adaptations  logicielles,  il  estprobable  que  ceux-ci  impacteront  de  nombreux 
+services  et  seront  vraisemblablement  importants.  De  même,  il  est  difficile  d’affirmer 
+que l’introduction de l’e-ID va forcément de pair avec des gains d’efficacité. Le Conseil 
+d’Etat souhaite que le Conseil fédéral détaille ce point dans son message. 
+
+De  plus,  l’obligation  faite  aux  cantons  d’accepter  l’e-ID  fédérale  a  pour  corollaire  que 
+les  cantons  auront  l’obligation  de  s’inscrire  sur  le  registre  de  base prévu  à  l’article  17 
+de l’avant-projet et donc seront obligatoirement astreints au paiement des émoluments 
+prévus  à  l’article  26  de  l’avant-projet.  Ceci  contrevient  clairement  au  principe 
+d’équivalence 
+la 
+Confédération  devrait  assumer  seule  les  effets  financiers  du  projet  ou  tout  au  moins 
+veiller à ce que l’art. 3, al. 2, Ordonnance générale sur les émoluments (OGEmol), qui 
+énonce  que  l’administration  fédérale  ne  perçoit  pas  d’émoluments  des  organes 
+intercantonaux,  des  cantons  et  des  communes  pour  autant  qu’ils  lui  accordent  la 
+réciprocité, s’applique également au cas présent et à ce que les compensations entre 
+les collectivités publiques soient réduites au minimum.  
+
+fiscale.  S’agissant  d’un  projet 
+
+fédéral, 
+
+imposé  aux  cantons, 
+
+ 
+
+ 
+
+CONSEIL D'ETAT 
+www.vd.ch – T 41 21 316 41 59 
+
+ 
+
+ 
+
+CONSEIL D'ETAT 
+ 
+
+4 
+
+ 
+
+ 
+
+Responsabilité des cantons 
+
+Le Conseil d’Etat note qu’à la question des coûts et des émoluments s’ajoute le fait que 
+les  cantons  seront  chargés,  selon  l’article  8  de  l’avant-projet,  d’offrir  une  assistance  en 
+relation  avec  l’émission  et  l’utilisation  des  e-ID.  Ils  devront  pour  ce  faire  désigner  des 
+services  chargés  de  donner  de  l’assistance  générale  en  lien  avec  différents  processus 
+cyberadministratifs  ainsi  que  des  points  de  contact  à  proximité  des  personnes  qui 
+pourraient en avoir besoin. Ces tâches nouvelles pourraient considérablement alourdir la 
+charge  de  travail  et  nécessiter  la  création  de  postes  supplémentaires.  Dès  lors,  le 
+Conseil d’Etat estime nécessaire d’examiner la possibilité de mettre sur pied un support 
+au  niveau  fédéral  (service  desk)  qui  pourrait  compléter  le  support  local  offert  par  les 
+cantons sur la base de l’article 8. 
+
+Protection des données et application des lois cantonales de protection des données 
+
+De manière générale et au vu des finalités exprimées et de la portée du projet, qui tend 
+à  la  délivrance  d’une  identité  électronique,  le  Conseil  d’Etat  est  d’avis  que  les 
+dispositions  légales  relatives  au  traitement  de  données  et  à  la  communication  dans  le 
+cadre du processus d’émission devraient être plus développées. 
+
+L’article 1, alinéa 2, liste les principes applicables, destinés à protéger la personnalité 
+et les droits fondamentaux de la personne, et essentiels pour une acceptation du projet 
+par la population. Alors que l’article 7 de la nouvelle loi fédérale sur la protection des 
+données (nLPD) parle de « protection des données dès la conception et par défaut », 
+le Conseil d’Etat note que la reprise du principe n’est que partielle à l’article 1 alinéa 2 
+lettre b chiffre 1 de l’avant-projet. Afin d’ancrer dans la loi le fait que la protection des 
+données  doit  être  systématiquement  et  automatiquement  prise  en  compte,  dans  le 
+cadre  des  développements  informatiques  notamment,  le  Conseil  d’Etat  demande  au 
+Conseil  fédéral  de  reprendre  les  principes  de  la  nLPD  dans  leur  entier  (dès  la 
+conception et par défaut). 
+
+De  plus,  au  chapitre  6.7,  le  rapport  explicatif  indique  que  «  la  Confédération  (fedpol  et 
+autres  autorités),  les  émetteurs  et  les  vérificateurs  du  secteur  public  sont  soumis  aux 
+dispositions  applicables  aux  organes  fédéraux  »,  soit  à  la  loi  fédérale  sur  la  protection 
+des  données  (LPD  puis  nLPD).  Le  Conseil  d’Etat  estime  toutefois  indispensable  de 
+préciser quelles seront les règles applicables aux traitements de données des titulaires 
+d’e-ID et autres moyens de preuve électroniques lorsque leurs données seront traitées 
+par  les  cantons  et  les  communes,  notamment  sur  les  infrastructures  propres  (par 
+exemple aux points de contact cantonaux définis à l’article 8).  
+
+ 
+
+ 
+
+CONSEIL D'ETAT 
+www.vd.ch – T 41 21 316 41 59 
+
+ 
+
+ 
+
+CONSEIL D'ETAT 
+ 
+
+5 
+
+ 
+
+ 
+
+En conclusion, le Conseil d’Etat réitère son soutien à cet avant-projet de loi qui va dans 
+le sens de la volonté populaire exprimée lors de la votation du 7 mars 2021. Il salue la 
+rapidité  avec  laquelle  le  Conseil  fédéral  a  produit  une  nouvelle  proposition  afin  de 
+disposer rapidement d’une e-ID étatique et fiable pour faciliter les échanges en ligne et 
+faire  avancer  la  numérisation  de  notre  pays.  Il  émet  toutefois  un  certain  nombre  de 
+remarques sur cet avant-projet et vous prie de bien vouloir les prendre en considération 
+lors de l’élaboration du projet de loi et du message. 
+
+En vous remerciant de l’attention que vous porterez à ce courrier, nous vous adressons, 
+Madame la Conseillère fédérale, nos salutations les meilleures. 
+ 
+ 
+
+AU NOM DU CONSEIL D’ETAT 
+
+LA PRESIDENTE 
+
+LE CHANCELIER 
+
+Christelle Luisier Brodard 
+
+ 
+
+Aurélien Buffat 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annexe mentionnée 
+ 
+ 
+ 
+ 
+Copies 
+•  Office des affaires extérieures 
+•  Direction générale du numérique et des systèmes d’information 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+CONSEIL D'ETAT 
+www.vd.ch – T 41 21 316 41 59 
+
+ 
+
+ 
+
+CONSEIL D'ETAT 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ANNEXE 
+ 
+Commentaires article par article 
+ 
+Article 1, alinéa 1, lettre a, alinéa 2, lettres a et b, et articles 4, 5, 13, 15, 16, 18 et 21 
+– notion de « personnes » 
+Le  projet  mentionne  tantôt  « personnes »,  « personnes  physiques »  ou  « personnes 
+privées ».  Cela  entraîne  des  difficultés  de  compréhension.  Il  serait  préférable  de  se 
+conformer  à  la  terminologie  du  Code  civil  en  distinguant  personnes  physiques  et 
+personnes morales. 
+
+l’infrastructure, 
+
+Article 1, alinéa 2, lettre d 
+Il serait plus clair de scinder la lettre d en deux lettres supplémentaires : « e. à assurer la 
+sécurité  de 
+f.  à  garantir  une  émission… ».  Le  commentaire 
+précise : « Différents aspects à régler au niveau de l'ordonnance seront beaucoup plus 
+équivoques sur le plan technologique, voire même plus spécifiques à la technologie ».  Il 
+faut  se  référer  aux  versions  allemande  et  italienne  pour  comprendre  le  sens  de  cette 
+phrase.  Le 
+la  manière  suivante  pour  plus  de 
+clarté : « Plusieurs aspects techniques, qui doivent être réglés par voie d’ordonnance, ne 
+sont pas encore définitivement connus d’un point de vue technologique, voire dépendent 
+de l’évolution de cette dernière. » 
+
+texte  pourrait  être  rédigé  de 
+
+Article 2 (Forme et contenu) 
+Il  est  mentionné  que  les  données  personnelles  viendront  des  registres  officiels.  A 
+l’exception des photographies, qui viendront de ISA ou SYMIC, il n’est pas mentionné, à 
+cet  article,  de  quels  registres  viendront  les  autres  informations.  Une  clarification  sur ce 
+point  serait  nécessaire,  d’’autant  qu’à  l’art.  11,  il  est  indiqué  qu’il  s’agit  des  données 
+d’ISA  et  de  SYMIC.  Il  convient  également  d’être  attentif  aux  éventuelles  différences 
+entre les sources de données.  
+
+Le  commentaire  ad  article  2,  alinéa  1  prévoit  que  la  Confédération  met  en  place  une 
+infrastructure  de confiance  qui  permettra  aux  acteurs  publics  et  privés  d’émettre  divers 
+moyens de preuve électroniques. Le commentaire fait renvoi aux limitations posées par 
+l’article  18,  alinéa  3  du  projet  mais  celui-ci  ne  pose  pas  de  telles  limitations.  Il  faudrait 
+définir ces limitations. 
+
+L’alinéa 3, lettre e, impose que la pièce de légitimation qui a été utilisée pour l’émission 
+de l’e-ID soit intégrée dans l’e-ID elle-même. Dans la mesure où les autorisations pour 
+étrangers  sont  régulièrement  sujettes  à  des  modifications  (non  renouvellement, 
+révocation, changement de statut etc.), il convient de définir si l’e-ID devra être mise à 
+jour à chacune de ces modifications. Dans l’affirmative, il faudra définir si une solution 
+technique permettra un échange d’informations entre SYMIC et l’autorité émettrice ou 
+si les cantons seront tenus de signaler tous ces changements à fedpol, moyennant un 
+surplus de travail très important pour les services cantonaux de migration. 
+
+Article 3 (Conditions personnelles) 
+L’utilisation  de  la  terminologie  « pièce  de  légitimation  valable »  ne  convient  pas  pour 
+définir  une  personne  se  trouvant  légalement  en  Suisse.  Au  sens  de  la  loi  sur  les 
+étrangers  et  l’intégration  (LEI),  la  «  pièce  de  légitimation  »  correspond  en  effet  à  un 
+passeport ou une pièce d’identité (art. 13 LEI). Par conséquent, il vaudrait mieux parler 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CONSEIL D'ETAT 
+www.vd.ch – T 41 21 316 41 59  
+
+CONSEIL D'ETAT 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+de  titulaire  de  « titre  de  séjour  valable ».  Cette  remarque  vaut  également  pour  les 
+articles 2 et 5 du projet de loi. 
+
+De  plus,  il  apparaît  par  ailleurs  nécessaire  de  préciser  si  les  ressortissants  suisses 
+vivant à l’étranger auraient la possibilité de bénéficier d’une e-ID, et si tel devait être le 
+cas, de préciser, à tout le moins, les conséquences au niveau de la communication des 
+données transfrontières entre le pays de résidence du ressortissant suisse et la Suisse. 
+De  la  même  manière,  il  convient  de  prendre  en  compte  également  la  situation  des 
+personnes bénéficiant d’une carte de légitimation du DFAE au sens de l’OLEH (enfants 
+majeurs des fonctionnaires internationaux, par exemple). 
+
+le  commentaire  ad  article  3, 
+
+Finalement, 
+lettre  b  prévoit : « Lorsque  cela  est 
+justifié et prévu  expressément  par  la  loi, il  est  possible  de  limiter  l'accès  à  certains 
+services  aux  titulaires  d'un  permis  étranger  dont  l'identité  n'a  pas  pu  être  vérifiée  de 
+façon fiable. ». Le message ne saurait étendre le champ de la loi. Or, le projet ne prévoit 
+pas expressément la limitation énoncée dans le commentaire. 
+
+Article 4 (Emission) 
+Concernant  l’alinéa  2,  il  mériterait  de  clarifier  comment  le  système  saura  qu’une 
+personne est sous curatelle. 
+
+L’alinéa 4 prévoit la possibilité pour fedpol de prendre des données biométriques d’une 
+personne  pour  pouvoir  les  comparer  avec  les  données  enregistrées  dans  SYMIC  ou 
+ISA et vérifier son identité. Or, il n’y a pas systématiquement, pour chaque bénéficiaire 
+de titre de séjour, de photo enregistrée dans SYMIC. C’est en particulier le cas dans le 
+domaine  de  l’asile,  SYMIC  ne  prévoyant  pas  d’emplacement  pour  intégrer  les  photos 
+des  titulaires  de  permis  F  ou  N.  Pour  cette  catégorie  de  personnes,  il  n’y  aura  par 
+conséquent jamais de photo qui permette de vérifier une identité. L’articulation de cette 
+disposition avec la réalité du terrain devrait être précisé dans le message, ainsi que la 
+mobilisation éventuelle des centres de biométrie cantonaux. 
+
+De  plus,  cette  disposition  constitue,  selon  le  rapport  explicatif,  la  concrétisation  du 
+principe de légalité consacré à l’art. 34 al. 2 let. c nLPD. Toutefois, en ce qui concerne la 
+collecte  et  l’utilisation  des  données  biométriques,  la  disposition  légale,  potestative, 
+apparaît  légère  en  termes  de  densité  normative.  Il  serait  nécessaire  de  préciser  dans 
+quels cas la biométrie sera utilisée et des comparaisons effectuées ainsi que le logiciel 
+qui sera utilisé. 
+
+Article 5 (Révocation) 
+Concernant la révocation des e-ID, les éléments suivants devraient être précisés dans le 
+projet de loi, respectivement dans le message : 
+-  Les aspects relatifs au rapport de droit administratif qui existera entre les requérants 
+et  fedpol  (dans  le  cas,  par  exemple,  où  fedpol  révoque  immédiatement  l’e-ID  car  il 
+existe  un  soupçon  fondé  -  dont  il  serait  d’ailleurs  judicieux  de  préciser  la  nature  - 
+d’utilisation  abusive  de  celle-ci,  il  serait  nécessaire  de  préciser  si  une  décision 
+administrative  doit  être  rendue,  et  si  cas  échéant,  la  personne  concernée  pourra 
+contester).  
+
+-  Les  mécanismes  prévus  pour  éviter  des  révocations  systématiques  lorsque  les 
+photos ne correspondent plus (lorsqu’une personne procède au renouvellement de 
+son  passeport  ou  de  sa  carte  d’identité  peu  après  avoir  établi  son  e-ID,  cette 
+
+ 
+
+ 
+
+ 
+
+CONSEIL D'ETAT 
+www.vd.ch – T 41 21 316 41 59  
+
+ 
+
+CONSEIL D'ETAT 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+dernière risque d’être révoqué dès lors que sa nouvelle photo ne correspondra plus 
+à celle ayant servi à créer son e-ID). 
+
+-  L’échange d’informations entre fedpol, SYMIC et l’autorité émettrice dans le cas du 
+refus  de  renouvellement  ou  une  révocation  du  titre  de  séjour  par  l’autorité 
+cantonale de migration qui imposera à fedpol de mettre fin à l’e-ID. 
+
+-  L’échange  d’informations  avec  fedpol  lors  d’un  décès  ou  du  retrait  du  document 
+d’identité  utilisé  lors  de  l’émission  de  l’e-ID.  Dans  ce  contexte,  il  paraît  essentiel 
+que la désactivation soit immédiate et qu’il n’y ait pas de délai de latence.  
+
+-  L’utilité d’autoriser la délivrance d’une nouvelle e-ID à quelqu’un qui en aurait déjà 
+
+une.  
+
+A noter encore qu’en français, il est étrange de trouver une phrase qui débute par une 
+minuscule (fedpol…). Le texte italien utilise une majuscule et le texte allemand précède 
+l’abréviation  d’un  article.  L’on  pourrait  soit  utiliser  la  majuscule  comme  dans  le  texte 
+italien  soit  formuler  la  phrase  à  la  voie  passive.  La  même  remarque  s’applique  à 
+l’article 11. 
+
+Article 6 (Durée de validité) 
+Si  la  durée  de  validité  de  l’e-ID  est  calquée  sur  celle  du  document  d’identité,  et  si  le 
+document d’identité arrive à échéance et n’est encore valable que quelques semaines 
+et  que  l’e-ID  a  été  créé  durant  ce  laps  de  temps,  l’e-ID  n’aura  potentiellement  que 
+quelques  semaines  de  validité.  Il  conviendrait  ainsi  d’attirer  l’attention  des  personnes 
+concernées à cet égard.  
+
+Article 8 (Points de contact cantonaux) 
+Les détails de la collaboration avec les cantons sont pour l’heure peu développés dans 
+l’AP-LeID  et  dans  le  rapport  explicatif.  Il  s’agit  de  préciser  qui  sera  responsable  du 
+traitement  des  données  effectué  par  les  cantons  aux  points  de  contact  et  quelles 
+données  seront  communiquées,  respectivement  rendues  accessibles  aux  cantons, 
+respectivement par les cantons. 
+
+Article 11 (Système d’information pour l’émission et la révocation des e-ID) 
+L’article 4, alinéa 1 pose le principe selon lequel celui qui souhaite obtenir une identité 
+électronique doit en faire la demande à fedpol. Puis l’article 11, alinéa 1 pose le principe 
+selon lequel fedpol gère un système d’information pour l’émission et la révocation des e-
+ID.  Sur  le  plan  légistique,  il  serait  souhaitable  de  placer  cet  alinéa  dans  un  article  en 
+début de loi (après l’article 1) instaurant les compétences de fedpol. 
+
+Concernant  l’alinéa  2,  il  s’agit  également  de  préciser  si  les  données  d’identification 
+personnelle  au  sens  de  l’art.  2  al.  2  AP-LeID  figureront  dans  le  système  d’information 
+pour  l’émission  et  la  révocation  des  e-ID  et  en  particulier  ce  qu’il  en  est  de  la 
+photographie  du  requérant  fournie  lors  de  la  procédure  d’émission.  Il  n’est  fait  état  de 
+cette donnée à aucun moment dans le projet de loi. Il s’agit également de préciser si les 
+cantons auront accès à ces données. 
+
+Concernant  l’alinéa  3,  il  serait  utile  de  préciser  clairement  dans  la  base  légale  que  les 
+données  seront  uniquement  consultées  et  qu’elles  ne  sont  donc  ni  dupliquées,  ni 
+sauvegardées dans le système d’information pour l’émission et la révocation des e-ID.  
+
+Il sied également de souligner que les données personnelles enregistrées dans SYMIC 
+ne  se  fondent  pas  toujours  sur  un  document  d’identité  ou  un  passeport.  Dans  le 
+domaine  de  l’asile,  l’identité  peut  se  fonder  sur  les  déclarations  de  la  personne.  Cela 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CONSEIL D'ETAT 
+www.vd.ch – T 41 21 316 41 59  
+
+CONSEIL D'ETAT 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+implique que l’identité enregistrée dans SYMIC n’est pas fiable. Par ailleurs, il existe de 
+nombreuses  personnes  qui  disposent  d’alias,  c’est-à-dire  plusieurs  identités.  Dans  le 
+meilleur des cas les alias sont identifiés comme tels, mais ce n’est pas toujours le cas. 
+
+Concernant  l’alinéa  4,  qui  dispose  du  traitement  exclusif  de  ces  données  dans  le  but 
+d’émettre  l’e-ID,  il  s’agirait  de  définir  s’il  ne  faudrait  pas  prévoir  des  communications 
+automatisées pour que fedpol soit automatiquement informé du cas lorsque le document 
+d’identité ou la pièce de légitimation utilisée lors de l’émission de l’e-ID a été retiré. 
+
+Article 12 (Emission) 
+Il  convient  de  préciser  si  les  moyens  de  preuve  électroniques  visés  à  cet  article 
+pourront  être  intégrés  dans  le  portefeuille  d’une  personne  sans  e-ID  ou  si  seuls  les 
+détenteurs d’e-ID peuvent accéder aux autres moyens de preuve. 
+
+Article 13 (Révocation) 
+En  lien  avec  les  remarques  à  l’article  5,  il  s’agit  de  préciser  la  notion  de  « soupçon 
+fondé », de définir si une décision administrative sera rendue, et le cas échéant, si la 
+personne concernée pourra contester cette décision. Cet aspect relatif aux rapports de 
+droit administratif devrait être précisé dans le message. 
+
+Articles  14  (Forme  et  conservation  des  moyens  de  preuve  électroniques)  et  19 
+(Application  pour  la  conservation  et  la  présentation  des  moyens  de  preuve 
+électroniques) 
+La question qui se pose à la lecture de ces articles est de savoir s’il sera possible ou non 
+de stocker les moyens de preuve électroniques sur plusieurs supports en même temps, 
+et  par  analogie  en  dehors  de  l’application.  La  relation  entre  la  règle  inscrite  à  l’art.  14 
+AP-LeID et celle inscrite à l’art. 19 AP-LeID n’est pas claire. En effet, il est indiqué à l’art. 
+19  AP-LeID  que  l’application  de  la  Confédération  permettra  justement  de  conserver  le 
+moyen d’identification électronique de son titulaire. Selon la réponse à ces questions, il 
+pourrait être judicieux de coupler les articles 14 et 19.  
+
+Article 15 (Transmissibilité des moyens de preuve électroniques) 
+Le lien entre l’article 5, alinéa 2, et son commentaire n’est pas clair. Il s’agit de clarifier si 
+un titulaire ne pourra restaurer que les moyens de preuve électroniques qui ne lui sont 
+pas liés nommément. 
+
+Article 24 (Exploitation de l’infrastructure de confiance) 
+Il  convient  de  préciser  si  le  prestataire  de  service  pourra  sous-traiter  certaines 
+prestations.  Dans  l’affirmative,  il  pourrait  être  judicieux  de  limiter  le  choix  du  sous-
+traitant. 
+
+ 
+
+ 
+
+ 
+
+CONSEIL D'ETAT 
+www.vd.ch – T 41 21 316 41 59  
+
+ 
+
+

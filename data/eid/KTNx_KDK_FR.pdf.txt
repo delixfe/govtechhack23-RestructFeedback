@@ -1,0 +1,384 @@
+ 
+
+ 
+
+ 
+
+ 
+
+Prise de position 
+
+Consultation sur la loi fédérale sur l’identité élec-
+tronique et autres moyens de preuve électro-
+niques (loi e-ID, LeID) 
+Assemblée plénière du 23 septembre 2022
+
+Le Conseil fédéral a mis en consultation la loi fédérale sur l’identité électronique et autres moyens de preuve 
+électroniques le 29 juin 2022. Les gouvernements cantonaux se prononcent comme suit sur le projet : 
+
+1.  Remarques générales 
+1.1.  Appréciation générale 
+
+1  Les gouvernements cantonaux soutiennent le projet de nouvelle loi e-ID. Ils constatent avec satisfaction 
+qu’il a été élaboré rapidement et avec l’ensemble des acteurs cantonaux et privés. Ils estiment que l’intro-
+duction d’une identité numérique unique émise par l’État est indispensable à la Suisse si elle veut rester 
+compétitive et faire progresser la numérisation de l’administration publique. 
+
+2  Les gouvernements cantonaux considèrent que le présent projet tient compte de manière appropriée et 
+intelligible des réserves qui ont conduit au rejet de la loi fédérale sur les services d’identification électro-
+nique en mars 2021. Ils relèvent en particulier les points suivants : 
+- 
+
+contrairement à la loi rejetée en votation, le nouveau projet prévoit que l’émission de l’e-ID relève 
+d’une instance publique et que l’infrastructure nécessaire sera fournie par la Confédération ; 
+les principes de minimisation des données, d’enregistrement décentralisé des données et de pro-
+tection des données dès la conception (« privacy by design ») répondent à des préoccupations im-
+portantes de la population. La Suisse s’aligne ainsi également sur la législation européenne (en 
+particulier sur la révision prévue du règlement eIDAS) ; 
+le projet prend en considération les développements européens et habilite le Conseil fédéral à con-
+clure des accords internationaux afin de faciliter la reconnaissance mutuelle des preuves d'identité 
+électroniques entre la Suisse et l’étranger ; 
+l’utilisation de l’infrastructure de confiance pour émettre d’autres moyens de preuve électroniques et 
+la gratuité de l’e-ID pour les particuliers contribueront à une diffusion plus rapide du dispositif et ren-
+forceront l’adhésion. 
+
+- 
+
+- 
+
+- 
+
+ 
+ 
+S:\4_KdK\43_Innenpolitik\431_Einzelgeschaefte\4314_EJPD\4314-17_E-ID\Entwürfe\Stelg-4314-17_20220923_E-ID_def. nach PV_F.docx 
+
+ 
+
+1.2.  Définitions 
+
+3 
+
+La LeID contient toute une série de termes techniques tels que moyen de preuve électronique, vérifica-
+teur, registre, identificateur. Peu courants, ils méritent une définition plus précise. Ils sont certes en par-
+tie définis dans certains articles (art. 16 « vérificateur ») ou dans le rapport explicatif, mais la loi serait 
+plus intelligible et la systématique renforcée si une nouvelle clause (art. 2 par ex.) contenait une défini-
+tion des principaux termes employés. À noter qu’il convient de faire une distinction précise entre 
+« moyens de preuve électroniques » (terme générique qui comprend l’e-ID et les autres moyens de 
+preuve électroniques) et « autres moyens de preuve électroniques ». 
+
+1.3.  Sécurité et convivialité 
+
+4 
+
+La convivialité des applications comptera parmi les critères déterminantes de la diffusion à venir de l’e-
+ID et de l’infrastructure de confiance. L’accès et l’utilisation doivent être aussi simples et faciles que pos-
+sible pour toutes les personnes concernées, un point sur lequel de précédents projets comme la signa-
+ture électronique qualifiée ont échoué. Dans le même temps, la convivialité ne doit pas être réalisée au 
+détriment de la sécurité et de la protection des données. On veillera ce faisant à accorder une impor-
+tance particulière aux objectifs de protection que sont l’authenticité et la fiabilité. Si tel n’est pas le cas, 
+les coûts pourraient être élevés pour les personnes concernées, mais aussi pour les organismes publics 
+et les particuliers qui ont besoin de la confirmation de l’identité de leur interlocuteur. Pourraient appa-
+raître, en cas d’abus avérés, des failles de sécurité susceptibles de porter préjudice à la confiance dans 
+le dispositif, avec toutes les conséquences que cela impliquerait pour la diffusion de l’e-ID et l’utilisation 
+de l’infrastructure de confiance. La convivialité et la sécurité devront faire l’objet d’une attention particu-
+lière lors de l’élaboration de l’ordonnance du Conseil fédéral. L’infrastructure doit pouvoir être adaptée 
+en continu au progrès technique. 
+
+1.4.  Coordination avec les organes d’exécution 
+
+5 
+
+6 
+
+La mise en œuvre de la LeID, en particulier des art. 8 et 9, suppose que les cantons et les communes 
+engagent des mesures globales. À noter cependant que le rapport explicatif ne se prononce pas sur la 
+nécessité de coordonner la mise en œuvre avec les organes d’exécution. Il ne donne aucune indication 
+sur le temps nécessaire à la mise en œuvre dans les cantons et les communes (au sens de l’art. 8 OCo, 
+ordonnance sur la consultation) ni sur la date d’entrée en vigueur. Les gouvernements cantonaux atten-
+dent du Conseil fédéral qu’il précise ces points dans son message. La mise en œuvre doit être coordon-
+née, comme le prévoit le document ad hoc de la Confédération et des cantons du 28 octobre 2015. 
+
+Les gouvernements cantonaux rappellent que le développment de la cyberadministration progresse 
+bien à l’échelon tant cantonal que communal. De gros efforts financiers ont été consentis et le seront de 
+nouveau dans les années à venir. Il est donc déterminant pour les cantons que l’identification via l’e-ID 
+puisse être intégrée dans leurs applications sans la moindre difficulté. Le rapport explicatif (chap. 5.2., 
+
+2 / 8 
+
+p. 20-21) part du principe que les cantons et les communes profiteront de la mise en place de l’e-ID et 
+du recours à l’infrastructure de confiance, ce qui justifie leurs coûts (qui ne sont pas encore chiffrés). 
+Ces explications sont insuffisantes. Il convient d’évaluer de manière plus détaillée les coûts engendrés 
+par l’introduction de l’e-ID et d’accorder la priorité à l’adaptation des solutions utilisées actuellement lors-
+que seront définies les caractéristiques techniques. 
+
+1.5.  Responsabilité et normes de qualité 
+
+7 
+
+L’e-ID servira à l’identification électronique dans les services cantonaux et complètera les solutions can-
+tonales. Le rapport explicatif ne contient toutefois aucune indication sur les actions en responsabilité en 
+cas de défauts du système de l'e-ID susceptibles d’entraîner des failles de sécurité dans les applications 
+cantonales. Il convient donc de le préciser dans le message en se référant à des normes de qualité re-
+connues (norme eCH-0170), ce pour l’élaboration des dispositions d’exécution à venir. 
+
+1.6.  Procuration et représentation légale 
+
+8 
+
+Le projet mis en consultation et le rapport explicatif ne contiennent aucune indication sur la procuration 
+et la représentation légale. Les art. 4 et 5 LeID énoncent que les mineurs de moins de quatorze ans et 
+les personnes sous curatelle de portée générale doivent avoir le consentement de leur représentant lé-
+gal pour obtenir une e-ID. Rien n’est dit cependant des possibilités de représentation ou de délégation 
+pour l’utilisation d’une e-ID ou d’autres moyens de preuve. Le message devra préciser ce point afin de 
+permettre une mise en œuvre uniforme. 
+
+2.  Remarques sur certains articles 
+2.1.  Art. 1 
+
+9 
+
+L’art. 7 de la nouvelle loi sur les données personnelles (nLPD) énonce deux principes : celui de la pro-
+tection des données « dès la conception » (« privacy by design ») et celui de la protection des données 
+« par défaut » (« privacy by default »). Il convient d’ajouter le principe de protection des données « par 
+défaut » à l’art. 1, al. 2, let. b, pour renforcer cet aspect central et être aligné avec la nLPD. 
+
+2.2.  Art. 3 (Conditions personnelles) 
+
+10 
+
+L’art. 3 LeID énonce que seules les personnes justifiant d’un titre de séjour légal en Suisse peuvent de-
+mander une e-ID. Le cercle des personnes en contact avec les services administratifs publics est toute-
+fois plus large. On pense notamment aux personnes qui résident en Suisse sans titre de séjour légal ou 
+aux propriétaires de résidences secondaires. Il y a donc lieu de vérifier si ces personnes ne pourraient 
+pas se voir délivrer une e-ID spécifique. Il convient par ailleurs de compléter le projet de loi de sorte à 
+
+3 / 8 
+
+habiliter le Conseil fédéral à prévoir une e-ID spécifique assortie d’un champ d’application restreint pour 
+d’autres personnes séjournant en Suisse. 
+
+11 
+
+Selon le rapport explicatif (p. 9, art. 3), les fournisseurs doivent pouvoir limiter le recours à leurs services 
+aux personnes titulaires de certaines catégories de documents d’identité. Il n’est pas certain d’emblée 
+que l’identité ait pu être vérifiée de façon fiable pour les catégories de permis N, F, S et Ci. 
+À noter que la fiabilité de l’identification d’une personne ne ressort pas de la catégorie de son document 
+d’identité (les requérants ne sont pas tous dans l’incapacité de présenter un document d’identité, alors 
+que les personnes dont l’identité n’est pas établie de manière définitive peuvent se voir délivrer dans 
+certaines conditions un permis B, si elles sont titulaires d’une autorisation pour cas de rigueur). Si des 
+restrictions sont envisageables en raison précisément de la fiabilité des documents d’identité, il faut le 
+préciser dans la loi et le mentionner expressément parmi les données d’identification énoncées à l’art. 2, 
+al. 3, LeID. Il serait contreproductif de renoncer purement et simplement à une disposition légale sans le 
+préciser sur l’e-ID. 
+
+12 
+
+L’art. 3, let. a, LeID mentionne explicitement la loi sur les documents d’identité (LDI). On peut dès lors 
+se demander pourquoi la let. b renvoie de manière générale à la législation sur les étrangers et non aux 
+lois spécifiques (loi fédérale sur les étrangers et l’intégration et loi sur l’asile). La formulation actuelle ne 
+permet pas au profane de savoir quelle législation appliquer. 
+
+2.3.  Art. 4 (Émission) 
+
+13 
+
+14 
+
+Le processus d’établissement, et par conséquent la question de savoir comment identifier le deman-
+deur, sont déterminants pour la sécurité, mais aussi pour l’acceptation future de l’e-ID. Une réglementa-
+tion dudit processus doit donc figurer dans la loi.  
+Les questions de sécurité ne doivent pas passer après les questions de coûts et d’efficacité. L’art. 6, al. 
+5, nLPD prévoit l’obligation pour la personne responsable du traitement de s’assurer de l’exactitude des 
+données personnelles. L’adéquation des mesures n’est pas à dissocier du risque – considérable dans le 
+cas de l’e-ID – encouru pour les droits fondamentaux de la personne concernée. 
+
+Selon l’art 4, al. 2, LeID, le projet de loi prévoit que toute personne de 15 ans et plus est autorisée à de-
+mander une e-ID de son propre chef. Selon l’art. 5, al. 1, LDI, les mineurs doivent produire l’autorisation 
+de leur représentant légal pour déposer une demande d’établissement d’un document d’identité. Les 
+arguments avancés dans le rapport explicatif pour justifier cette différence ne convainquent pas. La prio-
+rité devrait être la sécurité et non quelles catégories de documents sont majoritairement utilisées par les 
+jeunes. La limite d’âge imposée pour avoir le droit de déposer une demande d’e-ID doit être la même 
+que pour obtenir une pièce d’identité physique. 
+
+4 / 8 
+
+2.4.  Art. 5 (Révocation) 
+
+15 
+
+L’art. 5, let. d, ch. 2, énonce que fedpol révoquera immédiatement l’e-ID s’il apprend que les données 
+d’identification personnelles ont été modifiées. Il convient d’envisager dans de tels cas l’établissement 
+automatique d’une nouvelle e-ID, dans la mesure où il s’agit d’une prestation et d’une plus-value dont 
+doit aussi profiter la population. Cela évitera à la personne concernée de demander une nouvelle e-ID et 
+elle bénéficiera ainsi de procédures facilitées par la numérisation. 
+
+2.5.  Art. 6 (Durée de validité) 
+
+16 
+
+Le projet de loi ne règle ni la durée de validité de l’e-ID, ni la question de la prolongation. Il n’est pas 
+précisé s’il faut demander une nouvelle e-ID dès que le document d’identité physique expire, à supposer 
+que la validité de l’e-ID en dépende, ou si cela se fait automatiquement au moment de renouveler ledit 
+document d’identité. Ce point devra être réglé au plus tard dans l’ordonnance. 
+
+2.6.  Art. 7 (Devoir de diligence) 
+
+17 
+
+L’art. 7 LeID énonce un devoir de diligence pour toute personne titulaire d’une e-ID. Il ne se prononce 
+pas sur les obligations résultant de la perte du document d’identité, contrairement à l’art. 8 LDI qui pré-
+voit que toute perte d’un document d’identité (physique) doit être signalée. La mise en œuvre du devoir 
+de diligence suppose que cette question soit précisée dans la LeID. 
+
+2.7.  Art. 8 (Points de contact cantonaux) 
+
+18  Cette disposition implique une tâche supplémentaire pour les cantons. Le rapport explicatif part du prin-
+cipe que ceux-ci ont déjà les structures nécessaires. Or, ce n’est pas toujours le cas. Organe d’exécu-
+tion, la Confédération doit prendre ses responsabilités. Qui propose et exploite une solution informa-
+tique doit assurer le support nécessaire si son application est concernée. Les cantons se considèrent 
+compétents dès lors qu’il s’agit d’apporter un soutien à l’utilisation de l’e-ID pour les prestations canto-
+nales de cyberadministration. On attend de la Confédération qu’elle mette en place un point de contact 
+pour toute difficulté liée à la demande d’une e-ID ou à l’utilisation de l’infrastructure de confiance. Il en 
+est certes question dans le rapport explicatif, mais pas dans le projet de loi (tout comme le second ni-
+veau de support que la Confédération doit fournir aux cantons). 
+En ce qui concerne les explications fournies dans le rapport explicatif, il convient de rappeler que les 
+personnes prêtes à utiliser une e-ID sont aussi en mesure de recourir à une assistance téléphonique ou 
+électronique. Il n’est donc pas nécessaire de créer un point de contact physique. 
+
+5 / 8 
+
+2.8.  Art. 9 (Obligation d’accepter l’e-ID) 
+
+19 
+
+L’art. 9 LeID énonce que toute autorité ou tout service qui accomplit des tâches publiques doit accepter 
+l’e-ID lorsqu’il recourt à l’identification électronique. Dans le rapport explicatif, la notion de « tâche pu-
+blique » est assimilée à celle de « tâches administratives », qui correspond à celle de l’art. 178, al. 3, 
+Cst. Il est par conséquent recommandé de parler également de « tâches administratives » dans la LeID, 
+ou de préciser dans le message si la notion de « tâche publique » doit être comprise dans une accep-
+tion plus large. Il convient de ne pas oublier que de nombreux acteurs privés, du secteur de la santé no-
+tamment, s’acquittent de tâches publiques (assureurs-maladie, exploitants des registres du cancer et 
+des transplantations ou fournisseurs du DPE, etc.). Il est tout à fait loisible d’exiger d’eux qu’ils accep-
+tent l’e-ID, mais cela supposera des investissements et des efforts de préparation qui devront être com-
+muniqués aux personnes concernées clairement et le plus rapidement possible. Il est important que les 
+parties prenantes soient informées dès le début de la teneur du champ d’application de l’art. 9 LeID. 
+
+20 
+
+Appliquer l’art. 9 suppose que l’e-ID soit intégrée aux applications informatiques des cantons et des 
+communes. Il convient donc de leur accorder une période de transition suffisante. 
+
+2.9.  Art. 15 (Transmissibilité des moyens de preuve électroniques) 
+
+21 
+
+Les explications du rapport explicatif sur l’art. 15, al. 2 (p. 12) semblent difficilement conciliables avec 
+les dispositions du projet de loi en lui-même. Alors que l’art. 15, al. 2 porte sur la transmissibilité des 
+moyens de preuve, le rapport explicatif évoque un système de copies de sécurité. Si cette disposition ne 
+concerne effectivement que la transmissibilité vers un système de copies de sécurité, la formulation doit 
+être revue. 
+
+2.10. Art. 16 (Présentation des moyens de preuve électroniques) 
+
+22 
+
+L’art. 16, al. 1, énonce que lorsqu’il présente un moyen de preuve électronique, son titulaire détermine 
+quelles informations sont transmises aux vérificateurs. Cependant, ce seront souvent ces derniers qui 
+en décideront en pratique, étant donné que la personne ne pourra bénéficier de l’offre que si elle fournit 
+les informations demandées. Le message à élaborer devra donc expliquer comment limiter au maximum 
+le traitement des données par des vérificateurs privés et comment s’assurer que le contrôle sera effi-
+cace, malgré la structure décentralisée du système. 
+
+2.11. Art. 17 (Registre de base) 
+
+23  Comme le rapport explicatif l’indique (p. 14), le fait que les émetteurs inscrivent eux-mêmes leurs don-
+nées dans le registre de base sans vérification de leur identité (art. 17, al. 3, LeID) induit le risque qu’ils 
+délivrent des preuves électroniques sous une fausse identité. De toute évidence, les conséquences 
+
+6 / 8 
+
+pour les personnes concernées pourraient être lourdes dans certains cas. L’atténuation du risque par la 
+publication d’informations en cas de soupçons fondés d’utilisation abusive de l’infrastructure de con-
+fiance au sens de l’art. 22 LeID ne suffit pas, puisqu’elle présuppose qu’il y a déjà eu violation des droits 
+de la personnalité des personnes concernées. De plus, une simple publication ne suffira pas à avertir 
+tous les utilisateurs à temps. L’inscription à un répertoire de confiance au sens de l’art. 18 LeID doit 
+donc être obligatoire pour les acteurs privés aussi. Sinon, il sera impossible d’empêcher les abus. 
+2.12. Art. 20 (Système concernant la vérification des moyens de preuve 
+
+électroniques) 
+
+24 
+
+Il ne ressort pas clairement de la formulation de l’art. 20 LeID que la vérification des moyens de preuve 
+électroniques est une démarche effectuée en personne et non en ligne. La formulation doit être explici-
+tée. Dans tous les cas, il faudra s’assurer lors de la mise en œuvre technique que les vérificateurs peu-
+vent procéder sans difficultés à une vérification fiable de la validité des moyens de preuve électroniques 
+– à l’aide d’une application au sens de l’art. 20, ou non. 
+
+2.13. Art. 25 (Progrès technique) 
+
+25 
+
+L’al. 2 de cette disposition n’est pas clair : qui décide s’il s’agit d’un cas d’application de l’al. 2 ? Est-ce 
+le Conseil fédéral lorsqu’il édicte l’ordonnance ? Par ailleurs, le lien entre les al. 1 et 2 dudit article doit 
+être précisé : 
+« 2 Si des dispositions édictées en vertu de l’al. 1 requièrent une base légale supplémentaire dans une 
+loi, ces dispositions sont abrogées : 
+a) 
+b)  en cas de rejet du projet du Conseil fédéral par l’Assemble fédérale ou par le peuple ; ou […] 
+
+[…] 
+
+2.14. Art. 26 (Émoluments) 
+
+26 
+
+L’art. 26 LeID prévoit qu’un émolument est perçu auprès des émetteurs et des vérificateurs de moyens 
+de preuves électroniques. Cela concerne également les services qui s’acquittent de tâches publiques, 
+quand bien même ils sont tenus d’accepter l’e-ID conformément à l’art. 9 de ladite loi. Dans le même 
+temps, le Conseil fédéral entend financer l’e-ID par des contributions de l’Administration numérique 
+suisse, alors que celle-ci est cofinancée par les cantons. Or, l’art. 3, al. 2, OGEmol énonce que l’admi-
+nistration fédérale ne perçoit pas d’émoluments des organes intercantonaux, des cantons et des com-
+munes pour autant qu’ils lui accordent la réciprocité. Il convient de veiller à ce que cette disposition s’ap-
+plique également au cas présent et à ce que les compensations entre les collectivités publiques soient 
+réduites au minimum.  
+
+7 / 8 
+
+27 
+
+28 
+
+Le Conseil fédéral se voit en outre confier la compétence d’exonérer d’autres acteurs prestataires de 
+services publics de tout ou partie des émoluments. Il est dans l’intérêt du secteur de la santé en particu-
+lier que l’e-ID soit utilisée à large échelle pour faciliter le traitement des données. Les coûts des services 
+concernés doivent donc être aussi bas que possible. 
+
+Le projet et le rapport explicatif ne se prononcent pas, ou avec peu de précision, sur le montant desdits 
+émoluments. Celui-ci doit être fixé par voie d’ordonnance. Le message devrait contenir une estimation 
+explicite des coûts auxquels les émetteurs et les vérificateurs de moyens de preuve électroniques peu-
+vent s’attendre, d’autant que lesdits coûts pourraient avoir un impact considérable sur l’acceptation fu-
+ture et la diffusion de l’e-ID et de l’infrastructure de confiance. 
+
+2.15. Art. 28 (Dispositions d’exécution) 
+
+29  De nombreux aspects techniques propres à la mise en œuvre de l’e-ID sont réglés par voie d’ordon-
+nance. Compte tenu de la diversité des solutions existant dans les cantons, mais aussi dans les diffé-
+rents secteurs, il est indispensable que les acteurs concernés soient étroitement associés à l’élaboration 
+des dispositions d’exécution. L’e-ID ne pourra être largement acceptée que si elle s’intègre facilement 
+aux applications existantes. 
+
+2.16. Art. 29 (Modification d’autres actes) 
+
+30 
+
+Selon le rapport explicatif (ch. 3.1), la question de l’utilisation de l’e-ID dans divers domaines n’est ré-
+glée qu’à titre indicatif dans l’avant-projet de loi, de même que celle de la modification d’autres actes 
+législatifs. S’impose donc pour la suite de la procédure un examen systématique des dispositions fédé-
+rales contenant l’obligation de présenter un document d’identité physique ou exigeant une signature 
+électronique qualifiée. Cela concerne en particulier la législation fédérale sur les procédures. Les dispo-
+sitions afférentes doivent être adaptées en continu. 
+
+8 / 8 
+
+

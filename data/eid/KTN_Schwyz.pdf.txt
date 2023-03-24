@@ -1,0 +1,138 @@
+Regierungsrat des Kantons Schwyz
+
+I,ERSENDET  AM  O I. OI(T. 2022
+
+kantonschwyzUI l
+
+6431 Schwvz.  Postfach  1260
+
+per E-Mail
+Eidgenössisches Justiz- und Polizeidepartement
+Bundeshaus
+3003 Bern
+
+rechtsi  nformati k@bj.ad  m  i n.ch
+
+Schwyz,  27. September  2022
+
+Vorentwurf des Bundesgesetzes über  den elektronischen ldentitätsnachweis  und  andere elektroni-
+sche Nachweise  (E-lD-Gesetz,  BGEID)
+Vernehmlassung  des Kantons Schwyz
+
+Sehr geehrte Frau Bundesrätin
+
+Mit Schreiben  vom 29. Juni 2022  hat das Eidgenössische Justiz- und Polizeidepartement  den Kan-
+tonsregierungen  die Unterlagen  zum Vorentwurf  des Bundesgesetzes über den elektronischen ldenti-
+tätsnachweis  und andere elektronische  Nachweise (E-lD-Gesetz,  BGEID) zur Vernehmlassung  bis
+20. Oktober  2022 unterbreitet.
+
+Der Regierungsrat  unterstützt die Vorlage  zum neuen  E-lD-Gesetz.  Die Schaffung einer einheitlichen
+staatlichen E-lD ist zur Sicherung  der Zukunftsfähigkeit  der Schweiz  und Förderung der digitalen
+Transformation  unumgänglich. Ausdrücklich  begrüsstwird,  dass  die E-lD  durch den Bund  ausgege-
+ben und die lnfrastruktur  ebenfalls durch den Bund betrieben  wird. Zu den  einzelnen  Artikeln  beste-
+hen seitens Regierungsrat nachfolgende  Anmerkungen.
+
+Ingress
+Mit Blick auf die rechtsgeschäftliche Verwendung der elektronischen Nachweise  und  die zur Ausstel-
+lung der elektronischen Nachweise verwendeten  Personendaten  bzw. deren Kategorien  ist die Ge-
+setzgebungskompetenz  des Bundes  im Bereich  des Zivilrechts gemäss  Arl.I22  Abs. 1 BV ebenfalls
+in den lngress aufzunehmen.
+
+l. Abschnitt
+lm 1. Abschnitt  wird eine zusätzliche  Bestimmung mit Legaldefinitionen zu den verwendeten  Be-
+griff I ich keiten angeregt.
+
+Att,2
+Die Aufnahme der AHV-Nummer  (AHVN)  in die E-lD  birgt gewisse Risiken, die primär in der Mög-
+lichkeit der Verknüpfung  verschiedener  Datenbestände  besteht. Mit Blick  auf die Zielsetzungen  der
+Revision  des Bundesgesetzes über die AHV  vom 20. Dezember  1946 (AHVG,  SR 831.10)  soll die
+
+AHVN  systematisch  für die Verhinderung  von kostenintensiven  Verwaltungsfehlern  sowie für mehr
+Effizienz dank  automatisiertem Datenaustausch  zwischen  den Behörden  und zur Vermeidung  von
+Verwechslungen  verwendet werden. Entsprechend  bestehen wenig  Vorbehalte,  wenn es um die lden-
+tifikation  zwischen  Behörden und Privaten  und die darauffolgende  Verwendung  beim  elektronischen
+Behördengang  geht,  sofern  es sich um öffentliche  Organe  handelt, die unter Art. 153c Abs.  1 AHVG
+fallen.  lmsinnederobigenAusführungistimGeselz-2.  B, inArt.  l6derVorlage-ausdrücklich
+festzuhalten,  dass  die AHVN mit Hilfe von technischen  Massnahmen  nur jenen  Verifikatoren  zugäng-
+lich gemacht werden darf, für welche  grundsätzlich die rechtlichen  Grundlagen  für die systematische
+Verwendung  gemäss  AHVG gegeben sind. Damit  soll der ungehinderten  Verbreitung  der AHVN  an
+private  Verifikatoren  vorgebeugt werden.
+
+Art.3
+Der Regierungsrat  hält die vorgesehenen  persönlichen  Voraussetzungen für die Ausstellung  einer
+E-l D nachvollziehbar  und zweckmässig.
+
+Art. 5
+Gemäss  erläuterndem Bericht  ist es aufgrund der dezentralen  Art des Systems nicht möglich, die
+E-lD  selber  zu sperren. Aufgrund des erheblichen  Missbrauchspotenzials  im Falle eines  Diebstahls
+der E-lD ist eine Supportorganisation  aufzubauen,  welche  rund um die Uhr im Einsatz  steht  (vgl.
+Art.8).
+
+Art. 5 Bst. d Zrtf .2legt  fest, dass  die E-lD widerrufen wird, wenn das Fedpol über eine Anderung
+der Personenidentifizierungsdaten  des lnhabers  oder der lnhaberin  informiert  wird. lm Sinne  einer
+Dienstleistung  und  des Mehnrverts, den die E-lD  auch fürdie Bevölkerungschaffen  soll, ist in sol-
+chen  Fällen  die automatische  Ausstellung einer neuen E-lD ins Auge zu fassen.  Die betroffenen  Per-
+sonen  profitieren so von erleichterten,  digitalen  Abläufen.
+
+Art.8
+Mit der Bestimmung  wird eine neue  Kantonsaufgabe  geschaffen. Um gesamtschweizerisch  einen an-
+gemessenen  Kundenservice  gewährleisten  zu können,  ist eine einheitliche, permanenle  (2417)  Sup-
+portorganisation  aufzubauen.  Eine Schärfung  der Bestimmung hinsichtlich dieses  Ziels ist notwen-
+dig. Gemäss  erläuterndem Bericht ist vorgesehen, die lnvestitionskosten des Bundes  über finanzielle
+Beiträge  der Digitalen  Verualtung Schweiz  (DVS) zufinanzieren. lm Kontext  der durch die Kantone
+zu schaffende Anlaufstelle  istzu  prüfen, ob die entstehenden  Kosten auf Seiten  der Kantone  eben-
+falls über DVS  finanziert werden  können.
+
+Art.9
+Neben der Pflicht der Behörden zur Akzeptanzder  E-lD für die elektronische  ldentifikation  von Per-
+sonen soll klarer geregelt werden,  dass eine Behörde  bzw.  andere  Stelle, die öffentliche  Aufgaben
+erfüllt, die E-lD in keinem Fall als zwingend  voraussetzen  darf. Zudem ist den Kantonen  und  Ge-
+meinden eine ausreichende  Übergangsfrist  einzuräumen.
+
+Art. l0
+ln der Umsetzung  ist darauf  zu achten, dass durch den Einsatz der E-lD  der Zugang  zu öffentlichen
+Dienstleistungen nicht in unzumutbarer  Weise eingeschränkt  wird.
+Art. l l
+Diese Bestimmung  ist systematisch  nach Art. 5 einzuordnen
+
+lm Sinne der Umsetzung  des Prinzips  der dezentralen  Datenhaltung  wird zudem  folgende Ergänzung
+von Art. 11 Abs. 4 vorgeschlagen:  <Dr€  via Schnittstellen  bezogenen Daten werden  ausschlresslrch
+zum Zweck der Ausstellung der E-lD bearbeitet  und nicht im lnformatronss-vstem aufbewahrt."
+
+2
+
+Art. 15
+Gemäss  Art. 16 Abs. 1 bestimmt  der lnhaber, welche  Bestandteile des Nachweises und lnformatio-
+nen dem Verifikatoren übermittelt  werden. Ein Unternehmen  könnte  jedoch mehr verlangen,  als für
+den eigentlichen  Zweckz. B. einer Anwendung  erforderlich wäre. Der erläuternde Bericht hält dazu
+fesl: "Der Handlungsspielraum  der lnhaberin  oder des lnhabers  wrrd somit  durch die Anforderungen
+begrenn, die die Verifrkatoren  für den  Überprüfungsprozess  festlegen".  Diesbezüglich  wird eine wei-
+tergehende Regelung angeregt, damit nicht der Verifikator  einseitig die Anforderungen  bestimmen
+kann.
+
+Art.26
+Eine explizite Kostenfolgeschätzung  für die Aussteller  und Verifikatoren elektronischer Nachweise
+aufgrund der Gebühren sollte in die Botschaft aufgenommen  werden,  da die Kosten einen nicht  un-
+erheblichen  Einfluss  auf die künftige  Akzeptanz  und Verbreitung  der E-lD und  der Vertrauensinfra-
+struktur haben dürften.
+
+Wir danken  lhnen für die Gelegenheit  zur Stellungnahme und  versichern  Sie, Frau Bundesrätin, un-
+serer vorzüglichen  Hochachtung.
+
+lm Namen  des Regierungsrates:
+
+Andr6 Rüegsegger
+Landammann
+
+t*
+
+Dr. Mathias E. Brun
+Staatsschreiber
+
+Kopie an:
+
+die Schwyzer  Mitglieder der Bundesversammlung.
+
+3
+
+

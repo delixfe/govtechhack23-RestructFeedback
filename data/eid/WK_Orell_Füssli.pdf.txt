@@ -1,0 +1,208 @@
+Orell Füssli AG 
+Dietzingerstrasse 3 
+8036 Zurich, Switzerland 
+ 
+Kontakt: 
+Désirée Heutschi 
+Leiterin Unternehmensentwicklung 
+D  +41 44 466 73 15 
+E  desiree.heutschi@orellfuessli.com 
+ 
+orellfuessli.com 
+
+ 
+
+ 
+
+Per E-Mail an: 
+rechtsinformatik@bj.admin.ch  
+Zu Händen: 
+Frau Bundesrätin Keller-Sutter 
+Eidgenössisches Justiz- und 
+Polizeidepartement EJPD 
+ 
+ 
+
+Zürich, 12. Oktober 2022 
+ 
+
+Stellungnahme zum Vorentwurf des E-ID-Gesetzes 
+ 
+Sehr geehrte Frau Bundesrätin 
+Sehr geehrte Damen und Herren 
+
+ 
+
+Vielen Dank für die Möglichkeit, im Vernehmlassungsverfahren zum Vorentwurf des 
+Bundesgesetzes über den elektronischen Identitätsnachweis und andere 
+elektronische Nachweise (E-ID-Gesetz, BGEID) Stellung zu nehmen. 
+
+Als langjähriger Vertrauenspartner des Bundes bei der Herstellung für 
+Identitätsdokumente wie Führerausweis und Pass beschäftigt sich Orell Füssli 
+bereits seit einigen Jahren intensiv mit den Themen digitale Identitäten und digitale 
+Nachweise. Umso mehr, als dass nach einer Mehrheitsübernahme auch Procivis als 
+Technologiedienstleister für digitale Identitätslösungen, u.a. im Kanton Schaffhausen 
+und der Stadt Zug, zur Unternehmensgruppe Orell Füssli gehört. Zusätzlich haben 
+wir im Januar 2022 eine strategische Partnerschaft für digitale Nachweise mit der 
+Swisscom kommuniziert. 
+
+Wir sehen, dass eine elektronische Identität die Voraussetzung ist, damit sich die 
+Digitalisierung von Wirtschaft, Gesellschaft und Staat in der Schweiz erfolgreich und 
+nachhaltig entwickeln kann. 
+
+Wir begrüssen den Plan einer bundesbetriebenen Vertrauensinfrastruktur, die neben 
+der nationalen E-ID auch offen für andere digitale Nachweise und Akteure aus dem 
+öffentlichen und privaten Sektor ist. 
+
+Wichtige Faktoren für eine grosse Verbreitung der staatlichen elektronischen 
+Identität und des entstehenden Ökosystems erscheinen uns dabei die 
+Nutzerfreundlichkeit, die Datensicherheit (und deren Kommunikation), die staatliche 
+Förderung bestimmter Anwendungsfälle und insbesondere die Geschwindigkeit der 
+Umsetzung bzw. der Bereitstellung der Vertrauensinfrastruktur. 
+
+1.  Allgemeine Bemerkungen 
+
+Ein grosser Hinderungsgrund für vollständig digitalisierte Prozesse ist heute das 
+Fehlen rechtsgültiger digitaler Nachweise als Ergänzung zu hochwertigen 
+physischen Dokumenten wie Führerausweis, Pass oder Identitätskarte. Dadurch sind 
+manuelle Prüfungen und unsichere bzw. fälschungsanfällige «Workaround»-
+Prozesse (z.B. Scans/ Fotos von Nachweisen) notwendig. Diese reduzieren die 
+
+ 
+
+Effizienz von Behörden und Unternehmen sowie die Nutzerfreundlichkeit für 
+Endkunden und Bürger.  
+
+Um digitale, nutzerfreundliche und datensparsame Lösungen zu implementieren, 
+scheint das Self Sovereign Identity-Konzept mit seinen selbstverwalteten Identitäten 
+und Attributen sehr geeignet. Mit einem offenen Ökosystem und unterschiedlichen 
+Akteuren können viele Anwendungsfälle entstehen bzw. weiterentwickelt werden und 
+zu einer grossen Verbreitung und Nutzung der Vertrauensinfrastruktur führen.  
+
+Für eine erfolgreiche Umsetzung der E-ID zum Vorteil der ganzen Schweiz erlauben 
+wir uns, einige Vorschläge und Anregungen mit Ihnen zu teilen. 
+
+2.  Generelle Vorschläge und Anregungen  
+
+a) Sicherstellung der Planungssicherheit privater Akteure trotz 
+technologieneutralem Rechtsrahmen  
+
+Angesichts der schnellen technologischen Weiterentwicklung und Innovationen 
+begrüssen wir einen technologieneutralen Rechtsrahmen. Nachdem die nationale E-
+ID und die damit verbundene Vertrauensinfrastruktur allerdings ein grösseres 
+Ökosystem mit weiteren Akteuren und Nachweisen ermöglichen soll, müssen diese 
+Akteure frühzeitig genügend Informationen zur Vertrauensinfrastruktur und Sicherheit 
+haben, um Geschäftsmodelle und Angebote ausarbeiten zu können. Andernfalls 
+stehen diese zur Einführung der E-ID nicht bereit, was sich in einer nachhaltig 
+geringeren Verbreitung auswirken könnte. Wir regen daher an, die Ausführungen zur 
+Vertrauensinfrastruktur im 5. Abschnitt zu konkretisieren. 
+
+b) Sicherstellung der Agilität hinsichtlich internationaler Technologie- und 
+Standard-Entwicklungen  
+
+Um internationalen Entwicklungen im Bereich der digitalen Identitäten und 
+Nachweise Rechnung tragen zu können, schlagen wir zusätzlich vor, dass der 
+Bundesrat eine Kompetenz zur Anpassung der Ausführungsverordnungen an 
+internationale Standards erhält, soweit diese Anpassungen dem Zweck des 
+Gesetzes entsprechen und betroffene Anspruchsgruppen vor einer Anpassung 
+angehört werden.  
+
+c) Sicherstellung der schnellen Verbreitung der E-ID und des raschen 
+Ökosystem-Aufbaus 
+
+Für eine erfolgreiche und schnelle Verbreitung der E-ID und anderer Nachweise halten 
+wir signifikante Marketingmassnahmen für notwendig, um die Bevölkerung über Sinn 
+und Zweck, Technologie und Einsatzmöglichkeiten zu informieren, um eine zögerliche 
+Verbreitung  der  Lösung  zu  vermeiden  und  einer  potentiellen  Abwehrhaltung  im 
+Kontext des abgelehnten E-ID-Gesetzesentwurfs von 2021 entgegenzuwirken. Diese 
+Massnahmen sollten gesetzlich verankert werden. 
+
+d) Einführung eines standardisierten Identifikationsverfahrens für Personen 
+ohne E-ID 
+
+Artikel 3 des Vorentwurfs nennt als Voraussetzung für eine nationale E-ID einen von 
+den Schweizer Behörden ausgestellten Ausweis. Aufgrund der starken 
+Internationalisierung, grenzüberschreitenden Geschäftsprozessen und globalen 
+digitalen Geschäftsmodellen empfehlen wir, ein zusätzliches, gleichwertiges digitales 
+Identifikationssystem zur nationalen E-ID zu definieren. Dies würde zu einer 
+stärkeren Ausdehnung des Ökosystems und einer grösseren Inklusion weiterer 
+Personen und Akteure führen. Eine zentrale gesetzliche Standardisierung von 
+digitalen Identifikationsverfahren würde Rechts- und Planungssicherheit schaffen.  
+ 
+ 
+
+ 
+
+Seite 2/3 
+
+ 
+
+3.  Vorschläge und Anregungen zu einzelnen Artikeln des Vorentwurfs 
+
+a) Zu Art. 16 Vorweisen von elektronischen Nachweisen  
+
+Sowohl bestehende datenschutzrechtliche Grundlagen wie das revDSG Art. 6 Abs. 3 
+als  auch  das  Self  Sovereign  Identity-Konzept  sehen  eine  Datenminimierung  vor. 
+Trotzdem halten wir es für sinnvoll, im Gesetz explizit zu erwähnen, dass verifizierende 
+Akteure nur diejenigen Nachweise verlangen dürfen, die aus klar genannten Gründen 
+notwendig sind.  
+
+b) Zu Art. 18 System zur Bestätigung von Identifikatoren  
+
+Um die Sicherheit im Ökosystem zu gewährleisten, halten wir eine obligatorische 
+Prüfung und Bestätigung für private AusstellerInnen und VerifikatorInnen durch den 
+Bund für notwendig. Die zu erfüllenden Kriterien sollten möglichst zeitnah 
+kommuniziert werden, damit die Akteure die Ausstellung eigener Nachweise sowie 
+die Optionen zur Verifizierung evaluieren können. 
+ 
+c) Zu Art. 19 Anwendung zur Aufbewahrung und Vorweisung von 
+elektronischen Nachweisen 
+
+Die im erläuternden Bericht erwähnte Zulässigkeit privater Wallets sollte im 
+Gesetzestext verankert werden. Aufgrund der sensiblen Daten, des 
+Missbrauchspotentials sowie der Datenschutz-Bedenken in der Bevölkerung 
+empfehlen wir eine Zertifizierungspflicht für elektronische Wallets.  
+ 
+f) Zu Art. 21 System für Sicherungskopien 
+
+Momentan werden Systeme für Sicherungskopien als optionales Angebot des 
+Bundes erwähnt. Aufgrund pragmatischer Überlegungen, die stark für sogenannte 
+Back-up-Systeme sprechen, schlagen wir vor, dass deren Angebot durch Private im 
+Gesetzestext explizit erlaubt wird. 
+ 
+
+4.  Schlussbemerkung 
+
+Orell Füssli begrüsst den Vorentwurf in seinen Grundzügen. Gleichzeitig weisen wir 
+daraufhin,  dass  der  Erfolg  der  E-ID  in  unseren  Augen  massgeblich  von  einem 
+frühzeitigen  Ökosystem-Aufbau  rund  um  die  Vertrauensinfrastruktur  abhängt.  Wir 
+empfehlen  mit  Nachdruck,  regulatorische  und  projektspezifische  Arbeiten  möglichst 
+parallel durchzuführen, damit das positive Momentum in der Schweiz nicht verloren 
+geht und bald eine Lösung bereitsteht. Die Berücksichtigung internationaler Vorhaben 
+und Entwicklungen ist für die Interoperabilität wichtig, darf die nationale Entwicklung 
+in unseren Augen aber nicht aufhalten. 
+
+Wir stehen jederzeit gerne für Rückfragen zur Verfügung und bedanken uns für die 
+Berücksichtigung unserer Vorschläge. 
+
+ 
+
+Freundliche Grüsse 
+
+ 
+
+ 
+
+____________________________ 
+
+Daniel Link 
+
+CEO Orell Füssli AG 
+
+ 
+
+ 
+
+Seite 3/3 
+
+

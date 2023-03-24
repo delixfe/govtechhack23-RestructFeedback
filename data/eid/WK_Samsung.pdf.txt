@@ -1,0 +1,150 @@
+ 
+
+ 
+ 
+ 
+ 
+
+Eidgenössisches Justiz- und Polizeidepartement EJPD 
+Bundesrätin Karin Keller-Sutter 
+Bundeshaus West 
+3033 Bern 
+ 
+ 
+Zürich, 20. Oktober 2022 
+ 
+ 
+Stellungnahme von Samsung Electronics zum Vorentwurf des Bundesgesetzes 
+über den elektronischen Identitätsnachweis und andere elektronische 
+Nachweise (E-ID-Gesetz, BGEID) 
+ 
+ 
+Sehr geehrte Frau Bundesrätin  
+Sehr geehrte Damen und Herren 
+ 
+Wir danken Ihnen für die Gelegenheit, im Rahmen der laufenden Vernehmlassung zum Bundesgesetz 
+über den elektronischen Identitätsnachweis und andere elektronische Nachweise (E-ID-Gesetz, BGEID) 
+Stellung nehmen zu können.   
+ 
+Weltweit stellt Samsung Electronics fest, dass das Vertrauen der Bevölkerung in mobile Geräte dank 
+Verbesserungen  der  technologischen  Leistungsfähigkeit  zugenommen  hat.  Bürgerinnen  und  Bürger 
+verlassen sich auf ihre Handheld-Geräte. Die Verwendung der Geräte ist weitreichend und geht über 
+das  Kommunizieren  hinweg.  Sie  werden  genutzt,  um  Bankgeschäfte  abzuwickeln,  Lebensmittel  zu 
+bestellen, den Impfstatus nachzuweisen, in Hotels einzuchecken, Sport zu treiben und um sich in einer 
+Stadt zurechtzufinden. Samsung Electronics hat diesen globalen Trend erkannt und freut sich über die 
+Bemühungen der öffentlichen Hand, private und öffentliche Dienstleistungen bereitzustellen. 
+ 
+Eine  vertrauensvolle  und  sichere  Identität  für  alle  Akteure  im  digitalen  Raum  erachten  wir  als 
+elementare  Komponente  für  eine  erfolgreiche  digitale  Transformation.  Ein  hohes  Vertrauen  der 
+Bürgerinnen und Bürger in die elektronische Identität (eID) sowie ihre Benutzerfreundlichkeit erachten 
+wir als Grundvoraussetzung, damit die eID zu einem Erfolg werden kann. Für Bürgerinnen und Bürger 
+muss ein offensichtlicher Mehrwert durch die Anwendung dieser Lösung entstehen. Der vorliegende 
+Gesetzesentwurf  bietet  aus  Sicht  von  Samsung  Electronics  die  Rahmenbedingungen  für  eine 
+Vertrauensinfrastruktur.  
+ 
+Neben einer Gesetzesvorlage, welche auf Akzeptanz bei Politik und Gesellschaft stösst, erachten wir 
+die  technische  Umsetzung  und  damit  einhergehend  deren  Verwendung  als  entscheidend  für  die 
+
+ 
+
+Etablierung  dieser  staatlichen  eID.  Eine  Lösung  auf  einer  hardwarebasierten  Sicherheitsarchitektur 
+(auf dem Smartphone) stellt aus heutiger Sicht die bestmögliche Lösung dafür dar. 
+ 
+Aus Erfahrung in Deutschland lernen 
+Im Rahmen der Projekte OPTIMOS und OPTIMOS 2 in Deutschland arbeiteten das Bundesministerium 
+des Innern, für Bau und Heimat (BMI), das Bundesamt für Sicherheit in der Informationstechnik (BSI), 
+die Bundesdruckerei, die Deutsche Telekom Security, Governikus und Samsung Electronics gemeinsam 
+an  der  Entwicklung  einer  Sicherheitsarchitektur  für  Mobiltelefone,  die  Ausweisdokumente  für  eID-
+Dienste  beherbergen,  und  zwar  unter  dem  Paradigma  der  offenen  Plattformbildung.  Samsung 
+Electronics stellt darin den zertifizieren, hardware-basierten Tresor für die vom Staat herausgegebene 
+digitale Identität zur Verfügung. 
+ 
+Samsung  Electronics  arbeitete  eng  mit  dem  deutschen  Bundesamt  für  Sicherheit 
+in  der 
+Informationstechnik (BSI) zusammen, um sich aktiv an der Entwicklung des eID-Sicherheitsrahmens zu 
+beteiligen. Dabei stützte man sich auf eine chipset-basierte Sicherheitszone mit Schlüsselaspekten wie 
+dem embedded Secure Element (eSE), der Einbindung von Cryptographic Service Provider (CSP) und 
+der embedded universal integrated circuit card (eSIM). Die Schweiz sollte die Chance nutzen und von 
+den Erfahrungen und dem Wissen aus Deutschland und den OPTIMOS-Förderprojekten profitieren. 
+Samsung  Electronics  ist  gerne  bereit  dazu,  seine  diesbezügliche  Expertise  einzubringen,  im 
+Projektprozess  zur  eID  sowie  technischen  Umsetzung  zu  partizipieren  und  sich  mit  den 
+entsprechenden Fachstellen auszutauschen. 
+ 
+Gesetzesentwurf als ausreichende Grundlage 
+Der vorliegende Gesetzesentwurf ist technologie-neutral formuliert, was wir als sinnvoll erachten. Es 
+ist  jedoch  noch  unklar,  wie  die  Zuständigkeit  zur  Auslegung  des  „aktuellen  Stands  der  Technik” 
+aussieht. Eine entsprechende Ausführung wäre wünschenswert.  
+ 
+Eine Hardware-Lösung, die sensible persönliche Daten speichert und die Kontrolle über die Daten bei 
+den  Bürgern  behält,  bietet  der  Schweiz  das  beste  Sicherheitsniveau  für  einen  harmonisierten  eID-
+Rahmen.  Damit  erfüllt  sie  den  Anspruch  auf  Datenschutz  durch  Technik,  Datensicherheit, 
+Datensparsamkeit  und  dezentraler  Datenspeicherung,  welche  mit  dem  Gesetzesentwurf  gefordert 
+werden.  Das  notwendige  Vertrauen  in  die  eID  kann  nur  erreicht  werden,  indem  eine  hohe 
+Vertrauensstufe garantiert wird. Dies wird unter anderem mit einem zertifizierten embedded Security 
+Element (eSE) auf dem Smartphone sichergestellt. Die die eSE / eUICC Lösung kann - im Gegensatz zur 
+Software  eID  Lösung  –das  Assurance  Level  „Hoch“  erreichen  und  somit  auch  alle  Rechtsgeschäfte 
+erledigen, welche das Assurance Level „High“ nach eIDAS benötigen (eIDAS Levels of Assurance). 
+ 
+Ein weiterer Aspekt, welcher die Funktionalität der eID und damit deren Akzeptanz erhöht, ist deren 
+internationale Anwendbarkeit und Anerkennung. Dies soll gemäss Gesetzesvorlage mit international 
+Abkommen sichergestellt werden. Auch hier gilt es, die entsprechende technische Interoperabilität zu 
+gewährleisten, indem man in der Schweiz eine international und vor allem europäisch etablierte (und 
+zertifizierte) technische Lösung entwickelt.  
+ 
+Je höher die Anwendungsmöglichkeiten dereinst sein werden, desto grösser ist die Chance, dass sich 
+die eID bei der Bevölkerung durchsetzt. Ein rein staatlich genutzter, digitaler Ausweis erachten wir als 
+wenig  gewinnbringend.  Die  Lösung  muss  Basis  für  ein  möglichst  umfassendes  Ökosystem  sein 
+
+ 
+
+(Grundlage für Ambitionsniveau 3). Entsprechend sollte die Lösung offen für Drittanbieter sein. Dazu 
+muss die Funktionalität auf bekannten und akzeptierten Standards basieren.  
+ 
+Samsung  Electronics  als  führender  Anbieter  von  Handheld-Geräten  ist  überzeugt,  dass  eine 
+vertrauenswürdige und benutzerfreundliche eID nicht nur einen Mehrwert für die Bürgerinnen und 
+Bürger,  die  staatlichen  Institutionen  sowie  die Wirtschaft  bietet,  sondern  vielmehr  eine  essenzielle 
+Grundlage für die weiterführende Digitalisierung der Schweiz ist. Eine technologische Lösung, welche 
+auf  einer  Sicherheitsarchitektur  für  Mobiltelefone  basiert,  bietet  heute  den  höchsten  Grad  an 
+Sicherheit.  Aus  Sicht  von  Samsung  Electronics  hat  der  vorliegenden  Gesetzesentwurf  die  richtige 
+Stossrichtung.  Es  gilt  dies 
+insbesondere  auch  bei  der 
+dazugehörigen  Verordnung,  sicherzustellen.  Samsung  Electronics  ist  gerne  bereit,  ihre  technische 
+Expertise sowie die Erfahrung bei der Umsetzung von elektronischen Identitäten in anderen Ländern 
+(insbesondere in Deutschland) jederzeit gewinnbringend in den Projektprozess einzubringen. 
+ 
+Gerne stehen wir für Fragen und Anliegen sowie den Austausch zu Umsetzungsfrage zur Verfügung 
+und danken für die Aufnahme unserer Stellungnahme in Ihre Überlegungen. 
+ 
+ 
+
+im  weiteren  Gesetzgebungsprozess, 
+
+  
+
+ 
+ 
+Martin Zust 
+Head of Corporate Communication 
+ 
+Samsung Electronics Switzerland GmbH 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Philipp Scharpf 
+Corporate & Public Affairs Manager 
+Samsung Electronics Switzerland GmbH 
+
+

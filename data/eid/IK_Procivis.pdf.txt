@@ -1,0 +1,179 @@
+  
+
+ 
+ 
+Bundesamt für Justiz 
+Bundesrain 20 
+3003 Bern 
+ 
+ 
+Zürich, 11. Oktober 2022 
+ 
+ 
+Vernehmlassung  zum  Bundesgesetz  über  den  elektronischen  Identitätsnachweis  und  andere 
+elektronische Nachweise (E-ID-Gesetz, BGEID) 
+ 
+Sehr geehrte Damen und Herren 
+ 
+Wir danken Ihnen bestens für die  Einladung zum Vorentwurf des Bundesgesetzes über den elektronischen 
+Identitätsnachweis und andere elektronische Nachweise (E-ID-Gesetz, BGEID) Stellung zu nehmen. 
+
+Allgemeine Einschätzung 
+
+Der veröffentlichte Vorentwurf des Bundesgesetzes über den elektronischen Identitätsnachweis und andere 
+elektronische  Nachweise  umfasst  nicht  nur  eine  Regelung  der  nationalen  E-ID,  sondern  integriert  auch 
+weitere digitale Nachweise und Akteure (Aussteller und Verifikatoren) sowohl aus dem öffentlichen als auch 
+privaten Sektor in die bundesbetriebene Vertrauensinfrastruktur, was Procivis sehr begrüsst. Dies erlaubt 
+es,  in  der  Schweiz  ein  E-ID  Ökosystem  für  verschiedenste  digitale  Nachweise  aufzubauen  und  somit  die 
+Durchdringung und ganzheitliche Digitalisierung konsequent zu erzielen. 
+ 
+Voraussetzung  dafür  ist  die  Konkretisierung  sowie  frühzeitige  und  verlässliche  Zurverfügungstellung  der 
+Vertrauensinfrastruktur  auch  an  Dritte,  um  den  Auf-  und  Ausbau,  wenn  allenfalls  auch  schrittweise,  zu 
+ermöglichen.  Zwar  ist  die  technologieneutrale  Formulierung  der  Gesetzgebung  gutzuheissen,  allerdings 
+sehen  wir  hier  den  Bedarf,  den  Gesetzesentwurf  resp.  die  dazugehörigen  Verordnungen  und  die 
+Erläuterungen  aus  dem  Bericht  baldmöglichst  weiter  zu  konkretisieren  und  die  initiale  technologische 
+Umsetzung detaillierter zu deklarieren, damit sich alle betroffenen Staatsebenen und Behörden sowie die 
+Privatwirtschaft  entsprechend  darauf  vorbereiten  können.  Dies  wird  auch  unerlässlich  sein,  um  eine 
+technische  Akzeptanz  der  E-ID  bei  deren  Einführung  seitens  der  Kantone  und  Gemeinden  sowie  in  der 
+Privatwirtschaft zu gewährleisten und eine schnelle Verbreitung der nationalen E-ID zu ermöglichen. 
+ 
+In diesem Zusammenhang wir im erläuternden Bericht eine Zeitabgabe von 24 bis 36 Monaten zwischen der 
+Lancierung bis zur Inbetriebnahme der Vertrauensinfrastruktur angegeben. Neben der zeitnahen Klärung der 
+erwähnten  technologischen  Details  einer  solchen  Vertrauensinfrastruktur  wäre  es  für  alle  Akteure  des 
+Schweizer  E-ID  Oekosystems  sehr  wichtig  zu  verstehen,  ab  welchem  Zeitpunkt  diese  24  bis  36  Monate 
+anfangen zu laufen – ab dem Moment, wenn von den Bundesbehörden eine erste Testinfrastruktur aufgebaut 
+wird  (sprich  ab  2022)  oder  ab  dem  Moment,  wenn  das  Gesetz  vom  Parlament  verabschiedet  und  eine 
+allfällige Referendumsfrist  verstrichen  ist  (voraussichtlich  nicht  vor  Ende 2024).  Letztere Variante würde 
+bedeuten, dass die produktive Einführung einer nationalen E-ID frühestens ab dem Jahr 2027 möglich wäre. 
+Aus unserer Erfahrung würde das weiter bedeuten, dass ein bereite Durchdringung der Schweizer E-ID wohl 
+nicht vor dem Jahr 2030 zu erwarten wäre.  
+ 
+
+ 
+
+Procivis AG   |   Dietzingerstrasse 3   |   8003 Zurich   |   Switzerland 
+
+  
+
+Weiter  bedarf  es  baldmöglichst  genauerer  Angaben  zum  Thema  Gouvernanz  der  Vertrauensinfrastruktur, 
+konkret zu Fragen, ob beliebige Systeme (Wallets, Software zur Ausstellung und Prüfung von Nachweisen) 
+auf  die  Vertrauensinfrastruktur  zugreifen  dürfen  und  ob  spezifische  Zulassungen  dafür  vorgesehen  sind, 
+welche nicht explizit gesetzlich festgehalten wurden. 
+ 
+Gemäss Gesetzestext baut der Bund einen Ausstellungsprozess für die E-ID auf, bei dem die Daten auf der 
+physischen  ID  gescannt,  mit  den  Daten  vom  fedpol  gegengeprüft,  und  ein  Abgleich  des  Gesichts 
+vorgenommen wird. Wird dieser Prozess Teil der Bundeswallet sein und/oder können private Wallets diesen 
+Prozess (vom Bund verarbeitet) einbinden? 
+ 
+Weiter ist unklar, welche Konditionen für die Kantone und Behörden bezüglich der Akzeptanzpflicht der E-
+ID als Identifikation gelten: Gibt es hier Übergangsfristen beziehungsweise fixe Fristen? Wird die Einführung 
+dieses neuen Identifikationsmittel und die Neuschaffung von Anlaufstellen zur Unterstützung der Ausstellung 
+und dem Einsatz der E-ID personell und/oder finanziell vom Bund (vorab) unterstützt oder müssen die Mittel 
+von  den  Kantonen  sichergestellt  werden?  Selbstverständlich  führen  wir  unsere  Fragen  in  einem Gespräch 
+weiter aus. 
+ 
+Procivis engagiert sich für Identitäts- und Nachweislösungen unter dem Grundsatz der Datenminimierung, 
+Privacy-by-Design und Dezentralisierung und begrüsst und unterstützt daher grundsätzlich den konsistenten 
+Vorentwurf in diesem Zusammenhang. 
+ 
+
+Bemerkungen zu einzelnen Bestimmungen 
+
+Art. 13 
+
+Bei der Widerrufsfrist wird eine Berücksichtigung wie kritisch der entsprechende Nachweis ist, empfohlen, 
+da  ein  „unverzüglicher“  Widerruf  bei  niederschwelligen  Nachweisen  wie  beispielsweise  einer 
+Mitgliederkarte für ein Fitnesscenter o.Ä. nicht verhältnismässig erscheint. 
+ 
+
+Art. 18 
+
+ist  gemäss  Gesetzestext 
+
+lediglich  für  Bundes-,  Kantons-  und 
+Eine  obligatorische  Bestätigung 
+Gemeindebehörden vorgesehen. Jedoch wird eine Prüfung von privaten Ausstellerinnen und Verifikatorinnen 
+durch  den  Bund  für  einen  Aufbau  eines  Ökosystems  als  essenziell  betrachtet.  Durch  die  Entrichtung  von 
+Gebühren (nach Art. 26 Abs. 1) wird bereits eine Registration der entsprechenden Akteure vorgenommen 
+und eine Prüfung könnte im gleichen Prozess erfolgen. Damit Private das Ausstellen eigener Nachweise oder 
+die Prüfung von Nachweisen über die Vertrauensinfrastruktur im Voraus evaluieren und vorbereiten können, 
+sollte transparent vorgelegt werden, ob und unter welchen Bedingungen eine Organisation zur Teilnahme 
+zugelassen ist. 
+ 
+
+Art. 19 
+
+Gemäss  Art.  14  kann  die  Inhaberin  oder  der  Inhaber  das  technische  Mittel  zur  Aufbewahrung  der 
+elektronischen  Nachweise  selbst  wählen.  Unter  Art.  19  ist  festgehalten,  dass  der  Bund  den  Bürgern  ein 
+eigenes  Wallet  zur  Verfügung  stellen  wird.  Im  erläuternden  Bericht  wird  jedoch  erwähnt,  dass  auch  von 
+Privaten ausgestellte Wallets  für die Aufbewahrung und Vorweisung  erlaubt sind. Idealerweise sollte dies 
+im Gesetzestext erläutert werden, um die mögliche Anbindung privater Wallets an die Vertrauensstruktur 
+explizit zu erlauben. 
+
+ 
+
+Procivis AG   |   Dietzingerstrasse 3   |   8003 Zurich   |   Switzerland 
+
+  
+
+ 
+Die  Herausgeber  einer  solchen  elektronischen  Brieftasche  können  jedoch  nach  Art.  13  nDSG  einem 
+Bewertungs-  und  Zertifizierungsprozess  unterstellt  werden.  Dieser  Prozess  würde  sich  demnach  jedoch 
+lediglich  obligatorisch  und  auf  Verlangen  etablieren  und  keine  mögliche  Zertifizierungspflicht  zulassen. 
+Zudem werden durch die Softwarekomponenten der Wallet keine Personendaten verarbeitet, sondern dies 
+geschieht durch die Nutzerin oder den Nutzer auf dem Smartphone selbst. Aufgrund der sensiblen Daten, 
+dem  kritischen  Missbrauchspotential  und  der  heterogenen  Bevölkerung  in  Hinblick  auf  den  Umgang  mit 
+digitalen  Medien,  empfiehlt  Procivis  eine  klare  Zertifizierungspflicht  gesetzlich  für  elektronische 
+Brieftaschen einzuführen. 
+ 
+
+Art. 20 
+
+Die freie Nutzung des Bundeswallet ist im Gesetz verankert. Die Auflagen zur Nutzung der Anwendung zur 
+Prüfung  von  elektronischen  Nachweisen  wiederum  werden  offengelassen.  Lediglich  eine  gebührenfreie 
+Nutzung 
+ist  nach  Art.  26  definiert.  Sollen  keine  genaueren  Angaben  zu  der  Offenheit  der 
+Vertrauensinfrastruktur gemacht werden, wie dies in der Einleitung angefragt ist, so müssten die Auflagen 
+vorab kommuniziert werden, um den Ausstellern und Prüfern eine vorzeitige Einschätzung der Teilnahme 
+am Ökosystem zu ermöglichen. 
+ 
+
+Art. 21 
+
+Wie  bereits  im  erläuternden  Bericht  festgehalten,  ist  der  Bedarf  eines  Backup-Systems  aufgrund  eines 
+Verlusts  oder  Wechsels  des  Geräts  (z.B.  Smartphone)  naheliegend.  Eine  Lösung  angeboten  vom  Bund  ist 
+lediglich  optional  festgehalten.  Um  diesem  Bedarf  zu  entsprechen,  sollte  auch  die  explizite  Erlaubnis 
+privater Anbieter eines Backup-Systems evaluiert werden. Ein fehlendes Backup-System würde sowohl beim 
+Inhaber  als  auch  bei  den  privaten  Ausstellern  und  den  Behörden  einen  erheblichen  Aufwand  und  eine 
+Zeitverzögerung  bedeuten.  Wird  beispielsweise  die  durchschnittliche  Nutzungsdauer  eines  Smartphones 
+betrachtet, fällt diese deutlich kürzer aus als die Gültigkeit der physischen ID. Unter anderem wird daher 
+die Zulassung von privaten Backup-Lösungen empfohlen, falls keine Bundeslösung angeboten wird. 
+ 
+Procivis begrüsst den Vorentwurf grundsätzlich und schätzt insbesondere die Wahrung der Privatsphäre der 
+Nachweisinhaber, die Datenminimierung sowie die Inkludierung weiterer Nachweise des Schweizer Marktes. 
+Eine  entsprechende, 
+in  der  Entwicklung  der 
+Vertrauensinfrastruktur  und  frühzeitige Beteiligung von Behörden und Privaten  wird  für  eine  erfolgreiche 
+Einführung der neuen Infrastruktur und Digitalisierung der Schweiz entscheidend sein. Wir danken für die 
+Berücksichtigung unserer Feedbacks und freuen uns ebenfalls in den weiteren Etappen der Ausarbeitung und 
+Umsetzung  des neuen E-ID Gesetzes unseren Betrag  zu leisten. Für  weitere Erläuterungen  unserer Inputs 
+stehen wir Ihnen gerne zur Verfügung. 
+
+transparente  Kommunikation  der  Meilensteine 
+
+ 
+
+Mit freundlichen Grüssen 
+ 
+Daniel Gasteiger 
+ 
+
+CEO und Mitgründer Procivis AG 
+
+ 
+
+ 
+
+Procivis AG   |   Dietzingerstrasse 3   |   8003 Zurich   |   Switzerland 
+
+

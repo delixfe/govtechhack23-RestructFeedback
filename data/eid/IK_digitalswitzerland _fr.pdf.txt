@@ -1,0 +1,234 @@
+ 
+ 
+
+ 
+
+ 
+
+Madame la Conseillère fédérale Karin Keller-Sutter 
+Cheffe du Département fédéral suisse de justice et police DFJP 
+Palais fédéral ouest 
+CH-3003 Berne 
+ 
+Soumission par e-mail à l’adresse: 
+rechtsinformatik@bj.admin.ch 
+ 
+ 
+ 
+Zurich, le 29 septembre 2022 
+ 
+Consultation Loi fédérale sur la preuve d’identité électronique et autres 
+services d’identification électronique (loi e-ID, LSIE) 
+ 
+Madame la Conseillère fédérale, 
+Mesdames, Messieurs, 
+ 
+Nous vous remercions de nous donner l’opportunité de prendre position sur la nouvelle proposition de loi e-ID, 
+opportunité que nous souhaitons saisir ici au nom de digitalswitzerland.  
+ 
+Cette proposition définissant le cadre d’une infrastructure de confiance dont l’élément clé est un e-ID émis par 
+l’État,  nous  constatons  de  manière  générale  qu’elle  rencontre  un  écho  favorable  auprès  des  membres  de 
+digitalswitzerland. Cependant, nous sommes convaincus que l’identité électronique ne peut s’établir en Suisse 
+que si elle est ancrée dans un écosystème de justificatifs électroniques inclusif. Nous considérons donc comme 
+essentiel de mentionner cet aspect dans l’article énonçant le but de la loi (voir remarque A). Par ailleurs, un 
+contrôle régulier de l’infrastructure étatique, un véhicule de saisie de contributions d’expertes et experts pour la 
+mise  en  œuvre  technologique  de  la  loi,  une  structure  tarifaire  répondant  aux  normes  internationales  et  une 
+réglementation  des  mécanismes  de  confirmation  privés  nous  paraissent  judicieux  (voir  les  remarques 
+correspondantes B, C, D et E).  
+ 
+Comptant  plus  de  240 organisations  par  son  réseau  intersectoriel,  digitalswitzerland  se  voit  comme  une 
+plateforme de dialogue mettant ses services à disposition pour simplifier le passage au numérique de la Suisse. 
+Le 28 avril dernier, digitalswitzerland a pu fournir une première contribution aux réflexions sur plusieurs plans 
+menées sur le développement de l’écosystème e-ID en Suisse. Ce livre blanc a été rédigé par dix spécialistes de 
+l’identité  numérique  du  secteur  privé  et  du  domaine scientifique.  Celui-ci  est  disponible  à  l’adresse  suivante: 
+https://digitalswitzerland.com/building-a-swiss-digital-trust-ecosystem/ 
+ 
+Nous  souhaitons  tirer  parti  de  notre  réseau  et  de  notre  position  de  plateforme  de  dialogue  pour  contribuer 
+activement et de manière constructive au passage au numérique de la Suisse.  
+ 
+
+ 
+
+ 
+digitalswitzerland | Geschäftsstelle Zürich | Selnaustrasse 25 | 8001 Zürich | 
+politics@digitalswitzerland.com | digitalswitzerland.com 
+
+1 | 4 
+
+ 
+
+ 
+Nous vous remercions de votre attention et restons à votre disposition pour tout renseignement complémentaire. 
+ 
+Meilleures salutations, 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+Guillaume Gabus 
+Extended Management, Public Affairs 
+
+Stefan Metzger  
+Managing Director digitalswitzerland 
+ 
+ 
+Informations complémentaires 
+Guillaume Gabus, Extended Management, Public Affairs, digitalswitzerland 
+Tel. +41 76 589 71 99 │ guillaume@digitalswitzerland.com 
+ 
+_________________________________________________________________________________________ 
+ 
+I. 
+
+Informations sur digitalswitzerland 
+
+digitalswitzerland est une initiative intersectorielle nationale qui vise à faire de la Suisse un pôle d’innovation 
+mondial leader dans le domaine du numérique. Sous l’égide de digitalswitzerland, plus de 240 adhérents de 
+l’association et partenaires non politiques de la fondation collaborent de façon transversale pour atteindre cet 
+objectif. digitalswitzerland aborde tous les aspects de la numérisation et s’attelle à résoudre divers défis. 
+ 
+_________________________________________________________________________________________ 
+ 
+Du point de vue de digitalswitzerland, l’infrastructure de confiance constitue un élément essentiel de l’avancée 
+numérique  de  la  société  et  de  l’économie  suisses.  digitalswitzerland  salue  la  rapidité  du  processus  et  l’axe 
+stratégique de l’avant-projet. 
+ 
+II. 
+
+Remarques sur la loi e-ID 
+
+A.  Même importance accordée à l’e-ID et à l’écosystème e-ID 
+Parallèlement à la protection de la personnalité et des droits fondamentaux des personnes, la loi vise la mise en 
+place d’une infrastructure de confiance étendue, présentant des avantages manifestes pour les citoyennes et 
+citoyens. Seul un écosystème permettant l’interaction d’un grand nombre d’émetteurs et émettrices, d’une part, 
+et de vérificateurs et vérificatrices de l’autre, peut apporter à la population la valeur ajoutée nécessaire pour 
+prospérer. La loi ne doit donc pas se limiter au rattachement d’autres justificatifs électroniques, à leur délivrance 
+et à leur vérification, mais doit également encourager et soutenir activement ce processus. Le fait que l’e-ID ne 
+soit pas uniquement utilisé pour les processus liés à l’e-gouvernement, mais soit largement acceptée dans le 
+secteur privé, constitue une responsabilité commune qui requiert une étroite collaboration. Nous considérons 
+donc comme judicieux que, dans le cadre de sa finalité, la loi doive permettre de nouveaux modèles économiques 
+numériques imposant la confiance dans l’espace numérique comme condition préalable. Dans ce contexte, la 
+diversité  et  le  nombre  de  modèles  commerciaux  numériques  mis  à  disposition  sur  l’infrastructure  étatique 
+devraient également permettre de déterminer le degré de réalisation de la loi. Par ailleurs, une infrastructure de 
+confiance étendue supposerait la sécurité juridique, mais aussi des investissements pour les acteurs du secteur 
+privé. Tant que les principes de base de l’aménagement de l’infrastructure de confiance et la répartition des rôles 
+entre  l’État  et  les  acteurs  du  secteur  privé  ne  seront  pas  formulés  de  manière  suffisamment  concrète,  les 
+fournisseurs de technologie et de services potentiels ne pourront pas élaborer leurs modèles commerciaux de 
+
+ 
+ 
+2 | 4 
+
+ 
+
+manière  satisfaisante.  Cet  état  de  fait  pèse  également  sur  la  planification  de  services  et  offres  de  services 
+potentiels  basés  sur  l’e-ID  dans  le  domaine  des  justificatifs  numériques.  digitalswitzerland  souhaite  inciter  la 
+Confédération à clarifier rapidement la situation et à assurer ainsi la sécurité des investissements.   
+ 
+B.  Un contrôle régulier de l’infrastructure étatique 
+Pour s’établir, la confiance requiert une infrastructure sûre et robuste. Il est donc essentiel que les réflexions sur 
+la  cybersécurité  soient  d’emblée  prises  en  compte  et  inscrites  dans  la  loi.  L’avant-projet  de  loi  décrit  deux 
+systèmes: le système Fedpol d’émission des e-ID (voir section 2) et l’infrastructure de confiance (voir section 5). 
+La loi devrait prévoir un contrôle régulier (probablement annuel) de la sécurité de ces deux éléments par des 
+spécialistes  qualifiés.  Une  mise  en  œuvre  correcte  permet  d’assurer  l’absence  de  données  sensibles  sur 
+l’infrastructure de confiance. Cet élément doit être vérifié et doit être prévu par la loi. Il nous semble en outre 
+judicieux de soumettre également la structure du système Fedpol à un contrôle technique et procédural. Ce point 
+devrait être inscrit dans la loi. Outre la nécessité d’un contrôle, le besoin de protection devrait lui aussi faire l’objet 
+d’une  description  explicite.  Bien  que  l’ordonnance  régisse  les  détails  de  la  réalisation  des  contrôles  par  des 
+spécialistes, nous considérons des tests dits «Red Team Tests» comme particulièrement pertinents. Un organe 
+de contrôle externe tel que l’institut national de test pour la cybersécurité (NTC) serait également envisageable 
+afin de renforcer encore la confiance 
+ 
+C.  Véhicule de contributions d’experts sur la mise en œuvre technologique de la loi 
+De  l’avis  de  digitalswitzerland,  il  serait  judicieux  de  ne  pas  réglementer  la  mise  en  œuvre  technologique  à 
+l’échelon de la loi. Étant donné la rapidité de l’évolution technologique, la Confédération devrait veiller à pouvoir 
+opter  pour  le  contexte  technologique  correspondant  au  mieux  aux  objectifs  de  la  loi  et  à  ses  exigences,  au 
+moment de son introduction (protection technique spécifique des données, sécurité des données, économie des 
+données et enregistrement décentralisé des données). C’est pourquoi digitalswitzerland salue l’article 25 de la 
+loi. Dans un même temps, il convient de noter que pour établir l’infrastructure de confiance, la loi devra convaincre 
+les  citoyennes  et  citoyens  quant  à  la  cohérence  et  la  sophistication  de  son  implémentation  (portefeuille 
+électronique, système de copies de sauvegarde, etc.). La mise en œuvre technologique de la loi comprend tant 
+la User Experience (UX) de manière générale, que des moments décisifs du parcours client, notamment parce 
+que les principes de l’identité auto-souveraine transmettent la responsabilité de l’identité à l’utilisateur. Le champ 
+de  tension  entre  la  sécurité,  la  User  Experience  et  l’approche  de  la  décentralisation  n’a  pas  encore  été 
+suffisamment  clarifié.  C’est  précisément  parce  que  la  plupart  de  ces  questions  liées  à  la  mise  en  œuvre 
+technologique ne sont pas réglementées à l’échelon de la loi que nous aspirons à la mise en place d’un véhicule 
+permettant au secteur privé et du domaine scientifique de contribuer au débat. Cela simplifierait la tâche de la 
+Confédération en termes de mise en œuvre dans le cadre du champ de tension mentionné, voire permettrait 
+d’éviter certaines zones d’ombre. Cette approche pourrait prendre la forme d’un groupe de spécialistes élargi ou 
+avoir  lieu  via  la  plateforme  GitHub  actuelle.  Ces  spécialistes  permettent  également  de  faire  état  des 
+connaissances existantes et des investissements réalisés. digitalswitzerland saluerait l’ajout d’une disposition 
+d’exécution correspondante à l’article 28. 
+ 
+D.  Structure tarifaire selon les normes internationales  
+digitalswitzerland est d’avis que les coûts et les prix des vérificatrices et vérificateurs ont un impact direct sur le 
+succès de l’ensemble du projet. Ces réflexions d’ordre commercial sont particulièrement pertinentes pour les 
+entreprises connectant leurs justificatifs avec l’e-ID, constituant ainsi l’écosystème e-ID recherché. La perception 
+d’une taxe minimale pour l’émettrice ou l’émetteur et la vérificatrice ou le vérificateur pour (1) l’enregistrement des 
+données (identificateur spécifique) dans le Registre de base et pour (2) l’inscription au Registre de confiance 
+nous  semble  judicieuse.  digitalswitzerland  est  d’avis  que  le  montant  de  la  taxe  doit  s’aligner  sur  les  lignes 
+directrices de la Fondation Sovrin. Cela signifie concrètement: une taxe minimale pour l’inscription au Registre 
+de  base,  mais  pas  de  taxe  pour  l’émission  ou  la  vérification  d’un  justificatif.  La  révocation  de  justificatifs 
+électroniques serait communiquée au système dans le cadre de l’actualisation quotidienne. Des frais seraient 
+facturés aux émettrices ou émetteurs pour la mise à jour (Revocation Update) correspondante. Il importe ici que 
+le montant total des frais ne dépende donc pas du nombre d’utilisatrices et utilisateurs, ni du nombre d’interactions 
+pour  un  justificatif  spécifique.  Cet  élément  est  essentiel  tant  pour  l’évolutivité  de  l’écosystème  que  pour  les 
+réflexions  commerciales  des  vérificatrices  et  vérificateurs,  ainsi  que  des  émettrices  et  émetteurs. 
+ 
+ 
+3 | 4 
+
+ 
+
+digitalswitzerland  recommande  l’intégration  des  principes  susmentionnés  à  l’échelon  de  la  loi,  et  espère  par 
+ailleurs que les produits des modèles commerciaux numériques désormais possibles, et l’économie de coûts liée 
+à l’optimisation de l’identification viendront largement compenser ces taxes minimales. digitalswitzerland salue 
+également  l’absence  de  taxes  prélevées  pour  l’émission  de  l’e-ID,  pour  son  utilisation  et  pour  le  portefeuille 
+électronique de la Confédération. Du point de vue de l’utilisatrice ou utilisateur final(e), ces points est essentiels. 
+ 
+E.  Réglementation des mécanismes de confirmation privés  
+La connexion entre le monde virtuel et le monde physique reste un élément décisif de l’infrastructure de confiance. 
+Sur ce point, digitalswitzerland est d’avis que chaque instance bénéficiant actuellement de notre confiance (pour 
+l’accréditation des émettrices et émetteurs, par exemple) doit également bénéficier de cette confiance au niveau 
+virtuel. Cet élément est capital pour les utilisatrices et utilisateurs ainsi que pour les vérificatrices et vérificateurs, 
+qui n’ont souvent pas de lien direct avec l’émettrice ou l’émetteur. Il est opportun que la Confédération transfère 
+la  compétence  de  confirmation  de  l’identité  des  autorités  fédérales,  cantonales  et communales  (confirmation 
+spécifique  des  identificateurs).  Il  n’est  pas  moins  essentiel  au  sens  de  l’écosystème  e-ID  recherché  que  les 
+acteurs du secteur privé soient habilités à mettre des mécanismes distincts, non étatiques (privés) à disposition. 
+Exemple: la liste des hautes écoles reconnues et accréditées en Suisse tenue par la Conférence des Recteurs 
+des Universités Suisses (swissuniversities) représente une importante source d’informations pour la validation 
+des  diplômes  d’écoles  supérieures.  Cet  organe  de  confiance  spécifique  au  secteur  doit  pouvoir  continuer  à 
+exercer cette fonction via le numérique. Cela importe pour la mise en place d’écosystèmes multisectoriels, qui 
+préparent la voie à des cas d’application à l’échelle sectorielle et au-delà. Comme mentionné à la remarque A, 
+l’e-ID est un module central pour un grand nombre d’écosystèmes sectoriels (y compris les domaines de la santé, 
+de  la  mobilité,  des  finances,  etc.).  Ce  n’est  que  si  nous  évitons  de  construire  des  mondes  cloisonnés,  mais 
+tendons à mettre en place une infrastructure de confiance, que nous pourrons créer une valeur ajoutée concrète 
+pour les citoyennes et citoyens. Même si le projet actuel ne limite pas explicitement la possibilité de confiance 
+privée spécifique à un secteur (article 18, al. 2), cela pourrait être mentionné également à l’échelon de la loi. 
+Parallèlement, une plus grande clarté quant au processus d’accréditation d’émetteurs (privés) est souhaitable, 
+notamment en ce qui concerne les conditions à remplir pour devenir émetteur et la manière de traiter les faux 
+émetteurs.  Concrètement,  il  pourrait  être  mentionné  à  l’article 12  alinéa 1 que  les  autorités  et  les  personnes 
+privées peuvent utiliser l’infrastructure de confiance de la Confédération conformément aux termes de la section 
+5, pour émettre des justificatifs électroniques non étatiques. 
+
+ 
+ 
+4 | 4 
+
+

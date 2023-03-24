@@ -1,0 +1,134 @@
+ 
+
+Pro Senectute Schweiz 
+Lavaterstrasse 60 · Postfach · 8027 Zürich 
+ 
+Eidgenössisches Justiz- und Polizeidepartement EJPD 
+Bundesamt für Justiz 
+Bundesrain 20 
+3003 Bern 
+ 
+ 
+Zürich, 20. Oktober 2022 
+Direktion · Alain Huber 
+Telefon +41 44 283 89 95 · E-Mail alain.huber@prosenectute.ch  
+ 
+ 
+Vorentwurf des Bundesgesetzes über den elektronischen Identitätsnachweis und andere elektronische 
+Nachweise (E-ID-Gesetz, BGEID) 
+ 
+Sehr geehrte Frau Bundesrätin Keller-Sutter 
+Sehr geehrte Damen und Herren 
+
+Pro Senectute begleitet Seniorinnen und Senioren beim Einstieg in die digitale Welt. Die kantonalen und 
+interkantonalen Pro Senectute Organisationen befähigen Seniorinnen und Senioren dazu, neue Informati-
+onstechnologien zu nutzen und unterstützen sie im Umgang mit der Digitalisierung. Gleichzeitig ist Pro 
+Senectute auch den «Offlinern» behilflich, damit sie vom gesellschaftlichen Leben nicht ausgegrenzt wer-
+den. 
+
+Gerne nehmen wir die Möglichkeit wahr, im Rahmen des Vernehmlassungsverfahrens zum «Vorentwurf des 
+Bundesgesetzes über den elektronischen Identitätsnachweis und andere elektronische Nachweise (E-ID-
+Gesetz, BGEID)» Stellung zu nehmen. 
+
+Grundsätzliche Überlegungen 
+
+ 
+
+Die Digitalisierung betrifft alle Bevölkerungsgruppen und eröffnet in vielen Lebensbereichen neue Wege. 
+Die Möglichkeit einer sicheren, verlässlichen und eindeutigen elektronischen Identifikation von natürlichen 
+Personen ist ein wesentlicher Punkt dieser Veränderung und gleichzeitig eine Grundvoraussetzung für die 
+weitere Entwicklung. 
+
+Der Vorschlag für das neue Bundesgesetz setzt den Rahmen für eine Vertrauensinfrastruktur, deren Kern-
+element eine staatlich herausgegebene E-ID ist. Es wird angestrebt, dass sich Nutzerinnen und Nutzer künf-
+tig sicher, schnell und unkompliziert digital ausweisen können. Pro Senectute ist der Auffassung, dass mit 
+der neu erarbeiteten Gesetzesvorlage die wichtigsten Kritikpunkte, welche in der Abstimmung vom März 
+2021 zur Ablehnung geführt haben, aufgenommen und gelöst worden sind. 
+
+Gemäss der Studie «Digitale Senioren 2020» von Pro Senectute Schweiz, kann die Mehrheit der Seniorin-
+nen und Senioren heute mit digitalen Technologien bestens umgehen. Bei der Einführung von neuen digi-
+talen Produkten, Geräten usw. sehen sich ältere Menschen unterdessen mit weitgehend gleichen Vor- und 
+Nachteilen wie jüngere Personen konfrontiert. Dies gilt auch für die Einführung und Nutzung der E-ID in der 
+Schweiz. 
+
+Mit dem freiwilligen Charakter des Bezuges sowie der Verwendung der neuen elektronischen Identität bzw. 
+dank dem Umstand, dass bei einer Annahme der Vorlage die herkömmlichen analogen Registrierungsmög-
+lichkeiten nach wie vor zur Verfügung stehen, ist aus der Sicht von Pro Senectute Schweiz sichergestellt, 
+
+Pro Senectute Schweiz 
+Lavaterstrasse 60 · Postfach · 8027 Zürich · Telefon 044 283 89 89 
+Fax 044 283 89 80 ·  info@prosenectute.ch · prosenectute.ch 
+
+Postkonto 87-500301-3 
+IBAN CH91 0900 0000 8750 0301 3 
+
+ 
+
+dass «Offliner» nicht ausgeschlossen werden. Zudem ist zu begrüssen, dass beim Einsatz der E-ID für die 
+sie nutzenden, natürlichen Personen keine Gebühr anfällt, was die Nutzung auch für Menschen mit gerin-
+gen finanziellen Mitteln sicherstellt. 
+
+ 
+Kompatibilität mit Vorsorgedokumenten 
+ 
+Heutzutage müssen die meisten offiziellen Dokumente handschriftlich unterschrieben werden, um als 
+rechtsgültig zu gelten. Hier bietet die E-ID eine Vielfalt von neuen Möglichkeiten. In diesem Zusammen-
+hang ist aus der Sicht von Pro Senectute Schweiz die Einführung der neuen E-ID insbesondere im Hinblick 
+auf mögliche Entwicklungen hinsichtlich der Erstellung der Vorsorgedokumente bzw. deren Rechtsgültigkeit 
+ausdrücklich zu begrüssen. 
+
+Gerade im Bereich der Patientenverfügung, bei welcher eine zeitnahe Auffindbarkeit von entscheidender 
+Bedeutung für die Umsetzung des Patientenwillens ist, wäre eine vollständig digitale Lösung nicht zuletzt 
+auch für deren Nutzung mittels Notfallzugang in einem elektronischen Safe oder im Elektronischen Patien-
+tendossier (EPD) zwingend notwendig. 
+
+Die aktuell geltenden rechtlichen Rahmenbedingungen verhindern eine vollständig digitale Abwicklung der 
+Vorsorgedokumente. So kann die Patientenverfügung zwar digital ausgefüllt werden, muss aber nach wie 
+vor ausgedruckt und eigenhändig unterschrieben werden (Art. 371 ZGB). Das Verfahren beim Vorsorgeauf-
+trag ist noch komplizierter und vollständig «analog». Es bestehen dabei zwei rechtsgültige Formen (Art. 361 
+ZGB): Der eigenhändige Vorsorgeauftrag ist gemäss Gesetz von Anfang bis Ende von Hand zu verfassen, zu 
+datieren und eigenhändig zu unterzeichnen. Der öffentlich beurkundete Vorsorgeauftrag wird gemeinsam 
+mit einem Notar oder einer Urkundsperson erstellt und am Schluss von dieser beurkundet. 
+
+Mit der Einführung einer E-ID ist daher darauf zu achten, dass auch solche bestehenden Hürden zur Rechts-
+gültigkeit eines Vorsorgeauftrages und einer Patientenverfügung entfallen. Indem man sich einfach elektro-
+nisch sicher und eindeutig identifiziert und sicher signieren kann, könnten in naher Zukunft alle Vorsorge-
+dokumente digital umgesetzt und es könnte auf sämtliche analoge Prozesse verzichtet werden. Die Verwen-
+dung der E-ID würde einen klaren Vorteil gegenüber der heutigen Situation schaffen, wo eine komplette Ab-
+wicklung der Erstellung von Vorsorgedokumenten aufgrund der aktuell geltenden rechtlichen Hürden leider 
+nicht möglich ist und letztlich deren Auffindbarkeit erschwert. Um die Wirksamkeit der E-ID sowie deren 
+Mehrwert in allen Bereichen sicherzustellen, müssen aus der Sicht von Pro Senectute die Kompatibilität der 
+E-ID mit der Erstellung und Hinterlegung von Vorsorgedokumente garantiert sowie die derzeit geltenden 
+rechtlichen Formvorschriften in den Artikeln 361 und 371 ZGB entsprechend angepasst werden. 
+ 
+ 
+Für die Berücksichtigung unserer Stellungnahme bei der Überarbeitung des Entwurfs sowie des erläutern-
+den Berichts danken wir Ihnen. 
+
+Freundliche Grüsse 
+Pro Senectute Schweiz
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Eveline Widmer-Schlumpf 
+Präsidentin des Stiftungsrates 
+
+ 
+ 
+
+ 
+ 
+                  
+
+Alain Huber 
+Direktor 
+
+Pro Senectute Schweiz 
+
+2 | 2 
+
+

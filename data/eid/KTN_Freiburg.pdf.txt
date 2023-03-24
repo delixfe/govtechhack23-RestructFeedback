@@ -1,0 +1,323 @@
+Conseil d’Etat CE 
+Staatsrat SR 
+ 
+Rue des Chanoines 17, 1701 Fribourg 
+ 
+T +41 26 305 10 40, F +41 26 305 10 48 
+www.fr.ch/ce  
+
+ 
+
+ 
+Conseil 
+Rue des Chanoines 17, 1701 Fribourg 
+
+PAR COURRIEL 
+
+d’Etat 
+
+Département fédéral de justice et police 
+A l’attention de Mme Karin Keller-Sutter 
+Conseillère fédérale 
+Chef du département fédéral de justice et police 
+3003 Berne 
+ 
+ 
+Courriel : rechtsinformatik@bj.admin.ch 
+
+ 
+
+Fribourg, le 4 octobre 2022 
+
+ 
+2022-1019 
+Avant-projet  de  loi  sur  l’identité  électronique  et  les  autres  moyens  de  preuve 
+électroniques (loi sur l’e-ID, LeID) - Procédure de consultation 
+
+Madame la Conseillère fédérale, 
+
+Le  Conseil  d’Etat  du  canton  de  Fribourg  vous  remercie  de  lui  avoir  soumis  l’avant-projet  de  loi 
+fédérale sur l’identité électronique et les autres moyens de preuve électroniques (LeID). 
+
+Le  canton  de  Fribourg,  en  tant  que  membre  fondateur  de  l’association  iGovPortal.ch,  est 
+particulièrement  concerné  par 
+la 
+cyberadministration. Dans notre prise de position, il nous paraît important de relever les facteurs clé 
+de succès de mise en œuvre que nous avons pu observer jusqu’ici à savoir la simplicité d’utilisation, 
+l’implication du secteur privé et les moyens de preuve électroniques. 
+
+loi,  notamment  dans 
+
+l’avant-projet  de 
+
+le  cadre  de 
+
+Le projet de loi positionne la Confédération comme autorité de délivrance d’une identité électronique 
+étatique  (e-ID)  pour  la  population  en  possession  d’un  document  d’identité  émis  par  une  autorité 
+officielle. Nous saluons cette initiative visant et l’uniformisation sur le plan national de ce service de 
+base à la population. Le Conseil d’Etat constate que l’avant-projet tient compte de la compatibilité de 
+l’identité électronique avec les projets européens ce qui est important étant donné qu’uniquement les 
+citoyennes et citoyens auront accès à une e-ID.  
+
+L’avant-projet appelle toutefois les remarques suivantes : 
+
+1. e-ID 
+
+Identité (e-ID):  la  création  d’une  identité  électronique  fédérale  utilisable  par  les  citoyens  sur  les 
+mêmes bases que leurs papiers d’identité physiques, est  perçue de manière positive et  permettra à 
+terme de favoriser la digitalisation de l’administration publique et donc la vie des citoyens et résidents 
+étrangers suisses. 
+
+Nous saluons le fait d’attribuer des e-ID uniquement à des personnes physiques (art. 1). Le Conseil 
+d’Etat ne souhaite pas d’attribution à des personnes morales. 
+
+ 
+
+Conseil d’Etat CE 
+Page 2 de 5 
+
+ 
+
+L’attribution d’une e-ID est garantie par l’article 3 de l’avant-projet pour les citoyens suisses ou les 
+citoyens étrangers au bénéfice d’une autorisation ou permis de séjour en Suisse. Cette disposition ne 
+traite toutefois pas de la question des personnes étrangères qui font appel à des prestations étatiques 
+suisses, notamment les contribuables étrangers de biens immobiliers. 
+
+Si l’article 27 de l’avant-projet permet au Conseil fédéral de conclure des conventions internationales 
+pour faciliter la reconnaissance juridique des e-ID suisses à l’étranger ainsi que la reconnaissance des 
+e-ID étrangères en Suisse, force est de constater que cette démarche s’inscrit dans le temps et qu’elle 
+dépend d’une série de facteurs politiques non compressibles. 
+
+Dans les deux cas, celui de l’e-ID nationale et des autres moyens internationaux, il appert que les 
+processus  de  renouvellement  de  l’identité  numérique  relèvent  d’un  réel  défi.  A  notre  sens,  il  est 
+primordial  que  la  Confédération  place  l’utilisateur  au  centre  des  réflexions  pour  avoir  un  taux 
+d’adhésion élevé, y compris pour les personnes en situations de handicap (eInclusion). 
+
+2. Infrastructure électronique de confiance 
+
+Moyen  d’authentification  (login) incluant  l’identification  (e-ID  et  autres  systèmes  internationaux): 
+L’article 12 de l’avant-projet permet l’usage de systèmes d’identification parallèle à l’e-ID, mais la 
+coordination internationale prendra du temps et  risque de mettre certains  de nos utilisateurs sur la 
+touche.  Actuellement,  le  moyen  d’authentification  utilisé  intégrant  ces  identités  permet  à  tous  les 
+destinataires  de  prestations  de  se  connecter  au  guichet  virtuel  et  de  faire  évoluer  les  niveaux 
+d’identification selon les besoins de réassurance des métiers. Avec la nouvelle solution, uniquement 
+les personnes détenant un document d’identité tel que décrit dans le paragraphe précédent pourraient 
+y  être  intégrées.  Cela  veut  dire  concrètement  qu’au  lieu  d’un  système  de  login  nous  devrions  en 
+intégrer plusieurs ce qui complexifie l’intégration en regard de la solution actuelle. Actuellement, le 
+système  privé  permet  d’adresser  sur  la  même  solution  d’authentification  et  d’identification  tant  la 
+population suisse que les étrangers qui travaillent ou on des relations dans notre canton. Il est donc 
+nécessaire que cela reste possible à l’avenir. 
+
+Le Conseil d’Etat souhaite que la solution finale reste simple et compréhensible pour la population 
+afin que son adoption soit la plus grande et rapide possible. 
+
+Lors de ses visites dans les pays qui sont en avance en matière de cyberadministration, le Conseil 
+d’Etat a pu constater que l’implication du secteur privé était un facteur clé de succès. La population 
+fera plus volontiers le pas si la solution permet son utilisation dans son eBanking, dans le cadre de la 
+santé et les différents éléments numériques du quotidien. 
+
+3. Moyens de preuves numériques 
+
+Nous soutenons la volonté de la Confédération, qui en plus de l’e-ID, exprime la volonté d’initier un 
+projet d’émission et d’utilisation d’autres moyens de preuve électroniques (art. 12 à 16). La création 
+d’un portefeuille électronique (wallet) avec des documents officiels (permis de conduire, attestations, 
+etc.)  Nous  saluons  l’idée  de  partager  l’infrastructure  électronique  à  tous  les  types  de  preuves 
+numériques  émises  par  des  entités  publiques,  mais  à  terme  également  privées.  A  ce  titre,  nous 
+disposons  de  plusieurs  solutions  permettant  de  vérifier  l’authenticité  du  document  et  l’identité  de 
+l’émetteur,  Nous  souhaiterions  être  associés  en  tant  que  partenaire  dans  le  développement  de  la 
+solution  dès  la  phase  pilote.  Toutefois,  nous  émettons  certaines  réserves  en  ce  qui  concerne 
+l’identification des émetteurs. Ne serait-il pas judicieux de porter une réflexion plus approfondie sur 
+les modes de signature, notamment la signature électronique qualifiée ou le cachet réglementé ? 
+
+L’avant-projet ne traite effectivement qu’une partie du problème, et la SCSE n’est modifiée que pour 
+introduire la possibilité d’une présentation « numérique » par l’entremise de l’e-ID mais non pas pour 
+éventuellement remplacer les différents types de cachet et signatures. 
+
+ 
+
+Conseil d’Etat CE 
+Page 3 de 5 
+
+ 
+
+4. Mesures concrètes devant être prises par les cantons et les communes 
+
+L’obligation  imposée  aux  cantons  et  aux  communes  d’accepter  l’e-ID  ainsi  que  l’infrastructure 
+électronique  aura  pour  conséquences  l’adaptation  du  système  d’information  des  cantons  et  des 
+communes. Ces conséquences seront lourdes au niveau financier, comme organisationnel, d’autant 
+plus que pour les raisons précitées, des systèmes d’identification privés devront coexister, un certain 
+temps du moins, avec l’e-ID. 
+
+Les mesures organisationnelles et techniques nécessaires à la mise en œuvre au niveau cantonal de 
+l’avant-projet nécessitera que les actes d’exécution de la LeID soient connus. Il est dès lors nécessaire 
+de  partager  le  plus  en  amont  possible  ces  actes  d’exécution  afin  de  permettre  aux  communes  et 
+cantons d’anticiper la nécessité d’intégrer dans leur budget les conséquences de la mise en place de 
+ces  mesures  techniques  et  organisationnelles  majeures.  A  ce  stade,  il  sera  difficile  de  chiffrer  les 
+nouveaux  besoins  mais  la  diffusion  d’informations  ainsi  que  l’inclusion  des  cantons  aux  travaux 
+législatifs et techniques en la matière s’avèrent nécessaires. 
+
+Vous trouverez également des remarques article par article dans l’annexe jointe. 
+
+En vous remerciant de nous avoir consultés, nous vous prions de croire, Madame la Conseillère 
+fédérale, à l’assurance de nos sentiments les meilleurs. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Au nom du Conseil d’Etat : 
+
+Olivier Curty, Président 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Danielle Gagnaux-Morel, Chancelière d’Etat 
+
+ 
+
+ 
+
+ 
+
+ 
+
+L’original de ce document est établi en version électronique 
+
+ 
+
+Annexe 
+— 
+Mentionnée 
+
+Copie 
+— 
+à la Direction des finances, pour elle et le Service de l’informatique et des télécommunications ; 
+à la Direction de la sécurité, de la justice et du sport ; 
+à la Chancellerie d'Etat. 
+ 
+ 
+ 
+
+ 
+
+Conseil d’Etat CE 
+Page 4 de 5 
+
+ 
+
+ANNEXE 
+
+Commentaires par article 
+
+Art. 3 Conditions personnelles 
+
+Le projet de loi permet d’établir une identité numérique s’appuyant sur un permis délivré par l’autorité 
+suisse compétente. Nous saluons cette proposition pragmatique. Cependant, les cas d’usage de cette 
+identité pourraient s’étendre au-delà des personnes disposant d’un tel permis. Il s’agit par exemple de 
+propriétaires de résidences secondaires ou de touristes à qui des prestations numériques spécifiques 
+sont également  destinées. Le Conseil d’État  souhaite donc qu’un concept  visant à lier les moyens 
+d’identification  à  différents  types  identité,  dont  celle  délivrée  par  la  Confédération  (mais  pas 
+uniquement),  soit  élaboré  par  les  groupes  de  travail  en  charge  de  la  mise  en  œuvre,  notamment 
+Administration numérique Suisse. 
+
+Le rapport explicatif précise que l’e-ID sera disponible pour les frontaliers. Ce point est salué par le 
+canton  de  Fribourg  qui  compte  également  des  frontaliers  travaillant  dans  des  entreprises 
+fribourgeoises.  Il  est  important  que  ces  personnes  physiques  puissent  continuer  à  utiliser  les 
+prestations du guichet virtuel fribourgeois. Une mise en place rapide de l’interopérabilité du système 
+Suisse avec les systèmes d’identités mondiaux éviterait aux frontaliers de demander une e-ID suisse. 
+Dans l’intervalle, le projet de loi définitif devra absolument garder la possibilité de délivrer des e-ID 
+à des frontaliers. 
+
+Art. 4 Émission 
+
+Le canton de Fribourg constate que 96% de ses utilisateurs peuvent effectuer des transactions sur le 
+guichet virtuel en conformité du cadre légal. La solution actuelle simple et conviviale a prouvé sa 
+large adoption. A cet effet, nous souhaitons absolument pouvoir préserver les utilisateurs existants y 
+compris ceux qui possèdent un login non vérifié pour accéder au guichet virtuel. Nous attendons donc 
+de la Confédération un plan de mise en œuvre, notamment avec La Poste Suisse, pour assurer une 
+procédure facilitée qui permette une adoption de la nouvelle eID sans perdre la flexibilité actuelle au 
+niveau des niveaux de confiance mis en œuvre dans le cadre des solutions actuelles. 
+
+Art. 8 Points de contact cantonaux 
+
+Le  canton  de  Fribourg  est  favorable  à  la  mise  en  place  de  points  de  contact  régionaux  pour 
+accompagner  les  utilisateurs  dans  l’obtention  de  leur  e-ID.  Les  collaborateurs  travaillant  dans  ces 
+bureaux auront les compétences nécessaires pour guider les citoyens dans le processus d’acquisition 
+ou de renouvellement d’une e-ID. 
+
+Pour un accompagnement plus large dans l’utilisation de l’e-ID ou dans un support plus général à la 
+cyberadministration, nous n’envisageons pas d’engager des collaborateurs spécialisés. Nous pensons 
+que le développement  d’un écosystème  avec des  acteurs tiers, comme les  offices postaux,  est  une 
+piste à poursuivre. Nous interprétons la désignation de « services », dans l’article 8, de manière large 
+et permettant d’associer des partenaires externes à l’administration publique pour effectuer ces tâches 
+d’accompagnement. La Confédération devrait avoir un rôle clé dans la mise en place de ces points de 
+contact pour définir de bonnes pratiques et une cohérence au niveau national. 
+
+Art. 9 Obligation d’accepter l’e-ID 
+
+Nous saluons l’obligation d’accepter l’e-ID pour les autorités et les services accomplissant des tâches 
+publiques.  Il  serait  souhaitable  que  les  entités  paraétatiques  ou  privées  s’acquittant  de  tâches 
+publiques ou bénéficiant de financement étatique soient soumises à la même obligation d’acceptation 
+de l’e-ID, comme moyen d’identification. 
+
+ 
+
+ 
+
+Conseil d’Etat CE 
+Page 5 de 5 
+
+ 
+
+Article 12 : Émission 
+
+La  possibilité  donnée  à  quiconque  d’émettre  des  moyens  de  preuve  électroniques  à  l’aide  de 
+l’infrastructure  de  confiance  amène  une  grande  souplesse  pour  des  cas  d’utilisation  particuliers. 
+Cependant, nous demandons que le chiffrage des émoluments prélevés pour de telles utilisations soit 
+communiqué  lorsque  les  projets-pilotes  auront  abouti  et  que  le  message  du  Conseil  fédéral  sera 
+transmis au Parlement. Ces émoluments devront être raisonnables afin d’inciter le plus grand nombre 
+d’organisations possible à en faire usage. 
+
+Article 17 alinéa 3 : Registre de base 
+
+Le fait que les émetteurs et les vérificateurs inscrivent leurs données dans le registre de base peut 
+conduire à un risque d’usurpation d’identité. Nous demandons que la Confédération s’assure qu’une 
+attention particulière soit apportée à la sécurisation des processus d’inscription. 
+
+Art. 26 Émoluments 
+
+La mise en place d’un système de copie de sécurité (art. 21) est une approche qui semble pertinente 
+et nécessaire. Néanmoins, nous ne sommes pas favorables au fait de lier des émoluments à l’utilisation 
+de ce système de copie de sécurité. Si les citoyens doivent payer pour l’utilisation du système de copie 
+de  sécurité,  cela  risque  de  créer  une  barrière  importante,  alors  que  cette  sécurisation  est  un  réel 
+avantage pour faciliter la récupération en cas de perte et diminuer les cas de support. 
+
+Art. 27 Conventions internationales 
+
+Il  est  très  important  de  garantir  une  interopérabilité  et  une  reconnaissance  des  systèmes 
+d’identification électronique européens et mondiaux. Pour certaines prestations, le guichet virtuel du 
+canton de Fribourg est actuellement disponible pour des personnes et entreprises étrangères et devra 
+continuer à l’être. 
+
+Art. 28 Dispositions d'exécution 
+
+Au  sens  de  cet  article,  de  nombreux  aspects,  notamment  techniques,  sont  réglés  par  voie 
+d’ordonnance. Compte tenu de la diversité des solutions  existant dans les cantons  et  les différents 
+domaines, tels que la cyberadministration et la santé numérique, il est indispensable que l’ensemble 
+des acteurs concernés soient étroitement associés à l’élaboration des dispositions d’exécution. Il est 
+en effet impératif que l’e-ID s’intègre parfaitement avec les différents services numériques existants 
+ou projetés, en particulier dans les domaines précités. 
+
+

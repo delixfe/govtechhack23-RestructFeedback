@@ -1,0 +1,305 @@
+ 
+
+Die Schweizerische Post AG 
+Stab CEO 
+Wankdorfallee 4 
+3030 Bern 
+
+  
+
+Telefon +41 58 341 15 64 
+www.post.ch 
+ 
+ 
+
+Datum  14. Oktober 2022 
+
+Ihre Nachricht 
+
+ 
+ 
+
+Kontaktperson  Franziska Heer 
+
+E-Mail  franziska.heer@post.ch  
+
+Direktwahl  +41 58 341 15 64  
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Stab CEO, Wankdorfallee 4, 3030 Bern 
+
+ 
+
+ 
+Bundesrätin Karin Keller-Sutter 
+Eidgenössisches Justiz- und Polizeidepartment 
+EJPD 
+Bundeshaus West 
+3033 Bern 
+ 
+Als PDF/Word an: rechtsinformatik@bj.admin.ch 
+ 
+ 
+
+ 
+Stellungnahme der Schweizerischen Post zum Vorentwurf des Bundesgesetzes über den elektro-
+nischen Identitätsnachweis und andere elektronische Nachweise (BGEID) 
+ 
+
+ 
+
+Sehr geehrte Frau Bundesrätin Keller-Sutter 
+Sehr geehrte Damen und Herren 
+ 
+ 
+Wir danken Ihnen bestens für die Gelegenheit, zum Vorentwurf des Bundesgesetzes über den elekt-
+ronischen Identitätsnachweis und andere elektronische Nachweise (E-ID-Gesetz, BGEID) Stellung 
+nehmen zu können. 
+ 
+1.  Betroffenheit der Schweizerischen Post  
+
+Die Schweizerische Post sieht in der digitalen Transformation eine Notwendigkeit für die Schweiz 
+und fördert sie mit ihren Kompetenzen. Als bundesnahes Unternehmen und Bindeglied zwischen 
+Bund, Kantonen und Wirtschaft will die Post aktiv beim Aufbau des E-ID Ökosystems mitwirken und 
+Verantwortung übernehmen. Mit ihrem schweizweiten Netz an Zugangspunkten bietet die Post eine 
+ideale Voraussetzung als mögliche Anlaufstelle für die Bevölkerung im Zusammenhang mit der Aus-
+stellung und dem Einsatz der E-ID. Schon heute bieten die Filialen der Post der Bevölkerung allge-
+meine Unterstützung bei verschiedenen E-Government-Anwendungen.  
+ 
+Eine sichere Identität für Akteure im digitalen Raum ist ein Schlüsselelement für den Erfolg der not-
+wendigen digitalen Transformation der Schweiz und wir messen ihr daher eine hohe Priorität bei. Si-
+chere digitale Systeme sind seit Langem Teil des Postalltags: sie schaffen die Voraussetzung dafür, 
+dass die Post ihre Kernkompetenz, sensible Informationen sicher und vertrauensvoll zu transportie-
+ren, im physischen Kerngeschäft wie auch in der virtuellen Welt umsetzen kann. Die Post hat in den 
+letzten Jahren ihre Kompetenzen und Ressourcen in der Informations- und Verschlüsselungstechno-
+logie ausgebaut und bietet heute digitale Lösungen für Behörden, Geschäfts- und Privatkunden an.  
+ 
+Unsere Tochtergesellschaft SwissSign bietet digitale Dienstleistungen an, etwa die SwissID und Zerti-
+fikats- und Signaturlösungen. Die SwissID ist eine digitale Identität, welche einen einfachen und si-
+cheren Zugang zur Onlinewelt ermöglicht. Sie ist bereits heute den Zugang für rund 200 Online Ser-
+vices von Schweizer Firmen. So hat die SwissID erfolgreich das Zertifizierungsverfahren für die sichere 
+
+Datum   14. Oktober 2022 
+
+Seite   2 
+
+ 
+Identifizierung im elektronischen Patientendossier (EPD) durchlaufen. Zudem hat sie ein Onlinever-
+fahren zur Identitätsüberprüfung eingeführt (Videoidentifikation). 
+ 
+Die selbst verwaltete Identität, die sogenannte Self Sovereign Identity (SSI), ist das Kernelement eines 
+auf SSI basierenden E-ID-Ökosystems. Die Post baut mit der Durchführung von Pilotprojekten wie der 
+elektronischen Wohnsitzbestätigung sowie dem digitalen Anstellungsprozess in diesem Bereich ein 
+fundiertes Know-How auf und teilt dieses mit der Fach-Community.  
+ 
+2.  Grundsätzliches zum Entwurf 
+
+Das Gesetz sieht die Einführung eines staatlichen elektronischen Identitätsnachweises vor für Inhabe-
+rinnen und Inhaber eines von den Schweizer Behörden ausgestellten Ausweises. Es setzt den Rah-
+men für eine Vertrauensinfrastruktur, deren Kernelemente eine staatliche E-ID ist. Die Post fordert 
+schon länger eine solche elektronische Identität. Wir begrüssen daher, dass das EJPD in kurzer Zeit 
+eine Vernehmlassungsvorlage ausgearbeitet hat. Wir sind der Ansicht, dass der vorliegende Geset-
+zesentwurf den politischen Auftrag gut umsetzt und die zentralen Grundsätze «privacy by design», 
+«Datensparsamkeit» und «dezentrale Datenspeicherung» angemessen berücksichtigt. 
+ 
+Für die Post ist die elektronische Identität in vielerlei Hinsicht von zentraler Bedeutung. Infolgedessen 
+möchten wir die folgenden Punkte besonders hervorheben und Sie bitten, diese zu berücksichtigen: 
+ 
+Ambitionsniveau 3 (Ökosystem) muss zügig erreicht werden 
+Ein rein staatlich genutzter, digitaler Ausweis erscheint uns nicht zweckdienlich und wird nicht aus-
+reichen, um die Digitalisierung in der Schweiz entscheidend voranzutreiben. Dass der vorliegende 
+Gesetzesentwurf bzw. die vorgesehene Infrastruktur unterschiedliche elektronische Nachweise vor-
+sieht und damit Richtung Ambitionsniveau 3 als offenes Ökosystem abzielt, begrüssen wir. Der Aus-
+bau dieses Ökosystems muss schrittweise, aber zielstrebig und zügig erfolgen. Wir sind der Meinung, 
+nur ein Ökosystem, in dem es eine Vielzahl unterschiedlichster Ausstellerinnen und Verifikatorinnen 
+gibt, kann der Bevölkerung den Mehrwert der digitalen Identität bieten. Die Post ist bereit, mit ihren 
+Dienstleistungen einen aktiven Beitrag zu leisten, um das Erreichen des Ambitionsniveaus 3 voranzu-
+treiben. 
+ 
+Klarere Abgrenzung der E-ID als Identifikationsmittel von Authentifikationsmittel 
+Die Ausstellung und die Verwendung der E-ID sind gemäss Vorentwurf freiwillig. Wir begrüssen dies 
+ausdrücklich. Die Bevölkerung soll künftig weiterhin die Wahl haben, wie auf das persönliche elekt-
+ronische Patientendossier (EPD) zugegriffen werden kann. SwissSign und aktuell zwei weitere Unter-
+nehmen sowie zwei Kantone sind gemäss Bundesgesetz über das elektronische Patientendossier 
+(EPDG) zertifiziert und bieten eine sichere Login-Lösung an. Im Sinne der Freiwilligkeit, des Wettbe-
+werbs und nicht zuletzt auch vor dem Hintergrund der getätigten Investitionen sollten neben der 
+staatlichen E-ID weiterhin z.B. gemäss EPDG zertifizierte Lösungen möglich bleiben. Dafür ist eine 
+klare Abgrenzung zwischen Identifikationsmittel und Authentifikationsmittel vorzusehen. Die E-ID 
+gemäss vorliegendem Gesetzesentwurf ist ein digitaler Identitätsnachweis im Sinne eines digitalen 
+Pendants zum Pass oder zur Identitätskarte. Sie sollte kein «Login» im Sinne eines Zugangsmittels zu 
+digitalen Diensten (Authentifikationsfunktion) sein. Diese Unterscheidung wird im Vorentwurf aus 
+unserer Sicht zu wenig deutlich gemacht. Wird diese Unterscheidung explizit vorgenommen, werden 
+bestehende und künftige, private und öffentliche Angebote von elektronischen Authentifizierungs-
+diensten nicht benachteiligt und wäre dies unserer Meinung nach ein wesentlicher Treiber für das 
+angestrebte Ökosystem. 
+ 
+Gleichberechtigte Angebote von privaten Dritten ermöglichen 
+Es erscheint uns essenziell, dass es im Sinne des angestrebten E-ID-Ökosystems auch Akteuren des 
+privaten Sektors möglich ist, separate, nichtstaatliche Lösungen und Mechanismen bereitzustellen. 
+Aus dem vorliegenden Gesetzesentwurf ist nicht gänzlich ersichtlich, welche Rollen Private bei der 
+Entwicklung und Einführung des angestrebten Ökosystems einnehmen können und dürfen.  
+ 
+
+ 
+
+Datum   14. Oktober 2022 
+
+Seite   3 
+
+ 
+Im Gesetz nicht geregelt – und daher implizit erlaubt – ist die Verwendung von elektronischen Brief-
+taschen (Wallets), die von privaten Akteuren ausgestellt werden. Es ist vorgesehen, dass Nutzerinnen 
+und Nutzer auch andere Anwendungen für die Aufbewahrung und Vorweisung ihrer elektronischen 
+Nachweise verwenden können. Wichtig scheint uns daher, dass auch diese privaten Anwendungen 
+an die Vertrauensinfrastruktur des Bundes und insbesondere an das Informationssystem des fedpol 
+beim Ausstellprozess angebunden werden können – im Sinne von gleich langen Spiessen für alle. 
+Wir schlagen vor, dass die staatliche E-ID auch aus einer privaten Wallet hinaus beantragt werden 
+kann. 
+ 
+Disruptive Prozesse und Nutzung der E-ID in der physischen Welt 
+Die E-ID ermöglicht den Inhaberinnen und Inhabern, sich bei Geschäftsprozessen in der digitalen 
+Welt einfacher zu identifizieren. So können die bestehenden (Online)-Identifizierungsprozesse ersetzt 
+werden, die heute viel komplexer sind. Die E-ID kann auf dem Smartphone installiert und so eben-
+falls in der physischen Welt verwendet werden (analog zu einem COVID Zertifikat). Damit kann die 
+E-ID auch in der physischen Welt wie ein Papierausweis genutzt werden. Die Post sieht in dieser 
+Möglichkeit einen klaren Mehrwert für die E-ID. Aus unserer Sicht ist dabei zentral, dass die E-ID und 
+das E-ID Ökosystem symbiotisch und aufeinander abgestimmt wachsen und die Schnittstellen klar 
+definiert werden. Aus unserer Sicht werden diese Grundsätze und Prozesse der Verwendung der E-ID 
+in der physischen Welt noch zu wenig klar beschrieben. Es besteht aktuell ein hoher Interpretations-
+spielraum (beispielsweise die Nutzung und Validierung eines COVID Zertifikats mit einem gültigen 
+digitalen Ausweis als Zutrittskontrolle oder bei der Einreise in die Schweiz).  
+ 
+Kantonale Anlaufstellen (Artikel 8 des BGEID) 
+PostNetz stellt den Kantonen die rund 800 eigenbetriebenen Filialen als physische Anlaufstellen zur 
+Verfügung. Täglich verzeichnen die Filialen der Post mehr als 9 Mio. Passantinnen und Passanten und 
+dabei über 320'000 Kundengeschäfte. Das Filialnetz der Post bietet in der ganzen Schweiz – sowohl 
+in urbanen als auch in ländlichen Regionen – niederschwelligen Zugang zu Dienstleistungen und 
+dadurch Nähe zu Bürgerinnen und Bürgern. Ergänzend zum Support des fedpol bei der Ausstellung 
+oder dem Widerruf der E-ID, kann die Post der Bevölkerung daher in ihren Filialen allgemeine Unter-
+stützung anbieten in Zusammenhang mit der Ausstellung und dem Einsatz der E-ID. Das breite Post-
+filialnetz kann als wichtiger Multikanal fungieren und neben der Unterstützung in den digitalen Pro-
+zessen (Fernidentifizierung) auch im physischen Prozess in der E-ID Ausstellung unterstützend wir-
+ken. Dadurch kann die Post einen wesentlichen Beitrag für die Verbreitung der E-ID in der Bevölke-
+rung leisten.  
+ 
+3. 
+
+Im Einzelnen 
+
+Bezogen auf unsere Tätigkeiten und Visionen möchten wir zu den folgenden Artikeln aus Sicht der 
+Schweizerischen Post ergänzend zu den eingangs gemachten Erläuterungen im Detail Stellung bezie-
+hen. 
+ 
+Art. 1 VE E-ID-Gesetz: Gegenstand und Zweck 
+-  Abs. 1  
+Die Erweiterung des E-ID Gesetzes auf «andere elektronische Nachweise» und das dadurch entste-
+hende Ökosystem haben enorme Bedeutung weit über das E-ID Thema hinaus. Da eine für Private 
+zur Nutzung offenstehende staatliche Infrastruktur geschaffen werden soll, muss die Gleichbehand-
+lung mit ähnlichen privaten Infrastrukturen im Gesetz geregelt werden. 
+ 
+Um dies klar zum Ausdruck zu bringen, schlagen wir in Absatz 1 folgende Änderung vor: 
+ 
+
+d. die Förderung neuer digitaler Geschäftsmodelle, die mit dieser Vertrauensinfrastruktur 
+verbundenen sind. 
+ 
+
+Konkretisiert wird das Förderungsziel durch den neuen Art. 25bis Finanzhilfen (s.u.). 
+ 
+
+ 
+
+Datum   14. Oktober 2022 
+
+Seite   4 
+
+ 
+-  Abs. 1bis (neu) 
+Das BGEID basiert auf dem Grundverständnis, dass die E-ID ein digitaler Identitätsnachweis im Sinne 
+eines digitalen Pendants zum Pass oder zur Identitätskarte ist und nicht ein «Login» im Sinne eines 
+Zugangsmittels zu digitalen Diensten (Authentifikationsfunktion). Dies muss im BGEID klar zum Aus-
+druck kommen, damit bestehende und künftige, private und öffentliche Angebote von elektroni-
+schen Authentifizierungsdiensten, namentlich föderierte Dienste im angestrebten E-ID-Ökosystem 
+nicht benachteiligt werden. Wir schlagen deshalb eine entsprechende Abgrenzung in einem neuen 
+Absatz 1bis in Artikel 1 vor: 
+
+ 
+Das Gesetz regelt nicht die Anforderungen an mit der E-ID verbundenen, öffentlichen oder 
+privaten elektronischen Authentifizierungsdienste. 
+
+ 
+Art. 8 VE E-ID-Gesetz: Anlaufstellen der Kantone 
+Mit privaten, vertrauenswürdigen Unterstützungsangeboten können Bürgerinnen und Bürger dort 
+und dann erreicht werden, wenn sie konkreten Bedarf haben. Die Post hat schweizweit bereits Infra-
+strukturen und Prozesse zur Identitätsprüfung im Einsatz. Sie kann als Anlaufstelle für Bürgerinnen 
+und Bürger einen wesentlichen Beitrag leisten und z.B. im Auftrag der Kantone Unterstützung für 
+die E-ID anbieten. Privaten Unterstützungsangeboten ist gleichberechtigt zu öffentlichen Angeboten 
+ein Platz einzuräumen. Wir schlagen deshalb in Artikel 8 folgende Änderung vor: 
+ 
+
+Die Kantone bezeichnen die öffentlichen oder privaten Stellen, die in Zusammenhang mit 
+der Ausstellung und dem Einsatz der E-ID Unterstützung anbieten. 
+
+ 
+(neu) Art. 25bis VE E-ID-Gesetz: Finanzhilfen 
+Um den angestrebten Nutzen aus der E-ID und der Infrastruktur für andere elektronische Nachweise 
+ziehen zu können, ist es notwendig im E-ID Ökosystem das Ambitionsniveau 3 zügig erreichen zu 
+können. Finanzhilfen sind ein wichtiges Mittel dazu. Wir schlagen die Verankerung von Finanzhilfen 
+im BGEID vor, sofern dies nicht bereits durch das geplante EMBaG abgedeckt ist. 
+ 
+
+Der Bund richtet Finanzhilfen für die Umsetzung des E-ID-Gesetzes aus. Der Bund hält sich 
+dabei an die Anforderungen von Art. 8 des Bundesgesetzes über den Einsatz elektronischer 
+Mittel zur Erfüllung von Behördenaufgaben (EMBaG) und fördert dabei gezielt neue digitale 
+Geschäftsmodelle, die mit der E-ID Vertrauensinfrastruktur verbunden sind. 
+
+ 
+4.  Schlussbemerkungen 
+
+Wir bedanken uns für Ihre Kenntnisnahme und die Berücksichtigung unserer Ausführungen in ihren 
+weiteren Arbeiten betreffend das E-ID Gesetz.  
+ 
+Sehr gerne partizipieren unsere Spezialistinnen und Spezialisten weiterhin im Projektraum des Bun-
+desamts für Justiz zu den Themen E-ID und digitale Vertrauensinfrastruktur in der Schweiz und tau-
+schen sich dazu mit den Fachstellen des BJ aus. Sie stehen Ihnen für Rückfragen gerne zur Verfü-
+gung. 
+
+Freundliche Grüsse 
+ 
+Die Schweizerische Post AG 
+ 
+
+ 
+
+ 
+Katrin Nussbaumer 
+Co-Leiterin Stab 
+
+ 
+
+ 
+ 
+ 
+
+ 
+Nicole Burth 
+ 
+Leiterin Kommunikations-Services  
+
+ 
+
+

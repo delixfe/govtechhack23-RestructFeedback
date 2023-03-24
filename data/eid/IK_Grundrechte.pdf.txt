@@ -1,0 +1,303 @@
+ 
+
+ 
+
+Eidgenössisches Justiz- und Polizeidepartement EJPD  
+Bundesamt für Justiz Bundesrain 20  
+3003 Bern  
+Per E-Mail an: rechtsinformatik@bj.admin.ch 
+
+Vernehmlassungsantwort BGEID: Stellungnahme zum Bundesgesetz über den elektronischen Identitätsnach-
+weis und andere elektronische Nachweise (E-ID-Gesetz, BGEID) 
+
+Bern, den 19. Oktober 2022 
+
+ 
+
+Sehr geehrte Frau Bundesrätin Keller-Sutter 
+
+Sehr geehrte Damen und Herren 
+
+Am 29. Juni 2022 eröffnete der Bundesrat die Vernehmlassung zum Bundesgesetz über den elektronischen Iden-
+titätsnachweis  und  andere  elektronische  Nachweise  (E-ID-Gesetz,  BGEID,  Vernehmlassungsfrist  20.  Oktober 
+2022). Gerne nehmen wir hiermit Stellung und folgen dabei integral den Feststellungen der Digitalen Gesell-
+schaft. 
+
+grundrechte.ch ist eine gemeinnützige Organisation, die sich für Grund- und Menschenrechte, eine offene Wis-
+senskultur, weitreichende Transparenz sowie Beteiligungsmöglichkeiten an gesellschaftlichen Entscheidungs-
+prozessen einsetzt. Dabei verteidigen wir insbesondere das Recht auf Überwachungsfreiheit und das Recht auf 
+informationelle Selbstbestimmung. 
+
+Grundsätzliches 
+
+Die  Hauptkritikpunkte  des  Gesetzes  im  Rahmen  des  Referendums  und  der  Volksabstimmung  betrafen  den 
+Zweck und die Herausgeberschaft («staatlicher, elektronischer Ausweis» anstatt «privates Login») sowie den 
+mangelnden  Datenschutz  (Datenschutz  durch  Technik/Privacy-by-Design  und  Datensparsamkeit/Privacy-by-
+Default). Dies waren dann auch die Gründe, weshalb das Gesetz mit grosser Mehrheit an der Urne abgelehnt 
+wurde. 
+
+Wir begrüssen die Neuauflage des E-ID-Gesetzes und sind mit der Stossrichtung einverstanden. Wir vertreten 
+jedoch die Auffassung, dass der Schutz der Persönlichkeit und der Personendaten im vorliegenden Vorent-
+wurf zum Bundesgesetz über den elektronischen Identitätsnachweis und andere elektronische Nachweise 
+noch unzureichend umgesetzt sowie der Schutz vor Missbrauch der Daten noch unzureichend gewährleistet 
+ist. Dies betrifft insbesondere die drohende «Überidentifikation». 
+
+2 
+
+ 
+ 
+
+ 
+
+Bearbeitung von Personendaten 
+
+Das Recht auf informationelle Selbstbestimmung ist ein Grundrecht, abgeleitet von Art. 13 Abs. 2 der Bundes-
+verfassung (BV). Ein elektronischer Nachweis ist ein Eingriff in dieses Grundrecht und hat gemäss Art. 36 BV 
+verhältnismässig zu erfolgen; im Speziellen sollte die Grundrechtseinschränkung nicht weiter gehen, als not-
+wendig und sachlich gerechtfertigt ist. Diesem Grundsatz ist im vorgeschlagenen Gesetz ungenügend Rechnung 
+getragen. Wir vertreten die Auffassung, dass die gesetzlich vorgesehene Erhebung von Daten sowie ihre Bear-
+beitung auf das zu ihrem Zweck unbedingt Erforderliche reduziert werden muss, um den Gehalt von Art. 13 Abs. 
+2 BV zu wahren. 
+
+Personendaten, welche in Bezug auf einen elektronischen amtlichen Nachweis erhoben und verarbeitet wer-
+den, erfordern zudem einen höheren und spezifischeren Schutz, als es das (revidierte) Datenschutzgesetz (DSG) 
+bietet – und demnach eine ungenügende Grundlage für den Schutz der Personendaten nach dem BGEID dar-
+stellt. Wir sind der Auffassung, dass amtlich erhobene, verwaltete und bereitgestellte Daten ein erhöhter Schutz 
+beizumessen ist und dass dies im BGEID selbst vorzusehen ist. 
+
+Dass BGEID schafft eine neue Kategorie von Daten: Daten, die erstens besonders schutzwerten Charakter haben, 
+zweitens auch behördlich verifiziert sind und drittens, für welche eine breite private Verwendung vorgesehen 
+ist. Sie bilden eine neue Kategorie an Daten, welche durch das DSG nicht gedeckt sind. Das allgemein formulierte 
+Datenschutzgesetz sowohl in der derzeitigen als auch in der künftigen, revidierten Fassung vermag nicht, einen 
+adäquaten Schutz zu liefern, gerade betreffend der Überidentifizierung. 
+
+Nach dem DSG kann eine Datenbearbeitung erfolgen, sofern ein überwiegendes privates oder öffentliches In-
+teresse eine solche rechtfertigt. Hier besteht ein erheblicher Interpretationsspielraum der Beteiligten und lässt 
+in der Praxis auch zweckfremde Datenbearbeitungen zu, soweit sie etwa aufgrund eines wirtschaftlichen Inte-
+resses der Inhaberin oder des Inhabers der Datensammlung für verhältnismässig angesehen werden können 
+(Beispiel: Online-Tracking, Kreditwürdigkeit). Meist wird zudem eine Einwilligung durch das Akzeptieren der All-
+gemeinen Geschäftsbedingungen (AGB) und/oder der Datenschutzerklärung eingeholt, ohne dass diesem Vor-
+gang widersprochen werden könnte. Das DSG schafft auch keinen Anspruch auf ein Widerspruchsrecht, wonach 
+der Bearbeitung – mindestens im Nachhinein – (einfach, also ohne Klage auf Persönlichkeitsverletzung) wider-
+sprochen werden könnte. 
+
+Das Schweizer DSG geht überdies betreffend Vorschriften hinsichtlich Identifikation und Tracking deutlich we-
+niger weit als die EU-Richtlinie (DSGVO). Namentlich entfällt in der Schweiz das Kopplungsverbot, welches ver-
+hindert, dass eine Einwilligung in eine zweckfremde Datenbearbeitung über eine Kopplung an die Leistung selbst 
+abgenötigt wird. Dies kann dazu führen, dass Private Daten sammeln und gebrauchen können, welche nicht für 
+die Erbringung von Leistungen erforderlich sind und für welche keine eigentliche Freiwilligkeit besteht. 
+
+Damit verletzt nach unserer Ansicht die vorgeschlagene Fassung des BGEID sowohl den Grundsatz der Daten-
+sparsamkeit  als  auch  der  informationellen  Selbstbestimmung.  Neben  der  Verletzung  der  genannten  Grund-
+rechte und Grundsätze würde die drohende Überidentifikation das Vertrauen in die elektronische Identifikation 
+schädigen. Die Akzeptanz würde darunter insgesamt stark leiden. Im BGEID sind deshalb ausgestaltete, konkrete 
+
+ 
+Bestimmung betreffend diesen Grundsätzen vorzusehen; Vorschläge zu diesen Bestimmungen werden weiter 
+unten konkretisiert. 
+
+3 
+
+Rechtssystematisch stehen solche Bestimmungen ohne Kollision mit dem Datenschutzgesetz. Art. 4 DSG (Art. 6 
+nDSG)  bestimmt,  dass  die  Bearbeitung  von  Personendaten  nur  rechtmässig  erfolgen  darf,  äussert  sich  zum 
+rechtlichen Rahmen aber nicht. Damit besteht Gestaltungsspielraum des rechtlichen Rahmens durch das BGEID, 
+wobei zu betonen ist, dass im heutigen rechtlichen Rahmen die konkrete Ausgestaltung des rechtlichen Rah-
+mens einer Datenbearbeitung spezialgesetzlich, und nicht durch das DSG, vorgenommen wird. 
+
+Diskriminierungsfreier Zugang zu Leistungen 
+
+Unter mehreren Gesichtspunkten erweist sich als problematisch, wenn der Erhalt von Leistungen vom Besitz 
+einer E-ID abhängig gemacht wird. Damit werden einerseits Menschen ausgeschlossen, welche nach geltender 
+Gesetzgebung kein Anrecht auf eine E-ID haben, andererseits aber auch solche, welche nicht über die techni-
+schen Kenntnisse oder die Mittel verfügen, eine E-ID zu beantragen, oder dies aus persönlichen Gründen ableh-
+nen. Unter Hinweis auf das Diskriminierungsverbot (Art. 8 BV) ist ein diskriminierungsfreier Zugang zu Leistun-
+gen deshalb gesetzlich zu gewährleisten. 
+
+Hierzu sei noch angemerkt, dass nach den vorgeschlagenen Bestimmungen nur Menschen Anrecht auf eine E-
+ID haben, welche in der Schweiz über eine Aufenthaltsbewilligung verfügen. Dies schliesst alle Menschen aus, 
+welche über eine solche nicht verfügen und sich unter einem anderen Titel als einer ordentlichen Aufenthalts-
+bewilligung in der (digitalen) Schweiz aufhalten. Das Gesetz könnte eine Möglichkeit vorsehen, dass bei genü-
+gender Identifikation (etwa über einen ausländischen Pass) eine elektronische ID ausgestellt werden kann, wo-
+bei bei unsicherer Identifikation diesem Umstand mit einer Anmerkung Rechnung getragen werden könnte. 
+
+Durchsetzbarkeit 
+
+Damit Gesetzesbestimmungen wirksam sind, müssen sie durchsetzbar sein. Das vorgeschlagene Gesetz verzich-
+tet vollständig auf spezifische Bestimmungen, um Bestimmungen durchzusetzen und Verletzungen beheben zu 
+können. Wir sehen es als wichtig an, dass juristische und natürliche Anbieterinnen (Ausstellerinnen, Verifikato-
+rinnen), welche Bestimmungen verletzen, einer Strafbestimmung unterliegen, und dass ein vereinfachter und 
+kostenfreier Zugang  zu Verfahren  zur  Behebung  von  Verletzung  sowohl für die  Subjekte des  elektronischen 
+Identitätsnachweises als auch für Verbände, die sich im Bereich Daten- und Persönlichkeitsschutz engagieren, 
+im Gesetz geschaffen werden. 
+
+Erster Abschnitt 
+
+Art. 1: Art. 1 Abs. 2 BGEID hält als Ziel des Gesetzes fest, den Schutz der Persönlichkeit und der Grundrechte im 
+Zusammenhang mit der Verwendung der E-ID zu gewährleisten. Diese explizite Zweckbindung halten wir für 
+unabdingbar. 
+
+Wie nachfolgend erläutert, tragen verschiedene Bestimmungen des Gesetzes dem in Art. 1 Abs. 2 BGEID be-
+schriebenen Grundsatz ungenügend Rechnung, namentlich betreffend der Datensparsamkeit. 
+
+Zweiter Abschnitt 
+
+Art. 2 Abs. 3 
+
+4 
+
+ 
+Die AHV-Nummer, die Angaben zum Ausweis, der im Ausstellungsprozess verwendet wurde, und die Angaben 
+zum Ausstellungsprozess sind für die Ausstellung und Verwendung der E-ID nicht erforderlich und stellen damit 
+Daten dar, die nicht Teil der E-ID sein sollten; darüber ist darauf hinzuweisen, dass die AHV-Nummer auch übli-
+cherweise auf amtlichen Ausweisen nicht ersichtlich ist. Sollte die AHV-Nummer auf der E-ID enthalten sein, 
+sollte eine Verwendung auf Vorgänge beschränkt sein, bei welchen die AHV-Nummer gesetzlich vorgesehen ist. 
+
+Art. 4 Abs. 4 
+
+Der Ausstellungsprozess ist im erläuternden Bericht nicht genauer beschrieben. Art. 4 Abs. 4 lässt jedoch ver-
+muten, dass die Verifikation der antragstellenden Person und die Ausstellung der E-ID online und komplett au-
+tomatisch vonstattengehen soll  – und kein Besuch auf der Gemeinde oder im Passbüro vorgesehen ist. Wie 
+eine aktuelle Untersuchung des deutschen Chaos Computer Club (CCC) zeigt, weisen sämtliche gängigen Sys-
+teme  zur  «Video-Identifikation»  Schwachstellen  auf,  die  einen  Identitätsdiebstahl  möglich  machen.  Auf  die 
+Technik der «Video-Identifikation» und vergleichbare Verfahren ist daher zu verzichten. Auch wenn ein Identi-
+tätsdiebstahl durch einen «Deep-Fake» in Verbindung mit dem Abgleich des Gesichtsbild aus dem ISA oder dem 
+ZEMIS allenfalls schwieriger durchzuführen ist, wäre eine erfolgreiche Demonstration eines Identitätsdiebstahls 
+verheerend für das Vertrauen und die Akzeptanz der E-ID. 
+
+Ein Vergleich der Bilder mit den Datenbanken ZEMIS und ISA sehen wir als überflüssig an, weil er für den Aus-
+stellungsprozess nicht unbedingt erforderlich ist. Auf jeden Fall – und unabhängig vom gewählten Verfahren – 
+müssen allfällig erhobene biometrische Daten unmittelbar im Anschluss an die Ausstellung (und der Übertra-
+gung der Daten in die E-ID nach Art. 2 Abs. 2 lit. g.) vernichtet werden. 
+
+Art. 10 
+
+Wir schlagen die Streichung des letzten Satzes («sofern die Anforderungen insbesondere an die Sicherheit des 
+Prozesses auch auf diese Weise erfüllt werden können») vor, da ein nicht-elektronischer amtlicher Ausweis die-
+ses Kriterium ohnehin erfüllen sollte und ein diskriminierungsfreier Zugang für Personen ohne E-ID gewährleis-
+tet sein soll. 
+
+Art. 11 Abs. 3 
+
+Ein Abgleich mit den Datenbanken ISA und ZEMIS sowie dem Versichertenregister halten wir, wir bereits ausge-
+führt, für nicht notwendig. 
+
+Vierter Abschnitt 
+
+Den vierten Abschnitt sehen wir als stark ergänzungsbedürftig an. 
+
+Art. 1 Abs. 2 lit. b des Vorschlags zum BGEID setzt als Ziel des Gesetzes fest, dass der Schutz der Persönlichkeit 
+und der Grundrechte der Personen, über die im Zusammenhang mit der Verwendung der E-ID Daten bearbeitet 
+werden, gewahrt werden solle. In dieser Hinsicht ist aber die momentane Fassung des Art. 16 des Vorschlags, 
+welche festlegt, dass die Inhaberin oder der Inhaber frei darüber entscheiden kann, welche Bestandteile des 
+Nachweises sie bekanntgibt, ungenügend. Es droht eine Überidentifikation. 
+
+5 
+
+ 
+Es ist für den Persönlichkeitsschutz essentiell, dass die Verifikatorin nicht frei über die Erfordernis des elektro-
+nischen Nachweises und deren Umfang bestimmen kann, sondern diese gesetzlich auf das unbedingt Erforder-
+liche beschränkt wird, und dass andernfalls eine informierte und explizite Zustimmung stattfindet. Betreffend 
+Einschränkung der Datenmenge auf das Notwendige lässt der Vorentwurf zum BGEID zu, dass mehr Daten als 
+notwendig verarbeitet werden, und damit mehr Möglichkeit für deren Missbrauch eröffnet werden. Um den 
+geforderten Prinzipien «privacy by design» und Datensparsamkeit gerecht zu werden, ist eine Ergänzung not-
+wendig. 
+
+Ergänzungsvorschlag zu Art. 16 
+
+Es werden zwei neue Gesetzesbestimmung in Ergänzung zu Art. 16 vorgeschlagen. 
+
+Art. 16bis bestimmt, dass Umfang und Erfordernis von Seiten der Verifikatorin auf das unbedingt Erforderliche 
+beschränkt wird. Er enthält auch eine Bestimmung des diskriminierungsfreien Zugangs zu Leistungen für Men-
+schen ohne E-ID, welches vor allem Personen ohne Wohnsitz und Aufenthaltsbewilligung in der Schweiz sowie 
+Menschen ohne Zugang zu technischen Mitteln betrifft. Der Absatz ist auch daraufhin ausgerichtet, dass sicher-
+gestellt ist, dass die Ausweiserfordernis von Privaten und Behörden nur dann besteht, wenn es die Umstände 
+rechtfertigen. 
+
+Art. 16ter  verankert das Informations-, Zustimmungs- und Widerrufbarkeitsprinzip, namentlich beim Gebrauch 
+der Daten über ihren gesetzlichen und unbedingt erforderlichen Zweck hinaus. Dem Umstand, dass ein Auswei-
+sen verschiedene Zwecke erfüllen kann, wird mit der Bestimmung Rechnung getragen, dass die Zustimmung 
+und Widerrufung auf jeden einzelnen Zweck anwendbar ist. 
+
+ Gesetzestext 
+
+Art. 16bis Einschränkung der Datenbearbeitung auf das unbedingt Erforderliche; diskriminierungsfreier Zugang 
+
+1 Die Erfordernis eines elektronischen Nachweises darf von Behörden und Privaten als Voraussetzung für 
+die Erbringung einer Leistung oder Gewährung eines Zugangs nur insoweit gestellt werden als sie für die 
+Erbringung der Leistung oder der Gewährung des Zugangs unbedingt erforderlich ist. 
+
+2 Falls die Übermittlung von Bestandteilen eines elektronischen Nachweises oder davon abgeleiteten In-
+formationen unbedingt erforderlich ist, so ist stets die Möglichkeit vorzusehen, diese Bestandteile und 
+Informationen ohne vermeidbare Nachteile auf andere Weise zu übermitteln. 
+
+ Art. 16ter  Informations- und Zustimmungspflicht; Widerrufsrecht 
+
+Für Datenbearbeitungen, welche für die Erbringung der Leistung oder die Gewährung des Zugangs nicht 
+unbedingt 
+Bestimmungen: 
+ 
+a Die Verifikatorin informiert die Inhaberin oder den Inhaber des Ausweises über Art, Zweck und Umfang 
+der Datenbearbeitung. 
+
+nachfolgende 
+
+erforderlich 
+
+sind, 
+
+gelten 
+
+b Die Datenbearbeitung bedarf der expliziten und jederzeit widerrufbaren Zustimmungen der Inhaberin 
+und des Inhabers. 
+
+ 
+
+6 
+
+c Erfüllt die Bearbeitung verschiedene Zwecke, so hat die Inhaberin oder der Inhaber die Zustimmung zu 
+jedem dieser Zwecke einzeln zu erteilen. 
+
+d Die Inhaberin oder der Inhaber kann die Zustimmung jederzeit und einzeln widerrufen. 
+
+Art. 16 Abs. 3 
+
+Streichen von «möglichst», da eine Vermeidung der Kenntnisnahme, beispielsweise durch Einsatz eines Proxys, 
+technisch möglich ist. 
+
+Fünfter Abschnitt 
+
+Art. 20 
+
+Die Fakultativbestimmung sollte mit einer obligatorischen Bestimmung ersetzt werden. Der Bund sollte die Inf-
+rastruktur und alle benötigten Anwendungen (als Beispielapplikation) zur Verfügung stellen, damit ein vielfälti-
+ges Ökosystem und das nötige Vertrauen entstehen können. 
+
+Art. 21 Abs. 2 
+
+Aus der Bestimmung ergibt sich noch nicht eindeutig, dass der Zugriff auf die Sicherheitskopien durch andere 
+Personen nicht möglich sein darf; dies ist entsprechend zu ergänzen. (Die benötigen Keys oder Informationen 
+sind bei den Inhaberinnen; zur Not könnten Nachweise auch neu ausgestellt werden.) 
+
+Art. 25 
+
+Art. 25 BGEID kann dahingehend interpretiert werden, dass sie dem Bundesrat eine Gesetzgebungskompetenz 
+delegiert. Mit Hinweis darauf ist es problematisch, wenn der Bundesrat selbständig Erweiterungen vornehmen 
+kann,  insbesondere  weil  der  Rechtsweg  betreffend  Bundesratserlasse  üblicherweise  ausgeschlossen  oder 
+schwierig wahrzunehmen ist. Um die Möglichkeit unvorhergesehener technische Erneuerungen zu berücksich-
+tigen, sei deshalb eine Methode vorzuschlagen, bei welcher die gerichtliche Überprüfung sowohl der Notwen-
+digkeit als auch der Verhältnismässigkeit möglich ist. 
+
+Sechster Abschnitt 
+
+Art. 26 
+
+Es sei die Kostenlosigkeit aller Handlungen vorzusehen, welche die Zustimmung oder den Widerruf einer be-
+stimmten Datenbearbeitung durch die Inhaberin oder den Inhaber eines elektronischen Ausweises erwirkt. 
+
+Mit freundlichen Grüssen 
+
+ 
+
+RA Viktor Györffy, Präsident grundrechte.ch 
+
+

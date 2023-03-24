@@ -1,0 +1,200 @@
+ 
+
+ 
+
+Berne, le 18 octobre 2022 
+
+ 
+
+ 
+
+Prise de position relative à la loi fédérale sur l’identité 
+électronique et autres moyens de preuve électroniques  
+
+ 
+ 
+Madame la Conseillère fédérale, 
+Mesdames, Messieurs, 
+ 
+
+Nous  vous  remercions  de  nous  donner  la  possibilité  de  prendre  position  au  sujet  de 
+
+l’avant-projet  de  loi  fédérale  sur  l’identité  électronique  et  autres  moyens  de  preuve 
+
+électroniques (LeID). 
+
+L’Organisation  des  Suisses  de  l’étranger  (OSE)  est  une  fondation  privée  qui 
+
+représente  les  intérêts  des  quelque  788 000 Suisses·ses  résidant  en  dehors  des 
+frontières  nationales.  La  communication  entre  les  Suisses·ses  de  l’étranger  et  les 
+
+autorités  suisses  s’avère  souvent  difficile.  Des  services  de  cyberadministration 
+
+pourraient  contribuer  à  améliorer  la  situation ,  car  ils  facilitent  le  contact  avec  les 
+autorités, malgré le décalage horaire et la distance géographique. L’introduction d’une 
+
+identité  électronique  (e-ID)  et  d’autres  moyens  de  preuve  électroniques  simplifierait 
+
+considérablement  la  fourniture  de  solutions  de  cyberadministration  et  faciliterait 
+également  le  suivi  des  dossiers  administratifs  des  Suisses·ses  de  l’étranger  et  leurs 
+
+contacts avec les autorités. L’OSE salue donc la création d’une base légale pour les 
+
+preuves d’identité numériques et autres moyens de preuve électroniques.   
+
+Une identification sécurisée sur internet permet de mettre en place des procédures de 
+
+vote  électronique  numériques  complètes.  L’introduction  du  vote  électronique  en  tant 
+
+que  canal  de  vote  ordinaire  est  d’une  importance  capitale  pour  les  Suisses·ses  de 
+l’étranger.  Souvent,  ils  ont  beaucoup  de  peine  à  exercer  leurs  droits  politiques, 
+
+pourtant garantis dans la Constitution fédérale, le matériel d’élection et de vote envoyé 
+
+par  la  poste  leur  parvenant  trop  tard  selon  le  lieu  de  résidence.  Une  identité 
+électronique  émise  par  l’État,  digne  de  confiance,  pourrait  permettre  le  vote 
+
+électronique  et  rendre  l’envoi  du  matériel  de  vote  et  d’élection  sur  papier  superflu. 
+
+L’OSE  encourage 
+
+la  Confédération  à  saisir  cette  opportunité  pour  garantir 
+
+véritablement le droit de vote et d’élection des Suisses·ses de l’étranger.  
+
+En  outre,  une  e-ID  pourrait  améliorer  l’accès  des  Suisses·ses  de  l’étranger  aux 
+
+banques suisses. L’identification claire des nouvelles clientes  et des nouveaux clients 
+
+ 
+
+ 
+
+en  vue  de  prévenir  le  blanchiment  d’argent  et  l’évasion  fiscale  est   particulièrement 
+
+onéreuse pour les banques lorsque ces personnes vivent à l’étranger. Par conséquent, 
+
+de nombreuses banques limitent fortement leurs services dans ce domaine. Une e-ID 
+simplifiera de telles procédures d’identification et en diminuera les coûts, de sorte que 
+
+l’on peut espérer que les banques suisses  accorderont à nouveau un accès simplifié 
+
+à leurs services aux Suisses·ses de l’étranger.  
+
+L’OSE  salue  en  particulier  le  fait  que  la  Confédération  a  tenu  compte  des 
+
+préoccupations de la population suisse et qu’elle propose dés ormais une e-ID émise 
+
+par l’État, qui garantit un  niveau de sécurité élevé. Alors que  le Conseil des  Suisses 
+de  l’étranger  (CSE),  l’organe  suprême  de  l’OSE,  ne  s’était  prononcé  que  de  façon 
+
+hésitante en faveur du premier projet de loi, le projet actuel est  soutenu par une très 
+
+large majorité. La compatibilité de l’e-ID sur le plan international, telle qu’elle est visée 
+dans le projet actuel, représente un grand progrès pour les Suisses·ses de l’étranger 
+
+et facilite la mobilité internationale.  
+
+La  protection  des  données  reste  essentielle  et  nous  saluons  vivement 
+les 
+améliorations en la matière. Le fait que les citoyen·nes puissent décider des données 
+
+qu’ils transmettent et à qui ils les transmettent, grâce au principe  adopté de l’identité 
+
+auto-souveraine  (self-sovereign  identity),  nous  paraît  convaincant.  Pour  éviter  un 
+risque de suridentification, nous considérons qu’il est indispensable de lier ce principe 
+
+–  en  particulier  en  cas  d’ouverture  de  l’infrastructure  de  confiance  aux  particuliers  – 
+
+avec des mesures visant à promouvoir la maturité numérique. En 2021, environ 22,5% 
+des Suisses·ses de l’étranger étaient âgés de plus de 65  ans. Une part non négligeable 
+
+des Suisses∙ses de l’étranger appartient donc à une génération qui n’a pas grandi avec 
+
+les  technologies  numériques  et  qui  a  donc  en  partie  besoin  d’être  soutenue  et 
+informée.  De  manière  analogue  aux  points  de  contact  cantonaux  (art.  8),  les 
+
+Suisses·ses de l’étranger ont aussi besoin de points de contact facilement accessibles 
+
+les  aider  à  utiliser 
+
+pour 
+les  offres  de  cyberadministration.  L’intégration  des 
+représentations  consulaires  serait  judicieuse  à  cet  égard.  De  plus,  une  campagne 
+
+d’information  et  de  sensibilisation  de  grande  ampleur,   s’adressant  aussi  aux 
+
+Suisses·ses de l’étranger, afin d’encourager la maturité numérique, serait également 
+
+souhaitable.  
+
+En outre, pour que les cas d’abus de l’infrastructure de confiance soient effectivement 
+
+rendus publics, il est nécessaire de  disposer  d’offres faciles  d’accès,  pour permettre 
+aux  citoyen·nes  concernés  de  déclarer  les  cas  suspects,  par  exemple  un  formulaire 
+
+de  déclaration,  similaire  à  celui  du  Centre  national  pour  la  cybersécurité.  Nous 
+
+encourageons la Confédération à mettre une telle str ucture à disposition.  
+
+En  résumé,  l’OSE  salue  les  nouvelles  bases  légales  relatives  à  une  e-ID  émise  par 
+
+l’État et d’autres moyens de preuves électroniques. Nous sommes convaincus que la 
+
+ 
+
+ 
+
+ 
+
+population  suisse  profitera  des  progrès  en  matière  de  numérisation.  P our  les 
+
+Suisses·ses  de  l’étranger,  l’accès  aux  services  de  cyberadministration  et  à  la 
+
+cyberdémocratie revêt une grande importance. Les aspects de la sécurité et le respect 
+
+des normes internationales doivent être garantis.  
+
+ 
+
+Nous  vous  remercions  par  avance  de 
+
+l’attention  que  vous  porterez  à  nos 
+
+considérations. 
+
+Veuillez agréer, Madame la Conseillère fédérale, Mesdames , Messieurs, nos 
+
+salutations distinguées, 
+
+ 
+
+ 
+
+ 
+
+ 
+Filippo Lombardi 
+Président 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+Ariane Rustichelli 
+Directrice 
+
+ 
+
+ 
+
+

@@ -1,0 +1,206 @@
+ 
+
+ 
+eAHV/IV – eAVS/AI 
+p.a. mundi consulting ag 
+Marktgasse 55 
+Postfach  
+3001 Bern 
+Mail 
+info@eahv-iv.ch 
+Web  www.eahv-iv.ch 
+Tf. 
+
++41 31 326 76 76  
+
+ 
+Geht an 
+Eidgenössisches Justiz- und Poli-
+zeidepartement EJPD 
+Frau Bundesrätin Karin Keller-Sutter 
+ 
+Via Mail an  
+rechtsinformatik@bj.admin.ch 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bern, 18. Oktober 2022 
+ 
+
+ 
+Antwort zur Vernehmlassung: 
+Bundesgesetzes über den elektronischen Identitätsnachweis und andere elektro-
+nische Nachweise (BGEID) 
+ 
+Sehr geehrte Frau Bundesrätin Keller-Sutter 
+Sehr geehrte Damen und Herren 
+ 
+Wir danken Ihnen bestens für die Gelegenheit, uns zum erwähnten Gesetzesentwurf 
+zu äussern. eAHV/IV ist verantwortlich für den Datenaustausch und Digitalisierung in 
+der 1. Säule der Sozialversicherungen und Familienzulagen. Unsere Vereinsmitglieder 
+sind die Konferenz der kantonalen Ausgleichskassen (KKAK), die Vereinigung der Ver-
+bandsausgleichskassen (VVAK), die IV-Stellen-Konferenz (IVSK) sowie die Zentrale 
+Ausgleichsstelle (ZAS).  
+
+Die vertretenen rund 110 Durchführungsstellen sehen sich aufgrund ihrer gesetzlichen 
+Aufgaben in den Sozialversicherungen zur Nutzung der elektronischen Identität (eID) 
+zur elektronischen Identifikation verpflichtet (Art. 9 BGEID). Über die gesetzliche Ver-
+pflichtung hinaus sind die Akteure der 1. Säule eine wichtige künftige Akteursgruppe im 
+Ökosystem der eID: Zum einen ist die ZAS als Datenlieferantin für die Angaben zur 
+AHV-Nummer wichtig. Mit der Einbindung dieser bewährten und qualitativ hochwerti-
+gen Angaben kann die Qualität garantiert und die Verwendung durch die vielen Ak-
+teure, die bereits heute die AHV-Nummer als Identifikationsmerkmal verwenden, naht-
+los sichergestellt werden. Zum anderen stellen die Millionen von versicherten Personen 
+eine grosse Gruppe von potenziellen Nutzerinnen und Nutzern dar. Mit einer guten Ein-
+bindung in die Dienstleistungen der Durchführungsstellen kann die 1. Säule einen 
+wichtigen Beitrag zur Akzeptanz der eID bei den Benutzerinnen und Benutzern leisten. 
+
+1.  Im Grundsatz 
+
+Wir unterstützen die Stossrichtung des Gesetzes und befürworten eine schnelle Um-
+setzung der Lösung auf dessen Basis. Ein digitaler Nachweis der Identität ist für die 
+medienbruchfreie Umsetzung von digitalen Leistungen in vielen Bereichen des 
+eGovernments zentral und hat auch für die Kommunikation zwischen den Durchfüh-
+rungsstellen der 1. Säule und der Familienzulagen und den versicherten Personen eine 
+grosse Bedeutung. 
+
+ 
+ 
+
+eAHV/IV – eAVS/AI 
+
+ 
+
+Vernehmlassungsantwort BGEID 
+
+Für einen maximalen Nutzen ist für eAHV/IV wichtig, dass ein vielfältiges Ökosystem 
+rund um die eID entsteht. Die eID muss eine hohe Akzeptanz und eine grosse Verbrei-
+tung unter der Bevölkerung haben, damit Sie von den Durchführungsstellen ebenfalls 
+zu Identifikation von Versicherten genutzt werden kann. 
+ 
+Einen einfachen Zugang zur elektronischen Identität ist in der 1. Säule auch für die 
+Kundengruppen im Ausland, insbesondere die Auslandsschweizerinnen und -schwei-
+zer, wichtig. Für Personen, die ausserhalb der EU wohnen und nicht von potenziell in-
+teroperablen Systemen profitieren können, hat diese Anforderung die grösste Bedeu-
+tung. 
+  
+
+2.  Form und Inhalt (Art. 2) 
+
+eAHV/IV begrüsst, dass die AHV-Nummer Teil der Angaben der eID ist und sieht darin 
+die Möglichkeit, das wichtigste Identifikationsmerkmal in den Sozialversicherungen di-
+rekt von der eID zu beziehen. 
+
+  
+
+3.  Ausstellungsprozess (Art. 4) 
+
+Die Ausstellung der eID für muss aus unserer Sicht auch für Auslandsschweizerinnen 
+und -schweizer einfach möglich sein. Dieser Grundsatz sollte im Art. 4 enthalten sein, 
+die Verordnung soll dann die passende Umsetzung sicherstellen. Gleichzeitig muss die 
+Qualität der Identität den hohen datenschutzrechtlichen Anforderungen der Sozialversi-
+cherungen entsprechen. 
+
+4.  Gültigkeitsdauer (Art. 6) 
+
+Bei der Festlegung der Gültigkeitsdauer durch den Bundesrat sind nicht nur Sicher-
+heitsaspekte, sondern auch die Vorteile für Personen im Ausland bei einer maximal 
+langen Gültigkeitsdauer berücksichtigt werden. 
+
+5.  Hohe Usability und gute Unterstützung (Art. 8, Art. 14, Art. 16) 
+
+Das Konzept der Self-Sovereign Identity schafft im Hinblick auf die Usability zusätzli-
+che Herausforderungen. Die Unterstützung der Nutzenden ist entscheidend. Die vorge-
+sehene Unterstützung durch von den Kantonen bezeichneten Stellen muss sich in der 
+Umsetzung als funktionierende Anlaufstelle erweisen. Die technische Umsetzung des 
+Wallets und das Vorweisen muss verschiedene Bedürfnisse berücksichtigen, so soll 
+eine Nutzung auf mehreren Geräten möglich sein. 
+
+6.  Ökosystem (5. Abschnitt sowie Art. 26) 
+
+Den Einbezug aller interessieren Akteure und das Fördern und Entwickeln eines Öko-
+systems ist aus unserer Sicht ein entscheidender Erfolgsfaktor. Diese Zielsetzung ins 
+Gesetz zu integrieren wäre deshalb angezeigt. Die Gebühren müssen in einem Rah-
+men angesetzt sein, der keine Hürde für die Integration von weiteren Akteuren dar-
+stellt. 
+
+7.  Weiterentwicklung (Art. 25) 
+
+Die Ausgestaltung des Gesetzes mit einem besonderen Augenmerk auf die Technolo-
+gieneutralität wird sehr begrüsst. Die mit dem Artikel zur technischen Entwicklung er-
+möglichte schnelle Anpassung der Lösung erscheint uns zweckmässig.  
+
+ 
+
+Abschliessend möchten wir nochmals unsere Unterstützung für dieses Gesetzesprojekt 
+betonen: Die elektronische Identitätsinfrastruktur erlaubt es den Akteuren der ersten 
+Säule die Interaktionen mit den versicherten Personen weiter zu digitalisieren. Die spe-
+zifischen gesetzlichen Grundlagen der Sozialversicherungen müssen in einem zweiten 
+Schritt die erfolgreiche Einbindung unterstützen. Neben der Nutzung des digitalen 
+
+ 
+
+18.10.22 / Seite 2 
+
+eAHV/IV – eAVS/AI 
+
+ 
+
+Vernehmlassungsantwort BGEID 
+
+Identitätsnachweises muss auch die Unterschriftspflicht, wo immer möglich, aufgeho-
+ben werden. Nur so ist eine vollständige digitale Abwicklung umsetzbar. eAHV/IV zählt 
+auf diese wichtigen Grundlagen, um die die Ziele unseres Vereines in der Durchfüh-
+rung der Sozialversicherungen umsetzen zu können. 
+
+ 
+Freundliche Grüsse 
+
+Christian Zeuggin 
+Präsident eAHV/IV 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+Andreas Dummermuth 
+Präsident Konferenz der Kantonalen Ausgleichskassen 
+
+ 
+
+ 
+
+Yvan Béguelin 
+Präsident der Schweizerischen Vereinigung der Verbandsausgleichskassen 
+ 
+
+ 
+
+ 
+Florian Steinbacher 
+Präsident der IV-Stellen-Konferenz 
+ 
+
+ 
+
+Adrien Dupraz 
+Direktor der Zentralen Ausgleichsstelle (ZAS) 
+
+ 
+
+18.10.22 / Seite 3 
+
+

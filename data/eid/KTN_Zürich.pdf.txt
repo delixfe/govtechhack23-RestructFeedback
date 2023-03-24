@@ -1,0 +1,210 @@
+Eidgenössisches Justiz- und  
+Polizeidepartement
+Bundeshaus West
+3003 Bern
+
+5. Oktober 2022  (RRB Nr. 1330/2022)
+Bundesgesetz über den elektronischen Identitätsnachweis und  
+andere elektronische Nachweise (Vernehmlassung)
+
+Sehr geehrte Frau Bundesrätin
+
+Mit Schreiben vom 29. Juni 2022 haben Sie uns den Vorentwurf des Bundesgesetzes über 
+den elektronischen Identitätsnachweis und andere elektronische Nachweise (E-ID-Gesetz, 
+BGEID) zur Stellungnahme unterbreitet. Wir danken Ihnen für diese Gelegenheit und äussern 
+uns wie folgt:
+
+A. Allgemeine Bemerkungen
+Wir begrüssen den vorliegenden Entwurf des E-ID-Gesetzes auf der Basis einer staatlich 
+betriebenen Infrastruktur und den Grundsätzen der Privatsphäre durch Technik (privacy by 
+design), der Datensparsamkeit und der dezentralen Datenspeicherung. Dies sind wichtige 
+Grundvoraussetzungen für die Akzeptanz bei Bevölkerung und Wirtschaft.
+Eine schnelle Umsetzung und Einführung der mit dem Gesetz ermöglichten Lösung  
+erachten wir ebenfalls als zentralen Aspekt: Einerseits ist der Bedarf gross und dringend, 
+anderseits muss vermieden werden, dass die Lösung schon bei der Einführung technisch 
+überholt ist.
+Zu bemängeln ist indessen, dass der erläuternde Bericht (S. 20–21) nur spärliche Angaben 
+zu den finanziellen Auswirkungen auf die Kantone enthält. In der Botschaft zur Gesetzes-
+vorlage sollten diese Auswirkungen auf die Kantone nach Möglichkeit genauer beziffert 
+werden, insbesondere die Bruttokosten (ohne Einbezug allfälliger Effizienzgewinne).
+Der «Self-sovereign Identity»-Ansatz ist unseres Erachtens in der Bevölkerung noch wenig 
+bekannt und schafft dadurch einen erhöhten Informations- und Erklärungsbedarf, der 
+bereits jetzt angesprochen werden sollte. Eine nationale Sensibilisierungskampagne wäre 
+eine Möglichkeit dafür.
+
+Kanton ZürichRegierungsrat2
+
+Darauf hinweisen möchten wir, dass die E-ID auch im Rahmen verdeckter Ermittlungs-
+massnahmen anwendbar sein muss und entsprechend eine Urkunde im Sinne von 
+Art. 289 Abs. 4 Bst. a der Strafprozessordnung (SR 312.0) oder Art. 110 Abs. 4 und 317bis  
+des Schweizerischen Strafgesetzbuches (SR 311.0) darstellt. Dies sollte in der Botschaft 
+festgehalten werden.
+Schliesslich ist für den gesamten Gesundheitsbereich zentral, dass die Bundes-E-ID die 
+Ausbreitung des elektronischen Patientendossiers (EPD) unterstützt, einfach anwendbar 
+ist und keine neuen Hürden entstehen lässt. Deshalb sind die E-ID- und die EPD-Gesetz-
+gebung gut aufeinander abzustimmen, sodass die nationale E-ID ohne Weiteres auch den 
+Anforderungen des ebenfalls national geregelten EPD genügt. Zudem sollte der Anwen-
+dungsfall EPD insgesamt im Gesetz und in der Botschaft noch klarer dargestellt werden. 
+Deutlich hervorgehen sollte, dass die Bundes-E-ID die heute zur Verfügung stehenden,  
+für das EPD zertifizierten E-ID-Lösungen (SwissID, TrustID, HIN eID) ablösen wird und wie 
+der EPD-Eröffnungsprozess mit der nationalen E-ID effizient und kundenorientiert unter-
+stützt wird.
+Neben diesen grundsätzlichen Bemerkungen bleibt allgemein anzufügen, dass im vor- 
+gelegten Vorentwurf in vielen (keineswegs nur untergeordneten) Fragen auf die noch  
+zu erarbeitende Verordnung verwiesen wird, welche die erforderlichen Präzisierungen 
+bringen soll. Unter diesen Umständen regen wir an, auch die noch auszuarbeitende  
+Verordnung in die Vernehmlassung zu geben, damit dort die Bedürfnisse der Kantone  
+und gegebenenfalls der Gemeinden eingebracht werden können.
+
+B. Bemerkungen zu den einzelnen Bestimmungen
+1. Bundesgesetz über den elektronischen Identitätsnachweis und andere elektro-
+nische Nachweise
+Art. 1 Abs. 2: Die Zweckumschreibung sollte klarer zum Ausdruck bringen, dass es um 
+einen «Nutzen für alle» geht. Ausserdem erscheint die Formulierung «ohne die technische 
+Entwicklung unnötig einzuschränken» (Bst. d) zu offen und unbestimmt. Sie könnte daher 
+als Freipass verstanden werden, dass eben doch nicht die höchsten Anforderungen an 
+die Sicherheit der Infrastruktur erforderlich seien. Stattdessen sollte ein Halbsatz angefügt 
+werden, wonach Anpassungen an die technische Entwicklung möglich sein sollten.
+Art. 2 Abs. 2: Zu den bereits aufgeführten Personenidentifizierungsdaten sollte bei Perso-
+nen mit Schweizer Staatsbürgerschaft zusätzlich der Heimatort aufgenommen werden. 
+Das Handelsregisteramt hat diesen gemäss Art. 24b Abs. 1 Bst. f der Handelsregisterver-
+ordnung (SR 221.411) «auf der Grundlage des Ausweisdokuments» zu erfassen.
+Art. 2 Abs. 3: Wir begrüssen ausdrücklich, dass gemäss Art. 2 Abs. 3 Bst. a auch die AHV-
+Nummer zum Inhalt der E-ID gehören soll. Nur so ermöglicht die E-ID eine rasche und 
+eindeutige Identifizierung im Verkehr mit Behörden, welche die AHV-Nummer in ihren 
+Registern führen. Indessen begründen die Erläuterungen leider nicht, weshalb die AHV-
+Nummer verwendet werden soll; dies sollte in der Botschaft ausführlich nachgeholt 
+werden.
+Art. 5: Aus gesetzessystematischen Überlegungen sollte die Bestimmung über den Wider-
+ruf der E-ID unverändert nach Art. 6 zur Gültigkeitsdauer (der mit der Umstellung zu Art. 5 
+wird) platziert werden. Ausserdem wäre wünschenswert, wenn bei Änderung der Perso-
+
+3
+
+nenidentifizierungsdaten der Inhaberin oder dem Inhaber einer E-ID automatisch eine 
+neue E-ID ausgestellt würde.
+Gemäss Art. 5 Bst. d Ziff. 1 widerruft das Bundesamt für Polizei (fedpol) die E-ID u. a., 
+wenn es informiert wird, dass der im Ausstellungsprozess der E-ID verwendete Ausländer-
+ausweis entzogen wurde. Wir regen an, die Systeme so aufzubauen, dass das fedpol 
+automatisiert informiert wird oder dass das fedpol diese Daten aus dem zentralen Migra-
+tionsinformationssystem abrufen kann, ohne dass die Migrationsämter eine Meldung 
+erstatten müssen.
+Art. 6: Der Einfachheit halber sollte die Gültigkeitsdauer der E-ID mit der Gültigkeitsdauer 
+des beim Ausstellungsprozess referenzierten physischen Ausweisdokuments gemäss 
+Art. 2 Abs. 3 Bst. e des Vorentwurfs übereinstimmen.
+Art. 7: Die Sorgfaltspflicht der Nutzenden einer E-ID sollte mit Massnahmen begleitet 
+werden, welche die betroffenen Personen bei der Wahrnehmung dieser Sorgfaltspflichten 
+unterstützen.
+Art. 8: Grundsätzlich ist zu begrüssen, dass die Kantone den betroffenen Personen im 
+Zusammenhang mit der Ausstellung und dem Einsatz der E-ID Unterstützung anbieten. Da 
+jedoch die Aufgaben, Pflichten und Grenzen einer solchen Unterstützung derzeit nicht 
+näher umschrieben sind und folglich auch die finanziellen Auswirkungen nicht beziffert 
+werden können, sind hier entsprechende Vorbehalte anzubringen.
+Art. 9: Die Tragweite dieser Bestimmung sollte in der Botschaft präzisiert werden, damit 
+die betroffenen Stellen sich frühzeitig darauf einstellen können.
+Art. 10: Die Wahlfreiheit der betroffenen Personen ist zu begrüssen und darf keinesfalls 
+eingeschränkt werden. Denn es besteht die grosse Gefahr, dass die Freiwilligkeit der E-ID 
+schon bald durch eine Pflicht zur E-ID abgelöst wird, wenn Dienstleistungen von öffentli-
+chen oder privaten Anbietenden – bei elektronischem Verkehr – nur noch mit Verwendung 
+der E-ID bezogen werden können. Dabei besteht die weitere Gefahr, dass Anbietende von 
+Dienstleistungen sämtliche Personenidentifizierungsdaten verlangen, obwohl dies im 
+konkreten Fall nicht nötig ist. Damit vergrössert sich auch die Gefahr des Missbrauchs 
+dieser Personenidentifizierungsdaten. Um der Gefahr der «Überidentifikation» zu begeg-
+nen, müssen in diese Bestimmung weitere Regeln für das Vorweisen der E-ID eingefügt 
+werden: Zum einen soll die Verifikatorin verpflichtet sein, die E-ID nur dann zu verlangen, 
+wenn dies absolut notwendig ist, und zum anderen soll sie verpflichtet sein, nur diejenigen 
+Teile der E-ID abzufragen, auf die sie nicht verzichten kann. Zusätzlich ist ihr die Verpflich-
+tung aufzuerlegen, die Daten der Identifikation weder zu speichern noch weiterzugeben 
+noch sonst wie zu bearbeiten, ausser eine anderweitige Pflicht verlangt dies.
+Art. 11: Der wesentliche Punkt, dass die über die Schnittstellen zu ISA und ZEMIS abgeru-
+fenen Daten zur Ausstellung und zum Widerruf der E-ID im Informationssystem nicht auf-
+bewahrt werden dürfen, sollte im Gesetzestext klar zum Ausdruck kommen. Art. 11 Abs. 4 
+sollte daher wie folgt lauten: «Die via Schnittstellen bezogenen Daten werden ausschliess-
+lich zum Zweck der Ausstellung der E-ID bearbeitet und nicht im Informationssystem 
+aufbewahrt.»
+
+4
+
+Gemäss Art. 11 Abs. 5 dürfen die Daten längstens bis fünf Jahre nach Ablauf der E-ID 
+aufbewahrt werden. Dabei besteht jedoch die Gefahr, dass sie für Ermittlungen in Miss-
+brauchsfällen (z. B. nach der Erschleichung einer falschen E-ID) nicht mehr zur Verfügung 
+stehen. Wir schlagen deshalb vor, die Frist an Art. 37 Abs. 1 der Ausweisverordnung 
+(SR 143.11) anzugleichen, der vorsieht, dass die zu einem Pass oder einer Identitätskarte 
+gespeicherten Daten 20 Jahre aufbewahrt werden.
+Art. 16: Es sind in Bezug auf Art. 16 Abs. 1 Massnahmen zu prüfen, wie die Beschränkung 
+der Datenbearbeitung auch bei privaten Verifikatorinnen sichergestellt werden kann.  
+Entsprechend ist ein eigener Absatz einzufügen, in dem ausdrücklich festgehalten wird, 
+dass die Verifikatorin nur diejenigen Bestandteile des Nachweises verlangen darf, die sie 
+für die Erbringung der Dienstleistung tatsächlich benötigt, und dass sie die ihr übermittel-
+ten «Bestandteile des Nachweises» nur mit ausdrücklicher Einwilligung der betroffenen 
+Person für weitere bzw. andere Zwecke verwenden darf.
+Bei Art. 16 Abs. 3 ist unklar, warum die Systeme nicht so gestaltet werden müssen, dass 
+gar keine Rückschlüsse gezogen werden können. Daher ist auf das Wort «möglichst» im 
+Text zu verzichten. Falls aus technischen oder rechtlichen Gründen nicht darauf verzichtet 
+werden kann, ist klar darzulegen, warum eine Ausgestaltung eines Systems, das keine 
+entsprechenden Rückschlüsse zulässt, nicht möglich ist.
+Art. 17: Es sollte eine Verifizierung der Identität der privaten Ausstellerinnen und Verifikato-
+rinnen vorgesehen werden. Daher sollte Art. 17 Abs. 3 so formuliert werden, dass die  
+Ausstellerinnen und Verifikatorinnen ihre Daten nicht ohne Verifikation selbst in das Basis-
+register eintragen können. Ein nachträglicher Kommunikationsweg in Fällen von begrün-
+detem Verdacht, wie in Art. 22 vorgesehen, erscheint ungenügend, um dem Risiko zu 
+begegnen, dass Ausstellerinnen oder Verifikatorinnen mit vorgetäuschter Identität elektro-
+nische Beweismittel ausstellen könnten. Dabei dürfen die hohen Kosten des Zulassungs-
+prozesses kein Argument sein, grosse Risiken eines Missbrauchs der Vertrauensinfra-
+struktur in Kauf zu nehmen. Von einer Vertrauensinfrastruktur kann zudem nur gesprochen 
+werden, wenn die Risiken des Missbrauchs mit allen möglichen Mitteln kleingehalten werden.
+Art. 23: Wir begrüssen diese Bestimmung ausdrücklich, denn Open-Source-Software und 
+die damit einhergehende Transparenz trägt zum Vertrauen in technische Lösungen bei, 
+was gerade im sensiblen Bereich des Nachweises der Identität von natürlichen Personen 
+wesentlich ist.
+Art. 26: Dass beim Einsatz der E-ID für die sie nutzenden, natürlichen Personen keine 
+Gebühr anfällt, begrüssen wir. Dies trägt zum breiten Einsatz der E-ID bei. Ausdrücklich 
+verankert werden sollte in dieser Bestimmung indessen die Gebührenfreiheit für die  
+Kantone und andere Stellen, die öffentliche Aufgaben erfüllen (und die gemäss Art. 9 zur 
+Akzeptanz der E-ID verpflichtet sind). Zumindest in Abs. 4 wäre klarzustellen, dass ins- 
+besondere die Datenabfrage zur Identitätsprüfung für diese Stellen gebührenfrei ist.
+Von den übrigen Ausstellerinnen und Verifikatorinnen sollte nur eine geringe Gebühr ver-
+langt werden, da die Kosten einen nicht unerheblichen Einfluss auf die künftige Verbreitung 
+der E-ID und weiterer elektronischer Nachweise haben dürften. Eine Mindestgebühr zur 
+Entgegenwirkung von Falscheinträgen scheint jedoch gerechtfertigt. Zudem sollte eine 
+Kostenfolgenabschätzung für die Nutzerinnen und Nutzer der Vertrauensinfrastruktur in 
+die Botschaft aufgenommen werden.
+
+5
+
+Schliesslich sollte aus Art. 26 klar hervorgehen, dass alle Leistungen um die E-ID gebühren-
+frei sind und Ausstellerinnen und Verifikatorinnen von anderen elektronischen Nachweisen 
+(wie z. B. ein Universitätsdiplom) nur für die dafür notwendigen Einträge im Basisregister 
+eine Gebühr zu entrichten haben. Wir beantragen daher, den Text von Art. 26 Abs. 1 wie 
+folgt zu ändern: «Die Ausstellerinnen und Verifikatorinnen elektronischer Nachweise ent-
+richten für ihre Einträge im Basisregister und im System zur Bestätigung von Identifikatoren 
+Nachweisen eine Gebühr.»
+Art. 27: Im Hinblick auf die Rechtssicherheit regen wir an, zumindest in der Botschaft die 
+Tragweite von Art. 27 Abs. 1 zu präzisieren.
+
+2. Bundesgesetz über die elektronische Signatur
+Wir begrüssen, dass das Gesetz über die elektronische Signatur (SR 943.03) dahingehend 
+geändert werden soll, dass mit dem Vorweis einer E-ID für die Ausstellung einer digitalen 
+Signatureinheit keine persönliche Vorsprache mehr erforderlich ist (Art. 9 Abs. 4bis). Die 
+Ausstellung einer qualifizierten elektronischen Signatur wird damit wesentlich vereinfacht. 
+Indessen regen wir an, weitergehende Möglichkeiten zu prüfen, sodass die elektronische 
+Signatur einem breiteren Personenkreis einfacher zugänglich gemacht werden kann  
+(z. B. eine automatische Ausstellung einer qualifizierten elektronischen Signatur bei der 
+Ausstellung einer E-ID). Zudem sollen alle Erlasse dahingehend angepasst werden, dass 
+für eine elektronische Eingabe über ein Portal des Bundes oder der Kantone das Vorweisen 
+einer E-ID genügt, d. h., keine qualifizierte elektronische Signatur mehr erforderlich ist.
+
+Genehmigen Sie, sehr geehrte Frau Bundesrätin, 
+die Versicherung unserer ausgezeichneten Hochachtung.
+
+Im Namen des Regierungsrates 
+ 
+Der Präsident: 
+
+Die Staatsschreiberin:
+
+Ernst Stocker 
+
+Dr. Kathrin Arioli
+
+

@@ -1,0 +1,99 @@
+ 
+
+Swiss Data Alliance 
+Schiffbaustrasse 10 
+Postfach 
+8031 Zürich 
+
+info@swissdataalliance.ch 
+
+ 
+
+Zürich, 18. Oktober 2022 
+
+ 
+
+Stellungnahme der Swiss Data Alliance zum Bundesgesetz über den elektronischen Identitätsnach-
+weis und andere elektronische Nachweise (E-ID-Gesetz, BGEID)  
+
+Sehr geehrte Frau Bundesrätin Keller-Sutter 
+Sehr geehrte Damen und Herren 
+
+Die Swiss Data Alliance bedankt sich für die Möglichkeit, zum Bundesgesetz über den elektronischen 
+Identitätsnachweis und andere elektronische Nachweise (E-ID-Gesetz, BGEID) Stellung nehmen zu 
+dürfen. 
+
+Die Swiss Data Alliance ist ein überparteilicher Zusammenschluss von Unternehmen, Wirtschaftsver-
+bänden, zivilgesellschaftlichen Organisationen, Forschungsinstitutionen und Einzelpersonen mit dem 
+Ziel, eine zukunftsorientierte Datenpolitik in der Schweiz zu etablieren. 
+
+Aus diesem Grunde hat die Swiss Data Alliance schon immer die Wichtigkeit einer digitalen Identität 
+für die Schweiz betont und sich aktiv in die Diskussion um die E-ID eingebracht. Wir unterstützen 
+deshalb alle Bestrebungen für die rasche Einführung einer E-ID und danken für das konstruktive und 
+zielgerichtete Vorgehen des Bundesamts für Justiz. 
+
+Wir halten fest, dass wir auf Grund unserer Mitarbeit die Stellungnahme von Swico zu den einzel-
+nen Gesetzesartikeln vollständig unterstützen. Wir verzichten darauf, die Stellungnahme an dieser 
+Stelle nochmals aufzuführen.  
+
+Die Swiss Data Alliance begrüsst die Stossrichtung des Gesetzentwurfs. Aus unserer Sicht setzt dieser 
+den politischen Auftrag gut um und die zentralen Grundsätze «Privacy by Design», «Datensparsam-
+keit» und «dezentrale Datenspeicherung» werden angemessen berücksichtigt. Das Gesetz setzt ei-
+nen geeigneten Rahmen für eine Vertrauensinfrastruktur als Kernelement einer staatlich herausge-
+gebenen E-ID.  
+
+Der Gesetzesentwurf regelt die Eckpunkte der E-ID sowie der Vertrauensinfrastruktur und verweist 
+an zahlreichen Stellen auf den Bundesrat, der für den Erlass der Ausführungsbestimmungen in Form 
+von Verordnungsrecht zuständig ist. Das technologieneutrale Gesetz ist grundsätzlich begrüssens-
+wert, um eine dynamische Weiterentwicklung der Vertrauensinfrastruktur und deren Anpassung an 
+den jeweiligen Stand der Technik zu ermöglichen. Es ist darauf zu achten, dass die Akteure rechtzei-
+tig über die massgeblichen Eckpunkte informiert werden, damit die konkrete Planung von potenziel-
+len Diensten und Dienstleistungsangeboten, welche auf der künftigen E-ID basieren werden, recht-
+zeitig angegangen werden können. Wir wünschen uns deshalb, dass auch die Verordnung zur E-ID 
+zur Vernehmlassung gebracht wird. 
+
+ 
+
+Langfristiges Ziel muss ein umfangreiches Ökosystem von elektronischen Nachweisen sein, wobei 
+solche durch staatliche und private Stellen ausgestellt werden können und ein etappenweises Vorge-
+hen möglich ist. Ein rein staatlich genutzter, digitaler Ausweis erscheint uns nicht zweckdienlich und 
+wird nicht ausreichen, um die Digitalisierung in der Schweiz entscheidend voranzutreiben. Wir be-
+grüssen daher, dass der vorliegende Vorentwurf bzw. die vorgesehene Infrastruktur unterschiedliche 
+elektronische Nachweise vorsieht und der Weg zu einem umfangreichen Ökosystem gemäss Ambiti-
+onsniveau 3 offensteht. 
+
+Schliesslich sollte die E-ID nicht als Identifikationsmittel zweiter Klasse definiert werden, welches 
+vom zu Grunde liegenden Papier oder Plastikdokument abhängig ist, wie dies an mehreren Stellen 
+im vorliegenden Vorentwurf suggeriert wird. Vielmehr soll die E-ID als eigenständiges Identifikations-
+mittel breit für behördliche und nicht behördliche Dienstleistungen in Anspruch genommen werden 
+können. 
+
+Die Swiss Data Alliance möchte noch einmal betonen, dass wir eine staatliche E-ID und deren rasche 
+Einführung sehr unterstützen. Die Schweiz braucht, um weiter wettbewerbsfähig und zukunftsorien-
+tiert zu bleiben, eine breit abgestützte und weit verbreitete digitale Identität. Deshalb stellen wir 
+auch die Freiwilligkeit einer staatlichen E-ID in Frage. Unserer Meinung nach muss jede Bürgerin und 
+jeder Bürger der Schweiz eine elektronische Identität besitzen. Nur so ist es zeitnah möglich, von ei-
+nem Digital first- auf ein Digital only-Prinzip umzustellen und rascher eine digitale Nation mit einer 
+effizienten und digitalisierten Verwaltung zu werden.  
+
+Wir sind gerne bereit, uns in der öffentlichen Diskussion mit unseren Experten und unserem Netz-
+werk jederzeit einzubringen und bedanken uns noch einmal für die Möglichkeit, uns an dieser Ver-
+nehmlassung beteiligen zu dürfen. 
+
+Freundliche Grüsse 
+
+André Golliez, Präsident  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dr. Alain Gut, Vorstandsmitglied 
+
+ 
+
+ 

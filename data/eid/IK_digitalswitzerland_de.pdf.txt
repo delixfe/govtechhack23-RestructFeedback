@@ -1,0 +1,236 @@
+ 
+ 
+
+ 
+
+ 
+
+Bundesrätin Karin Keller-Sutter 
+Vorsteherin des Eidgenössischen Justiz- und Polizeidepartements EJPD 
+Bundeshaus West 
+CH-3003 Bern 
+ 
+Einreichung per Mail an: 
+rechtsinformatik@bj.admin.ch 
+ 
+ 
+ 
+Zürich, 29. September 2022 
+ 
+Vernehmlassung Bundesgesetz über den elektronischen Identitätsnachweis 
+und andere elektronische Nachweise (E-ID-Gesetz, BGEID) 
+ 
+Sehr geehrte Frau Bundesrätin 
+Sehr geehrte Damen und Herren 
+ 
+Wir danken Ihnen für die Gelegenheit, uns zum neuen Vorschlag für ein E-ID-Gesetz äussern zu können, welche 
+wir hiermit für digitalswitzerland wahrnehmen.  
+ 
+Zusammenfassend  stellen  wir  fest,  dass  der  Vorschlag  für  ein  neues  E-ID-Gesetz  in  der  Mitgliedschaft  von 
+digitalswitzerland auf breite Resonanz stösst, indem es den Rahmen setzt für eine Vertrauensinfrastruktur, deren 
+Kernelement  eine  staatlich  herausgegebene  e-ID  ist.  Allerdings  sind  wir  der  Überzeugung,  dass  sich  die 
+elektronische  Identität  in  der  Schweiz  nur  dann  in  der  Breite  durchsetzen  kann,  wenn  sie  in  ein  inklusives 
+Ökosystem von elektronischen Nachweisen eingebettet ist. Darum erachten wir es für zentral, diesen Aspekt 
+bereits in den Zweckartikel des Gesetzes aufzunehmen (siehe Anmerkung A). Des Weiteren erachten wir die 
+regelmässige Prüfung der staatlich-betriebenen Infrastruktur, ein Vehikel für Experten-Input zur technologischen 
+Gesetzesumsetzung,  Gebührenstruktur  nach 
+internationalen  Standards,  und  Regelung  von  privaten 
+Bestätigungsmechanismen als sinnvoll (siehe jeweils Anmerkung B, C, D und E).  
+ 
+digitalswitzerland versteht sich als Dialogplattform, welche mit seinem branchenübergreifenden Netzwerk von 
+über 240 Organisationen zur Verfügung steht, die Digitalisierung der Schweiz zu erleichtern. Am 28. April konnte 
+digitalswitzerland  einen  ersten  Beitrag  zur  laufenden  Metaebene-Debatte  über  die  Entwicklung  des  E-ID-
+Ökosystems in der Schweiz leisten. Dieses Whitepaper wurde gemeinsam von zehn Experten für digitale Identität 
+aus  dem  privaten  Sektor  und  der  Wissenschaft  verfasst.  Es  kann  hier  abgerufen  werden: 
+https://digitalswitzerland.com/building-a-swiss-digital-trust-ecosystem/ 
+ 
+
+ 
+
+ 
+digitalswitzerland | Geschäftsstelle Zürich | Selnaustrasse 25 | 8001 Zürich | 
+politics@digitalswitzerland.com | digitalswitzerland.com 
+
+1 | 4 
+
+ 
+
+ 
+Mit unserem Netzwerk und unserer Position als Dialogplattform wollen wir einen aktiven und konstruktiven Beitrag 
+zur Digitalisierung der Schweiz leisten.  
+ 
+Wir danken für die Aufmerksamkeit und stehen für weitere Auskünfte gerne zur Verfügung. 
+ 
+Freundliche Grüsse, 
+
+ 
+
+Stefan Metzger  
+Managing Director digitalswitzerland 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Guillaume Gabus 
+Extended Management, Public Affairs, 
+digitalswitzerland 
+
+ 
+
+ 
+
+ 
+ 
+Für weitere Auskünfte 
+Guillaume Gabus, Extended Management, Public Affairs, digitalswitzerland 
+Tel. +41 76 589 71 99 │ guillaume@digitalswitzerland.com 
+ 
+_________________________________________________________________________________________ 
+ 
+I. 
+
+Hintergrund zu digitalswitzerland 
+
+digitalswitzerland ist eine schweizweite, branchenübergreifende Initiative, welche die Schweiz als weltweit 
+führenden digitalen Innovationsstandort stärken und verankern will. Unter dem Dach von digitalswitzerland 
+arbeiten an diesem Ziel mehr als 240 Organisationen, bestehend aus Vereinsmitgliedern und politisch neutralen 
+Stiftungspartnern, transversal zusammen. digitalswitzerland ist Ansprechpartner in allen Digitalisierungsfragen 
+und engagiert sich für die Lösung vielfältiger Herausforderungen. 
+ 
+_________________________________________________________________________________________ 
+ 
+Aus  Sicht  von  digitalswitzerland  ist  die  Vertrauensinfrastuktur  eine  wichtige  Komponente,  um  die  Schweizer 
+Gesellschaft  und  Wirtschaft  bei  der  Digitalisierung  voranzubringen.  digitalswitzerland  begrüsst  die 
+Geschwindigkeit des Prozesses und die Stossrichtung des Vorentwurfs. 
+ 
+II. 
+
+Anmerkungen zum E-ID Gesetz 
+
+A.  Gleicher Stellenwert für E-ID und E-ID Ökosystem 
+Parallel zum Schutz der Persönlichkeit und der Grundrechte von Personen, ist ein weiteres wichtiges Ziel des 
+Gesetzes eine umfassende ‘Vertrauensinfrastruktur’ aufzubauen, die einen klaren Nutzen für Bürger:innen hat. 
+Nur  ein  Ökosystem,  in  dem  es  eine  Vielzahl  unterschiedlichster  Aussteller:innen  und  Verifikator:innen 
+aufeinandertreffen,  kann  der  Bevölkerung  jene  Mehrwerte  bieten,  die  es  für  dessen  Florieren  benötigt.  Das 
+Gesetz  sollte  daher  nicht  nur  eine  Anbindung  anderer  elektronischer  Nachweise,  und  deren  Ausstellung  und 
+Überprüfung gewährleisten, sondern dies aktiv fördern bzw. unterstützen. Dass die E-ID hier nicht nur für E-
+Government-Prozesse  genutzt  wird  und  in  der  Privatwirtschaft  breiten  Anklang  findet,  ist  eine  gemeinsame 
+Verantwortung  und  bedarf  enge  Zusammenarbeit.  Wir  erachten  es  daher  für  zielführend,  im  Rahmen  der 
+Zweckbestimmung zu ergänzen, dass das Gesetz neue digitale Geschäftsmodelle ermöglichen soll, die Vertrauen 
+im digitalen Raum voraussetzen. In diesem Sinne sollte die Zielerreichung des Gesetzes auch daran gemessen 
+werden  können,  wie  vielfältig  und  zahlreich  die  digitalen  Geschäftsmodelle  sind,  welche  auf  der  staatlich 
+
+ 
+ 
+2 | 4 
+
+ 
+
+betriebenen 
+Infrastruktur  zukünftig  bereitgestellt  werden.  Darüber  hinaust  setzte  eine  umfassende 
+‘Vertrauensinfrastruktur’ die  Rechts- und Investitionssicherheit für privatwirtschaftliche Akteure voraus. Bevor die 
+Grundzüge der Ausgestaltung der Vertrauensinfrastruktur sowie die konkrete Rollenverteilung zwischen Staat 
+und  privaten  Akteuren  nicht  hinreichend  konkret  sind,  können  potenzielle  Technologielieferanten  und 
+Dienstleistungserbringer ihre Geschäftsmodelle nur ungenügend ausarbeiten. Dadurch wird auch die Planung 
+von potenziellen E-ID-verwendenden Diensten und Dienstleistungsangeboten im Bereich der digitalen Nachweise 
+erschwert.  digitalswitzerland  möchte  den  Bund  anregen, 
+rasch  mehr  Klarheit  zu  schaffen,  um 
+Investitionssicherheit zu erzeugen.   
+ 
+B.  Regelmässige Prüfung der staatlich betriebenen Infrastruktur 
+Wenn  Vertrauen  geschaffen  werden  soll,  muss  die  Infrastruktur  sicher  und  robust  sein.  Überlegungen  zur 
+Cybersicherheit müssen deshalb von Anfang an berücksichtigt und gesetzlich verankert werden. Im Vorentwurf 
+des  Gesetzes  werden  zwei  Systeme  beschrieben,  das  Fedpol-System  zur  Ausstellung  von  E-IDs  (gemäss 
+Abschnitt 2) und die Vertrauensinfrastruktur (gemäss Abschnitt 5). Im Gesetz sollte vorgeschrieben werden, dass 
+beide Elemente regelmässig (wahrscheinlich jährlich) von Fachspezialisten einem Sicherheitsreview unterzogen 
+werden. Wenn richtig implementiert, dann liegen in der Vertrauensinfrastruktur keine sensitiven Daten vor. Dies 
+gilt es zu überprüfen und sollte gesetzlich vorgeschrieben sein. Des Weiteren halten wir es für sinnvoll, dass die 
+Struktur des Fedpol-Systems ebenfalls technisch und prozessual auf Sicherheitsfragen überprüft wird. Dies sollte 
+gesetzlich  verankert  sein.  Neben  der  Notwendigkeit  einer  Überprüfung  sollte  auch  der  Schutzbedarf  klar 
+beschrieben sein. Obwohl die Details der Umsetzungsweise für die Expertenprüfungen auf Verordnungsebene 
+geregelt werden, halten wir hier sogenannte Red-Team-Tests für besonders zielführend. Eine externe Prüfstelle 
+wie beispielsweise das Nationale Testinstitut für Cybersicherheit NTC wäre auch denkbar, um das Vertrauen 
+weiter auszubauen. 
+ 
+C.  Vehikel für Experten-Input zur technologischen Gesetzesumsetzung 
+digitalswitzerland erachtet es als sinnvoll, dass die technologische Umsetzung nicht auf Gesetzesstufe geregelt 
+ist. Aufgrund des raschen technischen Fortschritts soll sich der Bund die Kompetenzen nehmen können, einen 
+Technologie-Kontext  zu  wählen  zum  Zeitpunkt  der  Einführung,  welche  dem  Zweck  des  Gesetzes  und  den 
+Anforderungen  (spez.  Datenschutz  durch  Technik,  Datensicherheit,  Datensparsamkeit  und  dezentrale 
+Datenspeicherung)  am  besten  gerecht  wird.  digitalswitzerland  begrüsst  deshalb  den  Artikel  25  im  Gesetz. 
+Gleichzeitig muss angemerkt werden, dass der Erfolg der Vertrauensinfrastruktur davon abhängt, wie konsequent 
+und überzeugend das Gesetz aus der Perspektive der Bürger:innen zu Ende gedacht und umgesetzt wird (z.B. 
+elektronische  Brieftasche,  System  für  Sicherungskopien,  etc.).  Die  technologische  Gesetzesumsetzung 
+beinhaltet sowohl die User Experience (UX) im Generellen, aber auch matchentscheidende ‘Momente’ in der 
+Customer Journey, besonders weil SSI die Verantwortung der Identität dem User überträgt. Das Spannungsfeld 
+zwischen Sicherheit, User Experience und dem Ansatz der Dezentralität ist noch nicht abschliessend geklärt. 
+Genau  weil  die  Mehrheit  solcher  Fragen  im  Zusammenhang  mit  der  technologischen  Umsetzung  nicht  auf 
+Gesetzesstufe geregelt ist, erhoffen wir uns ein Vehikel für den Privatsektor und die Wissenschaft, welche es 
+erlaubt, Diskussionsbeiträge beizusteuern und somit die Umsetzung – innerhalb des erwähnten Spannungsfeldes 
+–  für  den Bund  zu  erleichtern  bzw.  allfällige  Blindspots  zu  vermeiden.  Dies  könnte  in Form  einer  erweiterten 
+Expertengruppe  oder  über  die  bestehende  GitHub-Plattform  geschehen.  Diese  Experten  helfen  auch  auf 
+bestehendes  Wissen  und  getätigte  Investitionen  hinzuweisen.  digitalswitzerland  würde  eine  entsprechende 
+Ausführungsbestimmung als Zusatz in Artikel 28 begrüssen. 
+ 
+D.  Gebührenstruktur nach internationalen Standards  
+digitalswitzerland  ist  der  Überzeugung,  dass  die  Kosten  und  Preise  für  Verifikator:innen  und  Aussteller:innen 
+einen  direkten  Einfluss  auf  den  Erfolg  des Gesamtprojektes  haben.  Diese  kommerziellen  Überlegungen  sind 
+hochrelevant  für  jene  Firmen,  welche  ihre  Nachweise  mit  der  E-ID  verbinden  und  somit  das  erstrebte  E-ID 
+Ökosystem ausmachen. Eine minimale Gebühr für die Aussteller:innen und Verifikator:innen für (1) die Eintragung 
+der Daten (spez. Identifikator) im Basisregister und für (2) die Aufnahme ins Vertrauensregister erscheint als 
+sinnvoll. digitalswitzerland ist der Auffassung, dass sich die Höhe der Gebühren an den Leitlinien der Sovrin 
+Foundation orientieren soll. Konkret heißt das: Eine minimale Gebühr für den Eintrag ins Basisregister, aber keine 
+Gebühr für die Ausstellung oder die Verifikation eines Nachweises. Die Widerrufe der elektronischen Nachweise 
+ 
+ 
+3 | 4 
+
+ 
+
+würden  durch  tägliche  Aktualisierungen  zum  System  kommuniziert.  Für  Aussteller:innen  wären  auf  den 
+verbunden ‘Revocation Update’ Gebühren erhoben. Wichtig hier ist, dass der Gesamtbetrag der Gebühren somit 
+nicht  abhängig  ist  von  der  Anzahl  der  Nutzer:innen  oder  der  Anzahl  an  Interaktionen  für  einen  spezifischen 
+Nachweis. Das ist essentiell für die Skalierbarkeit des Ökosystems und für die kommerziellen Überlegungen der 
+Verifikator:innen  und  Aussteller:innen.  digitalswitzerland  würde  die  Aufnahme  der  genannten  Grundsätze  auf 
+Gesetzesstufe  empfehlen.  digitalswitzerland  erhofft  sich  zudem,  dass  die  Erzeugnisse  der  neu-ermöglichten 
+digitalen Geschäftsmodelle und die Kosteneinsparungen aufgrund optimierter Identifizierung, diese minimalen 
+Gebühren weitgehend kompensieren. digitalswitzerland begrüsst auch, dass für die Ausstellung der E-ID, für 
+deren Nutzung und für die elektronische Brieftasche des Bundes keine Gebühren erhoben werden. Dies ist aus 
+einer Endnutzer-Perspektive essenziell. 
+ 
+E.  Regelung von privaten Bestätigungsmechanismen  
+Die  Verbindung  zwischen  der  virtuellen  und  der  physischen  Welt  bleibt  ein  entscheidendes  Element  der 
+Vertrauensinfrastruktur. Hier ist digitalswitzerland der Meinung, dass jene Instanzen, welche momentan unser 
+Vertrauen  geniessen  (z.B.  um  Aussteller:innen  zu  akkreditieren),  diese  Verantwortung  auch  virtuell  erhalten 
+sollen. Dies ist von zentraler Bedeutung für Nutzer:innen und Verifikator:innen, welche oft keine direkte Beziehung 
+zu den Aussteller:innen haben. Es ist sinnvoll, dass dem Bund die Kompetenz übertragen wird, die Identität der 
+Bundes-, Kanton- und Gemeindebehörden zu bestätigen (spez. Bestätigung der Identifikatoren). Gleichermassen 
+ist es essenziell, im Sinne des erstrebten E-ID Ökosystem, dass auch Akteure des privaten Sektors befähigt sind, 
+separate,  nicht  staatliche  (private)  Mechanismen  bereitzustellen.  Als  Beispiel:  Die  Rektorenkonferenz  der 
+Schweizer Universitäten (swissuniversities) führt eine Liste der anerkannten oder akkreditierten Hochschulen in 
+der Schweiz, die eine wichtige Informationsquelle für die Validierung von Hochschulabschlüssen darstellt. Diese 
+sektorspezifischen Vertrauensstelle muss auch weiterhin die Funktion digital ausüben können. Dies ist wichtig für 
+den  Aufbau  von  multisektoralen  Ökosystemen,  welche  den  Weg  für  Anwendungsfälle  innerhalb  und  über 
+sektorale Grenzen hinweg ebnen. Wie in Anmerkung A erwähnt, dient die E-ID als zentraler Baustein für eine 
+Vielzahl von sektoralen Ökosystemen (einschließlich  Gesundheit, Mobilität, Finanzen usw.). Nur wenn wir es 
+vermeiden,  getrennte  Welten  aufzubauen  und  stattdessen  nach  einer  umfassenden  Vertrauensinfrastruktur 
+streben, können wir einen konkreten Mehrwert für die Bürger:innen schaffen. Auch wenn der momentane Entwurf 
+die  Möglichkeit  diese  sektorspezifischen  privaten  Vertrauensstellung  nicht  explizit  einschränkt  (in  Artikel  18, 
+Absatz 2), könnte dies auf Gesetzesebene zusätzlich erwähnt werden. Parallel dazu ist mehr Klarheit über den 
+Akkreditierungsprozess von (privaten) Ausstellern wünschenswert, insbesondere darüber, wer Aussteller werden 
+kann und wie wir mit gefälschten Ausstellern umgehen. Konkret könnte in Artikel 12 Absatz 1 angemerkt werden, 
+dass Behörden und Private die Vertrauensinfrastruktur des Bundes gemäss dem 5. Abschnitt nutzen können, um 
+elektronische nicht-staatliche Nachweise auszustellen. 
+
+ 
+ 
+4 | 4 
+
+

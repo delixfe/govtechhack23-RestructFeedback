@@ -1,0 +1,364 @@
+Piratenpartei Schweiz, 3000 Bern 
+
+  
+
+ 
+
+ 
+
+Stellungnahme der Piratenpartei Schweiz zum Bundesgesetz über 
+den elektronischen Identitätsnachweis und andere elektronische 
+Nachweise (E-ID-Gesetz, BGEID) 
+ 
+Sehr geehrter Frau Bundesrätin 
+Sehr geehrte Damen und Herren 
+
+Bezugnehmend auf Ihre Vernehmlassungseröffnung vom 29.06.2022 nehmen wir 
+gerne Stellung. 
+
+Im Weiteren finden wir Piraten es sehr bedenklich, dass Sie für die Stellungnahme auf 
+eine proprietäre Software verweisen (Word der Firma Microsoft), wo es doch heute 
+zahlreiche offene und freie Dateiformate gibt. Wir entsprechen ihrem Wunsch mit ei-
+ner docx-Datei, welche auch in neueren Word Versionen geöffnet werden kann. 
+
+Gerne nehmen wir wie folgt Stellung: 
+
+Die Piratenpartei Schweiz setzt sich seit Jahren für eine humanistische, liberale und 
+progressive Gesellschaft ein. Dazu gehören die Privatsphäre der Bürger, di e Transpa-
+renz des Staatswesens, inklusive dem Abbau der Bürokratie, Open Government Data, 
+den Diskurs zwischen Bürgern und Behörden, aber auch die Abwicklung alltäglicher 
+Geschäfte im Rahmen eines E-Governments. Jede neue digitale Schnittstelle und Ap-
+plikation bedingt aber eine umfassende Risikoanalyse und Folgeabschätzung.  
+ 
+Die Piratenpartei ist erfreut, darüber, dass der Bund den Ball aufgenommen hat und 
+deutliche Schritte in Richtung Wahrung der Digitalen Integrität macht. Leider beinhal-
+tet der aktuelle Vorschlag Punkte, welche mit dieser nicht vereinbar sind und deshalb 
+ist auch die in diesem Gesetz geplante E-ID in der jetzigen Form abzulehnen. Zwar 
+wird im Gesetz ausdrücklich Datenschutz durch Technik, Datensicherheit und Daten-
+sparsamkeit als verbindlich erklärt, jedoch wird es im Detail diesen Anforderungen 
+nicht gerecht. 
+
+ 
+
+ 
+
+ 
+
+Seite 1/8 
+
+ 
+
+Unbedingt korrigiert werden müssen: 
+
+Art. 4 Keine Ausstellung per Liveness-Check (Gesichtsvideo) und besonders keine 
+Speicherung der Daten auf viele Jahre (Art. 11)  
+
+Art. 4 Analoge Ausstellungsmöglichkeit  
+
+Art. 10 Einsatz nur, wenn der Gesetzgeber eine Ausweispflicht vorsieht  
+
+Art. 2 Selbstbestimmte Auswahl der Daten, die in der E-ID gespeichert werden 
+ 
+ 
+Unsere Stellungnahme zu den einzelnen Artikeln: 
+
+Art. 2 Form und Inhalt 
+
+ 
+Abs. 2 
+Forderung:  
+Abs. 2 neu: Sie kann die folgenden Personenidentifizierungsdaten enthalten:  
+
+Die Absätze 2 und 3 enthalten eine lange Auflistung aller Daten, die bei Ausstellung 
+zwangsweise in der E-ID hinterlegt werden. Für die Identifikation mit der E-ID mag 
+dies insbesondere für die Behörden angenehm sein, widerspricht allerdings der Da-
+tensparsamkeit (Art. 1 Abs. 2 Ziff. 3) gänzlich. 
+Aus Gründen der Datensparsamkeit, -sicherheit und Selbstbestimmung des Bürgers 
+muss dieser entsprechend selbst auswählen können, welche Daten er überhaupt auf 
+seiner E-ID gespeichert haben möchte. So lange er beispielsweise mit der E-ID nur on-
+line Alkohol kaufen möchte, sollte es reichen auf der E-ID abzuspeichern, ob die Per-
+son das 18. Lebensjahr vollendet hat. 
+
+Abs. 3 
+Forderung: 
+Streichung lit a. AHV-Nummer 
+
+Der dritte Absatz unterscheidet sich vom zweiten theoretisch darin, dass die aufgezähl-
+ten Daten keine “Personenidentifizierungsdaten” sein sollten. Dieser Punkt wird im 
+Moment der Zusammenführung jedoch gänzlich hinfällig. Bei gesetzlicher Nutzung de r 
+E-ID ist die Illusion, dass die Daten in Abs. 3 nicht zur Identifizierung genutzt werden 
+
+ 
+
+ 
+
+Seite 2/8 
+
+ 
+
+können, schon schwierig aufrechtzuerhalten. Aber bei einmaligem widerrechtlichem 
+Auslesen der E-ID sind mehrere Daten in Absatz 3 alles andere als harmlose “zusätzli-
+che Informationen”. So wird insbesondere die AHV-Nummer einmalig ausgestellt und 
+bleibt ein Leben lang unverändert. Was Personendaten angeht, gibt es nur wenig 
+Wertvolleres. 
+Eine Verknüpfung widerspricht auch generell dem Konzept der AHV-N13, denn “die 
+13-stellige AHV-Nummer ist völlig anonym, zufällig generiert und nicht sprechend. Sie 
+wird nur einmal vergeben und bleibt ein Leben lang unverändert, auch wenn der Zivil-
+stand, etwa durch Heirat, ändert.” [1] Ferner ist die AHV-Nummer auf anderen amtli-
+chen Ausweisen nicht gespeichert. 
+Nicht zuletzt verspricht der Bund, es darf erneut erwähnt werden, die E-ID datenspar-
+sam umzusetzen (Art. 1 Abs. 2 Ziff. 3), was mit der Speicherung der AHV -Nummer si-
+cher nicht eingehalten wird. 
+Eine Verknüpfung der E-ID mit der AHV-Nummer ist entsprechend vollumfänglich aus-
+zuschliessen. 
+
+Art. 4 Ausstellung 
+
+Liveness-Check 
+Forderung: 
+1. Auf unsichere Methoden und die darauffolgende Datenspeicherung ist zu verzich-
+ten. 
+2. Explizites Anbieten einer E-ID-Erstellung ohne Liveness-Check 
+
+Bei der Eröffnung des Vernehmlassungsverfahren hat Michael Schöll (Direktor BJ) den 
+Ausstellungsprozess der E-ID nach Art. 4 genauer beschrieben und dabei einen “Liven-
+ess-Check”, ein Videogesichtsbild, als Grundkomponente hervorgehoben (Abs. 4)  [2]. 
+Auf Nachfrage wurde bestätigt, dass eine Software den Abgleich mit den hinterlegten 
+Gesichtsbildern vornehmen wird. Nicht nur Menschen, sondern auch Maschinen lassen 
+sich allerdings von Deep-Fakes und anderen technischen Umgehungsversuchen nach-
+weisbar täuschen. So gibt der Bund faktisch selbst zu, dass der Liveness -Check nicht 
+sicher ist, indem das fedpol die Gesichtsvideos bis 5 Jahre nach Gültigkeit zur Miss-
+brauchsverhinderung/-analyse speichern darf (siehe Art. 11 Abs. 2b), um bei Verdacht 
+die Daten erneut kontrollieren zu können. 
+
+Aus Datenschutzgründen ist es äusserst problematisch vom Antragstellenden ein Ge-
+sichtsvideo zu fordern. Zum einen können daraus detaillierte 3D-Gesichtsmodelle aller 
+
+ 
+
+ 
+
+Seite 3/8 
+
+ 
+
+erstellt werden, was beispielsweise für die Identifikation bei Videoüberwachung ge-
+nutzt werden kann. Zum anderen werden diese Daten jahrelang zentral gespeichert 
+werden, was diese Daten wiederum selbst zu einem lukrativen Ziel für Cyberangriffe 
+macht. Sämtliche Daten in Bezug auf die E-ID sind besonders wertvoll und da inzwi-
+schen andauernd über Hacks, auch gegenüber staatlichen Stellen, berichtet (oder auch 
+verschwiegen) wird, muss davon ausgegangen werden, dass mittel- bis langfristig eine 
+sichere Datenhaltung nicht garantiert werden kann. 
+
+Viele Menschen werden aus oben genannten Gründen eine E-ID auf dem Weg des Li-
+veness-Checks nicht beantragen. Wir halten es für zwingend notwendig, dass gleich-
+wertig eine E-ID-Erstellung auch bei einer staatlichen Stelle wie dem Passbüro oder 
+Gemeindeverwaltung ermöglicht wird. Eine solche analoge Option hätte die oben ge-
+nannten Probleme des Liveness-Checks nicht und wäre eine zweckdienliche Alterna-
+tive. 
+
+Art. 10 Vorweisen einer E-ID 
+
+Forderung: 
+1. Abs. 1 neu: Das Vorweisen der E-ID darf nur verlangt werden, wenn die Ausweis-
+pflicht in einem Gesetz vorgesehen ist. 
+2. Streichung des letzten Teilsatzes 
+
+Der Artikel wird mit “Vorweisen einer E-ID” betitelt, bietet inhaltlich aber nur eine un-
+vollständige Regelung, unter welchen Umständen die E-ID statt anderen Ausweismög-
+lichkeiten vorgewiesen werden muss. Es fehlt somit im ganzen Gesetz ein konkreter 
+Grundsatz zur Vorweisung. Der Artikel sollte entsprechend einen neuen ersten Absatz 
+erhalten, der die Vorweisung generell regelt und gleichzeitig einer inflationären Aus-
+weispflicht vorbeugt. 
+Deswegen neu Abs. 1: Das Vorweisen der E-ID darf nur verlangt werden, wenn die Aus-
+weispflicht in einem Gesetz vorgesehen ist. 
+
+Der Artikel, wie er im Entwurf steht, sieht vor, dass grundsätzlich andere Ausweismög-
+lichkeiten weiterhin gleichwertig benutzbar bleiben sollen. Der letzte Teilsatz des Arti-
+kels relativiert aber alles Vorhergehende mit einem schwammigen Verweis auf “Anfor-
+derungen insbesondere an die Sicherheit des Prozesses”. Wenn die Ausweise vor der 
+Einführung der E-ID den Anforderungen genügt haben, sollte man davon ausgehen, 
+
+ 
+
+ 
+
+Seite 4/8 
+
+ 
+
+dass dies danach auch noch so sein sollte. In jedem Fall ist der Verweis auf “Anforde-
+rungen insbesondere an die Sicherheit des Prozesses” zu nichtssagend und offen, um 
+als Grund herzuhalten. 
+
+Art. 11 Informationssystem zur Ausstellung und zum Widerruf der E-ID 
+
+Forderung: 
+1. Keine Speicherung der Daten aus dem Verifikationsprozess (Streichung von Abs. 2 
+lit. b). 
+2. Senkung der Aufbewahrungsfrist 
+
+Abs. 2 
+Der Artikel bestimmt, dass das fedpol ein “Informationssystem zur Ausstellung und 
+zum Widerruf der E-ID” betreibt. 
+Abs. 2 legt sodann fest, welche Daten darin festgehalten werden. Darunter fallen unter 
+anderem “die Daten zum Ausstellungsprozess” (lit. b). Wie in unserer Stellungnahme zu 
+Artikel 4 ausgeführt, werden die Daten aus dem Verifikationsprozess selbst zu einem 
+möglichen Ziel für Cyberkriminalität. 
+
+Abs. 5 
+Eine Aufbewahrungsfrist von fünf Jahren erscheint exzessiv. Sie sollte auf ein deutlich 
+tieferes Minimum begrenzt werden. 
+
+Art. 16 Vorweisen von elektronischen Nachweisen 
+
+Forderung: 
+Der Verifikator darf nur die minimal nötigen Daten abfragen, muss diese beim erst-
+möglichen Zeitpunkt wieder löschen und darf diese, unter Strafe, nicht anderweitig be-
+arbeiten. 
+Verwendung von Zero-Knowledge Proofs 
+
+Abs. 1 bestimmt, dass der Inhaber oder die Inhaberin des Nachweises bestimmt, wel-
+che Daten an die Verifikatorin übertragen werden. Auch wenn dieser Ansatz grundsätz-
+lich gut ist, ignoriert er ein mögliches Machtgefälle zwischen den Parteien. Der Inhaber 
+kann so u.U. dazu gedrängt oder getäuscht werden, mehr Daten herauszugeben, als 
+tatsächlich nötig wären. 
+
+ 
+
+ 
+
+Seite 5/8 
+
+ 
+
+Um der Datensparsamkeit (Art. 1 Abs. 2 lit. b) und dem Datenschutz durch Technik 
+(Art. 1 Abs. 2 lit. a) zu genügen, sollte ausserdem, wo immer möglich, auf Zero -Know-
+ledge Proofs gesetzt werden. Dies bedeutet, dass auch die vorhandenen Informationen 
+nicht übergeben werden, wenn der Nachweis durch anonymere Angaben erreic ht wer-
+den kann. Beispielsweise genügt es bei Alkoholkauf der Verifikatorin ein “erlaubt/voll-
+jährig” anzuzeigen, statt das Geburtsdatum selbst. 
+
+Art. 17 Basisregister 
+
+Forderung: 
+Entzug der Gültigkeit des Nachweises statt Widerruf 
+
+Der Bund führt ein Basisregister, um u.a. die Echtheit der Nachweise zu bestätigen. 
+Nach Abs. 1 lit. c bzw. Abs. 2 lit. d wird auch der Widerruf von elektronischen Nachwei-
+sen festgehalten. Aus dem erläuternden Bericht ist leider nicht ersichtlich, wieso nicht 
+stattdessen schlicht die Gültigkeit entzogen werden kann. Wenn ein Nachweis mit Wi-
+derruf markiert ist, lässt dies immer noch darauf schliessen, dass die Daten vermutlich 
+echt waren, was den Wert von diesen für Cyberkriminelle (oder Datenkraken) erhöht.  
+
+Der erläuternde Bericht erwähnt ausserdem die Verwendung von Blockchain als mögli-
+che Grundlage für das Basisregister. Einerseits sind Blockchains lange nicht so manipu-
+lationssicher, wie häufig dargelegt. Andererseits gibt es bis jetzt keinen Anwendungs-
+fall, den die Blockchain-Technologie besser löst als herkömmliche Alternativen. Auf 
+eine Blockchain ist entsprechend zu verzichten, insoweit es hier nur aus modischen 
+Gründen Erwähnung fand. 
+
+Art. 19 Anwendung zur Aufbewahrung und Vorweisung von elektronischen Nach-
+weisen 
+
+Forderung: 
+1. Die Anwendung muss hohen Sicherheitsstandards genügen. 
+2. Das Anbieten einer externen Speicherung der Daten sollte angeboten werden.  
+
+Der Bund sieht eine sogenannte Wallet-App vor, um die elektronischen Nachweise auf-
+zubewahren. Hierbei vermissen wir die Anerkennung des Schutzbedürfnisses der Da-
+ten, welche insbesondere gegenüber Malware und physischem Verlust zu schützen 
+sind. 
+Durch unterschiedliche Sicherheitslevels von Handys, veralteten Systemen oder schlicht 
+
+ 
+
+ 
+
+Seite 6/8 
+
+ 
+
+durch die durchgehende Verfügbarkeit auf einem ständig vernetzten Gerät ist es aus 
+unserer Sicht fragwürdig, ob genügend sichergestellt werden kann, dass die Daten 
+auch sicher bleiben. Es sollte deshalb die Möglichkeit geboten werden, die Daten auf 
+einem Offline-Speicher, wie einer verschlüsselten NFC-Chipkarte, getrennt aufzube-
+wahren. 
+
+Art. 20 Anwendung zur Prüfung von elektronischen Nachweisen 
+
+Forderung: Der Bund stellt in jedem Falle eine solche Anwendung zur Verfügung. Die 
+optionale Formulierung ist durch eine obligatorische zu ersetzen.  
+
+Art. 21 System für Sicherungskopien 
+
+Abs. 2 
+Forderung:  
+E2E Verschlüsselung der Sicherheitskopien 
+
+Die Sicherheitskopien der E-ID müssen aus Sicherheitsgründen explizit mit einer Ende-
+zu-Ende-Verschlüsselung geschützt werden, sodass nur die Inhaberin oder Inhaber.  
+
+Art. 22 Missbrauch 
+
+Forderung:  
+Der Bund informiert nicht nur über (Verdachts-)Missbrauch der Vertrauensinfrastruktur, 
+sondern über sämtliche Fälle im Ökosystem E-ID. 
+
+Nur mit Transparenz kann Vertrauen geschaffen werden. Und der Steuerzahler/Nutzer 
+hat ein Recht darüber informiert zu werden, ob es in diesem sensiblen Bereich zu ei-
+nem Datenreichtum oder Manipulation gekommen ist. 
+
+Art. 26 Gebühren 
+
+Abs.2 
+Forderung:  
+Keine Gebühren für Sicherheitskopien 
+Der Absatz sieht Gebühren für Sicherheitskopien vor. Die Datenmenge ist überschau-
+bar und eine Sicherung der E-ID sollte kostenfrei sein, da allein schon der administra-
+tive Aufwand des Inkassos in keinem Verhältnis zu den eigentlichen Kosten steht. 
+
+ 
+
+ 
+
+Seite 7/8 
+
+ 
+
+Darüber hinaus: 
+Dem E-ID-Gesetz sollte ein neuer Absatz über Strafbestimmungen hinzugefügt wer-
+den, der Strafandrohungen bei Missbrauch der Daten vorsieht (vgl. z.B. Art. 16). Das 
+Datenschutzgesetz alleine reicht nicht aus. 
+
+ 
+
+Schlussbemerkungen 
+ 
+Wir beschränken uns in dieser Stellungnahme auf unsere Kernanliegen. Bei Verzicht 
+unsererseits auf umfassende allgemeine Anmerkungen oder auf Anmerkungen zu ein-
+zelnen Regelungen, ist damit keine Zustimmung durch die Piraten zu solchen Rege-
+lungen verbunden. 
+
+Kontaktdetails für Rückfragen finden Sie in der Begleit-E-Mail. 
+ 
+ 
+
+Quellen: 
+[1] www.bsv.admin.ch/bsv/de/home/sozialversicherungen/ahv/grundlagen-ge-
+setze/ahv-nummer.html 
+[2] https://www.youtube.com/watch?v=epW4xEqr3mw&t=689s  
+
+ 
+
+––––– 
+
+Piratenpartei Schweiz, Arbeitsgruppe Vernehmlassungen, 17. Oktober 2022 
+
+ 
+
+ 
+
+Seite 8/8 
+
+

@@ -1,0 +1,94 @@
+ 
+
+Basel, 26. Oktober 2022 ch  
+
+Stellungnahme 
+Bundesgesetz  über den elektronischen 
+Identitätsnachweis  und andere 
+elektronische Nachweise (E-ID-Gesetz, 
+BGEID) 
+
+Nach dem klaren Nein an der Urne im März 2021 kommt ein neuer Gesetztes Vorentwurf 
+zur E-ID. Die Handelskammer beider Basel kann die vom Bundesrat vorgeschlagene 
+Vorlage unterstützen. Das Wichtigste ist, dass wir den elektronischen Identitätsnachweis 
+rasch und unbürokratisch einführen können. Der Datenschutz soll durch das System 
+selbst (Privacy by Design), aber auch durch die Minimierung der nötigen Datenflüsse 
+(Prinzip der Datensparsamkeit) sowie eine dezentrale Datenspeicherung gewährleistet 
+werden.  
+
+Zur Vernehmlassungsvorlage 
+Die Stimmbevölkerung hat am 7. März 2021 dem E-ID-Gesetz und der Privatisierung des 
+digitalen Passes mit 64.4% eine deutliche Abfuhr erteilt. Die Herausgabe  von 
+Identitätsausweisen  muss in staatlicher Verantwortung bleiben und gehört unter demokratische 
+Kontrolle.  
+Der Gesetzesvorentwurf schafft die Grundlagen für die Einführung der staatlichen 
+elektronischen Identität (E-ID) in der Schweiz. Der Bund überprüft die Identität einer Person 
+und stellt ihr eine E-ID aus. Die E-ID und andere elektronische Nachweise werden über eine vom 
+Bund zur Verfügung gestellte  staatliche Vertrauensinfrastruktur  herausgegeben.  Der 
+Gesetzesvorentwurf regelt die Anforderungen an diese Infrastruktur, die sowohl öffentlichen als 
+auch privaten Akteurinnen  zur Verfügung stehen wird. Gestützt auf die Ergebnisse der 
+informellen öffentlichen Konsultation hat der Bundesrat am 17. Dezember 2021 über die neue 
+Stossrichtung der E-ID entschieden. Demnach soll die E-ID-Vorlage einen Ansatz verfolgen, der 
+auf den Grundsätzen des Schutzes der Privatsphäre durch Technik («privacy by design»), der 
+Datensparsamkeit und der dezentralen Datenspeicherung sowie auf einer staatlichen 
+Vertrauensinfrastruktur beruht, mit der ein Ökosystem für elektronische Nachweise eingeführt 
+werden kann, die von Akteuren des öffentlichen und des privaten Sektors ausgestellt  werden. 
+ 
+Die Vernehmlassung 2022/19  wurde nun in genau diesen Punkten angepasst  und adressiert die 
+relevanten Gegen-Argumente der letzten Vorlage. Der Bund ist neu nicht nur für die 
+
+ 
+ 
+
+Handelskammer beider Basel 
+St. Jakobs-Strasse 25 
+Postfach 
+CH-4010 Basel 
+ 
+T +41 61 270 60 60 
+F +41 61 270 60 05 
+ 
+www.hkbb.ch 
+
+ 
+
+Identifikation verantwortlich, sondern auch für die gesamte Infrastruktur. Weitere Kritikpunkte 
+werden neu durch Konzepte wie Privacy by Design, das Prinzip der Datensparsamkeit sowie 
+eine möglichst dezentrale Datenspeicherung  adressiert.  
+
+Konzeption 
+Die Handelskammer begrüsst es, die Gesetzgebungsarbeiten  im Bereich der E-ID 
+wiederaufzunehmen und neu auszurichten. Der Staat tritt dabei als Herausgeber  der E-ID auf 
+und sorgt für den Betrieb der nötigen Vertrauensinfrastruktur. Den Nutzerinnen und Nutzern 
+soll grösstmögliche Kontrolle über ihre Daten ermöglicht werden.   
+ 
+Für Firmen mit digitalen Angeboten und deren Kunden erleichtert eine E-ID das Online-
+Onboarding erheblich, zudem erhöht es die Sicherheit gegenüber  aktuellen Verfahren 
+(Videoidentifikation) massgeblich. Es können Prozesse vereinfacht und beschleunigt werden, 
+welche heute für die Einwohnerinnen und Einwohner wie auch für die Verwaltung und die 
+Unternehmen unnötige Aufwände verursachen. Ausserdem stärkt eine E-ID den Standort 
+Schweiz im europäischen und internationalen  Vergleich. Zu den Ländern, die derzeit staatliche 
+E-ID's ausgeben, gehören unter anderem Belgien, Finnland, Deutschland, Italien, Luxemburg, die 
+Niederlande und viele mehr.  
+Es ist richtig und wichtig, dass, anders als bei der abgelehnten  Vorlage der Bund für die 
+Herausgabe  der E-ID verantwortlich ist und die Infrastruktur betreibt, welche als Grundlage für 
+die E-ID dient.  
+
+Anliegen 
+Am 7. März 2021 hat die Stimmbevölkerung das Bundesgesetz über elektronische 
+Identifizierungsdienste  (BGEID) abgelehnt. Die Notwendigkeit der Schaffung einer E-ID ist aber 
+grundsätzlich unbestritten. Bereits am 10. März 2021 wurden in der Frühjahrssession  von 
+Vertreterinnen  und Vertretern aller Fraktionen sechs gleichlautende Motionen für eine 
+"Vertrauenswürdige, staatliche E-ID" eingereicht. Nutzerinnen und Nutzer der künftigen 
+staatlichen E-ID sollen grösstmögliche Kontrolle über ihre Daten haben (Self-Sovereign 
+Identity). Der Datenschutz soll - wie in den Motionen gefordert - durch das System selber 
+(Privacy by Design), aber auch durch die Minimierung der nötigen Datenflüsse (Prinzip der 
+Datensparsamkeit) sowie eine dezentrale Datenspeicherung gewährleistet werden.  
+  
+Die Handelskammer beider Basel kann die vom Bundesrat vorgeschlagene Vorlage im Sinne der 
+vorstehenden Ausführungen unterstützen.  
+ 
+
+Seite 2/2 
+
+

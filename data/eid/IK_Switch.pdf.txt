@@ -1,0 +1,186 @@
+ 
+
+ 
+
+ 
+
+Schweizerische Eidgenossenschaft 
+Eidgenössisches Justiz- und Polizeidepartement EJPD 
+Frau Bundesrätin Karin Keller-Sutter 
+ 
+Per E-Mail an: 
+rechtsinformatik@bj.admin.ch 
+ 
+ 
+Zürich, 20. Oktober 2022 
+
+Stellungnahme zum Vorentwurf des Bundesgesetzes über den elektronischen 
+Identitätsnachweis und andere elektronische Nachweise (E-ID-Gesetz, BGEID) 
+
+Sehr geehrte Frau Bundesrätin Keller-Sutter 
+sehr geehrte Damen und Herren 
+
+Wir  bedanken  uns  für  die  Möglichkeit  zur  Stellungnahme  zum  Vorentwurf  des  E-ID-Gesetzes  und 
+nehmen diese gerne mit der folgenden Stellungnahme wahr.  
+
+SWITCH wurde 1987 als privatrechtliche Stiftung vom Bund und den damals acht Hochschulkantonen 
+gegründet. Die Stiftung unterstützt Hochschulen und weitere Partner innerhalb und ausserhalb der 
+akademischen Welt dabei, die Möglichkeiten der Digitalisierung effektiv und effizient zu nutzen. Dabei 
+verfolgt  SWITCH  das  Ziel,  die  gemeinsame  Innovationskraft  zu  stärken  und  mitzuhelfen,  die 
+Wettbewerbsfähigkeit der Schweiz nachhaltig auszubauen. 
+
+Die Stiftung betreibt und koordiniert seit bald 20 Jahren die digitalen Identitäten der schweizerischen 
+Hochschullandschaft.  Die  nach  nutzerzentrischen  Prinzipien  aufgebaute  SWITCH  edu-ID  hat  sich 
+dabei  als  die  Identitäts-Lösung  für  den  gesamten  tertiären  Bildungsbereich  mit  aktuell  mehr  als 
+750’000 Nutzenden etabliert und bedient über 1’500 Dienste im BFI-Ökosystem (Bildung, Forschung, 
+Innovation). 
+
+Unterstützung der Stossrichtung des Gesetzes 
+
+SWITCH  unterstützt  die  Stossrichtungen  des  BGEID  und  bestärkt  den  Bund,  diese  beiden  neuen 
+zentralen, jedoch recht unterschiedlichen Aufgaben anzugehen: 
+
+1.  Die Bereitstellung einer sicheren und nutzerfreundlichen E-ID auf einer staatlich betriebenen 
+Infrastruktur, die von staatlichen Akteuren konzipiert, umgesetzt und betrieben werden muss. 
+
+2.  Die Förderung eines Ökosystems digitaler Nachweise durch die Schaffung eines attraktiven 
+
+Umfelds für vielfältigste Anwendungen. 
+
+SWITCH ist der Ansicht, dass beide Aufgaben parallel und mit gleicher Aufmerksamkeit angegangen 
+werden  müssen,  damit  das  Ziel,  ein  funktionierendes  und  gut  genutztes  soziotechnisches  System 
+elektronischer Nachweise verwirklicht werden kann. Dadurch können Abhängigkeiten zwischen den 
+beiden zentralen Aufgaben frühzeitig erkannt und berücksichtigt werden. 
+
+ 
+
+ 
+
+Einbezug von Fachgruppen 
+
+Der Schweiz fehlen, im Gegensatz zu vielen anderen Staaten, Jahre der betrieblichen Erfahrung mit 
+staatlichen E-IDs. Das umfasst sowohl die Erfahrung des Staates als Betreiber, als auch diejenige der 
+Bevölkerung  als  Nutzende.  Um  diesen  Reifungsprozess  zu  beschleunigen,  aber  auch  um  den 
+Nutzenden  die  Möglichkeiten  aufzuzeigen,  sind  explorative  Pilotprojekte  des  Bundes 
+in 
+Zusammenarbeit mit Stakeholdern aus dem privaten und öffentlichen Sektor von grosser Bedeutung. 
+Damit kann das Ziel verfolgt werden, gemeinsam zu lernen, ohne die Wahl spezifischer Produkte 
+bereits in dieser Phase zu präjudizieren. 
+
+Wir begrüssen die bereits aufgegleisten Pilotprojekte des Bundes, wünschen uns aber eine verstärkte 
+Durchführung von Pilotprojekten mit gemischter Beteiligung aus dem öffentlichen und privaten Sektor. 
+Zudem regen wir an, dass auch bei der Umsetzung des Basisregisters die Möglichkeiten für eine 
+operative Einbindung der Industrie unter der Führung des Bundes vorgesehen werden kann. Dadurch 
+liessen  sich  möglicherweise  die  Betriebskosten  des  Bundes  senken,  die  geforderte  Dezentralität 
+erhöhen, eine stärkere Verankerung in der Industrie erreichen und eine insgesamt erhöhte Resilienz 
+des Registers gewinnen. 
+
+Wünschenswert  wäre  daher  die  Verankerung  einer  gemeinsamen  Pilotierung  mit  gemischter 
+Beteiligung  aus  öffentlichem  und  privatem  Sektor  an  geeigneter  Stelle  im  Gesetz  oder  auf 
+Verordnungsstufe.  
+
+Als weitere Massnahme zur Beschleunigung der Adaption elektronischer Nachweise empfehlen wir 
+Fachgruppen  in  die  Steuerung  der  BGEID-Umsetzung  einzubeziehen,  die  aus  Vertretungen  des 
+Staates und des Privatsektors bestehen. 
+
+Datenschutz 
+
+Der  Datenschutz  ist  bei  der  Ausgestaltung  eines  Systems  elektronischer  Nachweise  ein  zentrales 
+Anliegen.  Der  Vorentwurf  unterstreicht  dieses  Anliegen  und  setzt  den  politischen  Auftrag  gut  um, 
+indem  es  die  zentralen  Grundsätze  Privacy  by  Design,  Datensicherheit,  Datensparsamkeit  und 
+dezentrale Datenspeicherung angemessen berücksichtigt. 
+
+Um  den  im  Gesetz  normierten  Datenschutzgrundsätzen  zum  Durchbruch  zu  verhelfen,  ist  die 
+datenschutzkonforme Ausgestaltung der Verordnung ebenfalls von grosser Wichtigkeit. 
+
+Freie Wahl betreffend Identifikationsmittel 
+
+Wer im Besitz einer E-ID ist, soll die freie Wahl haben, den Nachweis der eigenen Identität mit einem 
+herkömmlich ausgesellten staatlichen Identifikationsmittel wie Reisepass oder Identitätskarte oder mit 
+der staatlich ausgestalten E-ID zu erbringen, sofern der Nachweis der Identität erforderlich ist. Diese 
+Freiheit soll sowohl im physischen wie auch im virtuellen Verkehr mit der Trägerschaft öffentlicher 
+Aufgaben gelten. Artikel 9 (Pflicht zu Akzeptanz) sowie Artikel 10 (Vorweisen einer E-ID) verankern 
+den Grundsatz der freien Wahl nicht absolut. 
+
+Übertragung elektronischer Nachweise 
+
+ 2/4 
+
+ 
+
+ 
+
+Der  Regelungsinhalt  von  Artikel  15  wirft  einige  Fragen  auf.  Grundsätzlich  sollen  bestimmte 
+elektronische Nachweise, wie z.B. die E-ID, welche einer bestimmten natürlichen Person ausgestellt 
+werden, nicht auf eine andere Person «übertragen» werden können. Es wird jedoch einerseits nicht 
+genügend klar, was mit «Übertragung» gemeint ist, andererseits erschliesst sich uns die adressierte 
+Person dieser Bestimmung nicht. 
+
+System zur Bestätigung von Identifikatoren 
+
+Wir  erachten  es  als  wichtig,  dass  die  staatliche  Infrastruktur  auch  zur  Überprüfung  der 
+kryptografischen  Schlüssel  der 
+im  Basisregister  eingetragenen  privaten  ausstellenden  und 
+verifizierenden  Personen  genutzt  werden  kann.  Dies  stärkt  das  Vertrauen  in  andere elektronische 
+Nachweise  und  fördert  zudem  den  Aufbau  des  langfristig  anvisierten  Ökosystems.  Wie  eingangs 
+angemerkt, hoffen wir auf eine parallele Förderung der E-ID wie auch der anderen elektronischen 
+Nachweise. 
+
+Internationale Interoperabilität 
+
+Im  Bereich  BFI  (Bildung,  Forschung,  Innovation)  ist  internationale  Interoperabilität  von  grösster 
+Bedeutung, z.B. für die Forschungszusammenarbeit, für internationale Studierenden-Mobilität oder 
+um Bildungsnachweise über Grenzen hinweg zu nutzen. Die internationale Interoperabilität – ohne 
+«Swiss Finish» - soll als wichtige Anforderung berücksichtigt werden. Prioritär soll die Kompatibilität 
+zu  Ökosystemen  digitaler  Nachweise  in  Länder  und  Regionen  hergestellt  werden,  mit  denen  die 
+Schweiz regen Austausch pflegt, insbesondere zum EU-Raum. Dadurch werden zudem die Hürden 
+für eine spätere Notifizierung reduziert. 
+
+Das vorliegende BGEID als pragmatischer erster Schritt 
+
+Das BGEID in der vorliegenden Form verfolgt einen pragmatischen Ansatz, der jedoch überprüft und 
+nachgeführt  werden  muss.  Wir  regen  an,  dass  Umsetzungsziele  definiert,  die  Zielerreichung 
+periodisch geprüft und Anpassungen am Gesetz als geplanter, iterativer Prozess vorgesehen wird 
+(Horizont 3 bis 5 Jahre). 
+
+Gebühren 
+
+Eine  weitere  wichtige  Steuerungsgrösse  stellt  die  Preisgestaltung  dar.  Wir  empfehlen  eine  sehr 
+moderate Belastung für die Nutzung des Basisregisters und damit eine Förderung von Innovation und 
+Wachstum im Bereich der elektronischen Nachweise. 
+
+Breite Abstützung 
+
+Wir regen an, dass künftige Umsetzungsschritte ebenfalls durch breit angelegte Vernehmlassungen 
+abgestützt werden. Als potenziell nächste Kandidatin soll die Verordnung zum BGEID ebenfalls eine 
+solche Vernehmlassung durchlaufen. 
+
+ 
+
+Wir bedanken uns für die Möglichkeit einer Stellungnahme und hoffen, dass unsere Anliegen so weit 
+als möglich berücksichtigt werden.  
+
+ 3/4 
+
+ 
+
+ 
+
+Gerne bringt sich SWITCH auch in etwaigen Pilotprojekten und der Konzipierung im Rahmen des 
+Systems  elektronischer  Nachweise  ein  und  steht  für  weitere  Erläuterungen  selbstverständlich  zur 
+Verfügung. 
+
+Für weitere Auskünfte: Christoph Graf, Program Manager, +41 44 268 15 37, christoph.graf@switch.ch. 
+
+Freundliche Grüsse 
+
+ 
+Marco Dütsch 
+Head of Community Solution 
+
+Christoph Graf 
+Program Manager 
+
+ 4/4 
+
+

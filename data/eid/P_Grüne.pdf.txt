@@ -1,0 +1,315 @@
+ 
+
+Eidgenössisches Justiz- und Polizeide-
+partement EJPD 
+Frau Bundesrätin Karin Keller-Sutter 
+3003 Bern 
+
+ 
+ 
+GRÜNE Schweiz 
+ 
+Waisenhausplatz 21 
+3011 Bern 
+ 
+rahel.estermann@gruene.ch 
+031 326 66 15 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Entwurf des Bundesgesetzes über den elektronischen Identitätsnachweis und andere 
+elektronische Nachweise (E-ID-Gesetz, BGEID): Vernehmlassung 
+
+per E-Mail an: 
+rechtsinformatik@bj.admin.ch 
+
+Bern, 20. Oktober 2022 
+
+ 
+
+Sehr geehrte Frau Bundesrätin, sehr geehrte Damen und Herren 
+
+Sie haben die GRÜNEN eingeladen, sich zum Entwurf für das Bundesgesetz über den elekt-
+ronischen Identitätsnachweis und andere elektronische Nachweise (E-ID-Gesetz, BGEID) zu 
+äussern. Wir danken Ihnen dafür und nehmen gerne Stellung. 
+
+Die GRÜNEN haben das ursprüngliche E-ID-Gesetz, welches eine Privatisierung und die 
+zentrale Datenspeicherung vorsah, erfolgreich bekämpft (Referendumsabstimmung März 
+2021). Uns ist es wichtig, dass bald eine E-ID für die Schweizer Bevölkerung zugänglich ist. 
+Wir begrüssen den nun vorliegenden zweiten Entwurf grundsätzlich, da massive Verbesse-
+rungen vorgenommen wurden. Wir GRÜNE unterstützen den gewählten Ansatz der Self So-
+vereign Identity (SSI) und die Idee eines Ökosystems der digitalen Basis-Infrastruktur. Je-
+doch fordern wir weitere Verbesserungen bezüglich Schutz der Daten und Datenkompetenz 
+der Bevölkerung – die neue E-ID muss der Bund dazu nützen, das Wissen rund um Daten 
+und Datenschutz in der Bevölkerung zu fördern. Ebenso muss die Barrierefreiheit gesetzlich 
+verankert, eine Option für Menschen ohne Ausweis sowie ein Ausstellungsweg über Passbü-
+ros geschaffen werden. Die ganze Vertrauensinfrastruktur muss Open Source sein, um ih-
+rem Namen gerecht zu werden. Wir schlagen zudem zwei zusätzliche Gesetzesartikel vor, 
+um die Überidentifikation zu verhindern: Es darf nur dort eine E-ID verlangt werden, wo es 
+für den Zweck auch erforderlich ist. 
+
+ 
+
+Allgemeine Anmerkungen 
+
+Die GRÜNEN gehörten zum erfolgreichen Referendumskomitee gegen die erste Version des 
+E-ID-Gesetzes. Wir haben das im März 2021 gescheiterte Projekt erfolgreich bekämpft, weil 
+es eine staatliche Kern-Dienstleistung unnötigerweise privatisiert hätte und dabei auch die 
+Prinzipien der Datensparsamkeit, des «Privacy by Design» sowie der dezentralen 
+
+ 
+
+1/5 
+
+ 
+
+ 
+
+Speicherung nicht beachtet hat. Gleich im Anschluss an die Abstimmungen haben die GRÜ-
+NEN aber ein breit abgestütztes Projekt initiiert, um möglichst schnell ein neues E-ID-Gesetz 
+aufzugleisen. Denn uns ist daran gelegen, dass die Einwohner*innen der Schweiz möglichst 
+schnell über einen elektronischen staatlichen Ausweis verfügen können. Wir GRÜNE haben 
+mehrfach den transparenten und partizipativen Prozess für eine neue E-ID positiv gewürdigt, 
+der in den letzten Monaten stattfand. Wir finden es zentral, dass der Prozess auch nach der 
+Vernehmlassung derart offen weitergeführt wird, beispielsweise bezüglich der Verordnung. 
+
+Wir GRÜNE haben uns im Rahmen der Konsultation des Zielbildes E-ID zustimmend geäus-
+sert zur Idee des SSI-Ansatzes (Self-Sovereign Identity) sowie derjenigen eines Ökosystems 
+der digitalen Basis-Infrastruktur. Wir stehen auch dem jetzt vorliegenden Entwurf des E-ID-
+Gesetzes grundsätzlich positiv gegenüber und würdigen, dass im Vergleich zur Vorlage, wel-
+che die Bevölkerung ablehnte, massive Verbesserungen des Gesetzes vorgenommen wur-
+den. Das jetzt vorliegende Gesetz ist eine gute Basis, um einen digitalen Identitätsnachweis 
+zu schaffen und so den digitalen Wandel in der Schweiz im Sinne der Menschen und ihrer 
+Bedürfnisse voranzubringen. Gleichwohl gibt es im vorliegenden Entwurf noch Lücken zu 
+schliessen und Änderungen vorzunehmen. 
+
+ 
+
+Datenschutz 
+
+Mit der Anwendung der E-ID wird eine neue, spezifische Daten-Kategorie geschaffen: be-
+sonders schützenswerte Personendaten, die als solche in ihrer Korrektheit bestätigt wurden. 
+Diese Daten sind äusserst wertvoll und verdienen auch einen besonderen Schutz, der durch 
+das Datenschutzgesetz (auch in der revidierten Version) ungenügend gegeben ist. Wir ver-
+weisen hier auf die detaillierten Ausführungen der Vernehmlassungsantwort des Referen-
+dumskomitees E-ID. Aus Sicht der GRÜNEN muss das BGEID in dieser Hinsicht kritisch ge-
+prüft und überarbeitet werden. 
+
+Auch muss der Bund prüfen, ob das Vertrauen in die E-ID – gerade auch, wenn sie zu einem 
+Öko-System mit vielen Schnittstellen ausgebaut wird – mit einer unabhängigen Aufsichts-
+kommission gestärkt werden kann. 
+
+ 
+
+Datenkompetenz 
+
+Die Einführung der E-ID, die anfallenden besonders schützenswerten, bestätigten Personen-
+daten und insbesondere der gewählte SSI-Ansatz – den wir begrüssen – sollte für den Bund 
+ein Anlass sein, eine Kampagne für die Sensibilisierung und Kompetenzaneignung der eige-
+nen digitalen Daten zu starten. Der SSI-Ansatz erfordert eine hohe Verantwortung der Nut-
+zenden und die dafür nötigen Kompetenzen müssen vom Bund folgerichtig gefördert werden. 
+Der Bund soll die Einführung der E-ID so zur Gelegenheit machen, die Daten- und Daten-
+schutzkompetenz der Bevölkerung zu fördern. 
+
+ 
+
+Barrierefreiheit 
+
+Ohne Berücksichtigung der E-Accessability wären Menschen mit Sehbeeinträchtigung vom 
+staatlichen Angebot eines elektronischen Identitätsnachweises ausgeschlossen. Die 
+Schweiz ist also vertraglich und gesetzlich verpflichtet, die barrierefreie Nutzung elektroni-
+scher Dienste sicherzustellen. 
+
+ 
+
+2/5 
+
+ 
+
+ 
+
+Zu diesem Zweck ist die zu entwickelnde Informatikinfrastruktur unbedingt auf sämtlichen 
+Ebenen nachhaltig barrierefrei zu planen und die Barrierefreiheit durch entsprechende Tests 
+sicherzustellen. Vor dem Start der E-ID muss eine Bestätigung der Barrierefreiheit des Sys-
+tems durch Fachpersonen aus dem Kreis der Betroffenen erfolgen (siehe auch den Vorstoss 
+22.7406 der grünen Nationalrätin Franziska Ryser). 
+Für die detaillierte Ausführungen zur Barrierefreiheit verweisen wir auf die Vernehmlassungs-
+antwort von SZBLIND, die wir unterstützen. 
+
+ 
+
+Anmerkungen zu spezifischen Aspekten und Artikeln des BGEID 
+
+ 
+
+AHV-Nummer (Art. 2 Abs. 3) 
+
+Die GRÜNEN sehen die weitverbreitete Speicherung und Nutzung der AHV-Nummer kri-
+tisch. Sie soll beim Einsatz der E-ID nur dort zugänglich gemacht werden, wo die AHV-Num-
+mer auch gesetzlich wirklich erforderlich ist. 
+ 
+
+Optionen für Personen ohne Schweizer Pass oder Aufenthaltsbewilligung (Art. 3) 
+
+Gemäss Art. 3 ist eine E-ID nur zugänglich für Personen, welche über einen Schweizer Pass 
+oder eine gültige Aufenthaltsbewilligung verfügen. Von diesen zwei Optionen ist aber ein sig-
+nifikanter Teil der Bevölkerung ausgeschlossen (der sich in seiner Grösse auch nicht mes-
+sen lässt). 
+Um diese Personen, die hier leben und oft auch arbeiten, nicht von gewissen Dienstleistun-
+gen auszuschliessen, schlagen die GRÜNEN vor, dass das BGEID Möglichkeiten schaffen 
+soll für Personen ohne Schweizer Pass oder gültige Aufenthaltsbewilligung – beispielsweise 
+eine Ausstellung der E-ID aufgrund eines ausländischen Passes. 
+
+ 
+
+Ausstellung der E-ID (Art. 4) 
+
+Die GRÜNEN beantragen, dass im Ausstellungsprozess ein zweiter Weg geschaffen wird, 
+auf dem die E-ID in einer physischen Anlaufstelle unter Begleitung bezogen werden kann. 
+Die Art der Ausstellung soll zudem in der E-ID als Wert gespeichert werden. 
+
+Dieser zusätzliche Ausstellungsweg soll drei Zielen dienen: 
+
+(1)  dem Abbau von Hürden für Personen, für welche ein rein digitaler Ausstellungspro-
+
+zess anspruchsvoll ist; 
+
+(2)  der Sicherung des Vertrauens in den Ausstellungsprozess durch eine geschulte und 
+
+kompetente (physische anwesende, menschliche) Begleitung; 
+
+(3)  damit die E-ID auch bei einem regulären Besuch für die Ausstellung einer physischen 
+
+ID oder Pass automatisch mit angeboten respektive im gleichen Prozess ausgestellt 
+werden kann. 
+
+Die GRÜNEN schlagen vor, dafür die Passbüros der Kantone für diesen Prozess einzubin-
+den. Dies könnte in Art. 8 (Anlaufstellen der Kantone) explizit festgehalten werden. 
+
+ 
+
+ 
+
+ 
+
+3/5 
+
+ 
+
+ 
+
+Vorweisen von elektronischen Nachweisen (Art. 16) 
+
+Im Sinne der Datensparsamkeit und der Datensicherheit darf eine E-ID nur dort zwingend 
+sein, wo es für den Zweck auch erforderlich ist. Damit wird eine «Überidentifikation» verhin-
+dert. Ebenso braucht es ein Widerrufsrecht, damit die E-ID-Inhaber*innen jederzeit die Kon-
+trolle über ihre Daten behalten. Zudem sind jeweils nur jene Attribute zu verlangen, welche 
+für den Zweck tatsächlich erforderlich sind. So braucht zum Beispiel eine Altersfreigabe nur 
+das beglaubigte Attribut des Alters, nicht aber den Namen oder weitere Identifikationsmerk-
+male. 
+
+Die Referendumsallianz macht zwei Ergänzungsvorschläge zu Art. 16, die wir GRÜNE unter-
+stützen: 
+
+Art. 16bis Einschränkung der Datenbearbeitung auf das unbedingt Erforderliche; diskriminie-
+rungsfreier Zugang 
+1 Die Erfordernis eines elektronischen Nachweises darf von Behörden und Privaten als Vo-
+raussetzung für die Erbringung einer Leistung oder Gewährung eines Zugangs nur insoweit 
+gestellt werden als sie für die Erbringung der Leistung oder der Gewährung des Zugangs un-
+bedingt erforderlich ist. 
+2 Falls die Übermittlung von Bestandteilen eines elektronischen Nachweises oder davon abge-
+leiteten Informationen unbedingt erforderlich ist, so ist stets die Möglichkeit vorzusehen, diese 
+Bestandteile und Informationen ohne vermeidbare Nachteile auf andere Weise zu übermitteln. 
+ 
+Art. 16ter Informations- und Zustimmungspflicht; Widerrufsrecht 
+Für Datenbearbeitungen, welche für die Erbringung der Leistung oder die Gewährung des Zu-
+gangs nicht unbedingt erforderlich sind, gelten nachfolgende Bestimmungen: 
+
+a.  Die Verifikatorin informiert die Inhaberin oder den Inhaber des Ausweises über Art, 
+
+Zweck und Umfang der Datenbearbeitung. 
+
+b.  Die Datenbearbeitung bedarf der expliziten und jederzeit widerrufbaren Zustimmun-
+
+gen der Inhaberin und des Inhabers. 
+
+c.  Erfüllt die Bearbeitung verschiedene Zwecke, so hat die Inhaberin oder der Inhaber 
+
+die Zustimmung zu jedem dieser Zwecke einzeln zu erteilen. 
+
+d.  Die Inhaberin oder der Inhaber kann die Zustimmung jederzeit und einzeln widerrufen. 
+
+ 
+
+Vertrauensinfrastruktur (5. Abschnitt) 
+
+Wir begrüssen es sehr, dass die Basisinfrastruktur für die E-ID nun eine Staatsaufgabe ist – 
+dies ist eine der zentralen Errungenschaften der neuen E-ID-Vorlage. Das Vertrauen ist ein 
+wichtiger Faktor für den Erfolg der E-ID und des gesamten Ökosystems. 
+
+Um das nötige Vertrauen in diese Infrastruktur auch wirklich zu schaffen, muss sie komplett 
+– und nicht nur in Teilen – in der Verantwortung des Bundes liegen und Open Source sein. 
+
+Die GRÜNEN verlangen deshalb, dass auch die Funktionalität zur Prüfung der E-ID (in Form 
+einer Anwendung/App, aber auch als Software Development Kit wie es beispielsweise beim 
+Covid-Zertifikat der Fall war) vom Bund ausgestellt werden muss – dies hat sich bereits bei 
+den Covid-Anwendungen bewährt. Die «kann-Formulierung» in Art. 20 ist zu ersetzen. 
+
+Dasselbe gilt auch für das System für Sicherungskopien (Art. 21): Auch hier ist die Kann-For-
+mulierung zu ersetzen. 
+
+Neben den Quellcode der Vertrauensinfrastruktur muss auch der Quellcode der Apps ge-
+mäss Art. 19 (Anwendung zur Aufbewahrung und Vorweisen von elektronischen 
+
+ 
+
+4/5 
+
+ 
+
+ 
+
+Nachweisen) und Art. 20. (Anwendung zur Prüfung der elektronischen Nachweise) offenge-
+legt werden. 
+
+ 
+
+Gebühren (Art. 26) 
+
+Die GRÜNEN beantragen, dass keine Gebühren erhoben werden. Das E-ID-Ökosystem ist 
+eine Basisinfrastruktur für die Digitalisierung der Schweiz und damit für die Effizienz und At-
+traktivität der gesamten Volkswirtschaft. Aussteller*innen und Verifikator*innen investieren 
+ihren Anteil am Ökosystem durch die Anpassung ihrer Systeme und Prozesse. 
+
+ 
+
+Wir danken Ihnen, Frau Bundesrätin, sehr geehrte Damen und Herren, für die Berücksichti-
+gung unserer Kritikpunkte an der vernehmlassten Gesetzesvorlage. 
+
+ 
+
+Freundliche Grüsse 
+ 
+
+  
+
+Balthasar Glättli 
+Präsident 
+ 
+
+Rahel Estermann 
+stv. Generalsekretärin, Leiterin Politik 
+
+ 
+
+5/5 
+
+ 
+
+

@@ -1,0 +1,208 @@
+ 
+
+ 
+
+Bern, 18. Oktober 2022 
+
+ 
+
+ 
+
+Stellungnahme zum Bundesgesetz über den elektronischen 
+Identitätsnachweis und andere elektronische Nachweise  
+
+ 
+ 
+Sehr geehrte Frau Bundesrätin Keller-Sutter 
+Sehr geehrte Damen und Herren 
+ 
+
+Wir bedanken uns für die Möglichkeit, zum Vorentwurf für das neue Bundesgesetz über 
+
+den elektronischen Identitätsnachweis und andere elektronische Nachweise  (BGEID) 
+
+Stellung zu nehmen. 
+
+Die  Auslandschweizer-Organisation  (ASO)  ist  eine  private  Stiftung,  welche  die 
+
+Interessen  von 
+lebenden 
+Schweizer:innen  vertritt.  Die  Kommunikation  zwischen  Auslandschweizer:innen  und 
+
+rund  788 000  ausserhalb  unserer  Landesgrenzen 
+
+Schweizer  Behörden  gestaltet  sich  häufig  schwierig.  E-Government-Dienste  können 
+
+dem  entgegenwirken:  Sie  ermöglichen  einen  unkomplizierten  Behördenkontakt  trotz 
+Zeitverschiebung und räumlicher Distanz. Die Einführung einer elektronischen Identität 
+
+(E-ID) und anderer elektronischer Nachweise würde das Anbieten von E -Government-
+
+Lösungen  bedeutend  vereinfachen  und  den  Auslandschweizer:innen  somit  die 
+Betreuung  ihrer  Verwaltungsakten  und  den  Behördenkontakt  in  besonderem  Masse  
+
+erleichtern.  Die  ASO  begrüsst  daher  die  Schaffung  einer  gesetzlichen  Grundlage  für 
+
+elektronische Identitätsnachweise und andere elektronische Nachweise.  
+
+Eine  sichere  Identifizierung  im  Netz  ermöglicht  durchgehend  digital  ausgestaltete  
+
+E-Voting-Verfahren. Die Einführung des  E-Votings als ordentlicher Stimmkanal ist für 
+
+die  Auslandschweizer:innen  von  enormer  Bedeutung. 
+Ihre  verfassungsmässig 
+garantierten  politischen  Rechte  sind  in  der  Praxis  oft  schwer  wahrnehmbar,  weil  die 
+
+Wahl- und  Abstimmungsunterlagen  per Briefpost  je nach Wohnort zu spät eintreffen. 
+
+Eine  vertrauenswürdige  staatliche  E-ID  könnte  ein  vollständig  papierloses  E-Voting-
+Verfahren ermöglichen. Die ASO ermutigt den Bund, diese Chance zu nutzen, um den 
+
+Auslandschweizer:innen ihr Stimm- und Wahlrecht effektiv zu garantieren. 
+
+Weiterhin könnte eine E-ID Auslandschweizer:innen den Zugang zu Schweizer Banken 
+von  Geldwäscherei  und 
+erleichtern.  Die  aus  Gründen  der  Prävention 
+
+Steuerhinterziehung  verlangte  eindeutige  Identifizierung  neuer  Kund:innen  ist  für 
+
+Banken  insbesondere  dann  teuer,  wenn  die  Kund:innen  im  Ausland  leben.  Viele 
+
+ 
+
+ 
+
+Banken  schränken  deshalb 
+
+ihre  Dienste  diesbezüglich  stark  ein.  Solche 
+
+Identifizierungsprozesse  werden  durch  eine  E-ID  einfacher  und  günstiger;  somit 
+
+bestünde  die  Hoffnung,  dass  die  Schweizer  Banken  den  Auslandschweizer:innen 
+
+wieder vereinfacht Zugang gewähren. 
+
+Insbesondere  begrüsst  die  ASO,  dass  der  Bund  die  Bedenken  der  Schweizer 
+
+Bevölkerung  berücksichtigt  hat  und  neu  eine  staatliche  E-ID  vorschlägt,  welche  ein 
+hohes  Sicherheitsniveau  garantiert.  Während  sich  der  Auslandschweizerrat  (ASR), 
+
+höchstes  Organ  der  ASO,  nur  zögerlich 
+
+für  den  erst en  Gesetzesentwurf 
+
+ausgesprochen  hatte,  wird  die  neue  Vorlage  von  einer  überwältigenden  Mehrheit 
+befürwortet. Die im aktuellen Entwurf angestrebte internationale Kompabilität der E-ID 
+
+stellt  für  Auslandschweizer:innen  einen  grossen  Fortschritt  dar  und  fördert  die 
+
+internationale Mobilität.  
+
+Der  Datenschutz  bleibt  weiterhin  zentral  und  die  diesbezüglichen  Verbesserungen 
+
+begrüssen  wir  grundsätzlich  sehr.  So  erscheint  uns  überzeugend,  dass  die 
+
+Bürger:innen dank des gewählten Self-Sovereign-Identity-Ansatzes selbst bestimmen 
+können, welche Daten sie an wen weitergeben. Um der Gefahr der Überidentifikation 
+
+vorzubeugen, erachten wir es aber als unerlässlich, diesen Ansatz – insbesondere bei 
+
+einer Öffnung der Vertrauensinfrastruktur für Private – mit Massnahmen zur Förderung 
+rund  22.5 %  der 
+der  digitalen  Mündigkeit  zu  verbinden.  2021  waren 
+
+Auslandschweizer:innen  über  65  Jahre  alt.  Ein  nicht  unbedeutender  Teil  der 
+
+Auslandschweizer:innen  gehört  also  einer  Generation  an,  die  nicht  mit  digitalen 
+Technologien  aufgewachsen 
+teilweise  auf  Unterstützung  sowie 
+
+ist  und  somit 
+
+Aufklärung angewiesen ist. Analog zu den geplanten kantonalen Anlaufstellen (Art. 8), 
+
+benötigen  auch  Auslandschweizer:innen  gut  zugängliche  Anlaufstelle n  zur 
+Unterstützung  im  Umgang  mit  E-Government-Angeboten.  Hier  würde  sich  etwa  eine 
+
+Einbindung  der  konsularischen  Vertretungen  anbieten.  Zudem  wäre  eine  breit 
+
+angelegte 
+Auslandschweizer:innen 
+
+Informations-  und  Sensibilierungskampagne,  die  sich  auch  an 
+digitalen  Mündigkeit 
+
+der 
+
+richtet, 
+
+zur  Förderung 
+
+wünschenswert.  
+
+Damit  Fälle  des  Missbrauches  der  Vertrauensinfrastruktur 
+tatsächlich  an  die 
+Öffentlichkeit  gelangen,  sind  niederschwellige  Angebote  vonnöten,  bei  denen 
+
+betroffene  Bürger:innen  Verdachtsfälle  melden  können  –  beispielsweise  ein 
+
+Meldeformular, ähnlich demjenigen des Nationalen Zentrums für Cybersicherheit. Wir 
+
+ermuntern den Bund, eine solche Struktur zur Verfügung zu  stellen.  
+
+Zusammenfassend ist festzuhalten, dass die ASO die neuen gesetzlichen Grundlagen 
+
+zu einer staatlichen E-ID und anderen elektronischen Nachweisen  begrüsst. Wir sind 
+überzeugt, dass die Schweizer Bevölkerung von der voranschreitenden Digitalisierung 
+
+profitieren  wird.  Insbesondere  für  die  Auslandschweizer:innen  ist  der  Zugang  zu  E-
+
+ 
+
+ 
+
+ 
+
+Government-Diensten und zur E-Democracy von grosser Bedeutung. Die Aspekte der 
+
+Sicherheit  und  die  Einhaltung  der  internationalen  Standards  müssen  gewährleistet 
+
+sein. 
+
+ 
+
+Wir danken für Ihre Kenntnisnahme. 
+
+Freundliche Grüsse 
+
+ 
+
+ 
+
+ 
+
+ 
+Filippo Lombardi 
+Präsident 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+Ariane Rustichelli 
+Direktorin 
+
+ 
+
+ 
+
+

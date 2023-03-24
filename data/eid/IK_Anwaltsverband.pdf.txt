@@ -1,0 +1,200 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Eidgenössisches Justiz- und  
+Polizeidepartement (EJPD) 
+Bundesamt für Justiz (BJ) 
+Bundesrain 20 
+CHF-3003 Bern 
+
+Per Email versandt: 
+rechtsinformatik@bj.admin.ch  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Bern, der 10. Oktober 2022 
+ 
+Vernehmlassung  zum  Vorentwurf  zum  Bundesgesetz  über  den  elektronischen 
+Identitätsnachweis  und  andere  elektronische  Nachweise  (nachfolgend  "Vorentwurf" 
+bzw. "VE") 
+ 
+Sehr geehrter Frau Bundesrätin, 
+Sehr geehrte Damen und Herren 
+Der  Schweizerische  Anwaltsverband  (SAV)  dankt  Ihnen  für  die  Gelegenheit  in  der 
+obgenannten  Vernehmlassung  Stellung  nehmen  zu  können.  Für  den  SAV  ist  die  E-ID 
+insbesondere im Zusammenhang mit dem Projekt Justitia 4.0 von besonderer Relevanz, da 
+mit der E-ID der Zugang für Anwälte zur Plattform erfolgen soll. 
+
+Vorbemerkungen 
+
+1. 
+Der Vorentwurf scheint uns insgesamt sehr gelungen und den Anregungen in der öffentlichen 
+Konsultation  wurde  Rechnung  getragen.  Insbesondere  wurden  die Weichen  im  Vorentwurf 
+derart  gestellt,  dass  einer  grossen  Verbreitung  der  E-ID  und  deren  Akzeptanz  in  der 
+Bevölkerung  nichts  im  Weg  steht.  Weiter  wurden  auch  der  technologischen  Weiter-
+entwicklung sowie der Anbindung an internationale Systeme Rechnung getragen. 
+Wir haben lediglich einige wenige Punkte, die unseres Erachtens im Gesetzesentwurf noch zu 
+berücksichtigen sind. 
+
+Datenschutz 
+
+2. 
+Im Vorentwurf wird auf die Grundsätze im Datenschutz verwiesen (Art. 1 Abs. 2 Vorent-wurf). 
+Wir teilen die Ansicht, dass ein Verweis auf die Regelung im DSG mit minimalen spezifischen 
+Regelungen  im  Vorentwurf  in  den  meisten  Fällen  ausreichend  ist.  Es  kann  je-doch  nicht 
+übersehen werden, dass Personendaten durch die verifizierbare staatliche Be-stätigung eine 
+besondere Qualität erlangen, welche das DSG bisher nicht abbildet. Dies weil die Verifikation 
+später  immer  noch  nachvollzogen  werden  kann.  Bezüglich  der  nach-folgenden  zwei 
+spezifischen Themen regen wir deshalb eine Ergänzung an. 
+
+Speicherung und Weitergabe von Daten bei der Verifikatorin 
+
+2.1 
+Auch  nachträglich  noch  verifizierbare,  elektronisch  verfügbare  und  staatlich  bestätigte 
+Identitätsdaten können von besonderem Interesse sein oder einen grossen Wert aufweisen, 
+weshalb  auch  entsprechende  Vorkehrungen  in  einem  Erlass  geregelt  werden  sollten.  Der 
+Hinweis  auf  den  Grundsatz  der  Datensparsamkeit,  bzw.  die  Regelung  im  (neuen)  Daten-
+schutzgesetz genügen hier deshalb nicht. 
+Es  rechtfertigt  sich  vielmehr,  dem  besonderen  Risiko  mit  spezifischen  Regelungen  zu 
+begegnen. Insbesondere sollte die Weitergabe solcher auch nachträglich noch verifizierbarer, 
+elektronischer Nachweise und auch die Verwendung zu neuen Zwecken nur nach informierter, 
+expliziter Einwilligung zulässig sein. 
+Andererseits  sollte  sichergestellt  werden,  dass  bisher  gar  nicht  systematisch  erfasste 
+Identifikationen (z.B. bei der Altersverifikation beim Alkoholkauf im Ladengeschäft) auch zu-
+künftig  nicht  erfasst  werden.  Im  physischen  Verkehr  muss  eine  Verifikations-App  zur  An-
+wendung  gelangen,  aber  eine  informierte  Einwilligung  zur  Speicherung  ist  in  diesen 
+Situationen kaum je möglich. Es rechtfertigt sich deshalb vorzuschreiben, dass die mit einer 
+E-ID anfallenden elektronischen Identifikationsmerkmale in diesen Fällen grundsätzlich nicht 
+dauerhaft  gespeichert  werden  dürfen.  Eine  Speicherung  sollte  nur  zulässig  sein,  insoweit 
+damit  gesetzliche  Pflichten  erfüllt  werden  und  eine  informierte  Einwilligung  tatsächlich 
+eingeholt werden kann (z.B. Kauf von SIM-Karten). 
+2.2 
+Das Thema "Overidentification", d.h. die Grenzen welche elektronischen Nachweise von einer 
+Verifikatorin  erhoben  werden  dürfen,  wird  im  Vorentwurf  bewusst  nicht  geregelt.  Im 
+erläuternden Bericht wird ausgeführt, dass hierzu die allgemeinen Regeln des Datenschutzes 
+ausreichend sind. 
+Dies greift unserer Ansicht nach zu kurz. Insbesondere im Falle der – beabsichtigten – brei-
+ten Verfügbarkeit der E-ID ist zu erwarten, dass Anbieter elektronischer Dienste überhaupt 
+beginnen würden, Nutzer staatlich zu identifizieren oder aber im Zweifel zusätzliche verifizierte 
+Identitätselemente  zu  verlangen.  Eine  Rechtfertigung  nach  DSG  wäre  für  ein  solches 
+Vorgehen  meist  problemlos  möglich  –  was  aber  der  besonderen  Qualität  keine  Rechnung 
+trägt. 
+Nach der vom SAV vertretenen Ansicht, sollte die Bestimmung in Ziffer 16 VE daher um eine 
+Bestimmung  ergänzt  werden,  die  festhält,  dass  die  Identifikation  mittels  E-ID  nur  dann 
+obligatorisch  vorausgesetzt  werden  darf,  wenn  und  soweit  dies  zur  Erfüllung  einer 
+gesetzlichen Pflicht notwendig ist (wie z.B. beim Erwerb einer SIM-Karte, wo zwingend die 
+Identität der erwerbenden Person zu erheben ist). In allen anderen Fällen muss das Recht 
+bestehen,  einen  geforderten  Nachweis  diskriminierungsfrei  auch  mit  anderen  Mitteln 
+beibringen zu können. Für den Fall eines Verstosses kann auf die Sanktionsvorschriften des 
+DSG verwiesen werden. 
+
+«Overidentification» 
+
+Föderalisierte Vertrauensinfrastruktur | Ausgestaltung der Wallet (Art. 19 VE) 
+
+3. 
+Es wird sehr begrüsst, dass der Bund eine Anwendung zur Aufbewahrung und Vorweisung 
+von  elektronischen  Nachweisen,  d.h.  eine  Wallet,  zur  Verfügung  stellt.  Dabei 
+ist 
+sicherzustellen,  dass  diese  so  ausgestaltet  ist,  dass  sich  auch  elektronische  Nachweise 
+anderer  Aussteller 
+lassen.  Die 
+Vertrauensinfrastruktur  sollte  dazu  so  föderiert  ausgestaltet  werden,  dass  auch  fremde 
+Register – z.B. aus dem Ausland – unterstützt werden können. 
+
+fremden  Registern 
+
+aus 
+
+darin 
+
+abspeichern 
+
+Anwendung zur Prüfung von elektronischen Nachweisen (Art. 20 VE) 
+
+4. 
+Es scheint grundsätzlich sinnvoll, wenn der Bund ebenfalls eine Anwendung zur Prüfung von 
+elektronischen Nachweisen zur Verfügung stellt. Dies kann einer schnelleren Verbreitung nur 
+dienlich  sein.  Es  stellt  sich  danach  die  Frage,  ob  nicht  von  einer  "kann"-Bestimmung 
+
+abgesehen  werden  soll  und  der  Bund  nicht  angewiesen  werden  müsste  eine  solche  zur 
+Verfügung zu stellen. 
+
+Sicherungskopien (Art. 21 VE / Art. 26 Abs. 2 VE) 
+
+5. 
+Man  kann  sich  fragen,  ob  es  tatsächlich  Aufgabe  des  Bund  sein  muss,  ein  System  für 
+Sicherungskopien zur Verfügung zu stellen. Es ist sicher notwendig, dass es dem Inhaber von 
+elektronischen  Nachweisen  möglich  sein  muss,  eine  Sicherungskopie  seiner  Wallet  zu 
+erstellen, da bei Verlust zwar eine neue E-ID bestellt werden kann, aber auch alle zusätzlichen 
+elektronischen Nachweise neu beschafft und sämtliche Verknüpfungen wieder neu hergestellt 
+werden müssen, was ausserordentlich zeitraubend sein kann. Die Regelungen im Vorentwurf 
+sowie den Ausführungen im erläuternden Bericht entnehmen wir jedenfalls, dass zurzeit kein 
+Hardware Security Element geplant ist. 
+Für  den  Fall,  dass  tatsächlich  ein  vom  Bund  betriebenes  System  für  Sicherungskopien  in 
+Betrieb  genommen  wird,  ist  sicherzustellen,  dass  sämtliche  dort  hochgeladenen  Daten 
+verschlüsselt sind und auch vom Bund nicht darauf zugegriffen werden kann. Insofern wäre 
+Art. 21 Abs. 2 VE noch zu ergänzen. 
+Nachdem  es  sich  beim  angedachten  System  für  Sicherungskopien  grundsätzlich  darum 
+handelt eine verschlüsselte Kopie der Wallet zu speichern, d.h. Speicherplatz zur Verfügung 
+gestellt wird, kann eine kleine Gebühr erhoben werden. 
+
+Gebühren (Art. 26 VE) 
+
+6. 
+Damit der E-ID zu einer möglichst grossen Verbreitung verholfen werden kann, sollten die 
+Kosten so tief wie möglich gehalten werden. Der SAV begrüsst, dass insbesondere der Be-
+zug der E-ID kostenfrei möglich sein soll. 
+Nach Ansicht des SAV, sollte auch der einfache Eintrag ins Basisregister kostenfrei angeboten 
+werden.  Dieser  Prozess  kann  vollumfänglich  automatisiert  werden  und  es  Bedarf  dies-
+bezüglich keinerlei besonderer Dienstleistungen des Betreibers der Vertrauensinfrastruktur. 
+Dies könnte die niederschwellige Verbreitung von elektronischen Nachweisen dienlich sein, 
+wo eine Bestätigung der Identifikatoren nicht zwingend notwendig ist (z.B. ein Verein, der seine 
+Mitgliederausweise in Form von elektronischen Nachweisen gestalten möchte). 
+Dahingegen  scheint  es  sinnvoll,  eine  (möglichst  tiefe)  Gebühr  für  die  Bestätigung  von 
+Identifikatoren  einzufordern.  Hier  wird  tatsächlich  eine  Leistung  des  Bundes  eingefordert. 
+Nachdem dies primär im kommerziellen Einsatzbereich notwendig sein wird, dürfte eine solche 
+Gebühr auch keinen Hinderungsgrund für die Verbreitung der E-ID darstellen. 
+Bezüglich Gebühren für Sicherungskopien, siehe Ziffer 5 vorstehend. 
+ 
+Mit  dem  nochmaligen  Dank  für  die  Einräumung  zur  Gelegenheit  zur  Vernehmlassung 
+verbleiben wir namens des Schweizerischen Anwaltsverbandes 
+ 
+ 
+ 
+ 
+Präsidentin SAV 
+ 
+Birgit Sambeth 
+ 
+ 
+ 
+
+Generalsekretär SAV 
+ 
+René Rall 
+ 
+
+ 
+
+

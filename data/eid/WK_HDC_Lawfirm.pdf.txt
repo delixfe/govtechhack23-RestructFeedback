@@ -1,0 +1,428 @@
+H
+
+Dc
+
+LAW FIRM
+
+ÉruoE D'AVocATs
+
+Av. de Sévelin i5
+Case  postale  851
+CH-1001 Lausanne
+T  +41  (O)21 310 73 10
+F  +41  (O)21  310 73  11
+www.hdclegal.ch
+
+DFJP
+Département  fédéral  de justice et police
+Office fédéral  de  la justice
+Bundesrain  20
+3003 Berne
+
+Uniouement Dar courriel
+rechtsinformati  kôbi.ad  min.ch
+
+Lausanne,  le 20 octobre 2022
+
+DRA
+Avant-projet  de loi sur I'identité électronique et les autres moyens  de preuve
+électroniques  (loi sur l'e-lD, LelD)
+Prise  de posîtion  dans le codre  de la procédure  de consultation
+
+Madame,  Monsieur,
+
+Dans le délai  imparti  pour  ce faire, et agissant  pour  le compte  de I'Etude d'avocats HDC
+à Lausanne,  je vous prie de trouver  ci-après la prise  de position  de notre Etude  par
+rapport  au projet de loi visé en titre.
+
+Dans I'ensemble,  nous accueillons  très favorablement  ce projet ainsi remanié,  tant
+I'identité électronique constitue  un volet central  de la modernisation  de nos institutions
+et du fonctionnement  de la société en général. ll est essentiel  à ce titre  que  la
+population  puisse bénéficier  d'un système  d'identification  sûr, officiel  et digne de
+confiance,  sur lequel baser  sa vie électronique.  Une telle identité électronique  fiable et
+efficace permettra indéniablement  d'accélérer  la transition numérique ainsi  que
+I'efficacité des liens pouvant être créés  entre individus  et avec  I'administration  publique.
+
+A ce titre, la rapidité  avec laquelle  le Conseil  fédéral  a repris le dossier  suite  au refus  en
+votation populaire du précédent  projet de loi en mars 2021 est à saluer. Ceci surtout
+dans la mesure  où une grande partie des critiques  qui avaient  été émises vis-à-vis  de ce
+premier  projet ont été prises en compte  dans I'avant-projet.
+
+Ces remarques  introductives données,  les commentaires  et éléments  suivants doivent
+néanmoins  être communiqués  afin que certaines failles du système  actuellement  prévu
+puissent  être corrigées.
+
+H
+
+Dc
+
+t.
+
+Remarques  générales
+
+o)  Rôle de l'outorité publique dons l'émission  de l'e-lD et lo gestion de
+
+I'infrostructure  de confionce
+
+Le rôle confié  exclusivement  à I'autorité publique - soit essentiellement  la
+Confédération  et, dans la mesure  de I'art.8  LelD,  les cantons - dans l'émission  et la
+gestion de I'e-lD  est à saluer  positivement.  Cela assure un parallélisme  bienvenu par
+rapport aux documents  d'identité  et de légitimation  servant à l'établissement  de I'e-lD
+(conformément à I'art.3  let.  a et b LelD),  apte à renforcer  la confiance  de la population
+dans le système.
+
+D  Votet relotif aux moyens  de preuve  électroniques  hrt. 12 ss)
+
+La portée  supplémentaire  accordée  à I'e-lD  sous I'angle  des moyens  de preuve
+électroniques  pouvant être émis à I'aide de I'infrastructure  de confiance  est également
+à considérer  positivement.  ll s'agit en effet là d'un moyen central Permettant  d'assurer
+I'utilité  de I'e-lD  ainsi que son inscription  dans  la vie pratique  et journalière  de  la
+popu lation.
+
+d  lnteropérobilité ovec  /es systêmes européens  (ort' 27 LelD)
+
+De façon  particulièrement marquée,  I'interopérabilité des systèmes  et technologies  liés
+à I'e-lD  avec ceux  appliqués  et utilisés  dans  I'UE est centrale  et doit permettre  une
+efficacité  concrète  du système.  A terme,  une réelle identité  reconnue à l'échelle
+européenne est un objectif impératif, là également  à I'image  de ce qui s'applique  aux
+documents  d'identité constituant  le fondement < physique  , de I'e-lD.
+
+ll. 
+
+Remarques  article par article
+
+Outre  les commentaires  et remarques  généraux  qui précèdent,  les points spécifiques
+suivants  peuvent encore  être  relevés pour  chacun  des articles  mentionnés.
+
+ù  Ad orticle  1
+
+Les commentaires  suivants  peuvent être  faits  :
+
+Ad al.2let. a : I'extension  de I'utilisation  de I'e-lD non seulement entre
+personnes  physiques  et autorités,  mais aussi entre  personnes  privés, est une
+condition  essentielle au bon fonctionnement  du système  et à sa popularité.
++  Cette caractéristique  doit donc impérativement  être conservée.
+
+Ad al.2let.  b :
+
+o  la protection  des données  dès la conception  (privocy  by design)  n'est
+pas un principe,  mais  bien une obligation  selon le système  exprimé  par
+
+2
+
+H
+
+Dc
+
+o
+
+la nouvelle  version de la LPD qui entrera  en vigueur au 'lu'septembre
+2023.  En particulier,  une violation des impératifs  liés à cette  obligation
+ne peut être rendue légale par I'existence d'un motif justificatif  au sens
+de I'art.31 LPD, ceci au contraire de ce qui vaut pour les n principes  o au
+sens strict.
+
++  ll convient  donc de reformuler  cette disposition en parlant de
+< I'obligation  de la protection  des données  dès la conception >.
+la référence  au principe de la minimisation  des données  doit s'inscrire
+dans le cadre plus large du principe  de proportionnalité dont il fait
+partie, tant ce principe doit également  s'étendre  à I'e-lD.  En particulier,
+la durée de conservation  des données  doit être limitée  en vertu du
+principe  de proportionnalité, et non uniquement  du principe  de  la
+minimisation  des données.
+
++ 
+
+ll convient  donc de reformuler  cette disposition en
+mentionnant  explicitement le < principe de proportionnalité  >,
+en plus  de la référence au principe  de la minimisation  des
+données.
+
+Û  Ad orticle 2
+
+Les commentaires  suivants  peuvent être  faits
+
+Ad al.2let.  a : la référence  au ( nom  officiel > peut engendrer  des problèmes
+d'interprétation,  notamment  dans la mesure  où la personne  aurait un nom
+d'usage  qui serait néanmoins  mentionné  sur son document  d'identité  établi
+conformément  à la LDl.
++  ll convient donc d'évoquer  plutôt  le n nom  tel que figurant sur le document
+
+d'identité  ou la pièce  de légitimation selon I'art. 3 LelD  o.
+
+Ad al.2let.  e : la référence  au lieu de naissance peut représenter  un doublon
+pour les personnes  qui disposent  d'un lieu d'origine' ce dernier  étant le seul
+mentionné  dans les documents d'identité  conformes  à la LDl.
++  ll convient donc de modifier ce critère  en indiquant < le lieu d'origine ou,  à
+défaut, le lieu de naissance  >, notamment  afin de respecter  le parallélisme
+nécessaire  avec  les documents d'identité  servant de base à I'e-lD ainsi que
+respecter  le principe de minimisation  des données.
+
+Ad al. 3 let.  a : la référence  au numéro  AVS  dans I'e-lD peut être
+particulièrement problématique  en cas de faille  de sécurité, dans  la mesure  où
+ce numéro  n'est  jamais modifié.  En tant que les autres  données  figurant  dans
+I'e-lD  suffisent pour assurer I'identification  de la personne,  cette information
+ne devrait pas y figurer.
++  ll convient donc de supprimer  la référence au numéro  AVS.
+
+3
+
+H
+
+Dc
+
+Ad al. 3 let. f : les indications  relatives à la procédure  d'émission  doivent
+exclusivement  se limiter à des données  de journalisation  techniques,  à
+I'exclusion notamment  de détails  relatifs  à la procédure  elle-même,  là
+également  afin d'assurer  le respect  du principe de la minimisation  des données.
++  ll convient  donc de préciser  les indications qui sontvisées  dans  cette
+
+disposition,  en en limitant  le cercle  à ce qui est absolument  nécessaire.
+
+c) Ad orticle 3
+
+Les commentaires  suivants  peuvent être faits
+
+Ad let. b : la référence  à la n pièce de légitimation  valable  > n'est pas conforme  à
+la terminologie utilisée dans la LEI pour qualifier  les documents  d'identification
+des personnes  étrangères,  mais  correspond  au PassePort  ou à la pièce  d'identité
+de la personne  concernée  au sens  de I'art'  13 LEI'
++  Afin d'assurer  le parallélisme nécessaire  avec les documents  d'identification
+
+établis par I'Etat ainsi que tenir  compte  du fait que certains étrangers
+peuvent  ne pas disposer  en tout temps d'un passeport  ou d'une  pièce
+d'identité, il convient  de remplacer  cette  référence  par une  mention  au
+< titre  de séjour  valable  o.
+
+Ad commentaire  : le commentaire relatif à cette disposition  prévoit la
+possibilité de n limiter l'accès  à certains  services  aux titulaires d'un permis
+étranger  dont I'identité  n'a pas pu être vérifiée  de façon fiable.  >. En tant que
+cette éventualité  n'existe pas dans le projet de loi, cette  référence doit être
+supprimée du commentaire.
+
+ù  Ad orticle  4
+
+Les commentaires  suivants  peuvent être faits :
+
+-  Ad al.4:
+
+o
+
+la possibilité  de prélever  des données  biométriques  u à des fins de
+vérification > est rédigée de façon trop large et ne précise pas les
+hypothèses  dans lesquelles  ceci serait nécessaire.  En tant que  les
+informations  et données contenues  dans I'e-lD  selon  I'art. 2 LelD sont
+d'ores et déjà très détaillées, cette  possibilité de vérification  par le biais
+de données  biométriques  doit être limitée  au maximum et
+correctement cadrées  dans la loi quant aux critères  et conditions
+applicables.
+
++  ll convient  de préciser  les cas dans  lesquels  le recours aux
+
+données  biométriques  est possible.
+
+4
+
+H
+
+Dc
+
+o
+
+la durée pour laquelle les données biométriques  peuvent être
+conservées  dans le cadre  de I'al. 4 n'est pas précisé,  et le sort  de ces
+données  n'est pas non  plus indiqué - la règle de I'art. 1'l al.5 LelD  ne
+paraissant  pas nécessairement  s'appliquer aux données  biométriques
+ainsi utilisées.
+
++  ll convient donc de préciser explicitement,  à I'art. 3 al. 4 LelD,
+que les données  biométriques  utilisées  à des fins de vérification
+ne sont  pas conservées  au-delà  de ce qui est nécessaire  Pour
+procéder  à cette vérification.
+
+e)  Ad article 5
+
+Les commentaires  suivants  peuvent  être faits :
+
+Ad al.1
+o
+
+de façon  générale, les modalités appliquées  à la révocation  de I'e-lD par
+fedpol ne sont  pas claires  et doivent  être précisées  au niveau de la loi
+elle-même,  en particulier  s'agissant (i) de la forme  d'une telle
+révocation  (décision au sens de I'art. 5 PA),  (ii) du processus  suivi et (iii)
+des droits  de la personne  concernée.
+
++  Les concours  de la possibilité de révocation  doivent  être
+
+précisés.
+
+o
+
+la possibilité pour fedpol de révoquer  I'e-lD  en cas de < soupçon  fondé
+d'utilisation  abusive  o (let. c) n'est pas claire et ouvre  la voie à des
+problèmes d'interprétation  ainsi  que d'application.  Ainsi et notamment,
+il n'est pas clair de savoir (i) selon quelle procédure  cette  révocation
+intervient, (ii) quelle forme  peut prendre  a I'utilisation  abusive  n ou (iii)
+les droits de la personne  concernée  dans  une telle  hypothèse. De façon
+générale, I'e-lD ne devrait pas être révoquée en cas d'utilisation
+abusive, mais cette  dernière  devrait  plutôt donner  lieu à sanction - à
+l'image  de ce qui s'applique  aux documents d'identité  de la LDl.
+
++  La possibilité de révocation  prévue  à I'al.  1 let. e devrait par
+
+principe  être supprimée et le régime utilisé devrait  être
+identique  à celui valant pour les abus  relatifs  à des documents
+d'identité.  Si cette  possibilité devait néanmoins  être conservée,
+il conviendra  en tout cas de préciser les critères pouvant mener
+à la révocation  de l'e-lD ainsi  que les conditions  et modalités
+devant être respectées dans  ce cadre,  à I'image  de ce qui a été
+mentionné  supro pour I'al.  1 en général.
+
+5
+
+H
+
+Dc
+
+o
+
+les échanges  de données  qui peuvent  mener à une révocation
+conformément  à I'art.5  LelD ne sont pas clarifiés  dans la LelD.
++  ll est nécessaire  de préciser, au niveau  de la loi, quelles
+
+autorités peuvent communiquer  des informations  à fedpol  sous
+I'angle  des hypothèses  couvertes  par I'art. 5 LelD.
+
+ô  De même,  les communications  provenant  de fedpol aux autres
+
+autorités pouvant être concernées  ou affectées  par  la
+révocation  de I'e-lD  doivent  aussi être précisées  au niveau de  la
+loi.
+
+f)  Ad orticle 7
+
+Les commentaires  suivants  peuvent être  faits
+
+Alors que I'existence d'un devoir de diligence est bienvenue sur  le principe,  la
+LelD ne précise  aucune  sanction à l'égard de la personne  qui ne respecterait  pas
+son devoir de diligence  ou qui enfreindrait autrement les principes qui sont
+exprimés  dans cette  disposition.  Les conséquences  notamment  de I'absence de
+mesures visées à l'art.7 al. 1 LelD ne sont pas claires.
++  D'éventuelles  conséquences  liées à une violation  des devoirs de diligence
+
+pourraient  être  précisées.
+
+g)  Ad orticle  1l
+
+Les commentaires  suivants  peuvent être faits  :
+
+Al. 2 : il n'est pas clair si le système  d'information  contient  également  les
+données  d'identification  prévues  à I'art. 2 al.2 LelD.
++  Si tel est le cas, il convient  de compléter I'art. 11 al. 2 en indiquant  que le
+
+système  d'information  contient également  les données  visées à l'art.2  al.2
+LelD.
+
+Al. 3 : tous  les échanges  de données  avec  les systèmes  d'information  doivent
+intervenir sur un système  centralisé et non  par duplication  ou transmission  des
+informations.  ll s'agit d'un impératif sous  I'angle  du principe  de minimisation des
+données  ainsi  que  de sécurité  des données.
++  ll est nécessaire  de préciser que tout accès aux données  est fait
+directement dans le système,  sans  duplication  ou communication.
+
+At.5:
+o
+
+la durée de conservation  pouvant aller jusqu'à  5 ans après  la date  de
+validité  ou la révocation  de I'e-lD est trop longue et ne se justifie par
+principe  pas au regard des objectifs  et buts poursuivis  par  le système
+
+6
+
+H
+
+Dc
+
+o
+
+d'information  de I'art. l'l LelD. Une durée d'une année au maximum
+apparaît suffisante.
+
++  La durée de conservation  maximale  doit être  fixée  à une année
+
+après  la date de validité  ou la révocation  de I'e-lD.
+
+aucune  durée de conservation  claire n'est  précisée  s'agissant des
+éventuelles  données  biométriques  utilisées  à des fins de vérification
+(art.4) ni pour les autres  données  qui ne sont pas directement
+intégrées  dans le système  d'information.  Comme  indiqué  supro,  ces
+données ne devraient  pas être dupliquées ou intégrées  dans  le système
+d'information  - une précision qui devrait  toutefois  figurer
+expressément  dans  la loi. Si une telle duplication  est néanmoins
+nécessaire,  une durée  de conservation  réduite devrait  alors être
+prévue.
+
+o  Le régime applicable  à la durée de conservation  de tous  les
+
+documents  utilisés  en lien avec  I'e-lD, tout comme  les
+modalités d'accès  et I'exclusion de principe  de la duplication,
+devraient  être précisés  dans la loi.
+
+D  Ad orticle  12
+
+Les commentaires  suivants  peuvent être faits :
+
+ll doit être précisé si les moyens  de preuve électroniques  sont également
+disponibles  pour  les personnes  ne disposant  pas d'une e-lD ou, au contraire,  si
+cette dernière  constitue une condition nécessaire  à pouvoir  disposer  d'un  tel
+moyen de preuve
+
+La question  de savoir  si une personne  ou entité  morale peut n'utiliser
+qu'exclusivement  des moyens  de preuve  électroniques,  à I'exclusion  d'autres
+moyens  de preuve, n'est pas clairement  définie  dans la loi. cette  dernière  ne
+prévoit  en effet pas une disposition similaire à I'art.  10 LelD par rapport  à ces
+moyens  de preuve électroniques  - quelque chose  qui est pourtant  nécessaire
++  La possibilité, voire le droit, de disposer  d'une alternative  aux moyens  de
+
+preuve électroniques  devrait  être précisée.
+
+ù  Ad orticle  13
+
+ll peut être renvoyé ceteris poribus  aux remarques  relatives  à I'art.5  LelD s'agissant des
+procédures de révocation.
+
+7
+
+H
+
+Dc
+
+j)  Ad orticle 23
+
+Le caractère  open  source du code  source de I'infrastructure  de confiance  est essentiel  et
+doit être très favorablement  accueilli.
+
+n  Ad orticle 24
+
+A la lecture de I'art. 24 LelD,l'on comprend  que I'exploitation  de I'infrastructure  de
+confiance  ne peut être déléguée  à un sous-traitant. Un point qu'il convient  cependant
+de préciser, afin d'éviter tout problème  de compréhension  et interprétation  différente.
+
++  ll convient  de préciser que  I'exploitation visée  à I'art. 24 LelD ne peut être
+
+déléguée à I'externe  de I'administration  fédérale.
+
+Je vous  prie d'agréer,  Madame,  Monsieur, I'expression  de mes  sentiments  dévoués.
+
+Au
+
+DC
+
+en
+
+al.ch
+
+8
+
+

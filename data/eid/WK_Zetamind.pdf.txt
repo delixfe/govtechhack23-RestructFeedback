@@ -1,0 +1,75 @@
+ 
+Per E-Mail 
+Eidgenössisches Justiz- und Polizeidepartement EJPD 
+Bundesamt für Justiz 
+Bundesrain 20 
+3003 Bern 
+ 
+Zetamind AG 
+André Golliez 
+Founding Partner 
+Zurlindenstrasse 111 
+8003 Zürich 
+ 
+ 
+Vernehmlassung zum Bundesgesetz über den elektronischen Identitätsnachweis und andere 
+elektronische Nachweise (E-ID-Gesetz, BGEID) 
+ 
+Sehr geehrte Damen und Herren 
+ 
+Zetamind AG begrüsst grundsätzlich das vorgeschlagene Bundesgesetz über den elektronischen 
+Identitätsnachweis und andere elektronische Nachweise (E-ID-Gesetz, BGEID) und stellt 
+ergänzend den folgenden Antrag: 
+ 
+Antrag 
+Artikel 2 des vorgeschlagenen Bundesgesetzes über den elektronischen Identitätsnachweis und 
+andere elektronische Nachweise (E-ID-Gesetz, BGEID) erhält neu den folgenden Absatz: 
+«Absatz 4 (neu) 
+Sie kann schliesslich auf Verlangen der antragstellenden Person Allianz-, Ordens-, Künstler- oder 
+Partnerschaftsnamen sowie Angaben über besondere Kennzeichen wie Behinderungen, Prothesen oder 
+Implantate enthalten.» 
+ 
+Begründung 
+Gemäss Abschnitt 1.2 des erläuternden Berichts soll das neue Gesetz die Motionen aller 
+Fraktionen 21.3124, 21.3125, 21.3126, 21.3127, 21.3128 und 21.3129 «Vertrauenswürdige 
+staatliche E-ID» umsetzen, d.h. «Der Bundesrat wird damit beauftragt, ein staatliches 
+elektronisches Identifikationsmittel zum Nachweis der eigenen Identität (Authentifizierung) in 
+der virtuellen Welt, vergleichbar mit Identitätskarte oder Pass in der physischen Welt, zu 
+schaffen.» 
+Eine solche Vergleichbarkeit mit Identitätskarte oder Pass ist jedoch nur dann hergestellt, wenn 
+die vorgesehenen digitalen Attribute auch den im Ausweisgesetz verankerten Kann-Attributen 
+zu entsprechen vermögen. 
+ 
+
+Artikel 2 Absatz 4 des Ausweisgesetzes AwG lautet: "Auf Verlangen der Antrag stellenden 
+Person kann der Ausweis Allianz-, Ordens- oder Künstlernamen sowie Angaben über besondere 
+Kennzeichen wie Behinderungen, Prothesen oder Implantate enthalten". Es macht wenig Sinn, 
+wenn solche auf der Identitätskarte vorhandenen Angaben in der digitalen Welt nicht ebenfalls 
+verfügbar gemacht werden. 
+ 
+Ein konkretes Anwendungsbeispiel der heutigen Nutzung der Identitätskarte sind die 
+Bestimmungen zur Identifikation einer Person in SR 221.411, der Handelsregisterverordnung 
+(HRegV). Demgemäss werden nach Artikel 24b Absatz 2a auf der Grundlage des Aus-
+weisdokuments u.a. die folgenden Angaben im Handelsregister erfasst: «allfällige Ruf-, Kose-, 
+Künstler-, Allianz-, Ordens- oder Partnerschaftsnamen;».  
+Diese Erfassung sollte auch dann möglich sein, wenn anstelle einer herkömmlichen 
+Identitätskarte ein elektronischer Identitätsnachweis vorgelegt wird. Dies wäre künftig 
+beispielsweise bei einer Unternehmensgründung auf durchgängig elektronischem Weg z.B. via 
+EasyGov.swiss der Fall.  
+   
+Schliesslich sei noch erwähnt, dass die Rechtskommission des Nationalrats im Juni 2022 eine 
+Vernehmlassung zu amtlichen Doppelnamen eröffnet hat. In der sogenannten grossen Lösung 
+ist u.a. vorgesehen, dass die Eheleute unabhängig von der Wahl eines gemeinsamen 
+Familiennamens jede/r für sich wählen können, einen amtlichen Doppelnamen zu führen. 
+Insofern drängt es sich auf, die Gestaltung der Namens-Attribute beim elektronischen 
+Identitätsnachweis flexibler zu gestalten als es zurzeit vorgesehen ist. 
+ 
+ 
+Für die Berücksichtigung dieses Anliegens bedanken wir uns vielmals. 
+ 
+Freundliche Grüsse 
+ 
+André Golliez 
+Founding Partner Zetamind AG 
+
+

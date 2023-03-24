@@ -1,0 +1,293 @@
+ 
+
+ 
+ 
+ 
+ 
+Par e-mail 
+(rechtsinformatik@bj.admin.ch) 
+ 
+ 
+
+Madame Karin Keller-Sutter  
+Conseillère fédérale 
+Département fédéral de justice et police 
+Bundeshaus West 
+3003 Berne 
+ 
+ 
+ 
+Genève, le 20 octobre 2022  
+
+ 
+ 
+ 
+ 
+Loi fédérale sur l'identité électronique et d'autres moyens de preuve 
+électroniques (loi sur l'e-ID) 
+ 
+ 
+Madame la Conseillère fédérale, 
+
+L’Association de Banques Privées Suisses (ABPS) a étudié avec attention l’avant-projet 
+de loi fédérale sur l’identité électronique et autres moyens de preuve électroniques (LeID), 
+soumis en consultation le 29 juin 2022. Nous souhaitons par la présente vous transmettre 
+quelques remarques sur les points les plus importants pour les banques privées, tout en 
+soutenant par ailleurs la prise de position de l’Association Suisse des Banquiers. 
+
+L’ABPS soutient globalement le projet mis en consultation. Toutefois, nous nous 
+permettons de mettre en avant certaines remarques quant à l’importance de la 
+protection  de  la  sphère  privée  et  de  la  sécurité  des  données,  d’une  utilisation 
+facile pour chacun, de la compatibilité internationale et du lien avec le secteur 
+privé. Il convient de définir un système simple et efficace et de le mettre en œuvre 
+de manière rapide et pragmatique. En outre, il faut assurer la cohérence du projet 
+avec  d'autres  lois  prévoyant  une  identification,  notamment  en  matière  de  lutte 
+contre le blanchiment d'argent et le financement du terrorisme. 
+
+ 
+
+A)  Commentaires généraux 
+
+ 
+La loi sur l’e-ID est une loi-cadre qui doit contenir les grands principes réglementaires en 
+
+lien avec une identité électronique. Ceux-ci ont donc une portée générale et doivent rester 
+
+neutre du point de vue technologique. A cet égard, les dispositions d’exécution qui seront 
+
+contenues dans une ordonnance seront d’une importance déterminante. 
+
+ 
+
+Il est essentiel que la nouvelle identité électronique devienne rapidement le standard en la 
+
+matière auprès des citoyens. Cela signifie que son usage doit être facile d’accès, aisément 
+
+compréhensible, fiable et très rapidement bénéficier d’une portée très large, ce qui pourra 
+
+être atteint sur la base des éléments suivants : 
+
+ 
+
+-  La nouvelle e-ID doit rapidement gagner la confiance des utilisateurs, en ce sens 
+qu’ils  auront  envie  de  privilégier  ce  moyen  d’identification,  même  s’il  reste 
+
+facultatif.  A  côté  des  dispositions  légales  et  réglementaires,  les  mesures  de 
+
+communication et d’information à la population revêtiront une importance capitale 
+
+pour le succès de l’e-ID. 
+
+ 
+
+-  L’aspect  sécuritaire,  en  particulier  dans  le  domaine  numérique,  doit  rester  une 
+priorité  continue  de  l’e-ID,  c’est-à-dire  pas  seulement  lors  de  sa  création,  mais 
+
+aussi tout au long de son utilisation. Il faut qu’un contrôle régulier soit maintenu 
+
+sur les standards appliqués afin de maintenir une protection élevée de la sphère 
+
+privée ainsi qu’une résistance du plus haut niveau face à des attaques cyber. 
+
+-  L’utilisation  de  la  nouvelle  identité  électronique  doit  être  possible  de  manière 
+simple, compréhensible et transparente. Elle doit donc pouvoir s’appliquer à tous 
+
+les rapports économiques et administratifs existants, à savoir avec les autorités, 
+
+avec  l’économie  (industrie  et  services)  et  entre  particuliers.  Il  s’agit  donc  de 
+
+développer un écosystème qui englobe le plus grand nombre possible d’activités, 
+
+de  manière  à  ce  qu’il  devienne  rapidement  une  référence  en  la  matière.  Cela 
+
+présuppose  une  coordination  étroite  entre  les  différents  acteurs,  en  particulier 
+
+entre le secteur public et le secteur privé. 
+
+ 
+
+ 
+
+La nouvelle loi doit favoriser et autoriser des solutions provenant du secteur privé. Dans 
+
+ce contexte, nous saluons et approuvons le fait que l’infrastructure étatique pourra être 
+
+mise  à  disposition  des  entreprises.  Les  nouvelles  opportunités  d’affaires  devraient  être 
+
+intégrées et reconnues aussi rapidement que possible par l’autorité compétente, ce qui 
+
+aurait des avantages dans l’identification de parties tierces si celles-ci sont en Suisse. En 
+
+ce  qui concerne  le  secteur  financier  par  exemple,  on  peut  imaginer  que  des  synergies 
+
+importantes  pourraient  être  réalisées  dans  le  domaine  de  l’identification  des  clients 
+
+(moyennant une adaptation correspondante de la loi sur le blanchiment d’argent). Cela 
+
+suppose  par  conséquent  une  certaine  flexibilité  et  la  volonté  de  développer  l’e-ID  en 
+
+fonction des besoins de l’économie et des consommateurs. A cet égard, nous proposons 
+
+un réexamen régulier de la loi une fois que cette dernière sera entrée en vigueur (p.ex. à 
+
+un rythme triennal). 
+
+ 
+
+La nouvelle identité électronique doit être compatible avec d’autres réglementations telles 
+
+que  celles  de  l’Union  européenne,  du  Royaume-Uni,  des  Etats-Unis  et  d’autres  pays 
+
+importants pour la Suisse. Il s’agit de faciliter l’interopérabilité autant que faire se peut.  
+
+ 
+
+Le lien entre le monde numérique et le monde physique est un élément fondamental de 
+
+la confiance pour les utilisateurs. Dès lors, les instances qui émettent actuellement des 
+
+documents  d’identités  et  qui  sont  reconnues  comme  telles  doivent  pouvoir  le  rester 
+
+lorsqu’elles émettront des e-ID si les conditions légales, techniques et de sécurité sont 
+
+remplies.  Il  faut  donc  assurer  une  cohérence entre  les documents d’identité  émis sous 
+
+forme physique et électronique. Il importe également de songer à l’évolution future et de 
+
+réfléchir au scénario d’un retour temporaire aux documents physiques, à supposer que 
+
+l’identification électronique ne soit plus disponible pour une période indéterminée. 
+ 
+ 
+
+ 
+
+2 
+
+ 
+
+B)  Commentaires spécifiques 
+
+•  Article  1  al.  2  let.  a  LeID :  l’e-ID  devrait  aussi servir  à  garantir  une  identification 
+sûre entre personnes privées et entreprises, puisqu’elle a aussi vocation à être 
+
+utilisée par ces dernières. 
+
+ 
+
+•  Article 6 LeID : La durée de validité de l’e-ID ne devrait pas dépasser la durée de 
+validité  du  document  d’identité  ou  de  légitimation  qui  a  été  utilisé  lors  de  son 
+
+émission. 
+
+•  Article 11 al. 5 LeID : La durée de conservation des données jusqu’à 5 ans après 
+la  date  de  validité  ou  la  révocation  de  l’e-ID  paraît  trop  longue.  Un  délai  de 
+
+conservation d’un an après ces échéances semble plus approprié. 
+ 
+
+•  Article 14 LeID : Il faudrait rajouter la notion de sécurité dans cet article : « … il le 
+
+conserve par les moyens techniques sécurisés de son choix et … » 
+
+•  Article 15 LeID : Il faudrait quand même pouvoir transmettre certains moyens de 
+preuve électronique à un autre titulaire si ce dernier est le représentant légal du 
+
+titulaire (p. ex. parents ou représentants légaux de personnes sous curatelle), de 
+
+la même façon qu’il est possible de présenter la pièce d’identité de ses enfants. 
+
+•  Article 16 al. 3 LeID : L’expression « dans toute la mesure du possible » amoindrit 
+la portée de cette disposition importante et doit être supprimée. L’ignorance de 
+
+l’exploitant  des  systèmes  doit  être  assurée  par  des  mesures  techniques  et 
+
+organisationnelles appropriées. 
+
+•  Article 17 al. 2 let. b et c LeID : le terme « clefs cryptographiques » devrait être 
+remplacé par « informations », afin d’assurer la neutralité technologique. Il se peut 
+
+en  effet  qu’à  l’avenir,  des  technologies  émergent  qui  soient  meilleures  que  les 
+
+clefs cryptographiques. 
+
+ 
+
+•  Article 22 LeID : le moment à partir duquel une utilisation devient abusive n’est 
+pas  clairement  précisé.  En  outre,  le  rapport  explicatif  laisse  entendre  qu’il  faut 
+
+compter avec des cas d’abus, ce qui est insatisfaisant. Il s’agit au contraire de 
+
+lutter de manière aussi efficace que possible contre ce genre de cas. 
+
+ 
+
+•  Article 23 LeID : La question se pose s’il est vraiment nécessaire d’indiquer dans 
+la loi que « la Confédération publie le code source des éléments de l’infrastructure 
+
+de confiance qu’elle met à disposition ». On préférera les termes « peut publier », 
+
+aussi pour des raisons de neutralité technologique. 
+
+* 
+
+* 
+
+* 
+
+3 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+En vous remerciant par avance de l’attention que vous porterez à la présente, nous vous 
+prions  d’agréer,  Madame  la  Conseillère  fédérale,  l’expression  de  notre  très  haute 
+considération. 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ASSOCIATION DE 
+
+       BANQUES PRIVEES SUISSES 
+
+ 
+
+ 
+
+Jan Langlo 
+Directeur 
+
+Jan Bumann 
+
+Directeur adjoint 
+
+ 
+
+4 
+
+

@@ -1,0 +1,1436 @@
+ 
+Die Regierung 
+des Kantons Graubünden 
+
+La Regenza 
+dal chantun Grischun 
+
+Il Governo 
+del Cantone dei Grigioni 
+
+ 
+
+ 
+
+Sitzung vom 
+
+Mitgeteilt den 
+
+ 
+
+ 
+17. Oktober 2022 
+ 
+ 
+
+ 
+
+ 
+17. Oktober 2022 
+
+ 
+
+ 
+
+ 
+
+Protokoll Nr. 
+
+ 
+804/2022 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Eidgenössisches Justiz- und  
+Polizeidepartement EJPD 
+Bundeshaus West 
+3003 Bern 
+ 
+
+Per E-Mail (PDF- und Word-Version) zustellen an: rechtsinformatik@bj.admin.ch  
+
+ 
+
+Vorentwurf des Bundesgesetzes über den elektronischen Identitätsnachweis 
+
+und andere elektronische Nachweise (E-ID-Gesetz, BGEID) 
+
+Sehr geehrte Frau Bundesrätin 
+
+Sehr geehrte Damen und Herren 
+
+ 
+
+Mit Schreiben vom 29. Juni 2022 erhalten die Kantone Gelegenheit, sich zu erwähn-
+
+tem Geschäft zu äussern. Dafür danken wir Ihnen bestens. 
+
+ 
+
+Die uns zugesandte Dokumentation haben wir geprüft. Die Regierung begrüsst 
+
+grundsätzlich den Vorentwurf des Bundesgesetzes über den elektronischen Identi-
+
+tätsnachweis und andere elektronische Nachweise (E-ID-Gesetz, BGEID). 
+
+ 
+
+I. 
+
+Allgemeine Bemerkungen 
+
+ 
+
+1.  Grundsätzliches 
+
+Vor dem Hintergrund des in der Volksabstimmung im Jahr 2021 abgelehnten Bun-
+
+desgesetzes über elektronische Identifizierungsdienste wurden die Bedenken der 
+
+Bevölkerung aufgenommen. Mit dem neuen Vernehmlassungsentwurf wird nun ein 
+
+Konzept verfolgt, welches die Herausgabe elektronischer Identitäten nicht mehr 
+
+ 
+
+ 
+
+ 
+
+2 
+
+durch Private, sondern alleine durch den Staat vorsieht. Die Ausgestaltung der Vor-
+
+lage nimmt die Forderungen der nach der Volksabstimmung eingereichten Motionen 
+
+auf und stellt die Grundsätze "privacy by design", Datensparsamkeit und dezentrale 
+
+Datenspeicherung ins Zentrum, wodurch dem Schutz der Persönlichkeit Rechnung 
+
+getragen werden kann. Ebenfalls zu begrüssen ist, dass nach den gleichen Grund-
+
+sätzen die Grundlagen für ein Ökosystem weiterer elektronischer Nachweise ge-
+
+schaffen werden sollen, um eine umfassende Digitalisierung zu ermöglichen. 
+
+ 
+
+Hinsichtlich der technischen Ausgestaltung bleibt das Gesetz berechtigterweise un-
+
+bestimmt, so dass die laufenden technischen Entwicklungen vor dem Hintergrund der 
+
+datenschutzrechtlichen Vorgaben (Art. 1 Abs. 2 lit. b BGEID) übernommen werden 
+
+können, ohne die rechtlichen Grundlagen anpassen zu müssen. Naturgemäss leidet 
+
+darunter die Präzision der Bestimmungen. Dieser Mangel ist jedoch gegenüber der 
+
+Flexibilität von untergeordneter Bedeutung. 
+
+ 
+
+2.  Begriffsdefinitionen 
+
+Das BGEID verwendet eine Vielzahl von technischen Begriffen wie "elektronischer 
+
+Nachweis", "Verifikatorin", "Basisregister", "Vertrauensregister" oder "Identifikator". 
+
+Diese sind im allgemeinen Sprachgebrauch nicht geläufig und bedürfen daher einer 
+
+genaueren Definition. Die entsprechenden Begriffe werden zwar teilweise im Rah-
+
+men einzelner Artikel (z.B. "Verifikatorin" in Art. 16 BGEID) oder im Rahmen des er-
+
+läuternden Berichts (nachfolgend: EB) definiert. Die Verständlichkeit des Gesetzes 
+
+und die Systematik würden indes profitieren, wenn eine neue Bestimmung (z.B. als 
+
+Art. 2 BGEID) aufgenommen würde, welche die relevanten Definitionen für das ge-
+
+samte Gesetz vornimmt. Zu achten ist dabei auch auf eine klare Unterscheidung zwi-
+
+schen "elektronischen Nachweisen" (als Oberbegriff, der die E-ID und andere elekt-
+
+ronische Nachweise umfasst) und "anderen elektronischen Nachweisen". 
+
+ 
+
+3.   Sicherheit und Benutzerfreundlichkeit 
+
+Mitentscheidend für die künftige Verbreitung der E-ID und der Vertrauensinfrastruktur 
+
+wird die Benutzerfreundlichkeit der entsprechenden Applikationen sein. Sie müssen 
+
+für alle Beteiligten möglichst unkompliziert und niederschwellig zugänglich und an-
+
+wendbar sein. Unter anderem an diesem Punkt sind in der Vergangenheit Vorhaben 
+
+ 
+
+ 
+
+ 
+
+3 
+
+wie die qualifizierte elektronische Signatur gescheitert. Gleichzeitig darf Benutzer-
+
+freundlichkeit nicht auf Kosten von Sicherheit und Datenschutz gehen. Hierbei ist den 
+
+Schutzzielen der Authentizität und der Verbindlichkeit besonderes Gewicht beizu-
+
+messen. Sind diese nicht gewährleistet, entstehen hohe Risiken, nicht nur für die be-
+
+troffenen Personen, sondern auch für die öffentlichen Organe und die Privaten, die 
+
+auf die Bestätigung der Identität des Gegenübers angewiesen sind. Spätestens bei 
+
+Bekanntwerden vom Missbrauchsfällen hätten Sicherheitslücken zudem einen Ver-
+
+trauensverlust zur Folge, mit den entsprechenden Konsequenzen für die Verbreitung 
+
+der E-ID und die Nutzung der Vertrauensinfrastruktur. Den Aspekten der Benutzer-
+
+freundlichkeit und der Sicherheit wird somit bei der Ausarbeitung der bundesrätlichen 
+
+Verordnung besondere Beachtung zu schenken sein. Die Infrastruktur muss laufend 
+
+den technischen Veränderungen angepasst werden können. 
+
+ 
+
+4.   Koordination mit Vollzugsträgern  
+
+Die Umsetzung des BGEID und insbesondere seiner Art. 8 und Art. 9 verlangt nach 
+
+umfassenden Massnahmen auf Ebene der Kantone und Gemeinden. Im EB fehlen 
+
+jedoch Ausführungen zur Notwendigkeit, die Umsetzung mit den Vollzugsträgern ko-
+
+ordiniert zu planen. Auch werden keine Angaben gemacht zum Zeitbedarf für die 
+
+Umsetzung in den Kantonen und Gemeinden (gemäss Art. 8 der Vernehmlassungs-
+
+verordnung, VIV; SR 172.061.1) sowie zum geplanten Zeitpunkt des Inkrafttretens. 
+
+Wir erwarten in der Botschaft des Bundesrates entsprechende Ausführungen. Eine 
+
+koordinierte Umsetzung gemäss dem Arbeitspapier von Bund und Kantone vom 
+
+28. Oktober 2015 ist an die Hand zu nehmen. 
+
+ 
+
+Wir erinnern daran, dass die Digitalisierung der Verwaltung auf Kantons- und Ge-
+
+meindeebene bereits in vollem Gange ist. Es wurden bereits und werden in den 
+
+nächsten Jahren weitere grosse Investitionen vorgenommen. Für die Kantone ist es 
+
+deshalb von entscheidender Bedeutung, dass die Identifizierung über die E-ID sich 
+
+technisch problemlos in ihre bestehenden Anwendungen integrieren lässt. Der EB 
+
+(Kap. 5.2., S. 20-21) geht pauschal davon aus, dass Kantone und Gemeinden von 
+
+der E-ID und der Vertrauensinfrastruktur profitieren werden, was ihre (nicht weiter be-
+
+zifferten) Aufwände in jedem Fall rechtfertigen werde. Diese Ausführungen genügen 
+
+ 
+
+ 
+
+ 
+
+4 
+
+nicht. Es ist eine detailliertere Kostenfolgeabschätzung vorzunehmen, und der Be-
+
+rücksichtigung der Anschlussfähigkeit bestehender Lösungen ist bei der Ausarbei-
+
+tung der technischen Details vorrangige Beachtung zu schenken.  
+
+ 
+
+5. 
+
+Haftung und Qualitätsstandards  
+
+Die E-ID wird zur Identifizierung in kantonalen elektronischen Diensten zur Anwen-
+
+dung kommen und kantonale Lösungen ergänzen. Im EB fehlen jedoch Ausführun-
+
+gen zum Umgang mit Haftungsansprüchen, sollten Fehler im E-ID-System zu Lücken 
+
+in den kantonalen Anwendungen führen. Entsprechende Angaben mit Bezug zu an-
+
+erkannten Qualitätsstandards (Standard eCH-0170) sind im Hinblick auf nachfol-
+
+gende Ausführungsbestimmungen in der Botschaft zu ergänzen. 
+
+ 
+
+6.  Vollmacht und gesetzliche Vertretung 
+
+Weder im Entwurf noch im EB sind Hinweise zu finden auf die Abläufe in Zusammen-
+
+hang mit Vollmachten und der gesetzlichen Vertretung. Gemäss Art. 4 und Art. 5 
+
+BGEID ist zur Ausstellung einer E-ID für Minderjährige bis 14 Jahre und Personen 
+
+unter umfassender Beistandschaft das Einverständnis der gesetzlichen Vertretung 
+
+nötig. Es fehlen aber Aussagen zu späteren Vertretungs- und Delegationsmöglichkei-
+
+ten in der Nutzung der E-ID oder in der Anwendung anderer Nachweise. Im Interesse 
+
+einer einheitlichen Vollzugspraxis ist eine entsprechende Klärung in der Botschaft 
+
+wichtig. 
+
+ 
+
+7. 
+
+Fehlende Ausführungen zur Funktionsweise des elektronischen Identi-
+
+tätsnachweises 
+
+Die technologieneutrale Ausgestaltung des Gesetzesentwurfs ist aufgrund der lau-
+
+fenden technischen Entwicklungen grundsätzlich zu begrüssen, da nur auf diese 
+
+Weise die Flexibilität und Zukunftsorientiertheit des Gesetzes sichergestellt werden 
+
+kann. Kritisch ist jedoch anzumerken, dass auch im Rahmen des EB Aussagen zur 
+
+vorgesehenen Ausgestaltung der Lösung weitgehend fehlen. Es werden zwar ver-
+
+schiedene Schlagworte wie "Self Sovereign Identity" im Rahmen des EB genannt, 
+
+ohne jedoch auszuführen, wie eine entsprechende Lösung ausgestaltet sein könnte. 
+
+Dies macht es für Personen, welche die Debatte und insbesondere die informelle öf-
+
+fentliche Konsultation bisher nicht verfolgt haben schwierig, sich eine abschliessende 
+
+Meinung zum Erlass zu bilden. Es wird daher angeregt, dass zumindest im Rahmen 
+
+ 
+
+ 
+
+ 
+
+5 
+
+der Botschaft etwas konkreter auf die Ausgestaltung der möglichen Lösung einge-
+
+gangen werden soll.  
+
+ 
+
+8.  
+
+E-ID mit und ohne Identitätsnachweis 
+
+Die vom Volk am 7. März 2021 deutlich abgelehnte Vorlage hatte den Titel "Bundes-
+
+gesetz über elektronische Identifizierungsdienste". Diese sprachliche Verschiebung 
+
+weg von "Identifizierung" neu hin zu "Identitäts(-nachweis) stiftet Verwirrung. So be-
+
+nötigt die ausländische Wohnbevölkerung bloss einen gültigen Ausweis nach Auslän-
+
+der- und Integrationsgesetz (AIG; SR 142.20) vorzuweisen, um eine E-ID ausgestellt 
+
+zu erhalten. In seiner physischen Form gilt ein solcher Ausländerausweis nun aber 
+
+einerseits nie als Identitätsausweis. Anderseits kann bei bestimmten Ausweiskatego-
+
+rien nicht davon ausgegangen werden, dass vorgängig die Identität der betreffenden 
+
+Personen verlässlich festgestellt werden konnte (so N, F, S und Ci). Mit anderen 
+
+Worten kann bei der Grundlage, die zur Ausstellung einer E-ID führt, unterschieden 
+
+werden in:  
+
+- 
+
+- 
+
+E-ID mit Identitätsnachweis  
+
+E-ID ohne Identitätsnachweis  
+
+Der Gesetzgeber möchte darauf verzichten, den beiden in ihrer Fundiertheit und Aus-
+
+sagekraft doch unterschiedlichen E-ID-Konstellationen unterschiedliche rechtliche 
+
+Wirkungen beizumessen. So wird in Art. 9 BGEID festgehalten, dass jede Behörde 
+
+oder andere Stelle, die öffentliche Aufgaben erfüllt, die E-ID akzeptieren muss, wenn 
+
+sie eine elektronische Identifizierung vornimmt. Des Weiteren liest man in den Erläu-
+
+terungen: "Dies ist angezeigt, weil die E-ID als staatliches elektronisches Identifikati-
+
+onsmittel zum Nachweis der eigenen Identität in der virtuellen Welt ausgestaltet wird 
+
+und damit vergleichbar ist mit Identitätskarte oder Pass in der physischen Welt, die 
+
+auch bei jeder Identifizierung von allen Behörden akzeptiert werden." Klar ist, dass 
+
+die E-ID in ihrer Wirkung nicht über diejenige des Ausländerausweises gehen darf. 
+
+Dies soll so auch im Gesetz festgehalten sein. Um Missverständnissen vorzubeugen, 
+
+erscheint es zudem sinnvoll, dass der Gesetzgeber terminologisch sehr deutlich zwi-
+
+schen einem Identifikationsmittel und dem Identitätsnachweis unterscheidet. Mit dem 
+
+Ausländerausweis kann sich die betroffene Person als diejenige identifizieren, der in 
+
+der Schweiz ein Aufenthaltsrecht unter den im Ausweis genannten Daten (Namen, 
+
+Geburtsdatum etc.) bewilligt worden ist. Ob diese Daten auch der tatsächlichen Iden-
+
+tität entsprechen, ist hiervon klar zu trennen. Insofern kann es nach dem Gesagten 
+
+ 
+
+ 
+
+ 
+
+6 
+
+nicht genügen, im EB zu Art. 3 BGEID die Problematik aufzuzeigen ("fehlender Iden-
+
+titätsnachweis"), daran aber keine Konsequenzen zu knüpfen. Hier gilt es dringend, 
+
+anzusetzen und zu differenzieren. 
+
+ 
+
+9.   Sprachliche Form des Vorentwurfs 
+
+Im Vorentwurf sind noch einige Formulierungen enthalten, welche noch nicht einheit-
+
+lich gendergerecht scheinen. Art. 5 BGEID verwendet beispielsweise die männliche 
+
+und die weibliche Form, Art. 13 Abs. 1 BGEID nur die weibliche Form, Art. 13 Abs. 2 
+
+BGEID wieder beide, Art. 17 Abs. 1 BGEID nur die weibliche. Dies ist zu korrigieren. 
+
+ 
+
+II.  Bemerkungen zu den einzelnen Bestimmungen des BGEID 
+
+ 
+
+Art. 1 BGEID: (Marginalie fehlt) 
+
+Es wird ausdrücklich begrüsst, dass auf den Schutz der Persönlichkeit und die tech-
+
+nischen Möglichkeiten hingewiesen wird. Indessen bezweckt das Gesetz lediglich die 
+
+sichere Identifizierung mittels E-ID unter Privaten und mit Behörden zu gewährleis-
+
+ten. Dabei sind die in Art. 1 Abs. 2 lit. b - d BGEID aufgeführten Aspekte zu berück-
+
+sichtigen. Sie bilden nicht Zweck des Gesetzes, sondern Massnahmen für die Zwe-
+
+ckerfüllung. Es wird deshalb beantragt, einen neuen Art. 1 Abs. 3 einzufügen, der 
+
+Art. 1 Abs. 2 lit. b - d BGEID beinhaltet. 
+
+ 
+
+Gemäss Art. 1 Abs. 1 Bst. a wird im BGEID die Ausstellung einer E-ID an natürliche 
+
+Personen geregelt. Der EB (S. 8 zu Art. 3 BGEID) weist darauf hin, dass juristische 
+
+Personen nicht Inhaber einer E-ID sein können. Wir unterstützen diesbezüglich den 
+
+Standpunkt des Bundes. Die E-ID für juristische Personen würde dem Identity & Ac-
+
+cess Management-Konzept des Kantons Graubünden widersprechen. Eine juristi-
+
+sche Person wird immer von einer oder mehreren natürlichen Person(en) vertreten. 
+
+Ein Einbezug von juristischen Personen wird deshalb abgelehnt. 
+
+ 
+
+Art. 2 BGEID: Form und Inhalt 
+
+Weder aus der Formulierung noch aus den Erläuterungen wird die in Art. 2 BGEID 
+
+aufgeführte Aufzählung von Attributen plausibel. Unter dem Titel "Personenidentifi-
+
+zierungsdaten" (Art. 2 Abs. 2 BGEID) werden Daten aufgeführt, die eine Person iden-
+
+ 
+
+ 
+
+ 
+
+7 
+
+tifizieren sollen. Die AHV-Nummer, welche für sich alleine eine Person individuali-
+
+siert, wird jedoch unter dem Titel "Folgende Daten" (Art. 2 Abs. 3 BGEID) festgehal-
+
+ten. Die E-ID enthält gemäss Gesetz alle Daten gemäss Art. 2 Abs. 2 und 3 BGEID. 
+
+Aus dem Gesetz geht nicht hervor, welche Daten gegen aussen erkennbar sind. Es 
+
+darf sein, dass für jedermann die AHV-Nummer erkennbar ist. In Art. 16 Abs. 1 
+
+BGEID wird wohl festgehalten, die Inhaberin des elektronischen Nachweises be-
+
+stimme, welche Bestandteile des Nachweises an Behörden oder Private, die elektro-
+
+nische Nachweise überprüfen, übermittelt werden. Diese Vorgehensweise entspricht 
+
+nicht der gelebten Wirklichkeit. Obwohl im EB auf den Grundsatz der Beschränkung 
+
+der Datenbearbeitung auf das strikte Minimum verwiesen wird, läuft es in der Praxis 
+
+darauf hinaus, dass sämtliche Daten der E-ID bekannt gegeben werden müssen, 
+
+wenn eine Dienstleistung bezogen werden will, zumal die Verifikatorin bestimmt, wel-
+
+che Daten für den Bezug von Leistungen erforderlich sind. 
+
+ 
+
+In Art. 2 Abs. 1 BGEID ist definiert, welche Personenidentifizierungsdaten eine E-ID 
+
+zwingend enthalten muss. Sowohl in Anwendung des Datenschutzrechtes als auch 
+
+der allgemeinen verwaltungsrechtlichen Normen ist immer dem Prinzip der Verhält-
+
+nismässigkeit nachzuleben. Die Verwendung der meisten dieser Personenidentifizie-
+
+rungsdaten ist im Zusammenhang mit der Identifizierungsfunktion der E-ID durchaus 
+
+nachvollziehbar (etwa amtlicher Name und Vorname, Geburtstag oder Geschlecht). 
+
+In diesem Zusammenhang nicht einleuchtend erscheint die Verwendung des Ge-
+
+burtsorts. Die Erforderlichkeit des Geburtsorts als Personenidentifizierungsdatum 
+
+wird auch im EB nicht weiter begründet. Es sind im nicht-digitalen Rechtsverkehr 
+
+kaum Fälle ersichtlich, in denen zu Identifizierungszwecken der Geburtsort einer Per-
+
+son benötigt wird. An die Identifizierung im digitalen Raum sollen, wie sich aus dem 
+
+EB ergibt, nicht höhere Anforderungen gestellt werden als an die Identifizierung im 
+
+nicht-digitalen Raum. Daher ist auf die Verwendung des Geburtsorts als Perso-
+
+nenidentifizierungsdatum zu verzichten.  
+
+ 
+
+Gemäss Art. 2 Abs. 2 BGEID enthält die E-ID zudem unter anderem die AHV-
+
+Nummer. Diese AHV-Nummer wurde ursprünglich nur für die Anwendung in den So-
+
+zialversicherungen geschaffen. Seit dem 1. Januar 2022 dürfen Behörden von Bund, 
+
+Kantonen und Gemeinden im Rahmen ihrer gesetzlichen Aufgaben die  
+
+ 
+
+ 
+
+ 
+
+8 
+
+AHV-Nummer systematisch verwenden. Die Verwendung der AHV-Nummer als Per-
+
+sonenidentifizierungsdatum ist jedoch verschiedentlich kritisiert und auf ihren Nutzen 
+
+hinterfragt worden. So wurde insbesondere auch im Rahmen der Botschaft zum ur-
+
+sprünglichen BGEID aufgrund der Rückmeldungen aus dem Vernehmlassungsver-
+
+fahren von einer Verwendung der AHV-Nummer als Personenidentifizierungsdatum 
+
+weitgehend abgesehen. Diese solle nur vom fedpol zur Identifizierung von Personen 
+
+systematisch verwendet werden können (vgl. BBl 2018 3936). Mit der Aufnahme der 
+
+AHV-Nummer in Art. 2 Abs. 3 BGEID kann diese nun wieder flächendeckend zur 
+
+Identifizierung im Rahmen der Verwendung einer E-ID verwendet werden. Warum 
+
+die neue Gesetzesvorlage, welche einen grossen Wert auf den Aspekt der Daten-
+
+sparsamkeit legt, in diesem Bereich über die vorherige Vorlage ohne Erforderlichkeit 
+
+und weitere Erläuterung hinausgeht, ist nicht nachvollziehbar. Wir beantragen, auf 
+
+die Nennung der AHV-Nummer in Art. 2 Abs. 3 lit. a BGEID zu verzichten oder deren 
+
+Verwendung so zu beschränken, dass sie nur vom fedpol im Rahmen der Identifizie-
+
+rung verwendete werden kann. 
+
+ 
+
+Gemäss Art. 2 Abs. 2 lit. g Ziff. 1 BGEID enthält die E-ID ein Gesichtsbild gestützt auf 
+
+Art. 11 Ausweisgesetz (AwG; SR 143.1). Massgebend ist aber vielmehr Art. 2 AwG. 
+
+Danach enthält jeder Ausweis eine Fotografie, nicht jedoch zwingend einen Daten-
+
+chip mit einem Gesichtsbild. Aus dem EB geht nicht hervor, ob der Begriff Fotografie 
+
+und Gesichtsbild identisch ist. Hier besteht Erklärungsbedarf. Die gesetzliche Grund-
+
+lage für den Inhalt des Informationssystem ZEMIS findet sich in Art. 4 des Bundesge-
+
+setzes über das Informationssystem für den Ausländer- und den Asylbereich (BGIAA; 
+
+SR 142.51). Gemäss Art. 4 Abs. 1 lit. abis BGIAA werden im System biometrische Da-
+
+ten, unter anderem Gesichtsbilder gespeichert. Hier ist eine Präzisierung angebracht, 
+
+zumal sich die Begriffe Fotografie und Gesichtsbild gemäss BGIAA und AwG deutlich 
+
+unterscheiden. 
+
+ 
+
+Art. 3 BGEID: Persönliche Voraussetzungen 
+
+Die Bestimmung sieht vor, dass nur Personen mit geregeltem Aufenthalt in der 
+
+Schweiz eine E-ID beantragen können. Der Kreis der Personen, die einen entspre-
+
+chenden Identitätsnachweis in der Schweiz z.B. im Verkehr mit Behörden aber auch 
+
+im Privatrechtsverkehr benutzen können, ist aber weiter gefasst. Hierbei ist etwa an 
+
+Personen zu denken, welche ohne geregelten Aufenthalt in der Schweiz wohnhaft 
+
+ 
+
+ 
+
+ 
+
+9 
+
+sind ("Sans-Papiers") oder an Zweitwohnungsbesitzer. Es rechtfertigt sich nicht, 
+
+diese Personengruppen per se von der Nutzung entsprechender elektronischer Iden-
+
+titätsnachweise auszuschliessen. Dies zumal auch bei Personengruppen mit einem 
+
+gültigen Ausweis nach der Bundesgesetzgebung über Ausländerinnen und Auslän-
+
+der, Integration und Asyl, bei welchen die Identität nicht eindeutig festgestellt werden 
+
+kann, eine eingeschränkte Nutzung der E-ID vorgesehen werden kann (vgl. S. 9 EB). 
+
+Es ist zu prüfen, ob diese Möglichkeit auch auf Personengruppen ohne Ausweis aus-
+
+geweitet werden kann.  
+
+ 
+
+Gemäss dem EB (S. 9 zu Art. 3 BGEID) sollen gesetzliche Einschränkungen in der 
+
+Anwendung der E-ID möglich sein für Personen, deren Identität nicht verlässlich fest-
+
+gestellt werden konnte. Die Einschränkung für Personen ohne geregelten Aufenthalt 
+
+in der Schweiz soll nicht über einen weiteren "Vermerk", sondern über die bereits de-
+
+finierten Vertrauensstufen gem. eCH-1070 gelöst werden. Der Kanton Graubünden 
+
+sieht vor, dass jede natürliche Person die Möglichkeit hat, eine elektronische Identität 
+
+zu erstellen. Je nach Identifizierung der Person (z.B. persönliches Vorsprechen), er-
+
+hält diese eine entsprechende Vertrauensstufe (siehe eCH-0170). Dies ermöglicht 
+
+auch bspw. ausländischen Personen die Nutzung von elektronischen Dienstleistun-
+
+gen des Kantons. Wichtig ist, dass diese Vertrauensstufe in der E-ID hinterlegt ist. 
+
+Die Vertrauensstufe soll durch einen entsprechenden Identifizierungsprozess jeder-
+
+zeit erhöht werden können, ohne dass eine neue E-ID ausgestellt werden muss. 
+
+ 
+
+Im Weiteren fehlt in Art. 3 Abs. 1 BGEID die gemäss dem EB vorgesehene Kann-Be-
+
+stimmung, "mit der (…) sichergestellt (wird), dass die antragstellenden Personen 
+
+nicht verpflichtet sind, eine E-ID zu beziehen oder zu verwenden". Es ist richtig und 
+
+nachvollziehbar, dass keine Verpflichtung zur Nutzung einer E-ID bestehen soll, auch 
+
+wenn man die persönlichen Voraussetzungen für deren Ausstellung erfüllt. Sofern 
+
+man zum Schluss kommt, dass dies mit der gegebenen Formulierung nicht der Fall 
+
+ist, so ist Art. 3 BGEID explizit als Kann-Bestimmung zu formulieren.  
+
+ 
+
+Art. 4 BGEID: Ausstellung 
+
+Der Ausstellungsprozess und damit verbunden die Frage, wie die Identifizierung der 
+
+antragsstellenden Personen durchgeführt wird, sind für die Sicherheit und damit auch 
+
+ 
+
+ 
+
+ 
+
+10 
+
+für die künftige Akzeptanz der E-ID zentral. Eine Regelung des Ausstellungsprozes-
+
+ses muss deshalb ins Gesetz aufgenommen werden. Dabei dürfen Sicherheitsüber-
+
+legungen nicht hinter Kosten- und Effizienzfragen zurückstehen. Art. 6 Abs. 5 des re-
+
+vidierten Bundesgesetzes über den Datenschutz (nDSG; SR 235.1) statuiert die 
+
+Pflicht des Datenbearbeiters oder der Datenbearbeiterin, sich über die Richtigkeit der 
+
+Personendaten zu vergewissern. Die Angemessenheit der Massnahmen muss sich 
+
+dabei auch nach dem – im Falle der E-ID erheblichen – Risiko für die Grundrechte 
+
+der betroffenen Person richten. 
+
+ 
+
+Der Vorentwurf sieht in Art. 4 Abs. 2 BGEID u.a. vor, dass Minderjährige bis zum voll-
+
+endeten vierzehnten Lebensjahr die Einwilligung ihrer gesetzlichen Vertretung benö-
+
+tigen. Im Gegensatz dazu wird für den Bezug eines physischen Schweizer Identitäts-
+
+ausweises Volljährigkeit vorausgesetzt. Diese Unterscheidung ist schwierig nachvoll-
+
+ziehbar. Somit könnte eine Person ab dem vierzehnten Lebensjahr ohne die Zustim-
+
+mung der gesetzlichen Vertretung eine E-ID beziehen. Auch die Begründung im EB, 
+
+wonach die Jugendlichen für die Erledigung ihrer alltäglichen Aufgaben und Aktivitä-
+
+ten hauptsächlich das Internet verwenden und demzufolge eine unterschiedliche 
+
+Handhabung gerechtfertigt sei, vermag nicht zu überzeugen. Im Vordergrund sollten 
+
+Sicherheitsüberlegungen stehen und nicht die Frage, welche Ausweisarten von Ju-
+
+gendlichen mehrheitlich genutzt werden. In Analogie zum physischen Ausweis sollte 
+
+das massgebende Alter für den eigenmächtigen Bezug einer elektronischen ID eben-
+
+falls auf achtzehn Jahre erhöht werden, alternativ zumindest bis zum achtzehnten Al-
+
+tersjahr die Zustimmung der gesetzlichen Vertretung erfordern.  
+
+ 
+
+Im Rahmen einer Ausweisbeantragung sollte es ferner (ohne Zwang) möglich sein, 
+
+direkt im Ausweiszentrum eine E-ID zu beantragen. Ein in der Folge nachgelagerter 
+
+Antrag beim fedpol würde einen (vermeidbaren) administrativen Leerlauf darstellen. 
+
+ 
+
+Art. 5 BGEID: Widerruf 
+
+Art. 5 Bst. d Ziff. 2 BGEID legt fest, dass die E-ID widerrufen wird, wenn das fedpol 
+
+über eine Änderung der Personenidentifizierungsdaten des Inhabers oder der Inha-
+
+berin informiert wird. Im Sinne einer Dienstleistung und des Mehrwerts, den die E-ID 
+
+auch für die Bevölkerung schaffen soll, ist in solchen Fällen die automatische Aus-
+
+stellung einer neuen E-ID ins Auge zu fassen. Die betroffenen Personen müssen sich 
+
+ 
+
+ 
+
+ 
+
+11 
+
+dann nicht noch einmal um die Ausstellung einer neuen E-ID bemühen und profitie-
+
+ren so von den erleichterten Abläufen, die durch die Digitalisierung ermöglicht wer-
+
+den. 
+
+ 
+
+Art. 5 BGEID regelt die Voraussetzungen, gemäss denen die E-ID bei begründetem 
+
+Verdacht auf Missbrauch den Betroffenen entzogen werden kann (Art. 5 Bst. c 
+
+BGEID). Sofern die E-ID die gewünschte und vorgesehene grosse Bedeutung im All-
+
+tag erlangt, kann eine entsprechende Sperrung für die Inhaberin oder den Inhaber im 
+
+Alltag einschränkende Auswirkungen haben. Dies kann auch durch die Pflicht zur Ak-
+
+zeptanz eines Ausweisdokuments anstelle der E-ID nicht gänzlich ausgeschlossen 
+
+werden. Daher muss gegen einen allfälligen Widerruf zwingend ein wirksamer 
+
+Rechtsschutz bestehen und es ist sicherzustellen, dass der Entzug den Betroffenen 
+
+mitzuteilen und auf Verlangen als anfechtbare Verfügung zu eröffnen ist. 
+
+ 
+
+Antrag (neuer Art. 5 Abs. 2 BGEID)  
+
+"Der Widerruf der E-ID gemäss Art. 5 Abs. 1 lit. c ist der Inhaberin oder dem Inhaber 
+
+mitzuteilen und auf Verlangen innert 30 Tagen nach der Mitteilung als anfechtbare 
+
+Verfügung zu eröffnen." 
+
+ 
+
+Art. 6 BGEID: Gültigkeitsdauer 
+
+Gemäss EB bleibt nach Ablauf der Gültigkeit die E-ID auf dem Gerät des Inhabers / 
+
+der Inhaberin bestehen. Es müssen in diesem Zusammenhang zwei Aspekte beach-
+
+tet werden. Art. 32 Abs. 2 lit. c nDSG gibt einer betroffenen Person das Recht, dass 
+
+Personendaten gelöscht werden. Kann dieses Recht gestützt auf die Ausführungen 
+
+im EB durchgesetzt werden? Unseres Erachtens müsste die Löschung der abgelau-
+
+fenen E-ID automatisch erfolgen. Darüber hinaus wird dem Missbrauch von abgelau-
+
+fenen E-ID Vorschub geleistet, da in vielen Fällen dem Ausstellungs- und Ablaufda-
+
+tum wenig Gewicht beigemessen wird. Auch aus diesem Blickwinkel betrachtet, 
+
+drängt sich eine Löschung der Daten auf dem Gerät des Inhabers / der Inhaberin auf, 
+
+selbst wenn dies mit technischen Schwierigkeiten verbunden ist. 
+
+ 
+
+Neben der Gültigkeitsdauer ist im Entwurf auch die Frage der Verlängerung nicht ge-
+
+regelt. Es wird nicht klar, ob nach Ablauf des physischen Ausweisdokuments – sofern 
+
+die Gültigkeit der E-ID an diese geknüpft wird – erneut eine E-ID beantragt werden 
+
+ 
+
+ 
+
+ 
+
+12 
+
+muss oder ob dies bei Verlängerung des Ausweises automatisch geschieht. Dies ist 
+
+spätestens in der Verordnung ebenfalls zu klären. 
+
+ 
+
+Art. 7 BGEID: Sorgfaltspflicht 
+
+Art. 7 BGEID sieht eine Sorgfaltspflicht für Inhaberinnen und Inhaber einer E-ID vor. 
+
+Nicht konkret geregelt sind dabei die Verpflichtungen bei Verlust des E-ID-Trägers / 
+
+der E-ID Trägerin, dies im Gegensatz zu Art. 8 AwG, das eine Meldepflicht bei Ver-
+
+lust eines (physischen) Ausweises vorsieht. Zur Konkretisierung der Sorgfaltspflich-
+
+ten ist dieser Fall auch im BGEID auszuführen. Die Inhaberin oder der Inhaber einer 
+
+E-ID muss jeden Verdacht auf Missbrauch ihrer oder seiner E-ID dem fedpol melden. 
+
+Dies sollte aus praktischen Gründen auch über die kantonale Anlaufstelle möglich 
+
+sein (analog z.B. beim Verlust der Identitätskarte). 
+
+ 
+
+Art. 8 BGEID: Anlaufstellen der Kantone 
+
+Die Bestimmung sieht eine zusätzliche Aufgabe für die Kantone vor. Der EB geht da-
+
+von aus, dass die benötigten Strukturen in den Kantonen bereits vorhanden sind. 
+
+Dies ist jedoch nicht notwendigerweise der Fall. Als Vollzugsträger steht hier der 
+
+Bund in der Verantwortung. Wer eine Informatiklösung anbietet und betreibt, hat 
+
+auch den nötigen Support sicherzustellen, soweit die eigene Anwendung betroffen 
+
+ist. Die Kantone sehen sich da als zuständig, wo es darum geht, Unterstützung beim 
+
+Einsatz der E-ID für kantonale E-Government-Angebote zu leisten. Für Schwierigkei-
+
+ten bei der Beantragung der E-ID oder bei der Nutzung der Vertrauensinfrastruktur 
+
+muss dagegen der Bund eine Ansprechstelle schaffen. Eine solche ist im EB zwar er-
+
+wähnt, sie fehlt jedoch im Gesetzesentwurf ebenso wie der Second Level Support, 
+
+den der Bund gemäss dem EB für die Kantone wahrnehmen soll. Unter Bezugnahme 
+
+auf die Ausführungen im EB ist zudem darauf hinzuweisen, dass Personen, die bereit 
+
+sind, eine E-ID zu nutzen, üblicherweise auch in der Lage sind, einen Support per 
+
+Telefon oder E-Mail in Anspruch zu nehmen. Es müssen dafür nicht zwingend physi-
+
+sche Anlaufstellen geschaffen werden.  
+
+ 
+
+Art. 9 BGEID: Pflicht zur Akzeptanz der E-ID 
+
+Gemäss Art. 9 BGEID müssen Behörden und andere Stellen, die eine öffentliche 
+
+Aufgabe erfüllen, die staatliche E-ID akzeptieren, wenn sie eine elektronische Identifi-
+
+zierung vornehmen. Aus dem EB wird klar, dass diese Verpflichtung sich lediglich auf 
+
+ 
+
+ 
+
+ 
+
+13 
+
+Identifizierungsprozesse beschränkt, bei denen ein persönliches Erscheinen und die 
+
+Vorlage eines Identitätsdokuments erforderlich sind. In diesen Fällen muss es der be-
+
+troffenen Person offenstehen, sich gegenüber der Behörde mit einer E-ID auszuwei-
+
+sen. Gemäss der Formulierung im EB nicht vorgesehen ist, dass alle kantonalen und 
+
+kommunalen Online-Dienstleistungen, welche auf einer Login-Lösungen basieren, 
+
+zwingend auch die Verwendung einer E-ID anbieten müssen. Dies erachten wir im 
+
+Ergebnis als richtig, ergibt sich jedoch nicht aus dem Wortlaut des Gesetzes. Aus 
+
+Klarheitsgründen sei das Gesetz daher entsprechend anzupassen.  
+
+ 
+
+Der Begriff der "öffentlichen Aufgabe" wird im EB mit "Verwaltungsaufgaben" gleich-
+
+gesetzt, was dem Begriff von Art. 178 Abs. 3 der Bundesverfassung der Schweizeri-
+
+schen Eidgenossenschaft (BV; SR 101) entspricht. Es empfiehlt sich, im BGEID 
+
+ebenfalls von "Verwaltungsaufgaben" zu sprechen, oder, falls der Begriff der "öffentli-
+
+chen Aufgabe" weiter gefasst werden soll, die Botschaft in diesem Punkt zu präzisie-
+
+ren. Es ist zu bedenken, dass unter anderem im Gesundheitswesen eine Vielzahl 
+
+von privaten Akteuren öffentliche Aufgaben ausführen, so zum Beispiel Krankenver-
+
+sicherer, Betreiber von Krebsregistern und Transplantationsregistern oder Anbieter 
+
+des EPD. Die Pflicht zur Akzeptanz der zukünftigen E-ID bei all diesen Akteuren ist 
+
+durchaus sinnvoll, wird aber Investitionen und Vorbereitungsarbeiten zur Folge ha-
+
+ben, die den Betroffenen möglichst rasch klar kommuniziert werden müssen. Es ist 
+
+somit wichtig, dass bei allen Beteiligten von Anfang an Klarheit herrscht über den 
+
+Geltungsbereich von Art. 9 BGEID. 
+
+ 
+
+Die Umsetzung von Art. 9 BGEID bedingt eine Integration der E-ID in bestehende  
+
+IT-Anwendungen von Kantonen und Gemeinden. Diesen ist dafür eine ausreichende 
+
+Übergangsfrist einzuräumen. 
+
+ 
+
+Art. 10 BGEID: Vorweisen einer E-ID 
+
+Art. 10 BGEID legt fest, dass eine Identifizierung in der physischen Welt weiterhin 
+
+auch ohne eine E-ID durch das Vorweisen eines Ausweisdokuments möglich sein 
+
+muss. Die Bestimmung verhindert aber nicht, dass der Zugang zu Dienstleistungen, 
+
+die ausschliesslich elektronisch verfügbar sind, künftig eine E-ID voraussetzen kann. 
+
+Die Freiwilligkeit zum Bezug einer E-ID wird damit unter Umständen eingeschränkt. 
+
+Die leichtere Abwicklung einer elektronischen Identifizierung birgt zudem das Risiko, 
+
+ 
+
+ 
+
+ 
+
+14 
+
+dass eine solche künftig von öffentlichen wie privaten Akteuren auch für den Zugang 
+
+zu Dienstleistungen verlangt wird, für die das Vorweisen eines Personalausweises 
+
+bisher nicht nötig war. In der Umsetzung ist somit darauf zu achten, dass durch den 
+
+Einsatz der E-ID der Zugang zu öffentlichen Dienstleistungen nicht in unzumutbarer 
+
+Weise eingeschränkt wird. Problematisch wäre beispielsweise, wenn der Zugriff auf 
+
+in der Volksschule verwendete Online-Lehrmittel künftig nur mit einer E-ID möglich 
+
+wäre. Dies würde nicht nur Schülerinnen und Schüler ausschliessen, deren Eltern 
+
+keine E-ID beantragen möchten, sondern auch solche ohne geregelten Aufenthalt in 
+
+der Schweiz, die gemäss Art. 19 BV dennoch ein Recht auf Grundschulunterricht ha-
+
+ben. 
+
+ 
+
+Art. 11 BGEID: Informationssystem zur Ausstellung und zum Widerruf der E-ID 
+
+Gemäss Art. 11 BGEID betreibt das fedpol ein Informationssystem zur Ausstellung 
+
+und zum Widerruf der E-ID. In der Bestimmung werden die beinhalteten Daten und 
+
+die Schnittstellen zu anderen Informationssystemen geregelt. Gemäss Art. 11 Abs. 5 
+
+BGEID regelt der Bundesrat die Aufbewahrungsfristen, wobei diese für längstens bis 
+
+fünf Jahre nach dem Ablauf oder Widerruf einer E-ID aufbewahrt werden können. 
+
+Nach dem weiteren oben Ausgeführten sind Datenbearbeitungen aus Verhältnismäs-
+
+sigkeitsgründen auf das erforderliche Mass zu beschränken. Dies gilt neben der Art 
+
+der bearbeiteten Daten auch in zeitlicher Hinsicht. Es trifft zu, dass auch nach dem 
+
+Ablauf oder Widerruf ein Interesse an der Einsicht in diese Daten bestehen kann, 
+
+etwa um Missbräuche nachträglich aufzudecken. Jedoch gilt es zu beachten, dass 
+
+das Interesse hieran im Laufe der Zeit abnimmt. Zudem ist ein entsprechendes Er-
+
+eignis umso schwerer zu beweisen, je länger es zurückliegt. Die vorgesehene Aufbe-
+
+wahrungsdauer erscheint zu lange und ist auf zwei Jahre zu begrenzen.  
+
+ 
+
+3. Abschnitt: Andere elektronische Nachweise 
+
+Der Bund stellt Behörden oder Privaten die Vertrauensinfrastruktur zur Verfügung. 
+
+Gemäss Art. 17 BGEID besteht ein öffentlich zugängliches Register (Basisregister). 
+
+Daneben wird offenbar ein Vertrauensregister geführt. Im Gesetz finden sich dazu 
+
+keine Angaben. Es ist also nicht klar, was Inhalt des einen und des anderen Regis-
+
+ters bildet und wie sich diese beiden Register zueinander verhalten. Ganz grundsätz-
+
+lich erschliessen sich die Ausführungen im EB zu dieser Thematik einem aussenste-
+
+henden Dritten kaum. 
+
+ 
+
+ 
+
+ 
+
+15 
+
+Art. 15 BGEID: Übertragbarkeit von elektronischen Nachweisen 
+
+Art. 15 BGEID regelt die Übertragbarkeit von elektronischen Nachweisen. Hierbei 
+
+wird festgelegt, dass Nachweise nicht einer Drittperson übertragen werden dürfen. 
+
+Dies ist zu begrüssen. Kritisch betrachtet wird indes die Formulierung von Art. 15 
+
+Abs. 2 BGEID, gemäss welcher dem Bundesrat die Kompetenz übertragen, wird die 
+
+Übertragung von elektronischen Nachweisen, die nicht auf eine natürliche Person 
+
+ausgestellt sind, zuzulassen.  
+
+ 
+
+Diese Formulierung suggeriert, dass z.B. auch juristische Personen entsprechende 
+
+elektronische Nachweise nutzen können. Dies erscheint nicht ausgeschlossen steht 
+
+jedoch im Gegensatz zur E-ID, welche gemäss den persönlichen Voraussetzungen 
+
+nur durch natürliche Personen genutzt werden kann (vgl. Art. 3 Bst. a BGEID). So-
+
+fern die elektronischen Nachweise (ausser der E-ID) juristischen Personen offenste-
+
+hen soll, so ist fraglich, ob der entsprechende Verweis zur Regelung auf Verord-
+
+nungsstufe ausreicht. Gemäss dem EB ist Art. 15 Abs. 2 BGEID indes in erster Linie 
+
+dahingehend zu verstehen, dass es ermöglicht werden soll, ihre Nachweise etwa 
+
+beim Wechsel des technischen Trägers (z.B. Smartphone) auf ein neues Gerät über-
+
+tragen zu können. Der Verlust oder der Wechsel des technischen Trägers ist in der 
+
+Praxis ein häufiges Szenario. Es wird daher richtigerweise eine Möglichkeit vorgese-
+
+hen, um die elektronischen Nachweise in diesen Fällen möglichst umstandslos wie-
+
+derherstellen zu können. Der Gesetzgeber entschliesst sich hierzu ein System für Si-
+
+cherungskopien bereitzustellen, welches in Art. 21 BGEID geregelt wird. Wenn der 
+
+entsprechende Absatz nur die Möglichkeit abdecken soll, die eigenen elektronischen 
+
+Nachweise auf diese Weise wiederherzustellen, so ist er zu weit gefasst und ist an-
+
+zupassen.  
+
+ 
+
+Antrag (Anpassung Art. 15 Abs. 2 BGEID): 
+
+"Elektronische Nachweise können mithilfe des Systems für Sicherungskopien auf ein 
+
+neues Trägermedium übertragen werden. Der Bundesrat regelt die Übertragung." 
+
+ 
+
+Art. 16 BGEID: Vorweisen von elektronischen Nachweisen 
+
+Gemäss Art. 16 Abs. 1 BGEID bestimmt die Inhaberin oder der Inhaber darüber, wel-
+
+che Bestandteile des Nachweises oder davon abgeleitete Informationen an die Verifi-
+
+katorin übermittelt werden. Diese begrüssenswerte Regelung wird bereits im EB 
+
+ 
+
+ 
+
+ 
+
+16 
+
+dadurch eingeschränkt, dass die Verifikatorin festlegt, welche Daten für den Zugang 
+
+zu ihren Diensten erforderlich sind. Es liegt hier bei im Interesse der Verifikatorinnen 
+
+so viele Daten wie möglich zu akquirieren. Dies steht in einem Spannungsverhältnis 
+
+zum datenschutzrechtlichen Verhältnismässigkeitsgrundsatz. Es ist insofern proble-
+
+matisch, als dass keine Kontrolle darüber stattfindet, welche Daten die Verifikatorin-
+
+nen von den Inhaberinnen und Inhabern eines Nachweises verlangen dürfen. In An-
+
+betracht dessen, dass sich die Inhaberin resp. der Inhaber kaum gegen die unzuläs-
+
+sige Erhebung von persönlichen Daten wehren kann, ist es angebracht, Vorkehrun-
+
+gen für die Verifikatorin zu treffen. Eine entsprechende Kontrolle der Daten, welche 
+
+maximal verlangt werden dürfen, könnte z.B. im Zusammenhang mit der Aufnahme 
+
+in das Basisregister erfolgen. 
+
+ 
+
+5. Abschnitt: Vertrauensinfrastruktur 
+
+Vergleiche obige Ausführungen zum 3. Abschnitt. 
+
+ 
+
+Art. 17 BGEID: Basisregister 
+
+Wie der EB (S. 14) ausführt, birgt die Tatsache, dass Ausstellerinnen ohne weitere 
+
+Überprüfung ihre Daten selber ins Basisregister gemäss Art. 17 Abs. 3 BGEID eintra-
+
+gen können, das Risiko, dass diese unter falscher Identität elektronische Beweismit-
+
+tel ausstellen können. Es liegt auf der Hand, dass dies für die betroffenen Personen 
+
+unter Umständen weitreichende Folgen haben kann. Die Abfederung dieses Risikos 
+
+durch Veröffentlichung bei begründetem Verdacht gemäss Art. 22 BGEID ist nicht 
+
+ausreichend, da sie bereits eine Verletzung der Persönlichkeitsrechte von betroffe-
+
+nen Personen voraussetzt. Auch können durch blosses Öffentlichmachen erfah-
+
+rungsgemäss nicht alle Nutzenden rechtzeitig erreicht werden. Ein Eintrag ins Ver-
+
+trauensregister nach Art. 18 BGEID muss entsprechend auch für private Anbieter 
+
+resp. private Anbieterinnen zwingend sein. Andernfalls können Missbräuche nicht 
+
+verhindert werden. 
+
+ 
+
+Art. 20 BGEID: Anwendung zur Prüfung von elektronischen Nachweisen 
+
+Der Bundesrat kann gemäss dieser Bestimmung vorsehen, dass der Bund eine An-
+
+wendung zur Verfügung stellt, mit der elektronische Nachweise auf ihre Gültigkeit 
+
+überprüft werden kann. Dies ist nicht nur vorzusehen, sondern unbedingt umzuset-
+
+zen. Die Kann-Bestimmung ist entsprechend anzupassen. Nur so stösst die E-ID in 
+
+ 
+
+ 
+
+ 
+
+17 
+
+der Gesellschaft auf Akzeptanz. Es muss ein Nutzen vorliegen und die Handhabung 
+
+muss einfach sein - auch bei der prüfenden Stelle. 
+
+ 
+
+Art. 21 BGEID: System für Sicherungskopien 
+
+Es ist zu begrüssen, dass der Bund dem Inhaber resp. der Inhaberin eine Möglichkeit 
+
+zur Aufbewahrung bereitstellt. Da auch eine Cloud-Lösung möglich sein soll, ist auf 
+
+die Sicherheitsaspekte einer Cloud-Lösung hinzuweisen. Gemäss Art. 21 Abs. 2 
+
+BGEID werden die Sicherheitskopien vor Zugriffen durch andere Personen ge-
+
+schützt. Der Schutz muss auch den Bund mitumfassen, da in der Brieftasche auch 
+
+elektronische Nachweise Dritter aufbewahrt werden. Zumindest in der Botschaft ist 
+
+auf diesen Aspekt hinzuweisen. Eine treffendere Formulierung im Gesetz ist anzu-
+
+streben, z.B.: "Die Sicherheitskopien werden vor unberechtigtem Zugriff geschützt". 
+
+ 
+
+Art. 25 BGEID: Technische Entwicklung 
+
+Die Funktionsweise von Abs. 2 dieser Bestimmung ist unklar: Wer entscheidet dar-
+
+über, ob ein Anwendungsfall von Abs. 2 vorliegt? Entscheidet dies der Bundesrat be-
+
+reits mit dem Erlass der Verordnung? Zudem ist der Zusammenhang zwischen 
+
+Abs. 1 und Abs. 2 von Art. 25 BGEID im Text deutlicher hervorzuheben, und es sollte 
+
+der Vollständigkeit halber der Fall des fakultativen Referendums miterfasst werden: 
+
+ 
+
+"2 Sofern Bestimmungen, die gestützt auf Abs. 1 erlassen werden, einer weiteren 
+
+Grundlage in einem Gesetz bedürfen, treten diese Bestimmungen ausser Kraft: 
+
+a) […] 
+
+b) mit der Ablehnung des Entwurfs des Bundesrates durch die Bundesversammlung 
+
+oder die Stimmberechtigten; oder […]" 
+
+ 
+
+Art. 26 BGEID: (Marginalie fehlt) 
+
+Art. 26 BGEID sieht vor, dass von Ausstellerinnen und Verifikatorinnen elektronischer 
+
+Nachweise Gebühren erhoben werden. Dies betrifft auch Stellen, die öffentliche Auf-
+
+gaben erfüllen, obwohl diese gemäss Art. 9 BGEID zur Akzeptanz der E-ID verpflich-
+
+tet sind. Gleichzeitig möchte der Bundesrat die E-ID durch Beiträge aus der Agenda 
+
+Digitale Verwaltung Schweiz finanzieren, die von den Kantonen mitfinanziert wird. 
+
+Gemäss Art. 3 Abs. 2 der Allgemeinen Gebührenverordnung (AllgGebV; SR 
+
+ 
+
+ 
+
+ 
+
+18 
+
+172.041.1) verzichtet die Bundesverwaltung auf die Erhebung von Gebühren von in-
+
+terkantonalen Organen, Kantonen und Gemeinden, soweit diese Gegenrecht gewäh-
+
+ren. Dies soll auch vorliegend entsprechend gehandhabt und Verrechnungen zwi-
+
+schen den Gemeinwesen auf ein Minimum beschränkt werden. 
+
+ 
+
+Der Bundesrat soll darüber hinaus mit der Kompetenz ausgestattet werden, die Ge-
+
+bühren für weitere Akteure ganz oder teilweise zu erlassen, soweit sie öffentliche 
+
+Aufgaben erfüllen. Unter anderem besteht im Gesundheitsbereich ein grosses Inte-
+
+resse an einer breiten Nutzung der E-ID, um die Aufbereitung von Gesundheitsdaten 
+
+zu erleichtern. Die Kosten für die betroffenen Stellen sind somit möglichst tief zu hal-
+
+ten. 
+
+ 
+
+Die Vorlage und der EB äussern sich nicht bzw. nur sehr vage über die Höhe der zu 
+
+erhebenden Gebühren. Diese sollen auf Verordnungsstufe festgelegt werden. Eine 
+
+explizite Kostenfolgeschätzung für die Nutzer aufgrund der Gebühren sollte in die 
+
+Botschaft aufgenommen werden, da die Kosten einen nicht unerheblichen Einfluss 
+
+auf die künftige Akzeptanz und Verbreitung der E-ID und der Vertrauensinfrastruktur 
+
+haben dürften. Eine explizite Kostenfolgeschätzung für die Ausstellerinnen und Verifi-
+
+katorinnen elektronischer Nachweise aufgrund der Gebühren sollte deshalb in die 
+
+Botschaft aufgenommen werden. 
+
+ 
+
+Art. 28 BGEID: Ausführungsbestimmungen 
+
+Zahlreiche technische Aspekte zur Umsetzung der E-ID werden auf Verordnungs-
+
+stufe geregelt. Aufgrund der unterschiedlichen bestehenden Lösungen in den einzel-
+
+nen Kantonen, aber auch in den einzelnen Sektoren ist es unabdingbar, dass die zu-
+
+ständigen Akteure eng in die Erarbeitung der Vollzugsregelungen miteinbezogen 
+
+werden. Es ist eine der Voraussetzungen einer breiten Akzeptanz der E-ID, dass 
+
+diese unkompliziert in bestehende Anwendungen integriert werden kann. 
+
+ 
+
+Art. 29 BGEID: Änderung anderer Erlasse 
+
+Gemäss dem EB (Ziff. 3.1) wurde die Verwendung der E-ID in spezifischen Berei-
+
+chen und damit die Änderung anderer Erlasse im Entwurf nur exemplarisch geregelt. 
+
+Es ist unabdingbar, die Gesetzgebung des Bundes im weiteren Verfahren systema-
+
+tisch auf Bestimmungen hin zu überprüfen, in denen ein physischer Ausweis oder 
+
+ 
+
+ 
+
+ 
+
+19 
+
+eine qualifizierte elektronische Signatur verlangt werden. Dies betrifft insbesondere 
+
+auch die Verfahrensgesetzgebung des Bundes. Die entsprechenden Bestimmungen 
+
+sind durchgehend anzupassen. 
+
+ 
+
+Namens der Regierung 
+
+Der Präsident: 
+
+Der Kanzleidirektor: 
+
+   
+
+ 
+
+   Marcus Caduff  
+
+ 
+
+Daniel Spadin 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

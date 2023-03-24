@@ -1,0 +1,111 @@
+ 
+
+Eidgenössisches Justiz- und Polizeidepartement 
+
+3003 Bern 
+
+ 
+
+Via Mail an rechtsinfrormatik@bj.admin.ch 
+
+Bern, 19. Oktober 2022  
+
+ 
+Antwort auf die Vernehmlassung zum Bundesgesetz über den elektronischen Iden-
+titätsnachweis und andere elektronische Nachweise (BGEID) 
+ 
+
+ 
+Sehr geehrte Frau Bundesrätin 
+
+Sehr geehrte Damen und Herren 
+
+Wir bedanken uns für die Gelegenheit, uns zum erwähnten Gesetzesentwurf zu äussern 
+und nehmen diese gerne wahr. Der Verein eGov-Schweiz bezweckt die Förderung der In-
+novation im eGovernment. In dieser Perspektive ist die Schaffung von Rechtsgrundlagen 
+für eine digitale Identitätsinfrastruktur von besonderem Interesse für unseren Verein. 
+
+Der Verein eGov-Schweiz begrüsst den vorliegenden Gesetzesentwurf und unterstützt die 
+rasche Umsetzung und den Aufbau der definierten Infrastruktur. Die Kernanliegen aus 
+dem politischen Auftrag, die Grundsätze «privacy by design», «Datensparsamkeit» und 
+«dezentrale Datenspeicherung», sind umfassend berücksichtigt worden.  
+
+Eine digitale Identitätsinfrastruktur ist aus Sicht des Vereins ein zentraler Bestandteil des 
+eGovernments und erlaubt eine weitere Digitalisierung der Prozesse. Entscheidend ist, 
+dass um die eID ein lebendiges Ökosystem von Akteuren und Nutzungen entsteht. Nur 
+damit kann die Verbreitung und Nutzung der eID in der Bevölkerung nachhaltig verankert 
+werden und ein umfassender gesellschaftlicher und wirtschaftlicher Nutzen geschaffen 
+werden. In dieser Perspektive ist eine Verankerung des Ökosystem-Gedankens als Teil 
+der Zweckbestimmung anzustreben. 
+
+Die Unterstützung der Benutzenden ist für einen erfolgreichen Betrieb der eID zentral. Ob 
+die Zuweisung dieser Rolle an die Kantone in Art. 8 BGEID für eine flächendeckende Un-
+terstützung sorgen kann, wir von unserem Verein in Frage gestellt. Ein identisches Sup-
+portangebot, das flächendeckend und niederschwellig für alle Benutzerinnen und Benut-
+zer bereitsteht, muss das Ziel sein. 
+
+Weiter muss dem Risiko einer nicht gerechtfertigten Abfrage und Speicherung von Identi-
+tätsdaten vorgebeugt und damit Überidentifikation durch Anbieter verhindert werden. Eine 
+Bestimmung, die die Datenbearbeitung auf ein unbedingt notwendiges Minimum ein-
+schränkt, sowie eine Informations- und Zustimmungspflicht vorschreibt, sind einzufügen.  
+
+Der definierte Rahmen für die Umsetzung der Lösung erschient zweckmässig, zumal 
+keine technologischen Umsetzungsentscheide enthalten sind. Gleichwohl ist eine hohe 
+Usability für die Benutzerinnen und Benutzer sicherzustellen, indem eine Verwendung auf 
+verschiedenen Geräten ermöglicht wird und auch die Weiternutzung bei einem 
+
+1 
+
+www.egov-schweiz.ch 
+
+ 
+
+Gerätewechsel unterstützt. Die technische Umsetzung muss ermöglichen, dass allen Be-
+nutzerinnen und Benutzern die eID nutzen können, insbesondere muss sie auch nach den 
+Kriterien der Barrierefreiheit entwickelt werden. 
+
+Die Realisierung der Lösung als Ökosystem im Zusammenspiel mit den verschiedenen 
+öffentlichen und privaten Anbietern ist eine zentrale Anforderung. Unsere Zielvorstellung 
+eines Ökosystems (entsprechende dem Ambitionslevel 3 in früheren Diskussionsunterla-
+gen) beinhaltet, das verschiedene Akteure – private und staatliche – mit ihren Lösungen 
+zum vielfältigen Ökosystem beitragen und keine Beschränkungen bestehen, so sollten 
+zum Beispiel auch weitere Wallets von privaten Anbietern genutzt werden können. 
+
+Die Einbindung von weiteren privaten Akteuren hängt auch vom Gebührenmodell ab. 
+eGov-Schweiz unterstützt das Prinzip, dass eine minimale Gebühr für den Eintrag ins Ba-
+sisregister, aber keine Gebühr für die Ausstellung oder die Verifikation eines Nachweises 
+erhoben werden. Die Widerrufe der elektronischen Nachweise würden durch tägliche Ak-
+tualisierungen zum System kommuniziert. Für ausstellende Akteure wären auf den ver-
+bunden ‘Revocation Update’ Gebühren erhoben. 
+
+Zusammenfassend sind wir davon überzeugt, dass die vorgeschlagene gesetzliche 
+Grundlage sinnvolle Regeln zur Entwicklung einer eID als wichtiger Teil einer digitalen Inf-
+rastruktur definiert. Mit punktuellen Anpassungen und einer schnellen und klaren Detaillie-
+rung in den nachgelagerten Bestimmungen könnte das Ziel eines umfassenden, vielfälti-
+gen Ökosystems besser erreicht werden. 
+
+  
+
+Freundliche Grüsse 
+
+eGov-Schweiz 
+
+ 
+
+Renato Gunc 
+
+Präsident 
+
+ 
+
+ 
+
+Christoph Beer 
+
+Geschäftsführer  
+
+www.egov-schweiz.ch 
+
+2 
+
+

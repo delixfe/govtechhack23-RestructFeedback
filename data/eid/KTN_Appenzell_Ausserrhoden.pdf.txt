@@ -1,0 +1,120 @@
+Appen z e  II  Ausserrhoden 
+
+V$5R 
+
+Regierungsrat 
+
+Regierungsrat, 9102 Herisau 
+
+Eidg. Justiz- und Polizeidepartement (EJPD) 
+Bundeshaus West 
+
+Herisau, 30. September 2022 I ssc 
+
+Obstmarkt 3 
+ 
+9102 Herisau 
+Tel.
+ +4171 35361 11 
+kantonskanzlei@ar.ch 
+www,ar.ch 
+
+Dr.  iur.  Roger Nobs 
+Ratschreiber 
+Tel.
+rogernobsar.ch 
+
+ +41  71 353 63 51 
+
+Eidg. Vernehmlassung; Bundesgesetz über den elektronischen Identitätsnachweis und an-
+dere elektronische Nachweise (E-ID-Gesetz, BGEID); Stellungnahme des Regierungsrates 
+von Appenzell Ausserrhoden 
+
+Sehr geehrte Damen und Herren 
+
+Mit Schreiben vom 29. Juni 2022 werden die Kantonsregierungen vom Eidgenössischen Justiz- und Polizeide-
+partement (EJPD) eingeladen, sich zum Entwurf für ein neues Gesetz über den elektronischen Identitätsnach-
+weis und andere elektronische Nachweise (E-ID-Gesetz; BGEID) bis zum 20. Oktober 2022 vernehmen zu las-
+sen. 
+
+Der Regierungsrat von Appenzell Ausserrhoden nimmt dazu wie folgt Stellung: 
+
+Grundsätzlich wird die Vorlage und insbesondere die vorgeschlagene Umsetzung einer Lösung für die E-ID 
+nach den Grundsätzen des Schutzes der Privatsphäre durch Technik  ("privacy by design"),  der Datensparsam-
+keit und der dezentralen Datenspeicherung, vom Regierungsrat begrüsst. Damit dürfte die Akzeptanz in der 
+Bevölkerung grösser sein als dies beim Bundesgesetz über elektronische ldentifizierungsdienste, welches am 
+7. März 2021 vom Volk abgelehnt wurde, der Fall war. Ausdrücklich befürwortet wird zudem, dass die Infra-
+struktur für elektronische Nachweise auch für bereits bestehende kantonale Lösungen genutzt werden kann 
+(Art. 12 des Vorentwurfs). 
+
+Nach Ansicht des Regierungsrates soll der Bund verpflichtet werden, bereits im Einsatz stehende kantonale 
+eID für seine Verwaltungsprozesse anzuerkennen. Der Vorentwurf des BGEID ist dahingehend entsprechend 
+zu ergänzen. 
+
+Nachfolgend wird zu einzelnen Artikeln Stellung genommen, bei welchen nach Erachten des Regierungsrates 
+ein Anpassungs- oder Klärungsbedarf besteht: 
+
+Seite 113 
+
+Appenzell  Ausse di TTfl'1 
+
+Es erscheint unklar, weshalb die AHV-Nummer nicht unter den Personenidentifizierungsdaten in Art. 2 Abs. 2 
+aufgeführt wird, gilt doch die AHV-Nummer ebenfalls als Personenidentifikator. Eine explizite Erwähnung 
+würde auch ermöglichen, dass die AHV-Nummer in Anwendungsfällen, wo diese notwendig ist, zur Perso-
+nenidentifizierung genutzt werden kann. 
+
+Art. 5 Abs. I  Bst. b sieht vor, dass das fedpol die E-ID  unverzüglich widerruft, wenn die gesetzliche Vertretung 
+von Minderjährigen bis zum vollendeten vierzehnten Lebensjahr oder von Personen unter umfassender Bei-
+standschaft dies verlangt. Obschon die Bestimmung offensichtlich im Zusammenhang mit Art. 4 Abs. 2 steht, 
+sollte geprüft werden, ob das Antragsrecht auf Widerruf auch gesetzlichen Vertretern von Minderjährigen bis zu 
+deren Volljährigkeit zustehen soll. Dies würde Art. 19 ZGB entsprechen, gemäss dem urteilsfähige handlungs-
+unfähige Personen nur mit Zustimmung ihres gesetzlichen Vertreters Verpflichtungen eingehen oder Rechte 
+aufgeben können. 
+
+Weiter sollte geprüft werden, welche rechtlichen Folgen ein Verlust der elektronischen Brieftasche bzw. des 
+Gerätes mit der E-ID  hat. 
+
+Beim Art. 9 wird nicht erwähnt, was gelten soll, wenn ein Erlass eine andere Identifizierung oder eine elektroni-
+sche Signatur vorschreibt (vgl. z.B. Art. 21a des Verwaltungsverfahrensgesetzes [SR 172.021]). Eine elektroni-
+sche Signatur dient nach Art. 2 Abs. I Bst. b  Ziff.  2  des Bundesgesetzes über die elektronische Signatur 
+(SR 943.03) ebenfalls der Identifizierung. Es stellt sich deshalb die Frage, ob eine Behörde die E-ID  anstelle 
+der elektronischen Signatur zu akzeptieren hat, wenn eine elektronische Signatur vorgeschrieben ist. Zudem 
+wird in den Erläuterungen zu Art. 9 ausgeführt, dass die Pflicht zur Akzeptanz der E-ID  nur für Identifizierungs-
+prozesse gilt, bei "denen ein persönliches Erscheinen die Vorlage eines ldentifizierungsdokuments erforderlich 
+sind" und nicht die bestehenden kantonalen und kommunalen Login-Lösungen betreffen. Diese Voraussetzun-
+gen bzw. Vorbehalte kommen jedoch in der Formulierung von Art. 9 nicht zum Ausdruck. Ausserdem trifft die 
+Aussage in den Erläuterungen, wonach die Fragen im Zusammenhang mit der Verwendung der E-ID  im Vor-
+entwurf nicht geregelt seien, auf Art. 9 gerade nicht zu. Die Notwendigkeit und die Formulierung von Art. 9 soll-
+ten daher genauer geprüft werden. Auch soll eine Präzisierung der Erläuterungen erfolgen. 
+
+Bei Art. 13 kann auf die Ausführungen zu Art. 5 verwiesen werden. So sollte es auch bei anderen elektroni-
+schen Nachweisen für gesetzliche Vertreter von Minderjährigen bis zu deren Volljährigkeit möglich sein, einen 
+Widerruf zu beantragen. Falls dennoch für den Widerruf auf die Altersgrenze von 14 Jahren abgestellt wird, 
+dann müsste dies auch für die Ausstellung gelten. Im Gegensatz zu Art. 4 Abs. 2 wird diese Bedingung aber in 
+Art. 12 nicht erwähnt. Ausserdem müsste auch hier geprüft werden, ob ein Widerruf erfolgen soll, wenn der 
+technische Träger (Art. 14) des elektronischen Nachweises verloren geht. 
+
+Der Sinn und Zweck von Art. 15 Abs. 2 erscheinen unklar. Gemäss den Erläuterungen geht es hier um Siche-
+rungskopien nach Art. 21. In diesem Fall erscheint jedoch dieser Absatz nebst Art. 21 nicht notwendig bzw. in 
+der vorliegenden Form eher irreführend, da in Art. 21 nicht die Formulierung "Übertragung von elektronischen 
+Nachweisen" verwendet wird. Besser wäre zum Beispiel, in Art. 15 einen Vorbehalt zu Art. 21 aufzunehmen. 
+Ansonsten müssten zumindest die Ausführungen in den Erläuterungen zu Art. 15 Abs. 2 präzisiert werden. 
+
+Seite 2/3 
+
+It  10 
+V%
+
+R 
+
+Appen zell  Ausserrh od en 
+
+Wir danken Ihnen für die Möglichkeit zur Stellungnahme. 
+
+Freundliche Grüsse 
+
+Im Auftrag des Regierungsrates 
+
+Seite 3/3 
+
+

@@ -1,0 +1,133 @@
+Adressatin:
+Frau Bundesrätin
+Karin Keller-Sutter
+Vorsteherin EJPD
+
+20. Oktober 2022
+
+Stellungnahme von Operation Libero
+Vernehmlassung zur E-ID
+
+Sehr geehrte Frau Bundesrätin Keller-Sutter
+Sehr geehrte Damen und Herren
+
+Am 29.
+Juni 2022 haben Sie die Vernehmlassung zum Bundesgesetz über den elektronischen
+Identitätsnachweis und andere elektronische Nachweise eröﬀnet. Wir danken Ihnen für die
+Möglichkeit, zu dieser Vorlage Stellung beziehen zu können und teilen Ihnen im Folgenden die
+Position und Überlegungen von Operation Libero zu diesem Gesetz mit.
+
+Für Operation Libero ist es für die Diskussion um die Digitalisierung in der Schweiz zentral, dass der
+Gedanke eines digitalen Ökosystems ins Zentrum gestellt wird und die Verwaltung sowie die Politik
+sich fokussiert und sich nicht in Einzelheiten verliert. Um die Voraussetzungen für ein digitales
+Ökosystem zu schaﬀen, ist nicht nur eine ausgereifte Digitalisierungsstrategie notwendig (wobei
+aktuell eine solche Strategie aus unserer Sicht teilweise fehlt), sondern auch der frühzeitige Einbezug
+technischer Expertise und zivilgesellschaftlicher Perspektiven, damit Rahmenbedingungen
+geschaﬀen werden können, die ein umfassendes und ansprechendes Angebot an digitalen
+Dienstleistungen ermöglichen.
+
+Ausgehend von diesen Überlegungen begrüsst Operation Libero die Stossrichtung des
+vorliegenden Gesetzesentwurfs. Die Schaﬀung einer elektronischen Identität und der zugehörigen
+Infrastruktur, welche auch für weitere elektronische Nachweise genutzt werden kann, die Prinzipien
+Privacy-by-Design sowie Privacy-by-Default beherzigt und bei der Umsetzung einen zeitgemässen
+technischen Ansatz verfolgt, stellt eine wichtige Voraussetzung für ein Ökosystem dar, wie wir es
+eingangs erwähnt haben. Wir begrüssen, dass das Gesetz
+versucht unterschiedlichen
+Anspruchsgruppen gerecht zu werden und es daher vorsieht, dass Nutzern einer E-ID oder
+
+elektronischer Nachweise von Anfang an Hilfsmittel zur Verfügung gestellt werden. Weiter
+begrüssen wir die Oﬀenheit und die Mitwirkungsmöglichkeiten, die durch den veröﬀentlichten
+Quellcode entstehen. Auch die Möglichkeit für interessierte Teilnehmer, sich bereits während der
+Ausarbeitung des vorliegenden Gesetzesentwurfs einzubringen, begrüssen wir und hoﬀen, dass in
+Zukunft bei der Ausarbeitung von Gesetzen öfter so vorgegangen wird.
+
+Allerdings sind der vorliegende Gesetzesentwurf und die zugehörigen Konzepte aus unserer
+Sicht in verschiedenen Punkten noch nicht zu Ende gedacht und fokussieren zu stark auf
+Einzelthemen. Auf diese Punkte möchten wir im Folgenden ausführlicher eingehen.
+
+Hilfestellungen und technischen Hilfsmittel
+Zunächst sind wir der Meinung, dass den Nutzer*innen einer E-ID oder elektronischer Nachweise
+von Beginn an ein breiteres Angebot an Hilfestellungen und technischen Hilfsmitteln angeboten
+werden sollte, auch im Hinblick auf die von ihnen erwartete Sorgfaltspﬂicht (siehe Artikel 7).
+Während im vorliegenden Gesetzentwurf bereits erste Hilfestellungen und Hilfsmittel vorgesehen
+sind, ﬁnden wir es für eine breite Akzeptanz einer E-ID sowie elektronischer Nachweise wichtig, die
+vielfältigen Bedürfnisse der Nutzer*innen von Anfang an und fortwährend zu identiﬁzieren und auf
+diese einzugehen. Nutzer*innen sollten z.B. auf technische Hilfsmittel zurückgreifen können, über
+die physische und elektronische Ausweise zusammengeführt werden können oder die es erlauben,
+eine E-ID oder elektronische Nachweise ohne kommerzielle Betriebssysteme nutzen zu können.
+Zudem verfügt in anderen europäischen Ländern der Inhaber einer E-ID automatisch auch über eine
+E-Signatur. Die Nutzung des im Gesetz erwähnten Systems für Sicherungskopien (siehe Artikel 26)
+sollte aus unserer Sicht zumindest in einer Basisvariante kostenlos sein.
+
+Unvollständige Prozesse
+Weiter weisen auch ein paar der im Gesetzesentwurf skizzierten Prozesse Verbesserungspotential
+auf. So sollte eine unverzügliche Informationspﬂicht des fedpols gegenüber dem Inhaber einer
+widerrufenen E-ID bestehen (siehe Artikel 5). Dies um die Wahrscheinlichkeit zu mindern, dass sich
+Nutzer*innen bei einem wichtigen Vorgang unerwartet ohne ein gültiges elektronisches
+Identiﬁkationsmittel wiederﬁnden. Zu Artikel 15 möchten wir anmerken, dass es Fälle geben kann, in
+denen der Inhaber eines elektronischen Nachweises diesen nicht mehr selbständig nutzen kann,
+etwa aufgrund einer Erkrankung. Für solche Fälle sollte ein entsprechender Delegationsprozess an
+eine Vertretung deﬁniert werden können.
+
+Umgang mit sensiblen Daten
+Ein wichtiger Punkt ist auch der verantwortungsvolle Umgang mit sensiblen Daten, die als Teil einer
+E-ID oder eines elektronischen Nachweises an Veriﬁkatoren übermittelt werden. Wir sind der
+Meinung, dass Veriﬁkatoren in Artikel 16 explizit in die Pﬂicht genommen werden sollten,
+im
+Rahmen eines Prozesses oder für eine Dienstleistung nur die zwingend notwendigen Daten zu
+verlangen und die Datenverarbeitung nur auf das für den Prozess oder die Dienstleistung unbedingt
+Erforderliche zu beschränken. Wenn für einen Prozess oder eine Dienstleistung das Vorweisen einer
+E-ID oder eines elektronischen Nachweises nicht erforderlich ist, sollte es auch nicht verlangt
+werden. Abweichungen von dieser Vorgabe sollten nur in Fällen möglich sein,
+in denen eine
+informierte und explizite Zustimmung der Inhaberin einer E-ID oder eines Nachweises vorliegt.
+Zudem sollte für die Inhaber*innen einer E-ID oder eines elektronischen Nachweises die Möglichkeit
+bestehen, deren weitere Verarbeitung zu unterbinden. Schliesslich sollte sichergestellt werden, dass
+Behörden und Menschen mit physischer ID oder physischen Nachweisen gleich behandelt werden
+wie Menschen mit elektronischer ID oder denselben Nachweisen in elektronischer Form. Die in
+Artikel 20 skizzierte Applikation zur Überprüfung elektronischer Nachweise sollte diesen
+Grundsätzen und Überlegungen entsprechen.
+
+Technische Umsetzung und Infrastruktur
+ist aber die im Gesetz vorgesehene
+Fast der wichtigste Bereich mit Verbesserungspotential
+technische Umsetzung und Infrastruktur. Während wir es begrüssen, dass der Quellcode der
+Vertrauensinfrastruktur öﬀentlich zugänglich gemacht wird (siehe Artikel 23), sollte aus unserer
+Sicht auch der Code der in Artikel 11 erwähnten Applikation zur Ausstellung der E-ID öﬀentlich
+zugänglich gemacht werden, schliesslich handelt es sich bei diesem System um einen wichtigen Teil
+der Gesamtinfrastruktur. Zudem würden wir es begrüssen, wenn zusätzlich zur Oﬀenlegung des
+Quellcodes ein Auftrag zur Deﬁnition von Prozessen bestünde, die für einen regelmässigen
+systematischen Audit des Quellcodes sorgen und zudem sicherstellen, dass sich interessierte Dritte
+in die Verbesserung und Weiterentwicklung des Systems einbringen können. Vor dem Hintergrund
+dieser von Artikel 23 geschaﬀenen Partizipationsmöglichkeiten sowie aufgrund der sich stetig
+verändernden Technik sollte Artikel 25 so überarbeitet werden, dass der Bundesrat grundsätzlich
+die Möglichkeit hat auch Anpassungen an bestehenden Elementen der Infrastruktur vorzunehmen
+oder bestehende Infrastrukturelemente sogar abzulösen, sollte dies notwendig sein. Schliesslich
+sollte Artikel 21 so abgeändert werden, dass das System für Sicherungskopien diese vor jeglichem
+Zugriﬀ durch Dritte schützt.
+
+Änderungen an weiteren Gesetzen
+Schliesslich möchten wir im Hinblick auf die geplanten Änderungen an weiteren Gesetzen (Artikel 29,
+resp. Anhang) nochmals anmerken, dass wir eine Verknüpfung und gemeinsame Ausstellung einer
+
+E-ID mit einer zugehörigen digitalen Signatur begrüssen, schliesslich ist diese Möglichkeit in anderen
+europäischen Ländern bereits Realität.
+Im Hinblick auf die geplanten Anpassungen am
+Bundesgesetz zum Patientendossier scheint uns der Begriﬀ eines Identiﬁkationsmittels bzw. die
+Unterscheidung zwischen der elektronischen Identität und einem Identiﬁkationsmittel künstlich und
+verwirrend. Existierende Lösungen in anderen Staaten zeigen, dass ein Patientendossier erfolgreich
+mit einer elektronischen Identität zur Identiﬁkation eingesetzt werden kann, weswegen wir diese
+Lösung in Betracht ziehen würden.
+
+Wir danken Ihnen für die Berücksichtigung unserer Bemerkungen bei der weiteren Ausarbeitung
+des vorliegenden Bundesgesetzes.
+
+Herzlichen Dank für Ihr Engagement für unsere liberale Verfassung und eine Schweiz mit Zukunft.
+
+Im Namen von Operation Libero
+
+Sanija Ameti, Co-Präsidentin
+
+Stefan Manser-Egli, Co-Präsident
+
+

@@ -1,0 +1,390 @@
+kanton Slarus ffi
+
+Regierungsrat
+Rathaus
+8750 Glarus
+
+Telefon 055 646 60  11112115
+E-Mail:  staatskanzlei@gl.ch
+www,gl.ch
+
+per E-Mail
+rechtsinformatik@bj.  admin. ch
+
+Glarus,  4. Oktober  2022
+Unsere Ref:  2022-1314
+
+Vernehmlassung  i. S. Vorentwurf des Bundesgesetzes  über den elektronischen ldenti-
+tätsnachweis  und andere elektronische  Nachweise (E-lD-Gesetz,  BGEID)
+
+Hochgeachtete  Frau Bundesrätin
+Sehr geehrte Damen und Herren
+
+Das Eidgenössische  Justiz- und Polizeidepartement  gab uns in eingangs  genannter  Angele-
+genheit  die Möglichkeit zur Stellungnahme.  Dafür danken  wir und lassen uns gerne wie folgt
+vernehmen:
+
+Grundsätzliches
+
+1. 
+1.1.  Allgemeine Einschätzung
+Der Regierungsrat  des Kantons  Glarus  unterstützt  die Vorlage zum neuen  E-lD-Gesetz. Er
+begrüsst  die rasche Erarbeitung  einer neuen Vorlage, die unter dem umfassenden Einbezug
+kantonaler  wie privater  Akteure erfolgt ist. Aus Sicht  des Regierungsrates  ist die Schaffung
+einer  einheitlichen staatlichen E-lD für die Schweiz  unumgänglich, um zukunftsfähig zu blei-
+ben und die Digitalisierung auch auf Ebene der öffentlichen  Venvaltung  voranzutreiben.
+
+Der Regierungsrat  ist der Ansicht, dass den Vorbehalten, die im März 2021 zur Ablehnung
+des Bundesgesetzes über elektronische ldentifizierungsdienste  geführt haben, mit dem vor-
+liegenden  Entwurf  in angemessener und nachvollziehbarer  Weise Rechnung  getragen  wird.
+Ausdrücklich begrüsst  werden insbesondere  die folgenden Punkte:
+-  lm Gegensatz  zur in der Volksabstimmung  gescheiterten Vorlage sieht  der neue  Entwurf
+eine Ausstellung der E-lD durch  eine staatliche  Stelle  vor. Auch  die nötige lnfrastruktur
+wird durch  den Bund zur Verfügung gestellt.
+-  Die Grundsätze von Datensparsamkeit,  dezentraler Datenspeicherung und <privacy  by
+
+design>  entsprechen wichtigen Anliegen  der Bevölkerung. Die Schweiz  orientiert  sich da-
+mit auch an den Vorgaben der geplanten  europäischen Gesetzgebung  (elDAS-Verord-
+nung).
+-  Die Vorlage berücksichtigt die Entwicklungen  auf europäischer Ebene  und ermächtigt
+
+den Bundesrat, internationale Abkommen  abzuschliessen, um Anerkennung der schwei-
+zerischen E-lD im Ausland bzw. die Anerkennung ausländischer elektronischer ldentitä-
+ten in der Schweiz zu erleichtern.
+
+Die Möglichkeit,  die Vertrauensstruktur  für das Ausstellen  weiterer elektronischer Nach-
+weise  zu nutzen, und die kostenlose  Ausstellung der E-lD für Privatpersonen  ermögli-
+chen eine schnellere Verbreitung und Akzeptanz der lnfrastruktur.
+
+1.2.  Begriffsdefinitionen
+Das BGEID veruvendet  eine  Vielzahl  von technischen Begriffen  wie <elektronischer  Nach-
+weis>, <Verifikatorin>,  <Basisregister>,  <Vertrauensregister>  oder <ldentifikator>.  Diese sind
+im allgemeinen  Sprachgebrauch nicht geläufig und bedürfen  daher einer  genaueren Defini-
+tion. Die entsprechenden Begriffe  werden  zwar teilweise im Rahmen  einzelner  Artikel  (2. B.
+<Verifikatorin>  in Art. 16) oder im Rahmen  des erläuternden Berichts  definiert. Die Verständ-
+lichkeit  des Gesetzes und die Systematik  würden indes profitieren,  wenn eine neue  Bestim-
+mung (2. B. als Arl. 2) aufgenommen  würde,  welche die relevanten Definitionen  für das ge-
+samte  Gesetz  vornimmt. Zu achten  ist dabei auch auf eine klare Unterscheidung  zwischen
+<elektronischen  Nachweisen>  (als Oberbegriff,  der die E-lD und andere elektronische Nach-
+weise umfasst)  und <anderen  elektronischen Nachweisen>.
+1.3.  SicherheitundBenutzerfreundlichkeit
+Mitentscheidend  für die künftige  Verbreitung  der E-lD und der Vertrauensinfrastruktur wird
+die Benutzerfreundlichkeit der entsprechenden  Applikationen sein. Sie müssen  für alle Betei-
+ligten  möglichst  unkompliziert  und niederschwellig  zugänglich und anwendbar sein.  Unter an-
+derem  an diesem Punkt sind in der Vergangenheit  Vorhaben  wie die qualifizierte  elektroni-
+sche  Signatur  gescheitert. Gleichzeitig  darf Benutzerfreundlichkeit nicht auf Kosten von Si-
+cherheit und Datenschutz gehen. Hierbei  ist den Schutzzielen  der Authentizität und der Ver-
+bindlichkeit  besonderes Gewicht beizumessen.  Sind diese nicht gewährleistet, entstehen
+hohe  Risiken,  nicht nur für die betroffenen  Personen,  sondern  auch für die öffentlichen  Or-
+gane und die Privaten,  die auf die Bestätigung  der ldentität  des Gegenübers  angewiesen
+sind.  Spätestens  bei Bekanntwerden  vom Missbrauchsfällen  hätten Sicherheitslücken  zudem
+einen Vertrauensverlust zur Folge,  mit den entsprechenden Konsequenzen  für die Verbrei-
+tung der E-lD und die Nutzung  der Vertrauensinfrastruktur. Den Aspekten der Benutzer-
+freundlichkeit und der Sicherheit  wird somit  bei der Ausarbeitung der bundesrätlichen  Ver-
+ordnung besondere Beachtung zu schenken  sein. Die lnfrastruktur muss laufend  den techni-
+schen  Veränderungen angepasst  werden können.
+1.4.  KoordinationmitVollzugsträgern
+Die Umsetzung  des BGEID und insbesondere  seiner  Artikel  8 und 9 verlangt nach umfas-
+senden  Massnahmen auf Ebene  der Kantone  und Gemeinden. lm erläuternden Bericht feh-
+len jedoch Ausführungen zur Notwendigkeit,  die Umsetzung  mit den Vollzugsträgern koordi-
+niert zu planen. Auch werden keine Angaben  gemacht zum Zeilbedarf für die Umsetzung  in
+den Kantonen  und Gemeinden (gemäss  Art. 8 VIV) sowie zum geplanten Zeitpunkt  des ln-
+krafttretens. Die Kantonsregierungen erwarten  in der Botschaft  des Bundesrates  entspre-
+chende  Ausführungen.  Eine  koordinierte  Umsetzung  gemäss  dem Arbeitspapier von Bund
+und Kantone  vom 28. Oktober 2015 ist an die Hand zu nehmen.
+
+Der Regierungsrat  erinnert daran,  dass die Digitalisierung  der Veruvaltung  auf Kantons-  und
+Gemeindeebene bereits in vollem  Gange  ist. Es wurden bereits und werden in den nächsten
+Jahren  weitere  grosse lnvestitionen vorgenommen. Für die Kantone  ist es deshalb  von ent-
+scheidender Bedeutung,  dass die ldentifizierung  über die E-lD sich technisch problemlos  in
+ihre bestehenden  Anwendungen  integrieren  lässt.  Der erläuternde Bericht  (Kap.  5.2., S. 20-
+21) geht pauschal  davon aus, dass Kantone  und Gemeinden  von der E-lD und der Vertrau-
+ensinfrastruktur profitieren  werden,  was ihre (nicht weiter bezifferten)  Aufwände in jedem Fall
+rechtfertigen  werde. Diese Ausführungen  genügen nicht.  Es ist eine detailliertere Kostenfol-
+geabschätzung  vorzunehmen,  und der Berücksichtigung  der Anschlussfähigkeit bestehender
+Lösungen  ist bei der Ausarbeitung der technischen Details vorrangige Beachtung  zu schen-
+ken.
+
+2
+
+1.5.  HaftungundQualitätsstandards
+Die E-lD wird zur ldentifizierung in kantonalen  elektronischen Diensten  zur Anwendung  kom-
+men und kantonale Lösungen  ergänzen. lm erläuternden  Bericht  fehlen  jedoch Ausführun-
+gen zum Umgang  mit Haftungsansprüchen,  sollten Fehler im System  des Bundes  zu Lücken
+in den kantonalen  Anwendungen  führen. Entsprechende  Angaben mit Bezug zu anerkannten
+Qualitätsstandards (Standard  eCH-O170) sind im Hinblick  auf nachfolgende  Ausführungsbe-
+stimmungen in der Botschaft  zu ergänzen.
+1.6.  Vollmacht  und gesetzliche Vertretung
+Weder im Entwurf noch  im erläuternden Bericht  sind Hinweise  zu finden auf die Abläufe  in
+Zusammenhang mit Vollmachten und der gesetzlichen  Vertretung. Gemäss  Artikel  4 und 5
+BGEID  ist zur Ausstellung einer E-lD für Minderjährige  bis 14 Jahre und Personen  unter um-
+fassender Beistandschaft das Einverständnis  der gesetzlichen  Vertretung nötig. Es fehlen
+aber Aussagen zu späteren  Vertretungs- und Delegationsmöglichkeiten in der Nutzung der
+E-lD oder  in der Anwendung anderer Nachweise. lm lnteresse einer  cinhcitlichcn  Vollzugs-
+praxis  ist eine entsprechende Klärung in der Botschaft  wichtig.
+
+2. 
+
+Bemerkungen  zu einzelnen Artikeln des BGEID
+
+Artikel  1
+Artikel 7 des neuen Datenschutzgesetzes  (nDSG)  postuliert  neben  dem Grundsatz  des <Da-
+tenschutz  durch  Technik> (<privacy  by design>)jenen  der <datenschutzfreundlichen  Vorein-
+stellungen>  (<privacy  by default>). Letzterer  ist in Artikel  1 Absatz 2 Buchstabe  b zusätzlich
+aufzuführen, um diesem  zentralen  Aspekt Betonung  zu verleihen und eine Harmonisierung
+mit dem nDSG  sicherzustellen.
+
+Artikel 3; Persönliche  Voraussetzungen
+Artikel 3 E-BGEID  sieht  vor, dass nur Personen  mit geregeltem  Aufenthalt in der Schweiz
+eine E-lD beantragen können. Der Kreis der Personen,  die mit kantonalen  Veruvaltungen  in-
+teragieren, ist aber weiter gefasst.  Zu denken ist unter anderem an Personen,  die ohne gere-
+gelten Aufenthalt  in der Schweiz  wohnhaft sind (<Sans-Papiers>)oder  an Zweitwohnungsbe-
+sitzer. Es ist zumindest die Möglichkeit  zu prüfen, für solche Fälle eine spezifische E-lD aus-
+zustellen. Die Gesetzesvorlage ist entsprechend  so zu ergänzen,  dass  der Bundesrat  er-
+mächtigt  wird, für weitere Personen  mit Aufenthalt in der Schweiz  eine spezielle  E-lD mit ein-
+geschränktem Ei nsatzbereich  vorzusehen.
+
+Gemäss  dem erläuternden Bericht  (S. 9 zu Art. 3) sollen Anbieterinnen die Möglichkeit  ha-
+ben, die Nutzung ihrer  Dienste  für die lnhaberinnen und lnhaber gewisser  Ausweiskategorien
+zu beschränken. Der Bericht weist darauf hin, dass bei Ausweisen der Kategorien  N, F, S
+und Ci nicht davon ausgegangen  werden könne,  dass die ldentität der betreffenden  Perso-
+nen verlässlich  festgestellt werden konnte.  Es ist festzuhalten, dass  die Verlässlichkeit  der
+ldentifizierung einer Person  nicht aus der Kategorie  ihres Ausweises ersichtlich ist (nicht jede
+asylsuchende Person kann  keine ldentitätsdokumente  vorweisen, während über eine Härte-
+fallbewilligung auch Personen,  deren ldentität  nicht abschliessend  geklärt ist, unter  Umstän-
+den einen Ausweis  B erhalten können).  Sollen  Einschränkungen  spezifisch  aufgrund  der
+Verlässlichkeit der ldentitätsdokumente möglich  sein, so ist dies im Gesetz  auszuführen  und
+eine entsprechende Angabe ist unter die Daten gemäss  Artikel 2 Absatz 3 BGEID aufzuneh-
+men. Ein blosser  Verzicht auf eine gesetzliche Regelung,  ohne dass  die entsprechende  An-
+gabe in der E-lD erfasst  wird, geht am Ziel vorbei.
+
+ln Artikel  3 Buchstabe  a wird konkret  das Ausweisgesetz  (AwG) genannt. Es ist nicht nach-
+vollziehbar,  weshalb in Artikel 3 Buchstabe  b bloss allgemein auf die Ausländergesetzge-
+bung verwiesen und nicht die konkreten  Gesetze  (Ausländer- und lntegrationsgesetz  und
+
+3
+
+Asylgesetz)  genannt werden. Für Aussenstehende ist mit der heutigen Formulierung  nicht
+ersichtlich,  welche gesetzlichen Bestimmungen  angewendet  werden'
+
+Artikel4; Ausstellung
+Der Ausstellungsprozess  und damit  verbunden  die Frage, wie die ldentifizierung der antrags-
+stellenden  Personen durchgeführt  wird, sind für die Sicherheit und damit  auch für die künf-
+tige Akzeptanz der E-lD zentral. Eine Regelung  des Ausstellungsprozesses  muss  deshalb
+ins Gesetz  aufgenommen werden. Dabei dürfen  Sicherheitsüberlegungen nicht hinter  Kos-
+ten- und Effizienzfragen  zurückstehen.  Artikel  6 Absatz 5 nDSG  statuiert  die Pflicht des Da-
+tenbearbeiters oder der Datenbearbeiterin, sich über die Richtigkeit  der Personendaten  zu
+vergewissern. Die Angemessenheit der Massnahmen  muss  sich dabei auch  nach dem - im
+Falle der E-lD erheblichen  - Risiko für die Grundrechte  der betroffenen Person  richten.
+Der Entwurf  sieht  gemäss  Artikel  4 Absatz 2vor,  dass ab dem 15. Altersjahr die E-lD eigen-
+ständig  beantragt  werden kann. Nach Artikel 5 Absatz 1 AwG brauchen Minderjährige  dage-
+gen zum Bezug  eines  (physischen)Ausweises  die Einwilllgung lhres gesetzlichen  Vertreters.
+Die Begründung  des erläuternden Berichtes  zu diesem Unterschied  überzeugt nicht. lm Vor-
+dergrund  sollten Sicherheitsüberlegungen stehen  und nicht die Frage, welche Ausweisarten
+von Jugendlichen mehrheitlich  genutzt  werden. Die Altersgrenze zum selbständigen Bezug
+einer E-lD ist somit jener zum Bezug  eines physischen  Ausweises anzugleichen.
+
+Artikel 5;Widerruf
+Artikel  5 Buchstabe  dZiffer  2 legt fest, dass  die E-lD widerrufen wird, wenn das fedpol über
+eine Anderung der Personenidentifizierungsdaten  des lnhabers oder der lnhaberin informiert
+wird. lm Sinne einer Dienstleistung und des Mehnrverts,  den die E-lD auch für die Bevölke-
+rung schaffen  soll, ist in solchen Fällen die automatische  Ausstellung einer neuen E-lD ins
+Auge  zu fassen.  Die betroffenen Personen müssen  sich dann nicht  noch einmal um die Aus-
+stellung  einer neuen E-lD bemühen  und profitieren  so von den erleichterten  Abläufen, die
+durch  die Digitalisierung  ermöglicht  werden.
+
+Artikel 6; G ültigkeitsdauer
+Neben der Gültigkeitsdauer ist im Entwurf  auch die Frage  der Verlängerung nicht geregelt.
+Es wird nicht  klar, ob nach Ablauf des physischen  Ausweisdokuments - sofern  die Gültigkeit
+der E-lD an diese  geknüpft  wird - erneut eine E-lD beantragt  werden muss oder ob dies bei
+Verlängerung des Ausweises automatisch geschieht. Dies ist spätestens in der Verordnung
+ebenfalls  zu klären.
+
+Artikel  7 ; Sorgfaltspflicht
+Artikel  7 E-BGEID  sieht  eine  Sorgfaltspflicht  für lnhaberinnen und lnhaber einer E-lD vor.
+Nicht konkret  geregelt sind dabei die Verpflichtungen bei Verlust des E-lD-Trägers, dies im
+Gegensatz  zu Artikel 8 AwG, das eine Meldepflicht  bei Verlust eines (physischen)Ausweises
+vorsieht.  Zur Konkretisierung  der Sorgfaltspflichten  ist dieser Fall auch  im BGEID  auszufüh-
+ren.
+
+Artikel 8; Anlaufstellen der Kantone
+Die Bestimmung sieht  eine zusätzliche Aufgabe  für die Kantone  vor. Der erläuternde Bericht
+zur Vernehmlassungsvorlage geht davon  aus, dass  die benötigten Strukturen in den Kanto-
+nen bereits  vorhanden sind. Dies ist jedoch  nicht notwendigerweise  der Fall.
+
+Als Vollzugsträger steht  hier der Bund in der Verantwortung.  Wer eine lnformatiklösung  an-
+bietet und betreibt, hat auch den nötigen  Support  sicherzustellen, soweit  die eigene  Anwen-
+dung  betroffen ist. Die Kantone  sehen sich da als zuständig,  wo es darum  geht, UnterstÜt
+zung beim  Einsatz  der E-lD für kantonale E-Government-Angebote  zu leisten. Für Schwierig-
+keiten  bei der Beantragung  der E-lD oder bei der Nutzung  der Vertrauensinfrastruktur muss
+
+4
+
+dagegen  der Bund eine Ansprechstelle schaffen. Eine solche ist im erläuternden Bericht
+zwar  enruähnt, sie fehlt jedoch im Gesetzesentwurf  ebenso  wie der Second Level Support,
+den der Bund gemäss dem Bericht für die Kantone  wahrnehmen soll.
+
+Unter  Bezugnahme  auf die Ausführungen  im erläuternden Bericht  ist zudem darauf hinzuwei-
+sen,  dass Personen, die bereit  sind, eine E-lD zu nutzen,  üblicherweise  auch in der Lage
+sind, einen  Support per Telefon oder E-Mail  in Anspruch zu nehmen.  Es müssen  dafür  nicht
+zwingend  physische  Anlaufstellen geschaffen  werden.
+
+Artikel 9; Pflicht  zur Akzeptanz der E-lD
+Artikel I E-BGEID  sieht vor, dass jede Behörde  oder andere Stelle,  die öffentliche  Aufgaben
+erfüllt,  die E-lD akzeptieren muss, wenn  sie eine elektronische ldentifizierung vornimmt. Der
+Begriff der <öffentlichen  Aufgabe>  wird im erläuternden Bericht  mit <Veruvaltungsaufgaben>
+gleichgesetzt,  was dem Begriff  von Artikel 178 Absatz 3 BV entspricht. Es empfiehlt  sich,  im
+BGEID ebenfalls  von <Venvaltungsaufgaben>  zu sprechen, oder, falls der Begriff  der <öf-
+fentlichen  Aufgabe>  weiter gefasst  werden  soll, die Botschatt  in diesem Punkt zu präzisieren.
+Es ist zu bedenken, dass unter anderem  im Gesundheitswesen  eine Vielzahl von privaten
+Akteuren  öffentliche Aufgaben ausführen,  so zum Beispiel  Krankenversicherer, Betreiber  von
+Krebsregistern  und Transplantationsregistern oder Anbieter des EPD. Die Pflicht zur Akzep-
+tanz der zukünftigen E-lD bei all diesen  Akteuren ist durchaus  sinnvoll,  wird aber lnvestitio-
+nen und Vorbereitungsarbeiten zur Folge  haben, die den Betroffenen  möglichst  rasch klar
+kommuniziert  werden müssen. Es ist somit wichtig, dass bei allen Beteiligten  von Anfang  an
+Klarheit  herrscht  über den Geltungsbereich  von Artikel I BGEID.
+Die Umsetzung  von Artikel I E-BGEID  bedingt  eine lntegration der E-lD in bestehende lT-
+Anwendungen  von Kantonen und Gemeinden. Diesen  ist dafür eine ausreichende Über-
+gangsfrist  einzuräumen.
+
+Artikel  13;Widerruf
+Analog  zur Regelung bei der E-lD (Art. 5 Bst. d Zift. 3) sollten  auch andere elektronische
+Nachweise  unverzüglich durch  die Ausstellerinnen  widerrufen werden, wenn die lnhaberin
+oder der lnhaber verstorben ist.
+
+Artikel  1 5 ; U bertrag barkeit  vo n el ektron  i sch en N achweise  n
+Die Hinweise  zu Artikel  15 Absatz 2 E-BGEID  im erläuternden Bericht  (S. 13) lassen  sich nur
+schwer  mit der Bestimmung im Entwurf  selber  vereinbaren.  Während sich Artikel  15 Absatz  2
+mit der Übertragbarkeit von Nachweisen  befasst,  nimmt  der erläuternde Bericht  Bezug auf
+ein System  für Sicherungskopien. Sollte  mit der Bestimmung  tatsächlich nur die Ubertragbar-
+keit in ein System  für Sicherungskopien  gemeint sein, ist dies entsprechend  zu formulieren.
+
+Artikel  16; Vonueisen  von elektronischen  Nachweisen
+Artikel 16 Absatz  1 bestimmt,  dass die lnhaberin bzw. der lnhaber  einer E-lD selber  darüber
+bestimmt,  welche  lnformationen an die betreffende  Verifikatorin übermittelt  werden. ln der
+Praxis werden dennoch oft die Verifikatorinnen  darüber bestimmen,  da die Person  ansonsten
+vom Angebot keinen Gebrauch machen  kann. ln der zu erarbeitenden Botschaft  sind des-
+halb Ausführungen zu machen,  wie die Beschränkung  der Datenbearbeitung  auf das Mini-
+mum  bei privaten  Verifikatorinnen sichergestellt  werden soll und wie trotz der dezentralen
+Struktur  des Systems eine wirksame Kontrolle  möglich ist.
+
+5
+
+Artikel  1 7 ; Basisregister
+Wie der erläuternde Bericht  (S. 14) ausführt, birgt die Tatsache, dass  Ausstellerinnen  ohne
+weitere Überprüfung ihre Daten selber ins Basisregister  gemäss Artikel  17 Absatz 3 E-
+BGEID eintragen  können, das Risiko, dass  diese  unter falscher  ldentität elektronische Be-
+weismittel  ausstellen können. Es liegt auf der Hand,  dass dies für die betroffenen  Personen
+unter  Umständen  weitreichende  Folgen  haben  kann. Die Abfederung dieses Risikos durch
+Veröffentlichung bei begründetem  Verdacht gemäss  Artikel  22 EBGEID ist nicht ausrei-
+chend,  da sie bereits  eine  Verletzung  der Persönlichkeitsrechte  von betroffenen Personen
+voraussetzt.  Auch können  durch blosses  Öffentlichmachen  erfahrungsgemäss nicht alle Nut-
+zenden  rechtzeitig  erreicht werden. Ein Eintrag  ins Vertrauensregister  nach Artikel 18 E-
+BGEID  muss entsprechend auch für private  Anbieter  zwingend sein.  Andernfalls können
+Missbräuche  nicht verhindert werden.
+
+Artikel 20; Anwendung zur Prüfung  von elektronischen  Nachweisen
+Aus dem Wortlaut von Artikel 20 E-BGEID  wird nicht  klar, dass es dabei um eine Prüfung
+von elektronischen Nachweisen  bei persönlichem Erscheinen  und nicht um einen  Online-
+Vorgang  geht. Dies muss  deutlicher  ausgeführt  werden. ln jedem  Fall ist bei der technischen
+Umsetzung - mithilfe einer  Anwendung nach Artikel 20 oder ohne - sicherzustellen,  dass
+eine zuverlässige Überprüfung  der Gültigkeit  von elektronischen Nachweisen  für die Verifika-
+torinnen  ohne weiteres  möglich  ist.
+
+Zudem  beantragen  wir anstelle einer Kann-Bestimmung,  dass  der Bund zwingend  eine An-
+wendung  zur Verfügung stellt, mit der elektronische Nachweise  auf ihre Gültigkeit  überprüft
+werden können.  Andernfalls müssten  die Kantone  allenfalls  eigene  Anwendung schaffen,
+was aus systemischer Sicht nicht effizient ist.
+
+Artikel 21 ; System für Sicherungskopien
+Analog  zu Artikel 20 sollte der Bund auch zwingend  ein System  zur Verfügung stellen,  dem
+die lnhaberinnen und lnhaber Sicherheitskopien  ihrer elektronischen Nachweise  zur Aufbe-
+wahrung übergeben können (keine Kann-Bestimmung).  Damit  kann die Akzeptanz  elektroni-
+scher Nachweise  letztlich positiv  beeinflusst  werden.
+
+ln Absatz 3 ist zudem eine Regelung  aufzunehmen,  wie mit Sicherheitskopien von lnhaberin-
+nen und lnhabern umgegangen  wird,  die verstorben  sind.
+
+Artikel 25; Technische  Entwickl  ung
+Die Funktionsweise  von Absatz 2 dieser Bestimmung  ist unklar: Wer entscheidet  darüber,  ob
+ein Anwendungsfall von Absatz 2 vorliegt? Entscheidet  dies der Bundesrat  bereits  mit dem
+Erlass der Verordnung? Zudem ist der Zusammenhang  zwischen  Absatz  1 und Absatz  2 von
+Artikel  25 im Text deutlicher hervorzuheben  und es sollte  der Vollständigkeit halber der Fall
+des fakultativen Referendums miterfasst  werden:
+
+<2 Sofern  Bestimmungen, die gestützt  auf Abs. 1 erlassen  werden, einer weiteren
+Grundlage  in einem Gesetz bedürten, treten  diese Bestimmungen ausser  Kraft:
+a) t...1
+b) mit der Ablehnung  des Entwurfs  des Bundesrafes durch die Bundesversamm-
+lung oder die Stimmberechtigten; oder [...]>
+
+Artikel 26; Gebühren
+Artikel 26 BGEID  sieht vor, dass von Ausstellerinnen und Verifikatorinnen elektronischer
+Nachweise  Gebühren erhoben  werden. Dies betrifft  auch Stellen, die öffentliche  Aufgaben
+erfüllen,  obwohl  diese gemäss  Artikel I BGEID zur Akzeptanz der E-lD verpflichtet  sind.
+Gleichzeitig  möchte  der Bundesrat  die E-lD durch Beiträge  aus der Digitalen  Venrualtung
+
+6
+
+Schweiz  finanzieren, die von den Kantonen  mitfinanziert  wird. Gemäss  Artikel 3 Absatz  2 All-
+gGebV  verzichtet die Bundesverwaltung auf die Erhebung  von Gebühren  von interkantona-
+len Organen, Kantonen  und Gemeinden,  soweit  diese Gegenrecht  gewähren. Dies soll auch
+vorliegend  entsprechend gehandhabt und Verrechnungen zwischen den Gemeinwesen  auf
+ein Minimum  beschränkt  werden.
+
+Der Bundesrat  soll darüber hinaus  mit der Kompetenz  ausgestattet werden, die Gebühren  für
+weitere  Akteure ganz oder teilweise zu erlassen,  soweit  diese öffentliche Aufgaben erfüllen.
+Unter anderem besteht  im Gesundheitsbereich  ein grosses lnteresse an einer breiten  Nut-
+zung  der E-lD, um die Aufbereitung von Gesundheitsdaten  zu erleichtern. Die Kosten für die
+betroffenen  Stellen  sind somit möglichst  tief zu halten.
+
+Die Vorlage und der erläuternde Bericht  äussern  sich nicht bzw. nur sehr vage über die Höhe
+der zu erhebenden Gebühren. Diese sollen  auf Verordnungsstufe festgelegt werden. Die
+Kosten dürften  jedoch einen nicht unerheblichen  Einfluss  auf die künftige  Akzeptanz und
+Verbreitung dcr E-lD und der Vertrauensinfrastruktur haben. Eine explizite Kostenfolgeschät-
+zung für die Ausstellerinnen und Verifikatorinnen  elektronischer Nachweise aufgrund  der Ge-
+bühren  sollte deshalb in die Botschaft  aufgenommen  werden.
+
+Artikel 28 ; Au sführu ng sbesti m m u nge n
+Zahlreiche  technische Aspekte zur Umsetzung  der E-lD werden auf Verordnungsstufe  gere-
+gelt. Aufgrund der unterschiedlichen bestehenden  Lösungen in den einzelnen Kantonen,
+aber  auch  in den einzelnen Sektoren ist es unabdingbar,  dass die zuständigen  Akteure eng
+in die Erarbeitung  der Vollzugsregelungen miteinbezogen  werden.  Es ist eine  der Vorausset-
+zungen  einer breiten  Akzeptanz der E-lD,  dass diese unkompliziert in bestehende  Anwen-
+dungen integriert  werden kann.
+
+Artiket 29; Änderung  anderer  Erlasse
+Gemäss  dem erläuternden Bericht  (Aiff.3.1)wurde  die Verwendung der E-lD in spezifischen
+Bereichen  und damit die Anderung anderer Erlasse  im Entwurf  nur exemplarisch  geregelt.
+Es ist unabdingbar,  die Gesetzgebung des Bundes  im weiteren Verfahren systematisch  auf
+Bestimmungen hin zu überprüfen, in denen  ein physischer  Ausweis oder eine qualifizierte
+elektronische Signatur  verlangt  werden. Dies betrifft  insbesondere auch  die Verfahrensge-
+setzgebung des Bundes. Die entsprechenden Bestimmungen  sind durchgehend  anzupas-
+sen.
+
+Genehmigen Sie, hochgeachtete Frau Bundesrätin,  sehr geehrte Damen und Herren,  den
+Ausdruck unserer  vorzüglichen Hochachtung.
+
+Freundliche Grüsse
+
+Für
+
+ngsrat
+
+La
+
+Müh
+nn
+
+nn
+
+Dürst
+
+Ratsschreiber
+
+E-Mail an (PDF- und Word-Version)
+-  rechtsinformatik@bj.admin.ch
+
+7
+
+

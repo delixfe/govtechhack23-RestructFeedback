@@ -1,0 +1,183 @@
+ 
+ 
+  
+
+ 
+
+ 
+Eidgenössisches Justiz- und Polizeidepartement EJPD 
+Herr Rolf Rauschenbach 
+Bundeshaus West 
+3003 Bern 
+ 
+Per E-Mail an: rechtsinformatik@bj.admin.ch  
+  
+ 
+19. Oktober 2022 
+ 
+ 
+Stellungnahme zum Vorentwurf des Bundesgesetzes über den elektronischen Identitätsnach-
+weis und andere elektronische Nachweise (E-ID-Gesetz, BGEID) 
+ 
+Sehr geehrter Herr Rauschenbach, sehr geehrte Damen und Herren 
+ 
+Wir beziehen uns auf die am 29. Juni 2022 eröffnete Vernehmlassung des Eidgenössischen Justiz- 
+und Polizeidepartements zum Vorentwurf des Bundesgesetzes über den elektronischen Identitätsnach-
+weis und andere elektronische Nachweise (VE-E-ID-Gesetz, VE-BGEID). Gestützt auf die Rückmel-
+dungen unserer Mitglieder nehmen wir zum Vorschlag gerne wie folgt Stellung. 
+ 
+
+Zusammenfassung  
+Eine elektronische Identität erleichtert die Identifikation im Internet und den Austausch mit den staatli-
+chen Behörden. Immer mehr Geschäfte werden heute online abgewickelt. Damit steigt das Bedürfnis 
+nach einer sicheren, staatlich kontrollierten elektronischen Identität immer mehr. Die Schweiz ist ei-
+nes der wenigen Industrieländer, welches noch über kein entsprechendes Instrument verfügt.  
+ 
+Da eine Überprüfung der Identität im Internet nur schwer möglich ist, benötigen Wirtschaft und Ver-
+waltung und gerade auch die Bürgerinnen und Bürger schnell eine zuverlässige elektronische Mög-
+lichkeit zur Identifikation von Personen (E-ID). Dies ist schliesslich auch im Interesse aller, da bislang 
+verwendete Alternativen wie die Logins grosser Plattformanbieter unsicherer sind und dabei Daten ins 
+Ausland fliessen. Nach der Ablehnung des Bundesgesetzes über eine E-ID am 7. März 2021 hat der 
+Bundesrat erfreulich schnell reagiert. 
+ 
+Er schlägt nun eine Lösung vor, welche die an der Urne zum Ausdruck gebrachten Bedenken der Bür-
+gerinnen und Bürger aufgreift und es Nutzerinnen und Nutzern schnell und unkompliziert ermöglichen 
+soll, sich digital auszuweisen. Alle Personen, die über eine Schweizer Identitätskarte, einen Schwei-
+zer Pass oder einen von der Schweiz ausgestellten Ausländerausweis verfügen, sollen eine E-ID be-
+antragen können. 
+ 
+economiesuisse unterstützt den Vorschlag des Bundesrates in wesentlichen Punkten. Es besteht nur 
+geringfügiger Anpassungsbedarf. Entscheidend ist in jedem Fall, dass der Vorschlag schnell und 
+pragmatisch umgesetzt wird, damit die Schweiz möglichst zeitnah über eine E-ID verfügt.  
+ 
+Die aus unserer Sicht wichtigsten Anliegen lauten wie folgt:  
+
+ 
+economiesuisse 
+Hegibachstrasse 47 
+Postfach CH-8032 Zürich 
+Telefon   +41 44 421 35 35 
+Telefax   +41 44 421 34 34 
+ 
+
+Verband der Schweizer Unternehmen 
+Fédération des entreprises suisses 
+Federazione delle imprese svizzere 
+Swiss Business Federation 
+www.economiesuisse.ch 
+
+Seite 2 
+Stellungnahme zum Vorentwurf des Bundesgesetzes über den elektronischen Identitätsnachweis und 
+andere elektronische Nachweise (E-ID-Gesetz, BGEID) 
+ 
+
+  Das Gesetz ist als Rahmengesetz ausgestaltet. Damit muss es die wichtigsten Regulierungs-
+
+grundsätze auf ausreichender Abstraktionsstufe enthalten. Entscheidend ist dabei, dass die Um-
+setzung technologieneutral ausgestaltet ist.  
+ 
+
+  Die Ausführungsbestimmungen, die in der Verordnung enthalten sein werden, müssen sodann 
+
+angesichts der Komplexität der Materie zusammen mit Experten aus der Privatwirtschaft und Wis-
+senschaft erstellt werden. Im Zentrum stehen hier die Sicherheit, die Anwenderfreundlichkeit und 
+damit die Akzeptanz der Lösung im Verkehr. 
+
+  
+  Die Regeln müssen mit anderen Gesetzen, welche eine Identifizierung vorsehen, abgestimmt 
+
+sein. Dies gilt beispielsweise für den Bereich des Geldwäschereigesetzes oder den Bereich der 
+digitalen Signaturen gemäss Bundesgesetz über die elektronische Signatur. 
+
+ 
+  Es darf keine Schweizer Insellösung geschaffen werden. Die internationale Interoperabilität und 
+
+Anerkennung vergleichbarer ausländischer E-ID muss sichergestellt sein. 
+
+ 
+  Darüber hinaus gilt es Vertretungsrechte von natürlichen Personen an juristische Personen auf 
+
+der E-ID der natürlichen Person abzubilden. 
+
+ 
+Bei allen Ansprüchen an Qualität sowohl auf Stufe Gesetz als auch Verordnung müssen die rechtli-
+chen Grundlagen zeitnah und pragmatisch in die Praxis umgesetzt werden. Die Schweiz ist in dieser 
+Frage bereits massiv im Hintertreffen. 
+ 
+
+ 
+ 
+1  Einleitende Bemerkungen 
+Die Schaffung einer E-ID mit der vorgesehenen, umfassenden staatlichen Vertrauensinfrastruktur und 
+der Ermöglichung, dass Akteure sowohl des öffentlichen als auch des privaten Sektors die E-ID bzw. 
+weitere elektronische Nachweise verwenden bzw. ausstellen können, ist sehr zu begrüssen. Die Wirt-
+schaft begrüsst insbesondere das Ambitionsniveau, das mit der Vorlage nochmals bestärkt wird: Die E-
+ID soll keine starre Insellösung sein, sondern Teil eines dynamischen Ökosystems der digitalen Nach-
+weise. Diese “Vision” sollte bei der Gestaltung der Rahmenbedingungen immer im Gedächtnis bleiben. 
+Wichtig ist aus unserer Sicht zunächst eine schnelle und pragmatische Umsetzung der rechtlichen 
+Grundlagen in die Praxis, damit die Schweiz in diesem Bereich nicht (noch weiter) ins Hintertreffen ge-
+rät. Zudem sollte die neue E-ID bei den Benutzerinnen und Benutzern rasch zum Standard werden. 
+Deren Verwendung muss daher leicht zugänglich und verständlich, zuverlässig und weit verbreitet sein. 
+Während wir die Vorlage im Wesentlichen unterstützen, möchten wir dennoch einzelne Verbesserungs-
+vorschläge anbringen. Diese betreffen folgende Bereiche: 
+ 
+Vertretungsrechte an juristische Personen 
+Die E-ID ist richtigerweise nur für natürliche Personen konzipiert. Damit eine erwartungsgemäss wich-
+tige Verwendungsform im Verkehr aber möglich ist, sollten auch allfällige Vertretungsrechte dieser na-
+türlichen Personen an juristische Personen auf der E-ID der natürlichen Person abgebildet werden.  
+Dies könnte insbesondere durch eine Verbindung des Basisregisters mit dem Handelsregister oder 
+dem SHAB erfolgen. 
+ 
+Keine Schweizer Insellösung 
+Die Schweizer E-ID muss zwingend international operabel sein. Vergleichbare ausländische E-ID soll-
+ten in der Schweiz explizit anerkannt werden. In einer international ausgerichteten Volkswirtschaft und 
+einem kleinen Land wie der Schweiz dürfen keine Insellösungen geschaffen werden. Es gilt, dass auch 
+grenzüberschreitende Prozesse in diesem Bereich durch technische Lösungen vereinfacht werden. 
+ 
+
+Seite 3 
+Stellungnahme zum Vorentwurf des Bundesgesetzes über den elektronischen Identitätsnachweis und 
+andere elektronische Nachweise (E-ID-Gesetz, BGEID) 
+ 
+
+Sicherung des breiten Vertrauens in die angebotene Lösung 
+Datenschutz und Datensicherheit: Dem Datenschutz sollte insbesondere in Bezug auf die Aufbewah-
+rungsfristen noch mehr Rechnung getragen werden. Die vorgeschlagenen Fristen erachten wir als zu 
+lange. 
+ 
+Technologieneutralität  
+Wir sehen in Bezug auf das Kriterium der Technologieneutralität bereits jetzt Anpassungsbedarf. So 
+wird festgeschrieben, dass die neue E-ID durch kryptographische Verschlüsselung geschützt wird (vgl. 
+Art. 17 VE-BGEID). Dabei werden technologisch überlegene Methoden, welche in Zukunft allenfalls 
+verfügbar sind, nicht berücksichtigt. Die an sich gut gemeinte Formulierung in Art. 1 Abs. 2 Bst. c VE-
+BGEID, dass die E-ID dem Stand der Technik entsprechen muss, verhindert ebenfalls eine technolo-
+gieneutrale Umsetzung. 
+ 
+Beizug von Experten bei der Erarbeitung der Ausführungsbestimmungen  
+Von grosser Relevanz werden die Ausführungsbestimmungen zum Rahmengesetz sein, die in der Ver-
+ordnung spezifiziert werden. Bei deren Erarbeitung ist ein enger Einbezug der Wirtschaft und der For-
+schung zwingend, damit die E-ID in Bezug auf ihre konkrete Anwendung, Sicherheit und Nutzerfreund-
+lichkeit funktioniert und eine breite Akzeptanz entwickeln kann. Gleichzeitig gilt es die Prozesse zum 
+Einbezug solcher Spezialitäten derart auszugestalten, dass eine effiziente Arbeit ermöglicht wird und 
+das Inkrafttreten der neuen Bestimmungen und damit die Verfügbarkeit der E-ID möglichst zeitnah er-
+folgen kann.  
+ 
+Wir danken Ihnen für die Berücksichtigung unserer Anliegen und stehen Ihnen bei Fragen gerne zur 
+Verfügung. 
+ 
+Freundliche Grüsse 
+economiesuisse 
+ 
+
+ 
+
+ 
+
+Erich Herzog 
+Mitglied der Geschäftsleitung 
+ 
+
+Lukas Federer 
+Projektleiter Infrastruktur 
+
+

@@ -1,0 +1,225 @@
+Thurgau *\  
+
+Der Regierungsrat des Kantons Thurgau 
+
+Staatskanzlei, Regierungsgebäude, 8510 Frauenfeld 
+
+Eidgenössisches 
+Justiz- und Polizeidepartement (EJPD) 
+Frau Karin Keller-Sutter 
+Bundesrätin 
+Bundeshaus West 
+3003 Bern 
+
+Frauenfeld, 4. Oktober 2022 
+589 
+
+Vorentwurf des Bundesgesetzes über den elektronischen Identitätsnachweis und 
+andere elektronische Nachweise (E-ID-Gesetz, BGEID) 
+
+Vernehmlassung 
+
+Sehr geehrte Frau Bundesrätin 
+
+Wir danken Ihnen für die Möglichkeit zur Stellungnahme zum Vorentwurf für das E-ID-
+Gesetz (BGEID). Wir unterstützen die Bestrebungen, möglichst rasch eine Lösung für 
+eine staatliche elektronische Identität zu erarbeiten und dafür die gesetzlichen Grundla-
+gen zu schaffen. Wir erlauben uns aber den Hinweis, dass der Entwurf relativ abstrakt 
+und eher schwer verständlich ist, und bitten Sie, die nachfolgenden Bemerkungen für 
+die weiteren Rechtsetzungsarbeiten zu beachten. 
+
+1. (cid:9)
+
+Allgemeine Bemerkungen 
+
+Im Ingress werden als Verfassungsbestimmungen Art. 38 Abs. 1, Art. 81 und Art. 121 
+Abs. 1 der Bundesverfassung (BV; SR 101) angegeben. Diese Bestimmungen äussern 
+sich allerdings nicht zu einer E-ID und bieten nach unserer Auffassung daher keine ge-
+nügende verfassungsmässige Grundlage für das BGEID. 
+
+Art. 1 Abs. 1 lit. b bestimmt, dass das BGEID die Infrastruktur zum Ausstellen, Widerru-
+fen, Überprüfen, Aufbewahren und Vorweisen von elektronischen Nachweisen regelt. 
+Im Anschluss an diese Bestimmung wird in Klammern der Begriff „Vertrauensinfrastruk-
+tur" eingeführt. Im Gesetz werden jedoch die Begriffe „Infrastruktur" oder „Vertrauensinf-
+rastruktur in den nachfolgenden Artikeln uneinheitlich verwendet (vgl. Art. 2, Art. 12, Ti-
+tel 5. Abschnitt, Art. 22 bis Art. 25 sowie Art. 28 BGEID). Wird ein Begriff am Anfang ei-
+nes Erlasses eingeführt, sollte er im gesamten Erlass einheitlich verwendet werden. 
+
+Regierungsgebäude, 8510 Frauenfeld 
+T +41 58 345 53 10, F +41 58 345 53 54 
+www.tg.ch  
+
+Thurgau 
+
+2/5 
+
+Wir beantragen, dass im gesamten Erlass aufgrund der Einheitlichkeit und Klarheit der 
+Begriff „Vertrauensinfrastruktur", wie er in Art. 1 Abs. 1 lit. b BGEID eingeführt wurde, 
+verwendet wird. 
+
+2. (cid:9)
+
+Bemerkungen zu einzelnen Artikeln 
+
+Art. 3 
+
+Es ist sinnvoll, die E-ID basierend auf einem bereits gültigen Schweizer Ausweis auszu-
+stellen und auf eine erneute Identitätsprüfung zu verzichten. Bezüglich der Ausweise für 
+Asylsuchende im laufenden Verfahren (N-Ausweise) und Ausweise für vorläufig Aufge-
+nommene (F-Ausweise) gilt es indessen zu erwähnen, dass diese zum jetzigen Zeit-
+punkt noch auf Papier und ohne im Zentralen Migrationsinformationssystem (ZEMIS) 
+hinterlegte Gesichtsfotos ausgestellt werden. Die Umstellung der N- und F-Ausweise 
+des Bundes auf moderne Plastikkarten mit Fotoerfassung direkt aus dem ZEMIS wird 
+mutmasslich erst in den nächsten ein bis zwei Jahren erfolgen. Die letzten bis zu fünf 
+Jahre gültigen EU/EFTA-Papierausweise werden schweizweit wohl erst bis 2026 durch 
+Plastikkarten mit direkt im ZEMIS erfassten Fotos ersetzt sein. 
+
+Art. 4 
+
+Aus Effizienzgründen wäre es sinnvoll, wenn bei der Ausstellung einer klassischen 
+Identitätskarte oder eines Passes die E-ID gleich mitgeneriert würde. Deren Aktivierung 
+könnte dann später auf Wunsch der oder des Betroffenen erfolgen. 
+
+Soweit datenschutzrechtlich zulässig, wäre zudem zu begrüssen, wenn bereits beste-
+hende (behördliche) E-ID Lösungen durch die neue E-ID des Bundes ersetzt würden. 
+Dies hätte für die Bürgerinnen und Bürger den Vorteil, dass im Kontakt mit allen Behör-
+den eine einheitliche E-ID verwendet werden könnte. In diesem Zusammenhang wäre 
+es für die Kantone von Vorteil, wenn der Bund bei der Migration von kantonalen E-ID-
+Lösungen zur E-ID des Bundes mitwirken würde. 
+
+Art. 5 
+
+Bei lnaktivsetzung eines Ausländerausweises im ZEMIS oder eines Ausweises im In-
+formationssystem Ausweisschriften (ISA) vor Ablauf der Gültigkeitsdauer gilt es, auch 
+die E-ID zu widerrufen. Dies ist in den Ausführungsbestimmungen zu Art. 5 des Vor-
+entwurfes zu berücksichtigen. 
+
+Thurgau 
+
+3/5 
+
+Art. 6 
+
+Ein Schweizer Pass ist bei volljährigen Personen zehn Jahre gültig, bei minderjährigen 
+Personen fünf Jahre. Beim Ausländerausweis beträgt die Gültigkeitsdauer je nach aus-
+länderrechtlicher Regelung zwischen vier Monaten und fünf Jahren oder bis zu dessen 
+Widerruf oder Erlöschen. 
+
+Bei der Definition der Gültigkeitsdauer einer künftigen E-ID regen wir an, diese explizit 
+mit der (verbleibenden) Gültigkeitsdauer eines Ausländerausweises im ZEMIS oder ei-
+nes Ausweises im ISA zu koppeln. Bei Inaktiysetzung eines Ausländerausweises im 
+ZEMIS oder eines Ausweises im ISA vor Ablauf der Gültigkeitsdauer gilt es auch die E-
+ID zu widerrufen. Dies wäre in den Ausführungsbestimmungen zu Art. 5, Art. 6 und 
+Art. 11 Abs. 5 des Vorentwurfes zu berücksichtigen. 
+
+Art. 8 
+
+Wir teilen die im erläuternden Bericht vertretene Auffassung nicht, wonach Anlaufstellen 
+in der Nähe der hilfesuchenden Personen (kantonale Ebene) zu schaffen sind. Es ist 
+wenig sinnvoll, wenn das Bundesamt für Polizei (fedpol) zuständig für die Entgegen-
+nahme und Bearbeitung von (digitalen) Anträgen zur Ausstellung einer E-ID ist (vgl. 
+Art. 4), aber eine Vielzahl kantonal unterschiedlich angesiedelter Beratungsstellen ent-
+koppelt von diesem Antragsprozess „mitreden". Dies verkompliziert den Prozess, 
+schafft diffuse und unklare Zuständigkeiten und stiftet damit mehr Verwirrung als Klä-
+rung 
+
+Personen, die sich für eine E-ID entscheiden und beantragen, wird es ohne Weiteres 
+möglich sein, telefonisch oder online (ohne physische Anlaufstelle) eine entsprechende 
+Beratung bei einer schweizweit zentralen Stelle einzuholen. Als die den Antrag bearbei-
+tende Behörde wäre das fedpol geeigneter, die Hilfestellung nahe am digitalen Prozess 
+und damit unmittelbar über eine Hotline sicherzustellen. 
+
+Würde an der dezentralen Lösung in den Kantonen festgehalten, müsste der Kanton 
+Thurgau zuerst eine solche Stelle schaffen. Auch müsste diese Aufgabe unter Berück-
+sichtigung der Kosten- und Entschädigungsfolgen (Gebührenteilung) ordentlich in die 
+Zuständigkeit der Kantone übertragen werden. 
+
+Art. 10 
+Beim Bezug von rein digitalen Dienstleistungen wäre es angemessen, wenn von den 
+Behörden zwingend eine E-ID verlangt werden kann. 
+
+Thurgau 
+
+4/5 
+
+Art. 11 Abs. 5 
+
+In Bezug auf Ausländerausweise gilt es zu beachten, dass die Ausweisdaten (Gesichts-
+foto, Unterschrift, je nach Ausweisart auch Fingerabdrücke) für fünf Jahre im ZEMIS 
+gespeichert werden. Die Ausführungsbestimmungen müssten festhalten, was gilt, wenn 
+beispielsweise genau vier Jahre und 364 Tage nach Erfassung des Gesichtsfotos im 
+ZEMIS eine E-ID beantragt würde. Richtet sich die Gültigkeitsdauer dann am Lö-
+schungszeitpunkt des Fotos im ZEMIS aus (in diesem Fall noch ein Tag) oder knüpft 
+diese an die Gültigkeitsdauer eines noch mit alten Daten neu ausgestellten Ausländer-
+ausweises, der über die Löschung der Ausweisdaten im ZEMIS hinaus gültig bleibt? 
+
+Art. 13 Abs. 2 
+
+Analog zu Art. 5 ist zu prüfen, ob ein Widerruf zwingend und sofort zu erfolgen hat, 
+wenn die Inhaberin oder der Inhaber verstorben ist. 
+
+Art. 14 
+
+Es ist nicht notwendig, dass das Gesetz vorschreibt, wie die Inhaberin oder der Inhaber 
+eines anderen elektronischen Nachweises diesen aufzubewahren hat. Dies liegt in ihrer 
+oder seiner Verantwortung. 
+
+Wir beantragen daher, dass Art. 14 wie folgt angepasst wird: „Die Inhaberin oder der 
+Inhaber erhält den elektronischen Nachweis als Datenpaket." 
+
+Art. 23 
+
+Wir begrüssen, dass der Quellcode veröffentlicht wird. Die Erfahrungen mit der Veröf-
+fentlichung des Quellcodes des E-Voting-Systems und des neuen Ergebnisermittlungs-
+systems für Wahlen und Abstimmungen VOTING zeigen aber, dass nicht nur der Quell-
+code, sondern auch die Dokumentation vollständig offenzulegen ist. Der Quellcode ist 
+so aufzubereiten, dass er von Expertinnen und Experten verstanden und nachvollzogen 
+werden kann. Zudem muss er kompilierbar sein. Wir beantragten, bei Art. 23 folgende 
+Formulierung zu verwenden: 
+
+:Der Bund veröffentlicht den vollständigen Quellcode, die Spezifikation, die Do-
+kumentation und weitere Dateien mit relevanten lnputparametern der von ihm zur 
+Verfügung gestellten Elemente der Vertrauensinfrastruktur und aller Elemente, die 
+für den elektronischen Nachweis eingesetzt werden. 
+2Die Offenlegung erfolgt nach best practices. Dies bedeutet insbesondere: 
+
+Thurgau\ 
+
+44, 
+ 
+
+5/5 
+
+a. Quellcode, Spezifikation und Dokumentation sind so aufbereitet, dass Struktur 
+und Inhalt von unabhängigen Expertinnen und Experten einfach nachvollzogen 
+werden können. 
+
+b. Quellcode und Dokumentation sind so aufbereitet, dass Dritte das System in 
+
+der eigenen Infrastruktur effizient kompilieren, in Betrieb nehmen und analysie-
+ren können. 
+
+c. Die Offenlegung erfolgt auf einer für Quellcode üblicherweise eingesetzten 
+
+Plattform. 
+
+c. Die Darstellung der offengelegten Unterlagen entspricht der gängigen Praxis. 
+d. Die Offenlegung ist dauernd und wird regelmässig aktualisiert. 
+e. Es wird ein detailliertes Änderungsprotokoll (changelog) geführt. 
+f.  Die offengelegten Dokumente sind anonym zugänglich. 
+g. Die Nutzungsbedingungen müssen es erlauben, den Quellcode und die übrigen 
+
+offengelegten Unterlagen vollständig zu prüfen, zu testen und zu analysieren. 
+
+h. Der Quellcode darf für wissenschaftliche Zwecke genutzt werden." 
+
+Im Übrigen verweisen wir auf die Stellungnahme der Konferenz der Kantonsregierun-
+gen (KdK) in dieser Sache, der wir uns anschliessen. 
+
+Mit freundlichen Grüssen 
+
+Die Präsidentin des Regierungsrates 
+
+Der Staatsschreiber 
+
+

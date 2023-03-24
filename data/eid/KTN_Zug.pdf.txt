@@ -1,0 +1,266 @@
+Kanton Zug
+
+Re g eru n gs rat
+
+Regierungsrat, Postfach, 6301 Zug
+
+Nur per E-Mail
+Eidgenössisches Justiz- und Polizeidepartement EJPD
+Frau Bundesrätin Karin Keller-Sutter
+Bundeshaus West
+3003 Bern
+
+Zug, 27. September 2022 rv
+
+Vorentwurf des Bundesgesetzes über den elektronischen Identitätsnachweis und andere
+elektronische Nachweise (E-ID-Gesetz, BGEID); Stellungnahme des Kantons Zug
+
+Sehr geehrte Frau Bundesrätin Keller-Sutter
+Sehr geehrte Damen und Herren
+
+Mit Schreiben vom 29. Juni 2022 hat uns das Eidgenössische Justiz- und Polizeidepartement
+eingeladen, zu oben erwähntem Gesetzesvorentwurf Stellung zu nehmen. Zum Vorentwurf äus
+sern wir uns wie folgt:
+
+1.
+
+Allgemeines
+
+Der Regierungsrat des Kantons Zug begrüsst es, dass der staatliche elektronische Identitäts
+nachweis (E-ID) neu vom Bund herausgegeben und auf einer bundeseigenen Infrastruktur be
+trieben werden soll. Ebenso begrüsst er es, dass für den Erwerb neu keine Registrierung vor
+Ort mehr erforderlich ist. Die Schaffung eines staatlichen elektronischen Identitätsausweises ist
+ein eminent wichtiger Beitrag, um die Digitalisierung in der Schweiz voranzubringen. Der Re
+gierungsrat hofft, dass die neue Bundeslösung in einem späteren Ausbauschritt nicht nur die
+elektronische Identifikation der Nutzenden, sondern auch die elektronische Unterzeichnung von
+Eingaben und Entscheiden ermöglichen wird, so wie dies mit «ZUGLOGIN» — der elektroni
+schen Identität (E-ID) des Kantons Zug — schon seit 2016 möglich ist
+(https://www.benutzerkonto.ch).
+
+Wie bereits bei der SuisselD wird der Kanton Zug auch die neue E-ID des Bundes in «ZUGLO
+GIN» integrieren bzw. freischalten, damit der Identitätsnachweis in «ZUGLOGIN» auch mit der
+neuen E-ID des Bundes erbracht werden kann.
+
+2.
+
+Vorentwurf E-ID-Gesetz (BGEID)
+
+Art. 3 Persönliche Voraussetzungen
+Antrag: Die E-ID sei nur Personen auszustellen, deren Identität verlässlich festgestellt werden
+kann.
+
+Regierungsgebäude, Seestr. 2, 6300 Zug
+T +41 41 7283311
+www.zg.ch
+
+Seite 2/6
+
+Begründung:
+Soll wirklich Vertrauen in die E-ID geschaffen werden, so darf die E-ID nur Personen ausge
+stellt werden, deren Identität verlässlich festgestellt werden kann. Wer nicht sicher identifiziert
+werden kann (z. B. Ausweise N, F, S und Ci) hat keinen Anspruch auf eine elektronische Identi
+tät. Den öffentlichen und den privaten Anbietenden von eGovernment- bzw. Onlinediensten
+kann nicht zugemutet werden, dass sie die Unterschiede aller möglichen Ausweise von Auslän
+derinnen und Ausländern kennen und wissen, ob und in welchem Umfang sie ihre Dienste ein
+schränken können bzw. müssen.
+
+Art. 8 Anlaufstellen der Kantone
+Antrag: Vom Bund sei ein einziger zentraler Helpdesk einzurichten, welcher 7x24h per Telefon,
+E-Mail oder weiteren Online-Kanälen erreichbar ist und der im Zusammenhang mit der Ausstel
+lung und dem Einsatz der E-ID Unterstützung in allen Landessprachen und auf Englisch anbie
+tet.
+
+Begründung:
+Wer eine Informatiklösung anbietet und betreibt, hat auch den entsprechenden First Level
+Support sicherzustellen. Es macht keinen Sinn, dass jeder Kanton (zusätzlich zum Bund) eine
+eigene Anlaufstelle schafft. Im Übrigen werden Bürgerinnen und Bürgern, die nicht bereit oder
+in der Lage sind, sich dem elektronischen Geschäftsprozess für die Ausstellung einer E-ID zu
+stellen, auch kaum Bedarf für eine elektronische E-ID haben.
+
+Art. 10 Vorweisen einer E-ID
+Antrag 1: Die Wahlmöglichkeit zwischen E-ID und physischem Ausweis sei auf zehn Jahre zu
+befristen.
+
+Begründung:
+Eine unbefristete Wahlmöglichkeit zwischen E-ID und physischem Ausweis hätte zur Folge,
+dass ein vollständiger Wechsel zur E-ID nie möglich würde. Zumindest sind die in Art. 10
+erwähnten physischen Ausweise innert dieser Frist dahingehend weiterzuentwickeln, dass sie
+auch als E-ID genutzt werden können.
+
+Art. 14 Form und Aufbewahrung von elektronischen Nachweisen
+Antrag: Art. 14 sei wie folgt zu ergänzen und zu präzisieren:
+«1 Die Inhaberin oder der Inhaber erhält den elektronischen Nachweis als Datenpaket.
+2 Der Bund stellt ein Identifikationsmittel als benutzerfreundliche Applikation (App) zur Ver(ü
+gung. Damit können elektronische Nachweise aufbewahrt und vorgewiesen werden.
+
+Die Inhaberin oder der Inhaber bewahrt die Dokumente mithilfe der vom Bund zertifizierten
+
+App unter ihrer oder seiner alleinigen Kontrolle auf.‘)
+
+Begründung:
+Wir erwarten, dass den Nutzenden ein vom Bund erstelltes und geprüftes Identifikationsmittel
+(z. B analog der «COVID Cert» App) zur Verfügung gestellt wird. Mittel- und langfristig werden
+
+Seite 3/6
+
+auch wenig digitalaffine Personen mit dem Wallet den Zugang auf Ihre personenbezogenen
+Daten gewähren oder ablehnen. Daher ist auch die Benutzerfreundlichkeit explizit in die For
+mulierung dieser Bestimmung aufzunehmen. Die intuitive Bedienbarkeit ist ein entscheidender
+Faktor dafür.
+
+Art. 18 System zur Bestätigung von Identifikatoren
+Antrag: Art. 1 8 sei dahingehend zu ergänzen, dass klar wird, dass es sich beim «System zur
+Bestätigung von Identifikatoren» um das sogenannte «Vertrauensregister» handelt.
+
+Begründung:
+Gemäss der Abbildung auf Seite 1 4 besteht die «Vertrauensinfrastruktur» unter anderem aus
+den Elementen «Basisregister» und «Vertrauensregister». Abgesehen von dieser Abbildung
+findet sich der Begriff «Vertrauensregister», im Gegensatz zum Begriff «Basisregister», weder
+im E-ID-Gesetz, noch wird er im erläuternden Bericht erklärt.
+
+Art. 19 Anwendung zur Aufbewahrung und Vorweisung von elektronischen Nachweisen
+Falls Art. 14 wie beantragt angepasst wird, kann Art. 19 ersatzlos gestrichen werden.
+
+Art. 20 Anwendung zur Prüfung von elektronischen Nachweisen
+Antrag: Art. 20 sei wie folgt zu ändern bzw. zu ergänzen:
+«Der Bund stellt eine Anwendung zur Verfügung, mit der elektronische Nachweise von
+Bundes-, Kantons- und Gemeindebehörden auf ihre Gültigkeit überprüft werden können.
+Der Bundesrat kann vorsehen, dass der Bund auch für private Ausstellerinnen und Ausstel
+ler eine solche Anwendung zur Verfügung stellt, mit der elektronische Nachweise auf ihre
+Gültigkeit überprüft werden können. »
+
+Begründung:
+Vor dem Hintergrund, dass gemäss Art. 17 nur geringe Anforderungen an die Eintragung von
+Ausstellerinnen und Austellern ins Basisregister gestellt werden, ist es nachvollziehbar, dass
+der Bund nicht für alle in der Vertrauensinfrastruktur enthaltenen elektronischen Nachweise
+eine Prüfanwendung zur Verfügung stellen kann. Zumindest für E-IDs einer Bundes-, Kantons-
+und Gemeindebehörde sollte dies jedoch möglich sein.
+
+Art. 21 System für Sicherungskopien
+Antrag 1: Die Schaffung einer Lösung für Sicherungskopien sei in Art. 21 Abs. 1 nicht als
+Option des Bundesrates, sondern als zwingender Bestandteil der Vertrauensinfrastruktur zu
+verankern.
+
+Begründung zu Antrag 1:
+Im regelmässigen Fall eines Wechsels des Smartphones und im weniger häufigen Fall des Ver
+lustes hat die lnhaberin oder der Inhaber ein vitales Interesse, die Daten im Wallet risikoarm
+auf ein neues Gerät bringen zu können. Der Ansatz der selbstbestimmten Identität (SeIf-Sover
+eign Identity) verlangt von den Nutzenden digitale Kompetenzen und die Übernahme von
+
+Seite 4/6
+
+Verantwortung für die Sicherheit der eigenen Daten. Die Vertrauensinfrastruktur des Bundes
+darf die Nutzerin bzw. den Nutzer in diesem datensicherheits
+relevanten Bereich nicht alleine lassen.
+
+Antrag 2: In Art. 21 Abs. 3 sei die Möglichkeit vorzusehen, dass Inhaberinnen und Inhaber die
+Vernichtung der Sicherheitskopie ihrer eigenen E-ID selber vornehmen können, ohne dass sie
+dafür einen Antrag stellen müssen.
+
+Begründung zu Antrag 2:
+Es ist nicht nachvollziehbar, warum die Inhaberin bzw. der Inhaber zwar die E-ID auf dem eige
+nen E-ID-Träger (z. B. Smartphone), nicht aber die Sicherungskopie löschen kann.
+
+3.
+
+Erläuternder Bericht zum Vorentwurf E-ID-Gesetz (BGEID)
+
+Bericht zu Art. 2 Abs. 1 und Art. 12 Abs. 1 Form und Inhalt der E-ID
+Der Bericht verweist fälschlicherweise auf eine «Einschränkung in Art. 18 Abs. 3». Wahrschein
+lich sollte sich der Verweis auf die Einschränkung in Art.
+
+1 8 Abs. 2 beziehen.
+
+Bericht zu Art. 4 Abs. 2 Ausstellung
+Der Bericht sei dahingehend zu ergänzen, dass klar wird, wie für Minderjährige unter 14 Jahren
+und bei Personen mit umfassender Beistandschaft die benötigte Einwilligung ihrer gesetzlichen
+Vertretung im Onlineprozess abgebildet und durchgesetzt wird.
+
+Bericht zu Art. 11 Abs. 3 Informationssystem zur Ausstellung und zum Widerruf der E-ID
+Antrag: Der Bericht sei dahingehend zu ergänzen, dass der antragstellenden Person die Daten
+gemäss Art. 2 Abs. 2 und 3 übermittelt werden.
+
+Begründung:
+Gemäss Bericht werden der antragstellenden Personen nur die Daten gemäss Art. 2 Abs. 3
+übermittelt, was nicht zutreffend ist.
+
+Bericht zu Art. 22 Missbrauch der Vertrauensinfrastruktur
+Antrag: Der Bericht zu Art. 22 sei dahingehend zu ergänzen, dass klar wird, warum der Aus
+schluss von Ausstellerinnen und Ausstellern aus dem Basisregister im Missbrauchsfall tech
+nisch nicht möglich ist.
+
+Bericht zu Art. 26 Gebühren
+Antrag: Das vorgesehene Gebührensystem sei detailliert und anhand von Beispielen zu erläu
+tern, damit die finanziellen Auswirkungen auf die Kantone und Gemeinden nachvollzogen wer
+den können. Der Verweis auf das Gebührensystem der Sovrin Foundation in Fussnote 32 auf
+Seite 17 des erläuternden Berichts hilft diesbezüglich nicht weiter.
+
+Seite 5/6
+
+Begründung:
+Gemäss Art. 9 muss jede Behörde oder andere Stelle, die öffentliche Aufgaben erfüllt, die E-ID
+des Bundes akzeptieren, wenn sie eine elektronische Identifizierung vornimmt. Dazu muss sie
+gemäss Art. 17 Abs. 3 ihre Daten als Verifikatorin in das Basisregister eintragen. Dies wiede
+rum löst gemäss Art. 26 Abs. 1 eine Gebühr aus. Gemäss telefonischer Auskunft des Bundes-
+amtes für Justiz (Rolf Rauschenbach) handelt es sich dabei um eine einmalige Gebühr, die er
+forderlich sei, damit sich nicht Bots als Verifikatorinnen oder Verifikatoren ins Basisregister ein
+tragen. Wiederkehrende Gebühren würden im vorerwähnten Beispiel für die Behörden nicht an
+fallen. Dasselbe gelte, wenn der Kanton Zug die neue E-lD des Bundes in «ZUGLOGIN» integ
+riere bzw. freischalte, so dass der Identitätsnachweis in «ZUGLOGIN» auch mit der neuen E-ID
+des Bundes erbracht werden könne.
+
+4.
+
+Bundesgesetz vom 19. Juni 2015 über das elektronische Patientendossier
+
+Art. 11
+Antrag: Art. 11 sei dahingehend zu ergänzen, dass auch öffentliche Herausgeberinnen und
+Herausgeber von ldentifikationsmitteln zertifiziert sein müssen.
+
+Begründung:
+Aus dem Bericht zu Art. 11 geht nicht hervor, warum sich der Bund, wenn er ein Identifikations
+mittel anbietet, nicht zertifizieren lassen muss. Eine Zertifizierung dient der Schaffung von Ver
+trauen.
+
+Für die Berücksichtigung unserer Anliegen danken wir Ihnen zum Voraus bestens.
+
+Zug, 27. September 2022
+
+Freundliche Grüsse
+Regierungsrat des Kantons Zug
+
+wJLF,
+
+Martin Pfister
+Landammann
+
+Rene Spillmann Siegwart
+stv. Landschreiberin
+
+Seite 6/6
+
+Versand per E-Mail an:
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+rechtsinformatik@bj.admin.ch (Word- und PDF-Format)
+Zuger Mitglieder der Bundesversammlung
+Staatskanzlei (info.staatskanzlei@zg.ch, Geschäftskontrolle)
+Datenschutzstelle (datenschutz.zug @zg.ch)
+Sicherheitsdirektion (info.sd@zg.ch)
+Finanzdirektion (into.fd@zg.ch)
+Amt für Informatik und Organisation (info.aio@zg.ch)
+
+

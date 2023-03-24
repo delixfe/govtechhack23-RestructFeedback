@@ -1,0 +1,299 @@
+ 
+
+Swisscom (Schweiz) AG, Konzernrechtsdienst, 3050 Bern 
+
+ 
+
+ 
+
+Per E-Mail an: 
+rechtsinformatik@bj.admin.ch  
+ 
+Zu Handen: 
+Frau Bundesrätin Keller-Sutter 
+Eidgenössisches Justiz- und 
+Polizeidepartement EJPD 
+ 
+  
+
+Datum 
+Ihr Kontakt 
+Thema 
+
+12.10.2022 
+Raffael Knecht / 058 221 61 01 / raffael.knecht@swisscom.com 
+
+  Stellungnahme zum Vorentwurf des E-ID-Gesetzes 
+
+Seite 
+1 von 5 
+
+ 
+
+Sehr geehrte Frau Bundesrätin 
+Sehr geehrte Damen und Herren 
+
+ 
+
+Vielen Dank für Ihre Einladung vom 29. Juni 2022 und die Möglichkeit, im Vernehmlassungsverfahren zum 
+Vorentwurf des Bundesgesetzes über den elektronischen Identitätsnachweis und andere elektronische 
+Nachweise (E-ID-Gesetz, BGEID) Stellung zu nehmen. 
+
+Auch für Swisscom ist die digitale Identität ein wichtiges Thema. Denn beim heutigen Stand der 
+Digitalisierung ist es ein dringendes Anliegen, ein elektronisches Identifikationsverfahren mit breiter 
+Akzeptanz einsetzen zu können. Swisscom ist überzeugt, dass der Erfolg der staatlichen elektronischen 
+Identität (E-ID) sowie dem damit zusammenhängenden Vertrauensökosystem von drei Faktoren abhängt: 
+
+•  die Handhabung der E-ID sowie der anderen elektronischen Nachweise muss benutzerfreundlich 
+
+ausgestaltet sein; 
+
+•  die Verwendung der E-ID muss bei wenigen, jedoch weit verbreiteten Services aktiv gefördert 
+
+werden und 
+
+•  die Umsetzung muss schliesslich schnell erfolgen. 
+
+ 
+
+1.  Grundsätzliches 
+
+Gleich wie in der physischen Welt erfordert die Abwicklung bestimmter Dienstleistungen oder 
+Behördengeschäfte auch in der digitalen Welt die Identifikation der beteiligten Nutzerinnen und Nutzer. 
+
+In vielen Anwendungsfällen genügt jedoch bereits der Nachweis eines bestimmten Merkmals, wie 
+beispielsweise das Erreichen des erforderlichen Mindestalters beim Kauf von Gütern, die einer 
+Altersbeschränkung unterliegen. 
+
+Swisscom (Schweiz) AG 
+Konzernrechtsdienst  
+Postfach, 3050 Bern 
+  
+
+ 
+
+  
+
+Standortadresse 
+Alte Tiefenaustrasse 6 
+3048 Worblaufen 
+
+ 
+
+ 
+
+Seite 
+2 von 4 
+
+Überall dort, wo keine spezifischen Regelungen gelten und ein Geschäftsvorfall mit einer unmittelbaren 
+Zahlung abgeschlossen werden kann, ist üblicherweise kein weiterer Nachweis zur Abwicklung einer 
+Transaktion erforderlich. 
+
+In diesem Spannungsfeld zielen Konzepte wie namentlich „Self-Sovereign Identity“ (SSI) darauf ab, 
+datenschutzrechtlichen Anliegen wie dem Prinzip der Datenminimierung mittels selbstverwalteter 
+Identitäten und Attributen bestmöglich zu entsprechen. Gleichermassen sollen auch die weiteren 
+Ansprüche der handelnden Akteure, allen voran an die Benutzerfreundlichkeit, berücksichtigt werden, 
+indem konzeptionell an altbekannte Abläufe aus der physischen Welt angeknüpft wird. 
+
+Ein derart ausgestaltetes Vertrauensökosystem bildet schliesslich die Basisinfrastruktur für eine digitale 
+Landschaft, auf deren Grundlage sich bereits bestehende Anwendungen überhaupt erst in der Breite 
+etablieren und neue Anwendungen gedeihen können. Viel diskutierte Beispiele hierfür sind E-Collecting und 
+-Voting-Systeme, die Bestellung von Registerauszügen aller Art sowie in übergeordneter Weise die digitale 
+Willenskundgabe mittels der elektronischen Signatur. 
+
+Gerade beim digitalen Gegenstück zur handschriftlichen Unterschrift, der qualifizierten elektronischen 
+Signatur (QES) nach dem Bundesgesetz über die elektronische Signatur (ZertES), verunmöglichte das Fehlen 
+niederschwelliger Identifikationsverfahren in der Vergangenheit deren Verbreitung in der Schweiz. 
+Swisscom befürwortet deshalb die Regelung, wonach der Identitätsnachweis bei der Registrierung für die 
+QES durch einen elektronischen Identitätsnachweis nach dem BGEID wird erbracht werden können. Wir 
+gehen davon aus, dass die für den Privatrechtsverkehr anerkannten Anbieterinnen von 
+Zertifizierungsdiensten von dieser Möglichkeit Gebrauch machen werden und die Verwendung der 
+elektronischen Signatur in der breiten Bevölkerung dadurch weiter gefördert wird. 
+
+Vor diesem Hintergrund begrüsst Swisscom den Vorentwurf grundsätzlich, regt aber an, nachfolgende 
+Punkte in den weiteren Arbeiten zu berücksichtigen. 
+
+2.  Risiken und Verbesserungsvorschläge aus Sicht Swisscom 
+
+a)   Balanceakt zwischen technologieneutraler Regulierung und Wahrung der Investitionssicherheit 
+privater Akteure 
+Der Vorentwurf regelt die Eckpunkte der E-ID sowie der darunterliegenden Vertrauensinfrastruktur und 
+verweist an zahlreichen Stellen auf die Möglichkeit oder die Pflicht des Bundesrates, auf Verordnungsstufe 
+Ausführungsbestimmungen zu erlassen. 
+
+Ein technologieneutraler Rechtsrahmen ist grundsätzlich begrüssungswert, um eine dynamische 
+Weiterentwicklung der Vertrauensinfrastruktur und deren Anpassung an den jeweiligen Stand der Technik 
+zu ermöglichen. 
+
+Bevor allerdings die Grundzüge der Ausgestaltung der Vertrauensinfrastruktur sowie die konkrete 
+Rollenverteilung zwischen Staat und privaten Akteuren nicht hinreichend konkret sind, können potenzielle 
+Technologielieferanten und Dienstleistungserbringer ihre Geschäftsmodelle nur ungenügend ausarbeiten. 
+Dadurch wird auch die Planung von potenziellen E-ID-verwendenden Diensten und 
+Dienstleistungsangeboten im Bereich der digitalen Nachweise erschwert. Dies birgt das Risiko, dass 
+zwischen Inkrafttreten des Gesetzes und der Etablierung eines Vertrauensökosystems, das den 
+Benutzerinnen und Benutzern Anwendungsmöglichkeiten der E-ID und anderer elektronischer Nachweise 
+bietet, unnötig viel Zeit verstreicht, was im schlimmsten Fall die Adaption der Lösung verhindert. Deshalb ist 
+es aus Sicht Swisscom wichtig, frühzeitig Klarheit zu schaffen in Punkten, die geschäftsstrategische 
+Entscheide privater Akteure massgeblich beeinflussen könnten. Insbesondere betrifft dies Aspekte zur 
+Ausgestaltung der Vertrauensinfrastruktur und deren vielfältigen Schnittstellen. Diesbezüglich erscheinen 
+
+ 
+
+ 
+
+ 
+
+Seite 
+3 von 4 
+
+uns die Ausführungen im 5. Abschnitt zur Vertrauensinfrastruktur in grundlegender Weise zu abstrakt, um 
+konkrete Handlungsempfehlungen daraus ableiten zu können. 
+
+b)   Vertrauen schaffen durch explizite Regelung des Schutzes der Privatsphäre und Abwehrrecht auf 
+freien Zugang zum Internet 
+Der  datenschutzrechtliche  Grundsatz  der  Datenminimierung  verlangt,  dass  die  Bearbeitung  von 
+Personendaten  dem  Zweck  angemessen  und  auf  das  für  die  Zwecke  der  Bearbeitung  notwendige  Mass 
+beschränkt  sein  muss.  Demnach  setzt  das  Datenschutzrecht  potenziellen  Verifikatoren  Schranken  bei  der 
+Wahl, welche Nachweise sie für den Zugang zu ihren Diensten voraussetzen dürfen. 
+
+Der einschlägige Art. 16 Abs. 1 des Vorentwurfs betreffend das Vorweisen von elektronischen Nachweisen 
+nennt  diese  Schranke  nicht  explizit,  auch  andernorts  wird  darauf  abgestellt,  dass  allgemeine  Grundsätze 
+zum Schutz von Personendaten im BGEID nicht wiederholt werden müssen,  um Geltung zu behalten. Aus 
+rechtssystematischer Sicht ist dies selbstredend zu begrüssen. 
+
+Hingegen könnte es die Akzeptanz der Vorlage fördern, wenn im BGEID, konkret in dessen Art. 16, explizit 
+verankert wird, dass Verifikatoren für den Zugang von Diensten nur jene Nachweise verlangen dürfen, die 
+aus  explizit  zu  nennenden  Gründen  erforderlich  sind.  KonsumentInnen  könnten  andernfalls  mit 
+allgemeinen  Geschäftsbedingungen  (AGB)  und  Datenschutzerklärungen  konfrontiert  werden,  die  sie 
+eigentlich  gar  nicht  akzeptieren  wollen,  aber  faktisch  nicht  ablehnen  können,  wenn  sie  einen 
+entsprechenden Dienst in Anspruch nehmen möchten. 
+
+In  grundlegender  Weise  bildet  schliesslich  der  Zugang  zum  Internet  sowie  zu  zentralen  digitalen 
+Basisdiensten beim heutigen Stand der Digitalisierung gar die Voraussetzung für die wirksame umfassende 
+Wahrnehmung praktisch aller Grundrechte. Thematisch spiegelbildlich zur Materie der digitalen Nachweise 
+möchten  wir  deshalb  anregen,  die  Einführung  eines  Abwehrrechts  auf  freien  Zugang  zum  Internet, 
+verstanden  als  die  Summe  essenzieller  digitaler  Dienste,  zu  prüfen.  Als  Leuchtturm  könnte  hier  das 
+Bayerische  Digitalgesetz 
+Internet)  dienen,  das  seinen 
+Rechtsunterworfenen einen freien Zugang zum Internet garantiert. 
+
+(vgl.  BayDiG:  Art.  8  Freier  Zugang  zum 
+
+Sowohl die explizite Nennung des obgenannten datenschutzrechtlichen Grundsatzes zum Einsatz digitaler 
+Nachweise  als  auch  ein  Abwehrrecht  auf  freien  Zugang  zum  Internet  könnten  Bedenken  hinsichtlich  des 
+Schutzes  der  Privatsphäre  und  ungerechtfertigter  Zutrittsschranken  im  digitalen  Raum  in  grundlegender 
+Weise Rechnung tragen und so das Vertrauen in die künftige digitale Infrastruktur der Schweiz stärken. 
+
+c)   Einführung eines standardisierten Identifikationsverfahrens für Personen ohne E-ID 
+Gemäss Vorentwurf ist die E-ID erhältlich für Inhaberinnen und Inhaber eines von den Schweizer Behörden 
+ausgestellten Ausweises. Falls zu einem späteren Zeitpunkt politisch gewollt, kann die Schweizer E-ID dank 
+grenzüberschreitender Interoperabilität internationale Anerkennung erlangen und umgekehrt können 
+ausländische E-ID in der Schweiz zugelassen werden. Zur Umsetzung wären jedoch bilaterale Abkommen 
+mit den jeweiligen Staaten erforderlich. 
+
+Vor diesem Hintergrund ist davon auszugehen, dass es gerade im stark international geprägten Schweizer 
+Wirtschaftsverkehr noch lange Personen geben wird, die keine Möglichkeit haben, sich eine kompatible E-ID 
+zu beschaffen. 
+
+Damit diese Lücke geschlossen werden kann, regen wir an, ein standardisiertes Identifikationsverfahren zu 
+bezeichnen, dass ebenbürtig zur E-ID zur Anwendung gebracht werden kann. Damit könnten namentlich 
+digitale Angebote der Privatwirtschaft, die eine Identifikation erfordern (z.B. die Eröffnung eines 
+Bankkontos), von hierfür zugelassenen Akteuren mittels eines standardisierten Verfahrens erbracht werden, 
+welches Personen ohne E-ID zur Verfügung gestellt werden kann, sodass diese nicht von entsprechenden 
+
+ 
+
+ 
+
+ 
+
+Seite 
+4 von 4 
+
+digitalen Angeboten ausgeschlossen werden oder E-ID-verwendende Angebote aufgrund einer zu niedrigen 
+Verbreitung der E-ID in der einschlägigen Population gar nicht erst geschaffen werden. 
+
+Eine derartige Regelung hätte schliesslich den Vorteil einer gesetzesübergreifenden Standardisierung der 
+digitalen Identifikationsverfahren, welche sich heute in unterschiedlichster Ausprägung an verschiedenen 
+Stellen der Rechtsordnung wiederfinden. 
+
+3. 
+
+Einzelpunkte aus dem Vorentwurf 
+
+Zu Art. 19 Anwendung zur Aufbewahrung und Vorweisung von elektronischen Nachweisen 
+
+a) 
+Neben der staatlichen elektronischen Brieftasche können gemäss Erläuterungen zu Art. 19 die Nutzerinnen 
+und  Nutzer  auch  andere  Anwendungen  für  die  Aufbewahrung  und  Vorweisung  ihrer  elektronischen 
+Nachweise  verwenden.  Wir  regen  in  diesem  Zusammenhang  an,  die  Verwendung  von  elektronischen 
+Brieftaschen,  die  von  privaten  Akteuren  angeboten  werden,  ebenfalls  im  Gesetz  zu  nennen,  um  die 
+Gleichwertigkeit entsprechender Lösungen auszuweisen und damit deren Akzeptanz zu fördern. 
+
+b)  Zu Art. 9 Abs. 4bis des Bundesgesetzes vom 18. März 2016 über die elektronische Signatur 
+
+Wie  einleitend  erwähnt,  begrüsst  Swisscom  die  Regelung,  wonach  der  Identitätsnachweis  bei  der 
+Registrierung  für  die  QES  durch  einen  elektronischen  Identitätsnachweis  nach  dem  BGEID  wird  erbracht 
+werden können. Wir gehen davon aus, dass dies die Verwendung der elektronischen Signatur in der breiten 
+Bevölkerung weiter fördern wird. 
+
+Entgegen dessen Wortlaut ist Abs. 4 von Art. 9 jedoch nicht ganz, sondern nur im zweiten Satz aufzuheben. 
+
+ 
+
+Zusammengefasst begrüsst Swisscom den Vorentwurf grundsätzlich, sieht aber gleichzeitig 
+Verbesserungsbedarf in einigen Punkten. Der Erfolg der E-ID wird aber schliesslich vom zeitnahen Aufbau 
+des notwendigen Vertrauensökosystems abhängen, weshalb wir dringend anregen, regulatorische und 
+projektspezifische Arbeiten möglichst zu parallelisieren. Weiter sollte ein umsetzungsorientierter Umgang 
+mit Abhängigkeiten zu gleichlaufenden, ausländischen Vorhaben gefunden werden. Denn die berechtigte 
+Forderung nach internationaler Interoperabilität der E-ID-Systeme darf nicht zu Verzögerungen bei der 
+nationalen Umsetzung führen. 
+
+ 
+
+Gerne stehen wir Ihnen zur Erläuterung unserer Sichtweise zur Verfügung. Für die Prüfung unserer Anliegen 
+danken wir Ihnen im Voraus bestens. 
+
+ 
+
+Freundliche Grüsse 
+
+Swisscom (Schweiz) AG 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Raffael Knecht 
+
+ 
+
+FinTech & Digital Trust 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Stéphane Vaucher 
+
+Senior Counsel 
+
+ 
+
+

@@ -1,0 +1,154 @@
+ 
+
+Eidgenössisches Justiz- und Polizeidepartement EJPD 
+
+Frau Bundesrätin Karin Keller-Sutter 
+
+3003 Bern 
+
+ 
+
+per E-Mail an rechtsinformatik@bj.admin.ch 
+
+ 
+
+ 
+
+Lausanne, 20. Oktober 2022 
+
+ 
+
+Vernehmlassungsantwort zum Entwurf des Bundesgesetzes über den elektronischen 
+
+Identitätsnachweis und andere elektronische Nachweise (BGEID)  
+
+ 
+
+Sehr geehrte Frau Bundesrätin, sehr geehrte Damen und Herren 
+
+ 
+
+Mit grossem Interesse haben wir die Vernehmlassung zum BGEID zur Kenntnis genommen. 
+
+Unsere Organisation CH++ widmet sich unabhängig einer nachhaltigen, wohlhabenden und 
+
+handlungsfähigen Schweiz durch Wissenschaft und Technologie. Das Thema E-Id verfolgen 
+
+wir seit der Neulancierung entsprechend intensiv und haben uns verschiedentlich bereits direkt 
+
+wie indirekt eingebracht.  
+
+ 
+
+CH++ unterstützt das aktuelle Vorgehen in weiten Teilen, insbesondere den aktiven Einbezug 
+
+der Community aus Wissenschaft und Technologie. Eine gute, vertrauenswürdige E-Id ist für 
+
+uns datensparsam, dezentral und open source — und wird agil, nutzerzentriert und inklusiv 
+
+entwickelt. Wo diese Grundsätze mit dem Entwurf noch in Konflikt stehen, erlauben wir uns im 
+
+Folgenden eine knappe, unterstützende Rückmeldung. 
+
+ 
+
+Wir  bedanken  uns  für  Ihr  Interesse  und  stehen  Ihnen  für  weiteren  Dialog  stets  gerne  zur 
+
+Verfügung. 
+
+ 
+
+Hannes Gassert, Präsidium 
+
+Marcel Salathé, Präsidium 
+
+Olga Baranova, Geschäftsleitung 
+
+ 
+
+1 
+
+ 
+
+Allgemeine Würdigung 
+
+CH++  hat  sich  bereits  in  der  Vergangenheit  positiv  zum  Ansatz  der  Self Sovereign  Identity 
+
+geäussert, ebenso zur Idee eines Ökosystems von digitaler Infrastruktur. Im jetzt vorliegenden 
+
+Entwurf  des  E-ID-Gesetzes sehen  wir  eine  deutliche  Verbesserung  im Vergleich zur  in der 
+
+Volksabstimmung abgelehnten Vorlage. Unabhängig vom Gesetzgebungsprozess wollen wir 
+
+Sie dazu ermutigen, weiter und in grossem Tempo die konkrete, prototypische Entwicklung 
+
+und Erprobung der E-ID voranzutreiben, mitunter als Pilotversuch unter Art. 15 EMBAG — und 
+
+Erkenntnisse daraus laufend einfliessen zu lassen in die Entwürfe des Gesetzes und sodann 
+
+der Verordnung. 
+
+Artikel 1  
+
+Nach Ansicht von CH++ ist der Zweckabschnitt gut gelungen, in seiner Breite schafft er einen 
+
+grossen Raum an Möglichkeiten. Es wäre aber für den weiteren Verlauf nun wünschenswert, 
+
+hier einen minimalen, allgemeingültigen Anwendungsfall zu beschreiben, den die E-Id künftig 
+mindestens abdecken wird und damit den Zweck etwas zu konkretisieren.  
+
+Artikel 3 
+
+Um die E-ID möglichst inklusiv zu gestalten, möchten wir hier die Möglichkeit anregen, auch 
+
+Menschen  ohne  gültige  Aufenthaltsbewilligung  den  Zugang  zur  E-Id  anzubieten,  etwa  auf 
+
+Basis eines ausländischen Passes. Eine entsprechende Kann-Formulierung scheint uns hier 
+sinnvoll und angebracht. 
+
+Artikel 4 
+
+CH++ schlägt vor, dass die E-ID auch vor Ort, etwa in einem Passbüro, beantragt und bezogen 
+
+werden kann. Wir erhoffen uns ebenfalls inkludierende Wirkung und eine höhere Verbreitung 
+über alle Bevölkerungsschichten hinweg.  
+
+Artikel 16 
+
+Im Sinne der in der Einleitung erwähnten Datensparsamkeit ist hier eine Überidentifikation zu 
+
+vermeiden. Hierzu unterstützen wir den Vorschlag der Referendumsallianz.  
+
+ 
+
+2 
+
+ 
+
+Besonders wichtig ist uns hier der Aspekt Open Source. Das Entwicklungsmodell hat sich etwa 
+
+bei  den  Covid-Apps  als  herausragend  zweckmässig  und  qualitätsfördend  erwiesen.  Das 
+
+Gesamtsystem, von der Vertrauensinfrastruktur über das System für Sicherungskopien bis hin 
+
+zu  den  Apps  unter  einer  allgemein  anerkannten  Open  Source  Lizenz  veröffentlicht  und 
+
+gepflegt werden. Dies betrifft entsprechend auch die Artikel 19, 20, und 21. Wir regen darum 
+
+an, diesen Grundsatz in einem separaten Artikel klar und verbindlich festzulegen.  
+
+ 
+Artikel 26 
+
+Wir schlagen vor, hier keine Gebühren zu erheben. Die zu erwartenden Einnahmen stehen 
+
+nach unserer Einschätzung in keinem guten Verhältnis zur so erreichten Verminderung der 
+Verbreitung. 
+
+ 
+
+ 
+
+3 
+
+

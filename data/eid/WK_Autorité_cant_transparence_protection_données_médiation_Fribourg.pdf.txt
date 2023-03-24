@@ -1,0 +1,225 @@
+Autorité  cantonale  de la transparence, de la
+protection  des  données  et de la médiation  ATPTDM
+Kantonale  Behôrde  fiir Ôffentlichkeit,  DatenschuE
+und Mediation  ÔDSMB
+
+La Commission
+
+Rue des  Chanoines  2, 1700 Fribourg
+
+T +41 26 322 50 08
+www.fr.ch/atprdm
+
+Réf : 2022-P  rD-2421  2022-T  rans-1 631 2022-Méd-34
+Courriel : secretariatatprdm@fr.  ch
+
+)
+EIAT DE FRIBOURG
+STAAT  FREIBURG
+
+Autorité  cantonale  de la transparênce,  de la  protêction  des  donnéês  et de lâ
+médiation - Rue  dês  Chanoines  2,  '1 700  Fribourg
+
+Office fédéral de la justice
+Bundesrain  20
+3003 Berne
+rechts
+
+.admin.ch
+
+Fribourg,  le 5 octobre 2022
+
+Avant-projet de la loi fédérale sur I'identité  électronique  et d'autres moyens de
+preuve électroniques  (Loi sur I'e-lD,  LelD)
+
+Madame,  Monsieur,
+
+La Commission se prononce  sur l'avant-projet  de loi fédérale sur l'identité électronique  et autres
+moyens de preuve électronique  (LoID) mis en consultation  par le Conseil  fédéral  lors de sa séance
+du29 juin2022.
+
+La Commission en atraité lors de sa séance  du 4 octobre2022.  Elle ne se prononce que sur les
+aspects relatifs à la protection des données, à la transparence  et à la médiation administrative  (art.
+30a al. 1 let. b de la loi du25  novembre 1994 sur la protection des données,  LPrD ; RSF 17 .l ; art.
+40 let. c de la loi du 9 septembre 2009 sur I'information  et l'accès  aux documents, LInf ; RSF  17 .5 ;
+art.6 aI.2let.  c de la loi du 25 juin 2015 sur la médiation administrative, LMéd ; RSF 1S1.1).
+
+A toutes fins utiles,  la Commission tient à relever que.son  examen  se limite à vérifier la conformité
+des dispositions  aux exigences  des règles  de protection des données,  de transparence  et de
+médiation administrative.  Il ne lui appartient pas de rendre attentif sur les conséquences  du respect
+des exigences, ni de vérifier si des traitements  de données nécessitant  une base légale auraient  été
+oubliés.
+l.  Sous l'angle  de la protection  des données
+1.  Généralités
+
+La Commission salue  la création  d'une base légale formelle tendant à créer  une nouvelle  identité
+électronique  (e-ID) qui permettra  de prouver  son identité par des moyens numériques,  de manière
+simple, sûre et rapide et dont l'émission  et I'exploitation de l'infrastructure  nécessaire  s.eront  du
+ressort de la Confédération.  Elle se réfère à sa prise de position du24 avril2017 relative à la loi
+fédérale  sur les moyens d'identification  électronique  reconnus, disponible  sur le site Internet
+www.fr. ch/atprdm.  ch, publications,  consultations.
+
+Autorité  cantonale de la transparence,  de Ia protection  des données  et de la médiation  ATPTDM
+Page 2 de  5
+
+)
+
+2.  Remarques  par articles - AP-LeID
+
+contienne  le numéro AVS pour atteindre  le but visé à l'article 7 alinéa2lettre  a AP-LeID, soit
+pouï garantir  une identification  sûre enfte personnes privées et entre personnes  privées et
+autorité.  Il sied de préciser qu'une utilisation  systématique  de ce demier à des fins
+d'identification comporterait  un grand  risque d'interconnexions de données personnelles  dans
+les différents systèmes et élargirait considérablement  son utilisation,  ce qui contreviendrait  au
+but môme recherché  par le présent projet de loi. En effet,  le numéro AVS a été initialement
+prévu pour  être utilisé  dans le domaine  des assurances  sociales  et, en principe,  son utilisation
+systématique devrait  être autorisée  uniquement  aux organes et services  chargés  des tâches
+dans ce domaine.
+
+Dans  I'hypothèse  où le numéro AVS serait  malgré tout utilisé, la Commission  propose  qu'une
+disposition soit ajoutée  à la loi, selon  laquelle  des mesures techniques rendraient  l'utilisation
+systématique du numéro AVS possible  uniquement  pour  les vérificateurs prévus selon ladite
+tài. Ceci ufin d'é,rit.r  que des vérificateurs privés  qui utilisent l'e-ID n'y aient accès:
+
+Articles. 3 et 4.. L'article  6 ahnéa  5 nLPD  dispose  que << [cJelui  qui traite des données
+personnelles  doit s'assurer  qu'elles'sont  exactes. Il prend  toute mesure  oppropriée  permettant
+de rectifier, d'effacer ou de détruire  les données  inexactes  ou incomplètes  au regard des
+finalités pour lesquelles elles sont collectées ou traitées.  Le caractère  approprié  de Ia mesure
+dépend  notamment du type de traitement et de son étendue, ainsi que du risque  que le
+tàitem.ent des données en question  présente  pour la personnalité ou les droits  fondamentaux
+des personnes  concernées  >>. Et plus l'atteinte  aux droits fondamentaux  peut être grave, plus la
+base  légale doit être précise.
+
+En l'occurrence, une e-ID émise qui contiendrait des données incorrectes  engendrerait un
+risque important sous  I'angle des droits fondamentaux  de la personne  concernée  et notamment
+la question de I'usurpation d'identité:  Par conséquent,  des mesures qui permettraient
+d'atténuer  de tels risques  doivent, soit figurer  dans le présent projet, soit être conuétisées
+dans la procédure d'émission réglée  par le Conseil  fédéral par le biais de I'article 4 alinéa  5 '
+De même, et au vu de f importance  di ces risques, il convient  de supprimer  le dernier
+paragraphe  de la page 9 du Rapport explicatif de ladite loi se rapportant  à I'article 3 exposant
+que la possibilité  de procéder à une nouvelle vérification  de l'identité  du requérant, autre que
+tè fait âe présenter  une preuve d'identité suisse  valide,  << a été abandonné  pour  des raisons  de
+coûts, de convivialité  et de rapidité.  En ffit, cette démarche  aurait ëté plus coûteuse que
+l'obtention  d'un document  d'identité >>.
+
+Ad Article 7 et I : Ces dispositions,  en particulier  celle qui prévoit  des bureaux  cantonaux,
+semblent  judicieuses  compte  tenu de la proximité  des autorités cantonales avec les citoyens.
+La Commission  propose  que des mesures  d'accompagnement  en lien avec  le devoir  de
+diligence soient prévues,  qui accompagnent les détenteurs  de l'e-ID.  Ces mesures pourraient
+figurer  clairement  et de manière aisément  accessible  dans l'application avec l'e-ID.
+
+Autorité  cantonale  de la transparence, de la protection  des données  et de la médiation ATPTDM
+Page3de5'
+
+)
+
+Ad Article I0 : La Commission  salue la possibilité d'offrir.le choix  de présenter  une e-ID ou
+un autre document d'identification, afin de garantir  la non-discrimination  entre personnes qui
+souhaitent utiliser  I'e-ID,  et celles  qui ne le souhaitent  pas.
+
+Ad Article I0 et 16 en lien avec la minimisation  des données  de la part du vérificateur : Il
+s'agit ici de veiller à ce qu'il n'y ait pas surabondance  de données personnelles lors de
+I'identification.  La forme et l'utilisation de preuves  électroniques  sont réglées  aux articles l0
+et 16 AP-LeID. Selon I'article  16 alinéa  1 AP-LelD,  c'est le titulaire du moyen de preuve
+électronique  qui détermine quels éléments  de ce moyen de preuve  sont transmis au
+vérificateur. Mais I'explication  relative à cet article l6 AP-LeID dans le Rapport explicatif
+(page 13) est en contradiction avec l'article  16 AP-LeID,  puisqu'il  figure dans le Rapport
+explicatif que c'est  au vérificateur  de définir les données requises  en l'occurrence,  ce qui
+limite la marge  de manæuvre  du titulaire.  Il en résulte que si le titulairé refuse  de
+communiquer  les données demandées par le vérificateur, il ne pouffa pas utiliser le service
+concerné.'
+
+Par ailleurs,  une mention explicite  des principes  de protection  des données  dans ledit avant-
+projet nous semble justifiée en raison du fait qu'une  possibilité d'identification simple par
+voie électronique  entraîne  de nouvelles  obligations d'identification et des collectes  de
+donnéeS  inutiles qui n'auraient  pas été nécessaires en cas d'identification  analogique.
+
+Enfin,  le vérihcateur devrait  être tenu de ne pas enregistrer ou transmettre  les données
+d'identification ou de les traiter autrement,  sauf si une obligation  le requiert.  Une collecte  de
+données supplémentaires  sur la base  du consentement,  sous  la forme  d'une  manifestation  de
+volonté en dehors  du processus  de vérification, d'une  personne  dans un contexte de droit
+privé  serait  possible dans une seconde  étape distincte  après I'identification.
+
+Ad Article  11 : Le système prévoit différents interfaçages  avec  d'autres  systèmes
+d'informations  (alinéa 3). A la page 11 du Rapport explicatif  pour l'ouverture  de la procédure
+de consultation  de I'AP-LeID,  il est mentionné que  << flJes  données  consultées  ne sont ni
+dupliquées  ni sauvegardées  dans  le système d'information  de fedpol  >>. Celadevrait être
+explicitement  exprimé  dans le texte de la loi afin d'ancrer juridiquement  la mise  en æuvre du
+principe de stockage  décentralisé des données.  L'alinéa4  pourrait  être complété en indiquant
+que les données  obtenues  au travers de ces interfaces sont traitées exclusivement  dans le but
+d'émettre I'e-ID, et qu'elles ne sont pas conservées  dans le système  d'inform?tion.
+
+Ad Section 3 concernant  les autres  moyens  de preuve électroniques : La Commission  relève
+que la durée  de conservation  des autres moyens de preuve électroniques  n'est  pas traitée  dans
+le présent  avant-projet.
+
+Ad Article  12 : Cette disposition  mentionne  que quiconque peut émettre des moyens  de
+preuve électroniques  au moyen de l'infrastructure  prévue à la section  5. Le Rapport explicatif
+précise qu'il peut s'agir  de personnes  privées.  Or, rien  dans cet avant-projet  ne mentionne  les
+mesures  à prendre  en cas de faillite ou de cessation  d'activité de l'émetteur comme  personne
+
+Autorité  cantonale de la transparence,  de la protection  des données  et de la médiation ATPTDM
+Page  4 de 5
+
+)
+
+privée,  ce qui ne remplit pas les exigences  de la protection  des données.  En effet,  cela pourrait
+à-".r.t indirectement  à une commercialisation des données personnelles.
+
+Ad Articte  16 at. 3 : Lapartie de phrase  << dans toute la mesure  du possible > devrait  à notre
+sens être supprimée. Selon  cet article, l'exploitant des systèmes n'a pas connaissance  du
+contenu des moyens de preuve électronique  présentés.  Slil n'est pas possible de ne pas tirer de
+conclusions  sur son utilisation  et sur les autorités et personnes privées impliquées  pour des
+raisons  techniques ou juridiques,  ces raisons  doivent  être clairement  expliquées.
+Ad Article 17 : Cette disposition prévoit  de manière générale  que ( flJa Confédération  met à
+disposition un r.egistre accessible au public (registre  de bqse) où sont stockées des données  >>.
+Le Rapport expiicatif  mentionne  à la page 13 qu'< [i]l n'est pas encore déterminé quels
+servicài  de I'administration  /ëdérale  seront responsables  de la mise  en place et de
+l'exploitation  des différents  éléments  de I'infrastructure de confiance.  C'est pourquoi  la
+,rriion  5 parle encore  de manière  générale  de < ConJëdération >. Sur la base des expériences
+faites avic les projets  pilotes,  cette  question devra être clarffiée  et fixée lors de l'élaboration
+du message.>. Or, la disposition légale doit indiquer quel organe  fédéral  est responsable  de la
+sécurité du système  et de la légalité du traitement  de données afin que la personne  concernée
+puisse  savoir auprès de quelle  autorité  elle peut faire valoir ses droits et en particulier  son
+droit d'accès. Cette indication  devrait figurer dans I'AP-LeID.
+Article t7 al. 3, Article 18 at. 2 et Article 22 : L'article  17 alinéa3 AP-LeID devrait  à notre
+sens être modifié  de manière à prévoir  la vérification  de l'identité  des émetteurs  et
+vérificateurs privés.
+
+" 
+
+Le Rapport  explicatif  expose  à la page 14 qu'  << il existe un risque que des émetteurs  ou des
+vérificateurs  puissent délivrer  des preuves  électroniques  en usurpant  leur identité  >.
+Toutefois, afin de ne pas mobiliser  des ressources importantes  pour  parer  à un goulot
+d'étranglement  coûteux et inutile, le Rapport explicatif  indique qu'il y a lieu de renoncer à la
+vérification  de I'identité des émetteurs  et vérificateurs  privés.  Ainsi, il est à prévoir que les
+émetteurs  et les vérificateurs ne puissent pas inscrire  eux-mêmes leurs données dans le
+registre de base  sans vérification,  par exemplo, à travers une communication hors  des
+systèmes de la LeID.
+
+Ad Article 23 : LaCommission salue cet article car il contribue  à donner confiance dans les
+solutions  techniques du domaine traité  par I'AP-LeID'
+
+ll. Sous I'angle de la transparence
+La Commission  n'a aucune remarque à formuler  concernant  cette thématique.
+
+Autorité  cantonale de la transparence,  de la protection  des  données  et de la médiation  ATPTDM
+Page  5 de 5
+
+,
+
+lll. Sous l'angle  de la médiation  administrative
+La Commission  n'a aucune remarque à formuler  concernant cette thématique
+
+Tout en vous souhaitant bonne réception  de la présente,  nous  vous prions  de recevoir,  Madame,
+'Monsieur, nos salutations les meilleures.
+
+S
+
+v
+
+Copiê  à
+
+chancellerie  d'Etat, Madame D. Gagnaux-Morel,  chancelière  d'Etat, Rue des  chanoines  i7, céans
+
+

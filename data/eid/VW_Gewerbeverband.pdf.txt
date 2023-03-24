@@ -1,0 +1,189 @@
+Dachorganisation der Schweizer KMU 
+Organisation faîtière des PME suisses 
+Organizzazione mantello delle PMI svizzere 
+Umbrella organization of Swiss SME 
+
+ 
+ 
+ 
+Office fédérale de la justice 
+Département fédéral de justice et police DFJP 
+3003 Berne 
+
+rechtsinformatik@bj.admin.ch  
+ 
+ 
+ 
+ 
+ 
+Berne, le 18 octobre 2022 usam-MH/cp 
+ 
+ 
+ 
+ 
+ 
+Réponse à la procédure de consultation : 
+Avant-projet de loi sur l’identité électronique et les autres moyens de preuve électroniques (loi 
+sur l’e-ID, LeID) 
+
+Madame, Monsieur, 
+
+Plus grande organisation faîtière de l’économie suisse, l’Union suisse des arts et métiers usam repré-
+sente plus de 230 associations et plus de 600 000 PME, soit 99,8% des entreprises de notre pays. La 
+plus grande organisation faîtière de l’économie suisse s’engage sans répit  pour l’aménagement d’un 
+environnement  économique et politique favorable au développement des  petites  et moyennes  entre-
+prises. 
+
+Le  29  juin  2022,  l’Office  fédéral  de  la  justice  nous  a  convié  à  prendre  position  dans  le  cadre  de  la 
+procédure de consultation sur  l’avant-projet de loi sur l’identité électronique et les autres moyens de 
+preuve électroniques (loi sur l’e-ID, LeID).  
+
+L’usam plaide pour une mise en place rapide de l’e-ID avec les moyens technologies à la pointe 
+du savoir-faire en matière d’authentification. Ceci suppose que l’administration fédérale colla-
+bore activement avec le secteur privé pour qu’une solution efficace, user friendly et sûre voit 
+le jour au plus vite. Les technologies choisies doivent être communiqué rapidement à l’écono-
+mie  privée  afin  qu’elle  puisse  mettre  en  place  les  infrastructures  informatiques  correspon-
+dantes.  
+
+I.  Point de situation 
+
+L’usam se présente pour une e-ID portée par les compétences et le savoir du secteur privé. L’e-ID a 
+malheureusement échoué dans les urnes en 2021, raison pour laquelle l’administration fédérale pré-
+sente ici une copie en stipulant que l’Etat a le contrôle sur les données d’identification des  citoyens 
+suisses. 
+
+L’économie privée attend impatiemment que le dossier de la numérisation avance rapidement. L’enjeu 
+consiste  à  enfin  satisfaire  la  demande  des  milieux  économiques  de  pouvoir  pleinement  saisir  les 
+chances de l’authentification numérique d’un bout à l’autre des chaînes de commercialisation des biens 
+et services pour tous les  usagers  potentiels.  Sans cet  instrument  de l’e-ID  et  la possibilité  générale 
+d’utiliser  une signature électronique qualifiée,  l‘économie suisse risque de prendre  un retard consé-
+quent sur le dossier de la numérisation, ce qui se traduirait concrètement par un manque d’attractivité 
+ainsi qu’une baisse de la compétitivité internationale de nos entreprises par rapport aux autres pays. 
+
+Schweizerischer Gewerbeverband 
+
+Union suisse des arts et métiers 
+
+Unione svizzera delle arti e mestieri 
+
+Schwarztorstrasse 26, case postale, 3001 Berne  ∙   téléphone 031 380 14 14, fax 031 380 14 15  ∙   info@sgv-usam.ch 
+
+www.sgv-usam.ch  |  www.twitter.com/gewerbeverband  |  www.facebook.com/usamsgv 
+
+ 
+
+II.  Appréciation de l’usam 
+
+A l’avis de l’usam, l’e-ID ne pourra pousser la numérisation de la Suisse et devenir un facteur d’im-
+plantation important pour l’économie Suisse qu’à la condition qu’elle soit largement diffusée et facile-
+ment utilisable. Cela suppose que les domaines suivants doivent également être couverts par l’e-ID 
+ou les autres moyens de preuve électroniques :  
+
+• 
+
+• 
+
+• 
+
+• 
+
+l’interopérabilité des technologies sous-jacentes à la mise en place de l’e-ID doivent être impéra-
+tivement garantie au niveau international ;  
+
+les normes technologiques doivent correspondre entre aux standards internationaux sans faire le 
+moindre compromis quant à la sécurité et la protection de la sphère privée ; 
+
+l’e-ID doit également servir à la signature de contrat ;  
+
+la signature électronique qualifiée doit parallèlement être mise en place ;  
+
+•  une procédure d'identification standardisée  doit obligatoirement être mise en place pour les per-
+
+sonnes sans e-ID. 
+
+Concernant  l'art.  19  « Application  pour  la  conservation  et  la  présentation  des  justificatifs  électro-
+niques », il faudrait exploiter toute la portée de l’écosystème, à savoir que l'e-ID devient une preuve 
+numérique de base pour de nombreuses autres preuves numérique (p. ex. billet pour une manifesta-
+tion,  titre  de transports  publics, carte  de membre, carnet  de vaccination d'un  animal  de compagnie, 
+permis de circulation ou rapport du contrôle technique réussi d'un véhicule, etc.). En plus du portefeuille 
+électronique de l'Etat, les utilisateurs doivent pouvoir, selon les explications relatives à l'art. 19, utiliser 
+d'autres applications pour la conservation et la présentation de leurs justificatifs électroniques. L usam 
+exige à cet égard d’inscrire dans la loi l'utilisation de portefeuilles électroniques proposés par des ac-
+teurs privés, afin de démontrer l'équivalence des solutions privées correspondantes et d’en favoriser 
+ainsi leur acceptation. Si tel n’est pas le cas, l Etat pourrait tirer tous les compétences de gestion de 
+données d’identité électronique à soi, ce que l’usam refuse catégoriquement au motif de la protection 
+de la sphère privée. 
+
+L'article 16, alinéa 1, de l'avant-projet relatif à la présentation de preuves électroniques ne mentionne 
+pas  explicitement  le  principe  de  protection  des  données  concernant  l'utilisation  de  preuves  numé-
+riques ; ailleurs aussi, on se réfère au fait que les principes généraux relatifs à la protection des don-
+nées personnelles ne doivent pas être répétés dans le LeID pour rester valables. En effet, le principe 
+de minimisation des données prévu par le droit de la protection des données exige que le traitement 
+des données personnelles soit proportionné à la finalité et limité à ce qui est nécessaire aux fins du 
+traitement. En conséquence, le droit de la protection des données impose des limites aux vérificateurs 
+potentiels dans le choix des preuves qu'ils peuvent exiger pour accéder  à leurs services, qu’il serait 
+plus circonspect d’intégrer dans le projet de loi pour en augmenter l’acceptabilité générale.   
+
+L’usam salue l’article 9 alinéa 4 de la « Loi fédérale sur les services de certification dans le domaine 
+de la signature électronique et des autres applications des certificats numériques » qui stipule que la 
+preuve d'identité lors de l'enregistrement pour la signature électronique qualifiée pourra être apportée 
+par une preuve d'identité électronique en général. Il ne faut toutefois pas oublier que, même pour les 
+personnes n’ayant pas d’e-ID, la signature électronique qualifiée doit être facilement proposée.  Il y a 
+certes une signature électronique légalement admissible, qui est assimilée à la signature manuscrite 
+(art.  14  al.  2  bis  CO).  Cependant,  les  exigences  posées  à  la  signature  électronique  qualifiée  selon 
+ZertES sont si élevées qu'elle ne s'est pas encore imposée en pratique, que ce soit auprès des parti-
+culiers ou des entreprises. Cela s'explique notamment par le fait que la signature électronique qualifiée 
+selon ZertES engendre des coûts conséquents pour l'entreprise et implique un effort organisationnel 
+et technique important. Même si les signatures électroniques devaient largement s'imposer auprès des 
+entreprises, la pénétration du marché quasi inexistante chez les particuliers représenterait toujours un 
+obstacle au commerce numérique. Dans cette optique,  l’usam exige que la nouvelle loi fédérale sur 
+
+2/3 
+
+ 
+
+les  services  d'identification  électronique  (loi  E-ID)  tienne  compte  de  ce  problème  et  y  remédie,  en 
+intégrant la signature électronique qualifiée selon ZertES au processus de  l’e-ID, respectivement en 
+facilitant grandement l’accès à la signature électronique qualifiée pour les particuliers (processus, coût, 
+etc.). Aussi longtemps que les contrats exigeront encore une signature manuscrite, les milieux écono-
+miques et la société en général seront privés de la possibilité de travailler et de faire des affaires de 
+manière numérique et devront donc continuer à imprimer, à signer et à envoyer par la poste les docu-
+ments contractuels. 
+
+Finalement, l’avant-projet en reste aux valeurs juridiques de la caractérisation de l’e-ID, il est toutefois 
+primordial que les milieux économiques puissent être immédiatement informés des détails  lisibles de 
+la technologie choisie pour l’e-ID. Les PME doivent en effet pouvoir se préparer à l’avance à un déve-
+loppement rapide de systèmes compatibles avec la nouvelle e-ID.  
+
+II.  Conclusion 
+
+L’usam exigent que la transformation numérique au sein des autorités publiques conduise à des allè-
+gements dans les procédures administratives. A ce titre, cet avant-projet e-ID et des moyens de preuve 
+électroniques est une pierre angulaire qu’il faudrait pouvoir étendre au maximum dans les procédures 
+nécessitant  l’authentification  et  ce,  dans  les  meilleurs  délais.  Toutes  les  bases  légales  portant  sur 
+l’identification doivent être adaptées à ces nouvelles dimension numériques.   
+
+Le projet présente cependant trois écueils : le portefeuille étatique de l’e-ID ne doit pas occulter la mise 
+en  place  de  l'utilisation  de  portefeuilles  électroniques  proposés  par  des  acteurs  privés,  la  signature 
+électronique  qualifiée  doit  impérativement devenir  facilement utilisable  et  la  technologie choisie  doit 
+impérativement être partagée à l’avance avec l’économie privée.  
+
+Nous vous remercions de l’attention portée à notre prise de position et vous présentons, Madame, Mon-
+sieur, nos respectueuses salutations. 
+
+Union suisse des arts et métiers usam 
+ 
+ 
+ 
+ 
+Hans-Ulrich Bigler 
+Directeur 
+
+Mikael Huber 
+Responsable du dossier 
+
+ 
+
+3/3 
+
+

@@ -1,0 +1,151 @@
+ 
+
+ 
+
+ 
+
+Schweizerischer Zentralverein für das Blindenwesen  
+Schützengasse 4, 9001 St. Gallen 
+ 
+www.szblind.ch  
+
+ 
+
+Vernehmlassungsantwort zum Bundesgesetz über den 
+elektronischen Identitätsnachweis und andere elektronische 
+Nachweise (E-ID-Gesetz, BGEID) 
+ 
+Sehr geehrte Frau Bundesrätin, sehr geehrte Damen und Herren 
+
+Wir bedanken uns für die Vorlage und den erläuternden Bericht zum Vorentwurf des 
+Bundesgesetztes über den elektronischen Identitätsnachweis und andere elektronische Nachweise 
+(E-ID-Gesetz, BGEID). 
+
+Der Schweizerische Zentralverein für das Blindenwesen SZBLIND begrüsst die Einführung eines 
+staatlichen elektronischen Identitätsnachweises grundsätzlich. In unserer Stellungnahme 
+beschränken wir uns auf den Aspekt der Barrierefreiheit, der beim hier vorliegenden 
+Gesetzesvorhaben von grosser Bedeutung ist. 
+
+Grundsätzliche Erwägungen 
+Der SZBLIND ist überrascht, dass der Aspekt der E-Accessibility keine Erwähnung in der Vorlage 
+findet. Weder im Vorentwurf für das E-ID-Gesetz noch im erläuternden Bericht wird auf diesen 
+wichtigen Aspekt eingegangen. Diesen Mangel gilt es zu beseitigen, indem im Gesetz sowie den 
+ausführenden Bestimmungen detailliert geregelt wird, wie die digitale Barrierefreiheit (E-
+Accessability) auf allen Ebenen sichergestellt wird. In der Entwicklung sind sämtliche 
+Umsetzungsschritte im Hinblick auf den Standard eCH-0059 Version 3.0 (oder spätere Versionen) zu 
+prüfen, der sich auf die international anerkannten Web Content Accessibility Guidelines WCAG 2.1 
+des World Wide Web Consortium W3C stützt und ergänzend Instrumente zur Förderung von E-
+Accessibility nutzt, welche von der E-Accessibility-Richtlinie der EU inspiriert sind. 
+
+Die Schweiz hat 2014 die UNO-Behindertenrechtskonvention (UNO-BRK, Übereinkommen über die 
+Rechte von Menschen mit Behinderungen) unterzeichnet. Artikel 9 der UNO-BRK fordert den 
+gleichberechtigten Zugang für Menschen mit Behinderungen zu allen zentralen Bereichen des 
+täglichen Lebens, um ihnen eine unabhängige Lebensführung und die volle Teilhabe in allen 
+Lebensbereichen zu ermöglichen. Dies gilt auch für die Information und Kommunikation, 
+einschliesslich der entsprechenden Technologien und Systeme. Das Bundesgesetz über die 
+Beseitigung von Benachteiligungen von Menschen mit Behinderungen, kurz BehiG, schreibt in Art. 
+14 vor, dass die Behörden im Verkehr mit der Bevölkerung Rücksicht auf die besonderen Anliegen 
+der Sprach-, Hör- oder Sehbehinderten nehmen müssen. Ohne Berücksichtigung der E-Accessability 
+wären Menschen mit Sehbeeinträchtigung vom staatlichen Angebot in Form eines staatlichen 
+elektronischen Identitätsnachweises sowie einer staatlichen elektronischen Brieftasche 
+ausgeschlossen. Die Schweiz ist also vertraglich und gesetzlich verpflichtet, die barrierefreie 
+Nutzung elektronischer Dienste sicherzustellen. 
+
+Praktische Erwägungen 
+Für Menschen mit Sehbeeinträchtigung stellt die Digitalisierung eine Chance dar zu einem breiteren 
+Zugang zu Dienstleistungen aller Art. Die digitalen Kommunikationskanäle sind das eigentliche Tor 
+zu den Informationen für die sehbehinderten Menschen. Zwingende Voraussetzung für die 
+Nutzbarkeit der digitalen Angebote ist aber, dass diese barrierefrei zur Verfügung stehen. Deshalb 
+muss vor jeder Publikation eines webbasierten Produkts und auch vor jedem Update geprüft 
+
+ 
+
+Seite 1 
+
+ 
+
+ 
+
+ 
+
+werden, ob dieses barrierefrei zugänglich ist. Bei der Beschaffung von digitalen Produkten muss 
+zudem zwingend das Prinzip "Design for all" zur Anwendung kommen. Die entsprechenden 
+europäischen Normen ist bereits des nationalen Normenwerks. Im Fall des BGEID soll die 
+Anwendung dieser Normen jedoch nicht freiwillig, sondern verpflichtend sein.  
+
+Zu diesem Zweck ist die zu entwickelnde Informatikinfrastruktur unbedingt auf sämtlichen Ebenen 
+nachhaltig barrierefrei zu planen und die Barrierefreiheit durch entsprechende Tests sicherzustellen. 
+Die Freigabe bzw. Lancierung der E-ID darf erst erfolgen, wenn die Barrierefreiheit durch 
+Fachpersonen aus dem Kreis der Betroffenen bestätigt worden ist. 
+
+Wie die Antwort auf die Frage 22.7406 von Nationalrätin F. Ryser zeigt, ist sich der Bundesrat der 
+Notwendigkeit solcher Tests (Usability-Tests) bewusst. Der standardmässige Einsatz von Usability-
+Tests ist bei anspruchsvollen elektronischen Diensten und Anwendungen des Bundes, die für ein 
+breites Publikum bestimmt sind, durchzuführen. In der vorliegenden Vernehmlassungsvorlage fehlt 
+dieser Aspekt jedoch. Der SZBLIND ist klar der Meinung, dass die Barrierefreiheit und der Einsatz von 
+entsprechenden Tests in das BGEID aufgenommen werden müssen. 
+
+Es ist zudem sicherzustellen, dass bei jeder Anpassung und jedem Update die Barrierefreiheit erneut 
+geprüft wird. Neue Versionen dürfen erst freigegeben werden, wenn die Barrierefreiheit durch 
+Fachpersonen aus dem Kreis der Betroffenen bestätigt worden ist. Dies ist leider aktuell nicht 
+gewährleistet, wie aktuelle Beispiele beim Bund zeigen. (z.B. Elektronisches Patientendossier; 
+Elektronisches Einreiseformular; Covid-Zertifikat) 
+
+Anträge 
+1) 
+
+Im Bundesgesetz über den elektronischen Identitätsnachweis (E-ID-Gesetz, BGEID) sei ein eige-
+ner Artikel «Barrierefreiheit» aufzunehmen. Darin ist der Grundsatz der barrierefreien Nutzbar-
+keit festzuschreiben. Dies gilt für sämtliche Infrastrukturebenen die von Antragstellenden, Inha-
+ber: innen einer E-ID, Aussteller: innen, Verifikator: innen und weiteren Usergruppen genutzt 
+oder betrieben werden können. 
+In den Ausführungsbestimmungen zum E-ID-Gesetz sei ein eigenes Kapitel zur Barrierefreiheit 
+aufzunehmen. Dieses beschreibt detailliert, wie die Zugänglichkeit des elektronischen Identi-
+tätsausweises für Menschen mit Beeinträchtigungen sichergestellt wird. 
+
+2) 
+
+3)  Zur Kontrolle der Barrierefreiheit sei ein Auftrag an eine anerkannte Fachinstitution zu erteilen, 
+
+die zusammen mit betroffenen Personen die Infrastruktur im Hinblick auf die Barrierefreiheit 
+prüft. 
+
+ 
+Wir danken Ihnen für die Gelegenheit zur Stellungnahme und bitten Sie, unsere Anliegen zu 
+berücksichtigen. 
+
+Freundliche Grüsse 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Pierre-Alain Uberti 
+Geschäftsführer SZBLIND 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Jan Rhyner 
+Verantwortlicher Interessenvertretung SZBLIND 
+
+ 
+
+Seite 2 
+
+

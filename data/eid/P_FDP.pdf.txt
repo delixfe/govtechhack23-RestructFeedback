@@ -1,0 +1,201 @@
+ 
+
+ 
+ 
+ 
+
+FDP.Die Liberalen 
+Generalsekretariat 
+Neuengasse 20 
+Postfach  
+CH-3001 Bern 
+
++41 (0)31 320 35 35 
+www.fdp.ch 
+info@fdp.ch 
+/fdp.dieliberalen 
+@FDP_Liberalen 
+
+Eidgenössisches Justiz- und Polizeidepartement 
+
+ 
+
+Bundesamt für Justiz 
+
+Bundesrain 20 
+
+3003 Bern 
+ 
+Elektronischer Versand: 
+rechtsinformatik@bj.admin.ch  
+
+Bern, 19. Oktober 2022 
+BGEID / MZ 
+
+ 
+Bundesgesetz über den elektronischen Identitätsnachweis und andere elektronische Nachweise (E-
+ID-Gesetz, BGEID) 
+Vernehmlassungsantwort der FDP.Die Liberalen 
+
+ 
+ 
+Sehr geehrte Damen und Herren 
+ 
+Für Ihre Einladung zur Vernehmlassung der oben genannten Vorlage danken wir Ihnen. Gerne geben wir 
+Ihnen im Folgenden von unserer Position Kenntnis.  
+ 
+
+Langjährige Forderung der FDP 
+
+Bereits im Positionspapier „Chancen der Digitalisierung“ der FDP.Die Liberalen wurde gefordert, dass die 
+Schweiz die Voraussetzungen für eine rein elektronische Abwicklung von privaten und öffentlichen Ser-
+vices schafft. Dafür ist ein funktionstüchtiges System der digitalen Identität (E-ID) und der elektronischen 
+Signatur absolut zentral. Die FDP begrüsst heute, wie bereits im vorherigen Gesetzesprojekt, dass ein 
+grosser Schritt bei der Digitalisierung gemacht wird. 
+ 
+
+Erneuter Versuch einer E-ID, neu mit staatlichem Anbieter 
+
+Die Vorteile einer elektronischen Identität in der heutigen Zeit sind nach wie vor unbestritten. Das Nein der 
+Stimmbevölkerung im März 2021 hat lediglich gezeigt, dass die Wählerschaft keine reine private Lösung 
+für diese hochsensiblen Daten wünscht. Aufgrund dieser Erkenntnisse hat das EJPD rasch einen neuen 
+Anlauf gewagt und eine neue sowie vertrauenswürdige Vorlage ausgearbeitet. Das neue Projekt verfolgt 
+einen Ansatz, der auf den Grundsätzen des Datenschutzes durch das System selbst (Privacy by Design & 
+Privacy by Default), der Datensparsamkeit sowie der dezentralen Speicherung von Daten beruht. Der 
+Staat übernimmt hier eine wichtige öffentliche Aufgabe, indem er den Ausstellungsprozess der E-ID und 
+den Gesamtbetrieb der dazu nötigen, technischen Infrastruktur durch spezialisierte Behörden wahrnimmt. 
+Der Erwerb und die Verwendung der E-ID sind insbesondere in der Anfangsphase unentgeltlich. Diese Er-
+leichterung bei der Einführung des elektronischen Nachweises schafft einen Anreiz und verspricht eine ra-
+sche Verbreitung in der Bevölkerung.  
+ 
+
+Fraktionsmotion der FDP 
+
+Die in der Vorlage enthaltene Stossrichtung verfolgt auch sechs gleichlautende Motionen, die von allen 
+Fraktionen im Parlament eingereicht wurden. Die FDP-Liberale Fraktion hat im Parlament kurz nach dem 
+erfolglosen Urnengang zentrale Forderungen für eine erfolgreiche und rasche Implementierung einer elekt-
+ronischen Identität gestellt und dementsprechend ihre Fraktionsmotion 21.3129 eingereicht. Die Ziele der 
+FDP-Motion haben weiterhin Bestand: Chancen der Digitalisierung nutzen, Schutz der Privatsphäre be-
+rücksichtigen und sicherstellen, dass die Vergabe der E-ID und der Betrieb der Infrastruktur von speziali-
+sierten öffentlichen Anbietern gewährleistet wird. Wir sind der Meinung, dass die vorliegende Vorlage die-
+sen Grundsätzen gerecht wird und der politische Auftrag somit umgesetzt wurde. 
+ 
+
+ 
+
+Seite 2 
+
+ 
+
+Sichere, benutzerfreundliche und zukunftsgerichtete Lösungen für E-ID Ökosysteme 
+
+Zentral ist ausserdem, dass die gewählte Lösung vertrauenswürdig, sicher, benutzerfreundlich und einfach 
+anpassbar bzw. erweiterbar ist. Fehler, die bei vielen IT-Projekten des Bundes in der Vergangenheit vorge-
+fallen sind, dürfen sich keinesfalls wiederholen. Die konkrete Verwendung der E-ID muss möglichst praxis-
+orientiert und anpassbar gestaltet werden, damit das Angebot für eine breite Bevölkerung sowie die Wirt-
+schaft einen tatsächlichen Mehrwert bietet. Aufgrund dessen ist die FDP sehr erfreut, dass das vorlie-
+gende Gesetz technologieneutral formuliert worden ist. So wird ermöglicht, agil auf technologische Ände-
+rungen zu reagieren. Da es sich bei der aufzubauenden Infrastruktur um eine kritische Komponente han-
+delt, in welche ein hohes Vertrauen gesetzt wird, müssen bei Entwicklung und Betrieb der staatlichen E-ID 
+regelmässig interne und externe Sicherheitstests (technisch und organisatorisch) durchgeführt werden. 
+Damit einhergehend sollten sich zukünftig auch verschiedene bürokratische Abläufe zugunsten eines um-
+fassenden eGovernments verbessern. Das Gesetz sollte daher nicht bloss eine Anbindung anderer elekt-
+ronischer Nachweise und deren Ausstellung und Überprüfung technisch gewährleisten (Interoperabilität), 
+sondern dies aktiv fördern bzw. unterstützen. Hierzu erachtet es die FDP als zielführend, im Rahmen der 
+Zweckbestimmung zu ergänzen, dass das Gesetz künftig auch neue digitale Geschäftsmodelle fördern 
+und ermöglichen soll. 
+ 
+
+Rasche Förderung der privaten Rechts- und Investitionssicherheit 
+
+Darüber hinaus stellt eine umfassende und funktionierende Vertrauensinfrastruktur die Basis für die notwen-
+dige Rechts- und Investitionssicherheit der privatwirtschaftlichen Akteure voraus. Bevor die Grundzüge der 
+Ausgestaltung der Vertrauensinfrastruktur sowie die konkrete Rollenverteilung zwischen Staat und privaten 
+Akteuren nicht hinreichend konkret definiert sind, können potenzielle Technologielieferanten und Dienstleis-
+tungserbringer  ihre  Geschäftsmodelle  nur  ungenügend  ausarbeiten.  Dadurch  wird  auch  die  Planung  von 
+potenziellen Dienstleistungen, welche die E-ID als digitalen Nachweis verwenden, erschwert. Die FDP regt 
+daher  an,  dass  der  Bundesrat  rasch  mehr  Klarheit  in  der  Rollenverteilung  schafft,  um  Investitions-  und 
+Rechtssicherheit sowie Planbarkeit sicherzustellen. 
+ 
+
+Nutzung der Synergien 
+
+Aufgrund der technologischen Dynamik sind privatwirtschaftliche Akteure oft geeigneter als der Staat, um 
+Systeme auf agile Weise zu entwickeln und anzubieten. Der Vergleich mit anderen europäischen Ländern 
+zeigt, dass eine staatliche Monopollösung teurer, weniger flexibel und daher nicht zielführend wäre. Der 
+Bund soll sich um die Ausstellung und den Gesamtbetrieb der E-ID kümmern und dabei Synergien durch 
+bereits bestehende Technologien und Methoden der Privatwirtschaft nutzen. Für die Erarbeitung der dazu-
+gehörigen Verordnung wird der Bundesrat angehalten, die Privatwirtschaft und die Wissenschaft für ihre 
+Expertise beizuziehen. 
+Die Verbindung zwischen der digitalen und der physischen Welt bleibt ein entscheidendes Element der 
+Vertrauensinfrastruktur. Es ist sinnvoll, dass dem Bund die Kompetenz übertragen wird, die Identität der 
+Bundes-, Kanton- und Gemeindebehörden zu bestätigen (spez. Bestätigung der Identifikatoren). Gleicher-
+massen ist es essenziell, im Sinne des erstrebten E-ID Ökosystems, dass auch privatwirtschaftliche Ak-
+teure befähigt sind, separate und nicht-staatliche (private) Bestätigungsmechanismen bereitzustellen. 
+ 
+
+Offener und diskriminierungsfreier Zugang 
+
+Die FDP begrüsst, dass man sich mit der E-ID in der digitalen, wie auch in der realen Welt ausweisen kann 
+und dadurch gemäss Art. 10 mittels Teilidentifikation die grösstmögliche Wahlfreiheit erhält. Dem Nutzer 
+steht es frei, ob er sich weiterhin mit einem physischen Dokument oder der E-ID ausweisen möchte. 
+Unter Hinweis auf das Diskriminierungsverbot (Art. 8 BV) und die behördliche Pflicht auf Rücksicht von 
+Sprach-, Hör- oder Sehbehinderten (Art. 12 BehiG) ist ein diskriminierungsfreier Zugang zu Leistungen 
+und deren Barrierefreiheit gesetzlich zu gewährleisten. Nebst den oben bereits erwähnten Grundsätzen ist 
+unter diesem Aspekt das Prinzip «Design for all» zu wahren und die Informatikstrukturen sind auf sämtli-
+chen Ebenen nachhaltig und barrierefrei zu planen. 
+ 
+Anwendungsbereich E-ID 
+
+Infolge schneller Digitalisierungsschritte im EU-Raum ist die Anwendung einer E-ID zukünftig auch grenz-
+überschreitend denkbar. Umso wichtiger ist eine frühe Koordination zwischen den Schweizer und EU-Be-
+
+Seite 3 
+
+ 
+
+hörden im Gesetzgebungsprozess (eIDAS). Für die FDP erfreulich sind folglich sämtliche laufende und be-
+vorstehende Bestrebungen des Bundesrates, Abkommen zur internationalen Anerkennung der E-ID zu er-
+reichen. 
+Abschliessend weisen wir darauf hin, dass die Ausführungen zu Art. 9 mit Blick auf die Botschaft noch zu 
+optimieren sind. Die aktuellen Erläuterungen zu Art. 9 (namentlich Absatz 1, letzten zwei Sätze) sind un-
+klar oder gar widersprüchlich. Zum einen fehlt im zweitletzten Satz ein «oder». Zum andern ist unklar, wa-
+rum auch das «persönliche Erscheinen» (Bericht) unter «elektronische Identifizierung» (Gesetzestext) fällt. 
+Schliesslich ist inhaltlich zu prüfen, ob die behördliche Annahmepflicht nicht auszuweiten ist: Idealerweise 
+sollten sich Bürgerinnen und Bürger überall dort mit der E-ID ausweisen können, wo sie sich gegenüber 
+dem Staat zu erkennen geben, sei das beim persönlichen Erscheinen, der elektronischen Identifizierung 
+oder weiteren staatlichen Logins. 
+ 
+ 
+Wir danken Ihnen für die Gelegenheit zur Stellungnahme und die Berücksichtigung unserer Argumente. 
+ 
+Freundliche Grüsse 
+ 
+FDP.Die Liberalen 
+Der Präsident 
+
+Der Generalsekretär 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+Jon Fanzun 
+
+ 
+Thierry Burkart 
+Ständerat 
+ 
+
+ 
+ 
+ 
+
+ 
+
+

@@ -1,0 +1,325 @@
+Schwarztorstrasse 31 
+CH-3007 Bern 
++41 32 5 1 22 333 
+office@swissinformatics.org 
+
+ 
+
+ 
+ 
+Eidgenössisches Justiz- und Polizeideparte-
+ment EJPD 
+Frau Bundesrätin Karin Keller-Sutter  
+Ausschliesslich per E-Mail an:  
+rechtsinformatik@bj.admin.ch  
+
+ 
+
+ 
+
+ 
+
+Bern, 20. Oktober 2022  
+
+Bundesgesetz  über  den  elektronischen  Identitätsnachweis  und  andere  elektronische 
+Nachweise (E-ID-Gesetz, BGEID), Vorentwurf: Vernehmlassungsantwort der Schweizer 
+Informatik Gesellschaft (SI)   
+
+ 
+Sehr geehrte Frau Bundesrätin Keller-Sutter, 
+Sehr geehrte Damen und Herren  
+ 
+ 
+Wir bedanken uns für die Möglichkeit, zu oben genanntem Geschäft Stellung zu beziehen. Da es 
+sich um ein Informatikthema von hoher gesellschaftspolitischer Relevanz handelt, nehmen wir die 
+Möglichkeit einer Stellungnahme gerne wahr. 
+  
+Die Schweizer Informatik Gesellschaft SI ist der Verband der Informatikfachleute mit akademischer 
+Ausbildung in der Schweiz. Die SI setzt sich für die Förderung der Informatik in Wirtschaft, Bildung, 
+Forschung und Gesellschaft in der Schweiz ein, mit dem Ziel, dass die Schweiz auch in Zukunft zu 
+den international führenden Technologiestandorten zählt. Hierzu gehört, dass die Schweiz auch bei 
+der Digitalisierung und der Nutzung digitaler Werkzeuge zu den führenden Ländern gehört. 
+ 
+ 
+ 
+1.  Zusammenfassung  
+
+ 
+
+Die SI begrüsst die Stossrichtung des Vorentwurfes. Ebenso begrüssen wir, dass der Entwurf weit-
+gehend technologieneutral gehalten ist, was eine kontinuierliche technologische Weiterentwicklung 
+der Umsetzung der E-ID-Prozesse, wie im Gesetz beschrieben, ermöglicht. 
+ 
+Wir begrüssen, dass dem Prinzip «dezentrale Datenspeicherung» gefolgt werden soll. Allerdings ist 
+beim  Ausstellen  und  der  Verifikation  sowie  beim  elektronischen  Identifizieren  immer  die  zentrale 
+«Vertrauensinfrastruktur des Bundes» beteiligt, was der Idee der Dezentralisierung zuwiderläuft. 
+Das  Gesetz  sollte  daher  neben  der  zentralisierten  Verifikation  eine  dezentrale  Offline-Verifikation 
+zulassen, unter der Bedingung, dass diese technisch sicher realisiert werden kann. 
+ 
+Wir begrüssen die Möglichkeit, dass auch private Anbieter elektronische Nachweise unter Verwen-
+dung  der  vom  Bund  bereit  gestellten  Vertrauensinfrastruktur  bereitstellen  können.  Insbesondere 
+
+ 
+
+Seite 1 / 5 
+
+Schwarztorstrasse 31 
+CH-3007 Bern 
++41 32 5 1 22 333 
+office@swissinformatics.org 
+
+ 
+
+ 
+
+KMUs, welche sich keine eigene Vertrauensinfrastruktur leisten können, werden von dieser Mög-
+lichkeit profitieren. 
+ 
+Wir bedauern, dass mit der E-ID nicht gleichzeitig die gesetzlichen Grundlagen für eine elektronische 
+Signatur (z.B. von Dokumenten und E-Mails) unter Verwendung der E-ID geschaffen werden. 
+ 
+ 
+ 
+ 
+2.  Die einzelnen Gesetzesbestimmungen gemäss Vorentwurf  
+
+ 
+
+•  Art. 1 
+Im Zweck ist nur die «sichere Identifizierung mittels E-ID» genannt. Es müssen auch die Vorgänge 
+der anderen Nachweise genannt werden, sonst macht Art1.1.b, welche eine Infrastruktur dafür vor-
+sieht, keinen Sinn. 
+ 
+•  Art. 2 
+Der Einbezug von Rufnamen unter den Inhalt der E-ID könnte die Akzeptanz des Gesetzes und die 
+User Experience fördern (entspricht eCH 0011 und eCH 0201).  
+In Art2.2.d müsste aus unserer Sicht zudem klargestellt werden, welches Geschlecht gemeint ist, 
+das biologische oder das wahrgenommene Geschlecht. 
+ 
+•  Art. 3 
+Keine Anmerkungen. 
+ 
+•  Art. 4 
+Es  sollte  die  Möglichkeit  geschaffen  werden,  dass  neben  dem  Fedpol  auch  weitere  Stellen  (z.B. 
+Passbüro, Gemeinden) zur Ausstellung der E-ID legitimiert werden. So könnte eine E-ID beispiels-
+weise gleichzeitig mit einer physischen ID-Karte oder einem Pass beantragt werden, was die Attrak-
+tivität der E-ID steigert. 
+
+•  Art. 5 
+Keine Anmerkungen. 
+
+•  Art. 6 
+Keine Anmerkungen. 
+
+•  Art. 7 
+Keine Anmerkungen. 
+
+•  Art. 8 
+Keine Anmerkungen. 
+
+•  Art. 9 
+Die  E-ID  sollte zwingend  auch  bei  physischen  «Kontrollen»  akzeptiert  werden  müssen.  Z.B.  «Ich 
+weise meine auf dem Mobile vorliegende E-ID vor, um mich beim Handelsregisteramt zu identifizie-
+ren». 
+
+ 
+
+Seite 2 / 5 
+
+Schwarztorstrasse 31 
+CH-3007 Bern 
++41 32 5 1 22 333 
+office@swissinformatics.org 
+
+ 
+
+ 
+
+Es sollte verlangt werden, dass der Vorgang der «elektronischen Identifizierung» auch offline, d.h. 
+wenn die zentralen Komponenten der «Vertrauensinfrastruktur des Bundes» nicht verfügbar sind, 
+funktioniert. Dazu ist der Einsatz dezentraler Komponenten der «Vertrauensinfrastruktur des Bun-
+des» im Gesetz vorzuschreiben.   
+  
+•  Art. 10 
+
+Keine Anmerkungen. 
+ 
+•  Art. 11 
+
+Im Gesetz oder auf Verordnungsstufe sollte geregelt werden, dass ab dem Zeitpunkt des Eingangs 
+eines Widerrufs allfällige, mit der widerrufenen E-ID getätigte Transaktionen ungültig sind und als 
+nicht erfolgt gelten. Der Inhaberin oder dem Inhaber einer E-ID dürfen keine Nachteile entstehen, 
+wenn die Vertrauensinfrastruktur des Bundes eine E-ID nicht unmittelbar nach Eingang eines Wi-
+derrufs sperrt. 
+ 
+•  Art. 12 
+
+Hier fehlt eine Aussage, wer berechtigt ist, elektronische Nachweise auszustellen und die Infrastruk-
+tur nach dem 5. Abschnitt zu nutzen. Sind dies nur staatliche Stellen oder auch private natürliche 
+oder juristische Personen? 
+ 
+•  Art. 13 
+
+Hier gilt gleiches wie beim Widerruf einer E-ID; siehe unser Kommentar zu Art. 11. 
+ 
+•  Art. 14 
+
+Genügt der Satz in Art. 2 Absatz 1 um sicherzustellen, dass Art. 14 auch für die E-ID gilt und nicht 
+nur für „Andere elektronische Nachweise“? 
+Es sollte im Gesetz oder auf Verordnungsstufe geregelt werden, ob die Inhaberin oder der Inhaber 
+Kopien der E-ID bzw. von anderen elektronischen Nachweisen auf mehr als einem Gerät aufbewah-
+ren darf. 
+   
+•  Art. 15 
+
+In Art. 15 ist erstmals von elektronischen Nachweisen die Rede,  welche nicht  auf eine natürliche 
+Person ausgestellt werden.  
+Das Gesetz sollte ausdrücklich (entweder im Ingress oder im ersten Artikel des dritten Abschnitts) 
+festhalten, dass andere elektronische Nachweise (d.h. mit Ausnahme der E-ID) sowohl auf natürli-
+che wie auf juristische Personen ausgestellt werden können. 
+ 
+•  Art. 16 
+
+Entsprechend dem Prinzip der Datensparsamkeit sollte in Art. 16 explizit festgehalten werden, dass 
+im Zuge eines Geschäftsvorgangs (oder zur Autorisierung eines Geschäftsvorgangs) die Verifikato-
+rin nur Informationen des elektronischen Nachweises verlangen darf, welche zum Zweck des Ge-
+schäftsvorgangs benötigt werden. 
+ 
+ 
+ 
+
+ 
+
+Seite 3 / 5 
+
+Schwarztorstrasse 31 
+CH-3007 Bern 
++41 32 5 1 22 333 
+office@swissinformatics.org 
+
+ 
+
+•  Art. 17 und 18 
+
+ 
+
+Das Basisregister scheint uns eine Art E-ID (Identifikator genannt) für juristische Personen zu sein, 
+um insbesondere Amtsstellen (Bund, Kantone, Gemeinden) sicher zu identifizieren. Hier stellt sich 
+die Frage, ob und wie weit alle Amtsstellen, welche elektronische Dienstleistungen anbieten, ver-
+pflichtet werden sollen, sich im Basisregister einzutragen. 
+Es ist zu prüfen, ob Art. 17 und 18 nicht technologieneutraler formuliert werden können, beispiels-
+weise ohne die explizite Nennung kryptographischer Schlüssel. 
+Grammatik Art 18 Abs 3: «Alle Behörden und Private können …» 
+ 
+•  Art. 19 
+
+Der Bund bietet hiermit eine «Elektronische Brieftasche» für Inhaber einer E-ID auf der «Vertrau-
+ensinfrastruktur des Bundes» kostenfrei an. Dies wird der Verbreitung der E-ID Auftrieb verleihen. 
+Doch  die  nachfolgenden  Dienste  gehören  nach unserem  Verständnis  auch  kostenfrei  und für  die 
+Bürger einfach machbar dazu: 
+•  Ein  Prozess,  wie  eine  auf  allen  Geräten  verlorengegangene  E-ID  wieder  hergestellt  werden 
+
+kann. Vermutlich muss der Bürger dazu physisch mit den Ausweisen noch einmal erscheinen. 
+
+•  Ein Prozess zum Gerätewechsel. 
+•  Die nahtlose Ablösung einer abgelaufenen E-ID durch eine neue E-ID und Weiterbestand der 
+
+«Elektronischen Brieftasche». 
+ 
+
+•  Art. 20 
+
+Die Formulierung als Kann-Bestimmung ist zu schwach. Die Überprüfung der Gültigkeit eines Nach-
+weises  ist  unseres  Erachtens  ein  zentraler  Bestandsteil  der  Vertrauensinfrastruktur.  Art.  20  sollte 
+daher analog zu Art. 19 gefasst werden: «Der Bund stellt eine Anwendung zur Verfügung, mit der 
+elektronische Nachweise auf ihre Gültigkeit überprüft werden können.» 
+ 
+•  Art. 21 
+
+Wenn unter Art. 19 die von uns vorgeschlagenen Dienste ebenfalls angeboten werden, dann könnte 
+dieser Artikel möglicherweise ganz entfallen. 
+Der Verbreitung der E-ID wären kostenlose Dienste betreffend Backup/Restore zuträglich.  
+ 
+•  Art. 22 
+
+Keine Anmerkungen. 
+ 
+•  Art. 23 
+
+Ein sozio-technisches System wie «E-ID und elektronische Nachweise» ist nicht allein durch Offen-
+legung  des  Quellcodes  prüfbar.  Man  muss  z.B.  auch  wissen,  welche  Anforderungen  durch  den 
+Quellcode erfüllt werden (sollen), um eine Aussage darüber machen zu können, ob der Quellcode 
+ok ist oder nicht. 
+Wir  empfehlen  zu  fordern,  dass  eine  Systemdokumentation  nach  den  best-practices  des  Berufs-
+stands, inkl. des Quellcodes, zu erstellen, prüfen und offenzulegen ist. 
+ 
+•  Art. 24 
+
+Gehört das Fedpol-System zum E-ID-Ausstellen auch dazu? Falls ja, hier explizit erwähnen. 
+
+ 
+
+Seite 4 / 5 
+
+Schwarztorstrasse 31 
+CH-3007 Bern 
++41 32 5 1 22 333 
+office@swissinformatics.org 
+
+ 
+
+ 
+•  Art. 25 
+
+ 
+
+Der Bezug von Absatz 1 und 2 ist klarer zu machen: Z.B. «Der Bundesrat kann mit Verordnungen 
+vorsehen, dass…» und dann «… treten diese Verordnungen die Bestimmungen ausser Kraft:» 
+ 
+•  Art. 26 
+
+Wir begrüssen, dass für die Nutzung der E-ID gemäss Absatz 4 keine Gebühren erhoben werden.  
+Die Gebühren für den Eintrag ins Basisregister sollten so festgelegt werden, dass sich auch Privat-
+personen und KMUs einen Eintrag leisten können. 
+ 
+•  Art. 27 
+
+Das Gesetz sollte hier ausdrücklich fordern, dass der Bund geeignete Massnahmen trifft mit dem 
+Ziel, dass die schweizerische E-ID mit ausländischen E-IDs, insbesondere denen der Europäischen 
+Union, kompatibel ist. 
+ 
+•  Art. 28 und andere Erlasse 
+
+Keine Anmerkungen. 
+ 
+ 
+ 
+3.  Schlussbemerkung 
+Die SI als Berufsverband der akademisch gebildeten IT-Berufsleute und aller an den Universitäten 
+dozierenden IT-Professoren bietet dem Bund gerne die aktive Mitwirkung bei einer Überarbeitung 
+des G-E-ID Vorentwurfs an. 
+ 
+ 
+Wir danken Ihnen für die Aufmerksamkeit, die Sie unserer Antwort schenken werden. 
+ 
+Beste Grüsse 
+ 
+Für die Schweizer Informatik Gesellschaft 
+ 
+ 
+ 
+ 
+ 
+ 
+Francis Baud, Präsident 
+ 
+ 
+ 
+
+ 
+
+Seite 5 / 5 
+
+ 
+
+

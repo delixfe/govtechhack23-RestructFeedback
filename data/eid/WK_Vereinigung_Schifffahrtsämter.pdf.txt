@@ -1,0 +1,173 @@
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+vks 
+
+ASSOCIATION DES SERVICES DE LA NAVIGATION 
+VEREINIGUNG DER SCHIFFFAHRTSÄMTER 
+ASSOCIAZIONE DEI SERVIZI DELLA NAVIGAZIONE 
+
+Bundesamt für Justiz  
+3003 Bern 
+
+Per E-Mail 
+rechtsinformatik@bj.admin.ch 
+ 
+Bern, 20. Oktober 2022 
+
+Vernehmlassungsverfahren zum Vorentwurf des Bundesgesetzes über den elektronischen 
+Identitätsnachweis und andere elektronische Nachweise (E-ID-Gesetz, BGEID)  
+
+Sehr geehrte Damen und Herren  
+Der  Bundesrat  hat  mit  dem  Richtungsentscheid  zur  E-ID  am  17.12.2021  den  Aufbau  eines 
+Ökosystems  für  die  E-ID  beauftragt.  Die  asa  und  das  ASTRA  können  mit  dem  Teilprojekt  T1 
+(digitaler Führerausweis, mDL) ein Pilotprojekt im Rahmen des Vorhabens E-ID realisieren.  In enger 
+Zusammenarbeit mit der asa strebt die vks den digitalen Schiffsführer- und Schiffsausweis an. 
+Die  Vereinigung  der  Schifffahrtsämter  (vks)  bedankt  sich  für  die  Möglichkeit,  im  vorliegenden 
+Vernehmlassungsverfahren mitzuwirken. 
+Allgemeine Bemerkungen: 
+•  Wir  begrüssen  die  Einführung  des  elektronischen  Identitätsnachweises  E-ID  sehr.  Die  E-ID 
+schafft  die  Grundlage  um  in  den  Strassenverkehrs-  und  Schifffahrtsämtern  in  Zukunft  viele 
+Prozesse mit unseren Kunden vereinfacht zu digitalisieren.  
+
+•  Zudem wird die auch von der E-ID genutzten Basisinfrastruktur die zeitnahe Einführung digitaler 
+Ausweise der Verkehrszulassung (Lernfahrausweis – 300’000/Jahr; Führerausweis - 6.5 Mio.; 
+Ausweis 95 / Chauffeurzulassung; Fahrzeugausweis - 6 Mio.; Schiffsführerausweis – 300’000 
+und Schiffsausweis – 100’000) ermöglichen. 
+In  der  gewählten  Technologie  „Self-Sovereign  Identity“  (SSI)  besteht  noch  wenig  praktische 
+Erfahrung. Dadurch ist diese entsprechend risikobehaftet in Bezug auf die praktische Umsetzung 
+und  den  Betrieb.  Unseren  Kunden  ermöglicht  diese  jedoch  einen  zeitgemässen  und 
+selbstbestimmten Schutz der Privatsphäre bei der Nutzung der digitalen Ausweise, was wir sehr 
+begrüssen. 
+
+• 
+
+•  Wir  begrüssen  es,  dass  der  Bund  sich  in  der  Verantwortung  für  die  Basisinfrastruktur 
+
+(Vertrauensinfrastruktur) sieht und hier die Führung übernommen hat. 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+Thunstrasse 9, 3005 Bern 
+Tel. 031 350 83 83 
+E-Mail: info@vks.ch 
+Internet: www.vks.ch 
+
+Bemerkungen zu den einzelnen Gesetzesartikeln: 
+Art. 2   
+•  Mittelfristig wäre es zielführend, die Personenidentifizierungsdaten von ISA, ZEMIS und weiteren 
+
+Form und Inhalt 
+
+Umsystemen wie denen des Informationssystems (IVZ) des ASTRA zu harmonisieren. 
+
+•  Das Ablaufdatum der E-ID darf keine Auswirkungen auf gültige digitale Ausweise (Credentials) 
+haben, da z.B. der heutige Führerausweis unbefristet gültig ist. Auch andere Ausweise werden 
+unterschiedliche  Ablaufdaten  haben.  Eine  Erneuerung  der  E-ID  darf  diesbezüglich  keinen 
+grossen Mehraufwand auf die vorhandenen Ausweise haben. Namentlich müssen die Kunden 
+bei einer Erneuerung der E-ID einfach und rasch die fortbestehenden digitalen Ausweise wieder 
+aktivieren können. 
+
+Anlaufstelle der Kantone 
+
+Art. 8   
+Der Bund (BIT) ist für die Basisinfrastruktur und somit auch für dessen Support zuständig. Kantonale 
+Anlaufstellen können, wenn nötig, die Bundesstellen in dieser Aufgabe unterstützen. 
+Die  unterschiedlichen  Anbieter  von  digitalen  Ausweisen  (eLernfahrausweis,  eFührerausweis, 
+ePersonalausweis,  eWohnsitzbestätigung,  eStrafregisterauszug,  usw.)  sind  hingegen  für  den 
+jeweiligen  Support  zuständig. In  der  Einführungsphase  ist  eine  direkte  Absprache  zwischen  den 
+unterschiedlichen Organisationen dringend notwendig. 
+
+Übertragbarkeit von elektronischen Nachweisen 
+
+Art. 15  
+Die Strassenverkehrsämter planen auch den Fahrzeugausweis (ca. 6 Mio.) als digitalen Ausweis 
+abzugeben. Der Fahrzeugausweis verbleibt beim Halter eines Fahrzeuges. Der Halter hat jedoch 
+die  Möglichkeit,  das  Fahrzeug  und  damit  den  Fahrzeugausweis  einer  anderen  Person  für  eine 
+bestimme Zeit «auszuleihen». Es muss deshalb die Möglichkeit bestehen, einen digitalen Ausweis 
+zeitbefristet  oder  unbegrenzt  «teilen»  zu  können,  beispielsweise  innerhalb  der  Familie.  Die 
+Schifffahrtsämter  bezwecken  ebenfalls  eine  digitale  Lösung 
+für  den  Schiffs-  und 
+Schiffsführerausweis. 
+Art. 26  
+
+Gebühren 
+
+Die Gebühren für den Eintrag im Basisregister müssen frühzeitig bekannt und angemessen sein. Im 
+Kontext  der  Führerausweise  wäre  eine  Gebühr  in  der  Grössenordnung  der  Gestehungskosten 
+heutiger physischer Ausweise wünschenswert. Ansonsten müssen die Kantone die Kosten durch 
+höhere Gebühren für diese Produkte auf die Bürger abwälzen. Dies könnte zu Widerständen gegen 
+die Digitalisierungsvorhaben führen. 
+
+Internationale Abkommen 
+
+Art. 27  
+Es  muss  unbedingt  die  Möglichkeit  geschaffen  werden,  dass  die  unterschiedlichen  digitalen 
+Ausweise der Strassenverkehrsämter auch im EU-Raum genutzt werden können.  
+
+Ausführungsbestimmungen 
+
+Art. 28  
+Es  muss  die  Möglichkeit  geschaffen  werden,  dass  gewisse  digitale  Ausweise  (Beispiel 
+eFahrzeugausweis, ca. 6 Mio.) mit anderen Personen «geteilt» werden können (Weitergabe eines 
+Fahrzeugausweises für eine bestimmte oder unbestimmte Zeit bei der privaten oder kommerziellen 
+Ausleihe).  Siehe  auch  Bemerkung  zu  Art.  15.  Wir  schlagen  daher  vor,  dass  eine  neue  lit.  e 
+aufgenommen wird:  
+e.  zu  den  Möglichkeiten  einer  temporären  Verwendung  von  Nachweisen  durch  andere  E-ID-
+Benützer (Teilen). 
+
+ 
+
+ 
+
+2 
+
+Allgemeine Bemerkungen: 
+Die erwähnten Betriebskosten (jährlich CHF 15 – 20 Mio.), welche durch Gebühren bezahlt werden 
+müssen, sind im Verhältnis zu den Projektkosten von ca. CHF 25 – 30 Mio. aus unserer Sicht viel 
+zu hoch. Es darf nicht sein, dass der Bund die E-ID «gratis» zur Verfügung stellt und die Kantone, 
+Gemeinden  und  Private  bezahlen  mit  den  Gebühren  für  ihre  digitalen  Ausweise  die  hohen 
+Betriebskosten,  welche  dann  in  irgendeiner  Form  an  die  Kunden  überwälzt  werden  müssen.  Es 
+besteht  somit  die  Gefahr,  dass  digitale  Ausweise  von  Kantonen  und  Dritten  nicht  über  die 
+Basisinfrastruktur und das zugehörige Bundeswallet des Bundes verteilt werden und sich alternative 
+Kanäle etablieren. 
+Vielen Dank für die Kenntnisnahme und die weitere Prüfung.  
+Freundliche Grüsse 
+
+ 
+
+ 
+ 
+ 
+Peter Kiser 
+Präsident vks 
+ 
+
+ 
+ 
+ 
+Chantal Schweizer Bourqui 
+Geschäftsführer vks 
+
+ 
+
+3 
+
+

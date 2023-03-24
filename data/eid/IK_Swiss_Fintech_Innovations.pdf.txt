@@ -1,0 +1,579 @@
+ 
+
+Bundesrätin Karin Keller-Sutter 
+Vorsteherin des Eidgenössischen Justiz- und Polizeidepartements EJPD 
+Bundeshaus West 
+CH-3003 Bern 
+
+Per Mail zugestellt an: E-ID@bj.admin.ch und rechtsinformatik@bj.admin.ch 
+
+ 
+
+Zürich, 20. Oktober 2022 
+
+ 
+
+Vernehmlassung Bundesgesetz über den elektronischen Identitätsnachweis und 
+andere elektronische Nachweise (E-ID Gesetz, BGEID) – Stellungnahme SFTI 
+
+ 
+
+Sehr geehrte Frau Bundesrätin, 
+Sehr geehrte Damen und Herren 
+
+Wir beziehen uns auf die am 29. Juni 2022 publizierte Vernehmlassung und bedanken uns für die 
+Möglichkeit, auf diesem Wege unsere Anregungen zum Vorschlag für das auch aus unserer Sicht 
+sehr wichtige E-ID Gesetz einbringen zu können. 
+
+Der  Verband  Swiss  Fintech  Innovations  (SFTI,  www.swissfintechinnovations.ch)  vertritt  die 
+Interessen seiner Mitglieder (hauptsächlich Schweizer Banken und Versicherungen) im Bereich der 
+Digitalisierung und Innovation in der Finanz- und Versicherungsindustrie. 
+
+Der vorgelegte VE-BGEID wird von SFTI ausdrücklich begrüsst. Namentlich schafft der Vorentwurf 
+den  rechtlichen  Rahmen  für  die  elektronischen  Nachweise  in  der  Schweiz,  einschliesslich  des 
+staatlichen  elektronischen  Identitätsnachweises.  Er  beabsichtigt  zudem  die  Regelung  der 
+Anforderungen  an  die  die  Vertrauensinfrastruktur,  die  zum  Ausstellen,  Widerrufen,  Überprüfen, 
+Aufbewahren und Vorweisen von elektronischen Nachweisen erfüllt werden muss. Dies umfasst alle 
+wesentlichen Kernbereiche und ist zu begrüssen. Ebenso positiv sehen wir, dass der Vorentwurf die 
+Rollen  und  Kompetenzen  für  den  Betrieb  der  Vertrauensinfrastruktur  für  einen  elektronischen 
+Identitätsnachweis  (E-ID)  regelt,  welcher  nicht  nur  im  Verkehr mit  Behörden,  sondern  auch  unter 
+Privaten verwendet werden kann. 
+
+Aus  parlamentarischer  Perspektive  unterstützt  bzw.  ermöglicht  die  Schaffung  einer  E-ID 
+beispielsweise die Umsetzung folgender Motionen: 
+
+a)  Motion 20.223643 Für digitale Identitätsausweise; Motion NR Philippe Nantermod (FDP.Die 
+
+Liberalen) vom 15.06.2022 
+
+b)  Motion 21.3180 Vollständig digitale Unternehmensgründung sicherstellen, von NR Andri 
+
+Silberschmidt (FDP, Zürich) vom 16.3.2021 
+
+c)  Motion 20.4356 Digitaler Fahrzeug- und Führerausweis, von NR Franz Grüter (SVP, 
+
+Luzern), vom 30.11.2020 
+
+Gleichwohl sind nach unserer Einschätzung noch Präzisierungen angezeigt, um bei Wirtschaft und 
+Gesellschaft das notwendige Vertrauen in die technische Lösung weiter zu stärken, gleichzeitig die 
+Attraktivität für die künftige Nutzung der neuen Infrastruktur zu optimieren und damit insgesamt auch 
+die Innovationskraft und die Attraktivität des Wirtschaftsstandorts Schweiz zu fördern. 
+
+Swiss Fintech Innovations | Rämistrasse 5 | CH-8024 Zürich 
+www.swissfintechinnovations.ch 
+
+ 
+
+Seite 1/9 
+
+ 
+
+Nachstehend  formulieren  wir  vorab  die  Hauptpunkte,  bei  welchen  aus  unserer  Sicht  auf 
+Gesetzesstufe noch Optimierungsbedarf besteht und begründen unsere Haltung anschliessend im 
+Detail. 
+
+1.  Abbildung  von  Vertretungsrechten  an  juristischen  Personen:  Natürliche  Personen  und 
+durch diese vertretene Unternehmen müssen sich gestützt auf die E-ID eindeutig, sicher und 
+benutzerfreundlich digital ausweisen können. Obwohl die E-ID richtigerweise nur für natürliche 
+Personen  konzipiert  ist,  muss  es  dennoch  möglich  sein,  auch  allfällige  Vertretungsrechte 
+dieser natürlichen Personen an juristischen Personen auf der E-ID (der natürlichen Person) 
+abzubilden, indem das Basisregister nicht nur mit den Datenbanken der Fedpol, sondern auch 
+mit dem Handelsregister bzw. dem SHAB verbunden wird. Damit würden im Geschäftsverkehr 
+enorme Effizienzgewinne ermöglicht. 
+Internationale  Interoperabilität:  Vergleichbare  ausländische  E-IDs  sollen  in  der  Schweiz 
+explizit  anerkannt  werden.  In  einer  international  verwobenen  Wirtschaft  ist  es  unabdingbar, 
+dass die Prozesse auch in diesem Bereich durch technische Lösungen vereinfacht werden. 
+
+2. 
+
+3.  Rechtssicherheit  und  Verantwortlichkeit:  Die  Folgen  des  Missbrauchs  der  E-ID  sowie 
+weiterer  elektronischer  Nachweise  sind  im  Gesetz  nur  marginal  geregelt.  Vor  diesem 
+Hintergrund schlagen wir vor, im Gesetz eine Haftungsnorm aufzunehmen. Zudem soll auch 
+über  die  privaten  Identifikatoren  und  Nachweise  eine  gewisse  Kontrolle  bestehen,  weshalb 
+dies im Gesetz besser reflektiert werden sollte. 
+
+4.  Förderung der Anwendung 
+4.1. Hoher Datenschutz und hohe Datensicherheit sind grundlegende Voraussetzungen. 
+4.2. Die  regulatorischen  Zwecke  der  Weiterentwicklung  und  Akzeptanz  der  E-ID  sowie  der 
+Förderung  von  digitalen  Geschäftsmodellen,  namentlich  auch  der  Privatwirtschaft,  sind 
+ausdrücklich im BGEID zu verankern. 
+
+4.3. Das  BGEID  muss  mit  einem  breiten  Feld  zulässiger  Anwendungsmöglichkeiten  sowie 
+attraktiven Einsatzbedingungen und Preismodellen Anreize schaffen, dass sowohl Wirtschaft 
+als auch Nutzerinnen und Nutzer von der E-ID tatsächlich Gebrauch machen. 
+
+5.  Abstimmung mit ZertES und GwG: Die Voraussetzungen zur Erlangung einer E-ID und einer 
+QES müssen aufeinander abgestimmt werden, wobei klarzustellen ist, dass auf jeden Fall die 
+Einhaltung der GwG-rechtlichen Anforderungen einer Video- oder Onlineidentifikation genügt. 
+Um der E-ID von Beginn weg genügend Anwendungsbereich zu geben, sollte die Vorlage der 
+E-ID  darüber  hinaus  der  persönlichen  Vorsprache  gleichgestellt  sein  bzw.  der  GwG-
+rechtlichen Identifikationspflicht Genüge tun. 
+
+6.  Technologieneutralität  und  technische  Umsetzung:  Für  die  technische  Umsetzung  sind 
+
+Experten beizuziehen. 
+
+7.  Periodische  Überprüfung:  Trotz  technologieneutralem  Ansatz  des  VE-BGEID  muss  eine 
+periodische  Überprüfung  etabliert  werden,  welche  dauernd  sowohl  nach  "state  of  the  art"-
+Ansatz die technische Funktionsfähigkeit wie auch die Cybersicherheit gewährleistet. 
+
+8.  Gültigkeitsdauer  der  E-ID:  Die  Gültigkeitsdauer  der  E-ID  darf  jene  des  Identitäts-  oder 
+Legitimationsdokuments,  welches  im  Rahmen  der  Ausstellung  der  E-ID  verwendet  wurde, 
+nicht  überschreiten.  Zudem  sollte  die  zeitliche  Kontinuität  der  Gültigkeit  einer  E-ID 
+gewährleistet  werden,  d.h.  ein  zu  einem  bestimmten  Zeitpunkt  überprüfter  und  zertifizierter 
+Ausweis soll beispielsweise auch 10 Jahre später als überprüft und zertifiziert gelten. 
+
+ 
+
+ 
+
+Swiss Fintech Innovations | Rämistrasse 5 | CH-8024 Zürich 
+www.swissfintechinnovations.ch 
+
+ 
+
+Seite 2/9 
+
+ 
+
+1  Abbildung von Vertretungsrechten an juristischen Personen 
+
+Die digitale Abbildung der Vertretungsrechte für eine juristische Person entspricht einem grossen 
+Bedürfnis der Wirtschaft. Während eine E-ID für juristische Personen kaum zu realisieren ist, wäre 
+es  dennoch  möglich  und  sinnvoll,  solche  Vertretungsrechte  auf  der  E-ID  für  natürliche  Personen 
+abzubilden und entsprechend  im Basisregister als Nachweis einzutragen. Vorstellbar wäre dabei, 
+das  Basisregister  mit  HR  und  SHAB  zu  verbinden,  damit  die  entsprechenden  Identifikatoren  im 
+Register abgebildet werden können. Eine solche Lösung würde den Schweizer Standort bezüglich 
+Digitalisierung wesentlich stärken und wäre zudem auch im Interesse der Verbreitung der E-ID, da 
+man diese nicht nur für private, sondern auch für kommerzielle Zwecke einsetzen könnte. 
+
+Art. 1  
+
+1 Dieses Gesetz regelt:  
+
+d.  den Nachweis der Vertretungsrechte an juristischen Personen. 
+
+ 
+
+Art. 12bis 
+
+Vertretungsrechte an juristischen Personen können als Nachweise auf der E-ID geführt werden. 
+Der Bundesrat regelt die Einzelheiten, insbesondere den dafür notwendigen Datenaustausch 
+zwischen den Handelsregistern und dem Basisregister gemäss diesem Gesetz. 
+
+2 
+
+Internationale Interoperabilität 
+
+Die Interoperabilität mit vergleichbaren ausländischen E-ID Lösungen ist für die international stark 
+verwobene  Schweizer  Wirtschaft  wichtig.  Damit  könnten  die  ohnehin  schon  komplexen 
+grenzüberschreitenden  Wirtschaftsprozesse  zumindest  in  diesem  Bereich  vereinfacht  werden.  In 
+Frage  für  eine  Anerkennung  kämen  dabei  insbesondere  die  nach  der  eIDAS  ausgestellten 
+Identitäten in der EU.  
+
+Wir schlagen daher vor, die Anerkennung und Herstellung von Interoperabilität mit vergleichbaren 
+ausländischen  E-ID  Systeme  bereits  bei  der  Zielsetzung  des  Gesetzes  aufzunehmen  und  Art.  1 
+BGEID entsprechend zu ergänzen. 
+
+Art. 1 
+
+2 Es hat zum Zweck: 
+
+e.  Interoperabilität und Anerkennung mit vergleichbaren ausländischen Identitätsnachweisen 
+
+sicherzustellen;  
+
+Aus unserer Sicht käme zudem auch eine einseitige Anerkennung durch die Schweiz in Frage (vgl. 
+Art.  27  VE-BGEID).  Das  könnte  relativ  unkompliziert  geschehen.  Vor  allem  wäre  dazu  kein 
+Staatsvertrag notwendig. Art. 27 VE-BGEID müsste daher entsprechend erweitert werden und dem 
+Bundesrat die Kompetenz einer einseitigen Anerkennung einräumen. 
+
+7. Abschnitt: Internationale Abkommen Anerkennung 
+
+Art. 27 
+
+1 Der Bundesrat kann vergleichbare ausländische E-ID anerkennen.  
+
+Swiss Fintech Innovations | Rämistrasse 5 | CH-8024 Zürich 
+www.swissfintechinnovations.ch 
+
+ 
+
+Seite 3/9 
+
+ 
+
+3  Rechtssicherheit und Verantwortlichkeit 
+
+Das  Basisregister  wird  durch  den  Bund  geführt  und  muss  daher  gewissen  inhaltlichen 
+Anforderungen genügen. Das gilt sowohl für die öffentlichen als auch für die privaten Identifikatoren 
+und Nachweise, die im Register enthalten sind. Klar ist auch, dass der Bund selber nicht absolute 
+Richtigkeit  garantieren  kann,  er  muss  aber  ein  Prüfmechanismus  einführen,  um  zumindest 
+Missbrauch  zu  vermeiden  und  eine  hohe  Qualität  des  Registers  zu  gewährleisten.  Wird  das 
+Vertrauen in das Basisregister öfters enttäuscht, wird es letztlich auch nicht benützt werden. Es ist 
+daher im Interesse der E-ID als solche, dass die Qualität des Registers stimmt. 
+
+Vor diesem Hintergrund schlagen wir vor, die «kann» Vorschrift in Art. 18 als Pflicht vorzusehen. 
+
+Art. 18 System zur Bestätigung von Identifikatoren 
+
+2 Der Bundesrat regelt das Verfahren, wonach kann vorsehen, dass der Bund auch die 
+Zuordnung von Identifikatoren und Schlüsseln von privaten Ausstellerinnen und Verifikatorinnen 
+bestätigt.  
+
+Aus Gründen der Rechts(-verkehrs)sicherheit und auch eines sinnvollen Anwendungsbereichs für 
+die E-ID ist im Gesetz eine Haftungsklausel aufzunehmen. 
+
+Art. 18bis Haftung 
+
+Wenn ein Schaden entsteht, haftet dafür jene Partei, die die inhaltlich falsche Information 
+eingeliefert hat. 
+
+4  Förderung der Anwendung 
+4.1  Hoher Datenschutz und hohe Cybersicherheit 
+
+Als vertrauensbildende Massnahme müssen die Vorkehrungen zur Cybersicherheit von Anfang an 
+berücksichtigt und gesetzlich verankert werden. Die Sicherheit vieler Anmeldeverfahren wird oftmals 
+reduziert, indem Passwörter z.B. mehrfach verwendet oder sogar aufgeschrieben werden. Mit einer 
+digitalen  Infrastruktur  könnten  die  Schweizer  Bevölkerung  alle  persönlichen  Unterlagen  in  einem 
+einzigen digitalen Wallet speichern und dieses jederzeit auf Abruf vorweisen oder übermitteln. Um 
+Innovation  und  Wettbewerb  zu  fördern,  sollten  aber  verschiedene  digitale  Wallets  zugelassen 
+werden.  Die  Kundenbeziehungen  könnten  so  einfacher  überprüft  und  abgeschlossen  werden. 
+Essenziell bleibt, dass bei jeder Verwendung die Wahl bestehen muss, welche Informationen der 
+Gegenpartei zur Verfügung gestellt werden sollen und welche nicht. Somit wird der elektronische 
+Geschäftsverkehr  sicherer  und  die  Privatsphäre  jedes  Einzelnen  besser  gewahrt.  Dafür  ist  es 
+notwendig,  verschiedenste  digitale  Nachweise  sicher  speichern  und  teilen  zu  können.  Vielfältige 
+Anwendungsmöglichkeiten  im  Privatsektor  stellen  die  Relevanz  der  E-ID  sicher.  Die  nationale 
+Infrastruktur  kann  darüber  hinaus  die  Basis  dafür  bilden,  dass  sich  jeder  Mensch  und  jedes 
+Unternehmen  europaweit  online  und  offline  ausweisen  kann  und  bestimmte  persönliche 
+Informationen  nachgewiesen  werden  können,  wenn  die  Interoperabilität  mit  entsprechenden  EU-
+Lösungen gesichert ist. 
+
+Im VE-BGEID werden zwei Systeme beschrieben, nämlich das Fedpol-System zur Ausstellung von 
+E-IDs  (gemäss  2.  Abschnitt,  Art.  2  ff.  VE-BGEID)  und  die  Vertrauensinfrastruktur  (gemäss 
+5. Abschnitt, Art. 17 ff. VE-BGEID). Namentlich muss sichergestellt sein, dass bei Verwendung der 
+E-ID,  z.B.  bei  Abschluss  eines  Vertrages,  zur  Eröffnung  einer  Geschäftsbeziehung  oder  zur 
+Inanspruchnahme  einer  Dienstleistung,  keine  unnötigen  digitalen  Spuren  hinterlassen  werden. 
+Insbesondere  dürfen  sich  in  der  Vertrauensinfrastruktur tatsächlich  keinerlei  Daten  befinden,  was 
+
+Swiss Fintech Innovations | Rämistrasse 5 | CH-8024 Zürich 
+www.swissfintechinnovations.ch 
+
+ 
+
+Seite 4/9 
+
+ 
+
+bei korrekter Implementierung der Fall sein sollte (vgl. Art. 17 Abs. 4 u. Art. 25 Abs. 2 VE-BGEID). 
+Auch sollte technisch ausgeschlossen sein, dass seitens staatlicher Stellen oder Privater wie z.B. 
+Verifikator:innen  Daten  tracken  bzw.  speichern  kann.  Das  alles  ist  wegen  der  gesetzlichen 
+Anforderung  dezentraler  Datenhaltung  zur  Sicherstellung  eines  hohen  Datenschutzes  notwendig 
+(Art. 1 Abs. 2 Bst. b Ziff. 1 u. 4 VE-BGEID). Aus Bankensicht gelten diese Anforderungen überdies 
+gemäss Bankkundengeheimnis (Art. 47 BankG). 
+
+Entgegen diesen zwingenden Anforderungen wird gemäss Wortlaut von Art. 16 Abs. 3 VE-BGEID 
+lediglich angeordnet, dass Betreiber:innen der Systeme nach dem 5. Abschnitt keine Kenntnis des 
+Inhalts  der  vorgewiesenen  elektronischen  Nachweise  haben  und  "möglichst"  keine  Rückschlüsse 
+über deren Verwendung und die Beteiligten ziehen können dürfen. 
+
+Die Einschränkung "möglichst" keine Kenntnisse wird den Anforderungen nicht gerecht, zumal sich 
+diese wie dargelegt teilweise aus anderen Gesetzen wie namentlich DSG und BankG ergeben. Die 
+Einschränkung  "möglichst"  ist  deshalb  ersatzlos  zu  streichen  und  es  ist  klarzustellen,  dass  die 
+Betreiberin  diese  zwingende  Anforderung  mit  geeigneten  technischen  und  organisatorischen 
+Massnahmen sicherzustellen hat. Art. 16 Abs. 3 VE-BGEID ist demzufolge wie folgt anzupassen: 
+
+Art. 16 Vorweisen von elektronischen Nachweisen 
+
+3  Die  Betreiberin  der  Systeme  nach  dem  5.  Abschnitt  hat  aufgrund  technischer  und 
+organisatorischer  Massnahmen  keine  Kenntnis  des  Inhalts  der  vorgewiesenen  elektronischen 
+Nachweise und kann möglichst keine Rückschlüsse über deren Verwendung und die Beteiligten 
+ziehen 
+
+ 
+
+Der Widerruf nach Art. 5 VE-BGEID (Widerruf der E-ID) und Art. 13 VE-BGEID (Widerruf anderer 
+elektronischer Nachweise) sollte ebenfalls möglich sein bei betrügerischer Erlangung der E-ID resp. 
+des  elektronischen  Nachweises  und  nicht  nur  bei  Missbrauch  der  E-ID  resp.  des  elektronischen 
+Nachweises). Eine betrügerische erlangte E-ID rechtfertigt auf jeden Fall deren Widerruf ebenso wie 
+deren Missbrauch. 
+
+Die Bestimmungen sind entsprechend anzupassen. 
+
+Art. 5 Widerruf 
+
+Das fedpol widerruft die E-ID unverzüglich, wenn: 
+
+f.  der begründete Verdacht besteht, dass die E-ID betrügerisch erlangt wurde. 
+
+Art. 13 Widerruf 
+
+2 Sie widerrufen diese unverzüglich, wenn 
+
+d.  der begründete Verdacht besteht, dass der elektronische Nachweis betrügerisch erlangt 
+
+wurde. 
+
+ 
+
+ 
+
+4.2  Weiterentwicklung und Akzeptanz 
+
+Der Bund muss mit geeigneter Information und Kommunikation für Transparenz und Verständnis 
+der  Materie  sorgen.  Nur  so  kann  in  diesem  Ökosystem  mit  einer  Vielzahl  von  Ausstellern  und 
+Verifikatoren das notwendige Vertrauen der Bevölkerung in die neuartige Identifikationsmöglichkeit 
+entstehen. Und erst wenn dieses Vertrauen geschaffen ist, kann der mit der E-ID bezweckte Nutzen 
+
+Swiss Fintech Innovations | Rämistrasse 5 | CH-8024 Zürich 
+www.swissfintechinnovations.ch 
+
+ 
+
+Seite 5/9 
+
+ 
+
+zum Tragen kommen. Zu dieser Information und Kommunikation gehört auch,  die verschiedenen 
+und vielfältigen Rollen von Staat und Wirtschaft innerhalb des "Systems" einer E-ID darzustellen, 
+ebenso  wie  die  Tatsache,  dass  solche  verschiedenen  Rollen  für  das  Funktionieren  des 
+Gesamtsystems  notwendig  sind.  Die  Vorteile  der  E-ID  sowie  deren  Funktionsweise  müssen 
+verständlich  aufgezeigt  werden.  Allfälligen  Ängsten  der  Bevölkerung,  dass  eine  elektronische 
+Identität  nicht  sicher  sei  oder  in  Richtung  eines  digitalen  Überwachungsstaates  gehe,  muss  von 
+Anfang  an  proaktiv  mit  aufklärender  Kommunikation  begegnet  werden.  Dazu  gehört  die 
+Schlüsselaussage,  dass  ein  wiederverwendbarer  digitaler  Identitätsservice  nicht  möglich  ist  ohne 
+das  klare  Verständnis,  Vertrauen  und  Engagement  eines  jeden  Benutzers.  Nur  so  kann  ein 
+funktionierendes System entstehen, welches zutreffend "Vertrauensinfrastruktur" genannt wird (vgl. 
+Art. 17 ff. VE-BGEID; Erläuterungsbericht BGEID, insb. S. 5 oben Ziff. 3.1. u. unten Ziff. 4, ferner S. 
+13 f. Ziff. 5). SFTI wird diesen Transparenz und Vertrauen schaffenden Prozess nach Kräften aktiv 
+mitunterstützen. 
+
+Entsprechend ist die Bestimmung von Art. 1 Abs. 2 VE-BGEID zur Förderung des Vertrauens im 
+digitalen Raum mit dem zusätzlichen Zweck zu ergänzen, die Weiterentwicklung der E-ID und 
+deren Akzeptanz zu fördern. 
+
+Sodann  schlagen  wir  vor,  die  Bestimmung  von  Art.  1  Abs.  2  VE-BGEID  mit  der  zusätzlichen 
+Zweckbestimmung zu ergänzen, die Entwicklung und Zulassung neuer digitaler Geschäftsmodelle 
+zu fördern. Dabei muss es namentlich auch um neue Geschäftsmodelle gehen, welche von privaten 
+Strukturen entwickelt werden. Zu denken ist etwa an neue Identifizierungslösungen zur KYC ("Know 
+Your  Customer")-Thematik.  Ein  Anbieter  könnte  solche  neuen  technischen  Lösungen  z.B.  an 
+Banken und/oder Versicherungen verkaufen. Gestützt darauf könnten diese Institute die Effizienz 
+ihrer internen Prozesse bei der Abwicklung von Geschäftsvorgängen steigern. Dies wiederum würde 
+die Gesamtkosten der Institute trotz Kauf der neuen technischen Lösung sogar reduzieren und die 
+Kundenbindung verbessern. Durch solche Möglichkeiten der indirekten „Monetarisierung" der E-ID 
+wird  wiederum  der  Anreiz  für  Anbieter  aus  der  Privatwirtschaft  gefördert,  E-ID  Lösungen 
+weiterzuentwickeln  und  neue  Anwendungsfälle  zu  finden.  Hierdurch  könnte  die  E-ID  zu  einem 
+wirklich innovativen Baustein in der Wirtschaft werden. Beispiele dieser Art sind zwecks Förderung 
+des Verständnisses in die künftige Botschaft zum neuen VE-BGEID aufzunehmen. 
+
+Demnach ist Art. 1 Abs. 2 VE-BGEID, ergänzend zu dem im Kapitel 2 vorgeschlagenen Bst. e, noch 
+mit den zwei zusätzlichen Bst. f und g wie folgt zu ergänzen: 
+
+Art. 1 
+
+2 Es hat zum Zweck: 
+
+f.  die Förderung der E-ID und deren Akzeptanz, 
+
+g.  die Förderung neuer digitaler Geschäftsmodelle. 
+
+Der  VE-BGEID  hält  nicht  klar  fest,  ob  die  E-ID  "nur"  als  elektronisches  Identifikationsmittel  in  der 
+virtuellen Welt ausgestaltet werden soll (Gegenstück zu ID/Pass in der physischen Welt) oder auch 
+in der physischen Welt einsetzbar sein soll (E-ID als umfassendes Identifikationsmittel für physische 
+und virtuelle Welt; vgl. bspw. Bericht zu Art. 1 Abs. 2 Bst. a "Die E-ID kann auf dem Smartphone 
+installiert und so ebenfalls in der physischen Welt verwendet werden" und Bericht zu Art. 9 "…die E-
+ID  als  staatliches  elektronisches  Identifikationsmittel  zum  Nachweis  der  eigenen  Identität  in  der 
+virtuellen  Welt  ausgestaltet  …").  Eine  Verwendung  der  E-ID  auch  in  der  physischen  Welt  wäre 
+wünschenswert und würde nicht zuletzt auch zu deren Verbreitung beitragen. Entsprechend wäre 
+auch die Pflicht zur Akzeptanz der E-ID nicht an eine elektronische Identifizierung zu koppeln (vgl. 
+Art. 9 VE-BGEID).  
+
+Swiss Fintech Innovations | Rämistrasse 5 | CH-8024 Zürich 
+www.swissfintechinnovations.ch 
+
+ 
+
+Seite 6/9 
+
+ 
+
+Art. 9 Pflicht zur Akzeptanz der E-ID 
+
+Jede Behörde oder andere Stelle, die öffentliche Aufgaben erfüllt, muss die E-ID akzeptieren, 
+wenn sie eine elektronische Identifizierung vornimmt. 
+
+ 
+
+4.3  Attraktive Einsatzbedingungen und Preismodelle 
+
+Die Möglichkeit kostengünstiger Lösungen fördert bei den Unternehmen der Wirtschaft Innovation 
+und  die  Schaffung  neuer  Geschäftsmodelle  mit  immer  breiteren  Paletten  von  Anwendungs-
+möglichkeiten. Damit einhergehend wächst auf Seiten der Nutzer und Nutzerinnen der Anreiz, die 
+gesetzlich geregelte E-ID zu benutzen. Auf diese Weise wird das System der gesetzlich geregelten 
+E-ID  "monetarisiert",  dies  im  positiven  Sinne  durch  Schaffung  einer  immer  breiteren  Palette  von 
+Angeboten mit immer attraktiveren Preisen. 
+
+Die  Kosten  und  Preise  für  Austeller:innen  und  Verifikator:innen  werden  direkten  Einfluss  auf  den 
+Erfolg  des  Gesamtprojektes  zur  Implementierung  einer  gesetzlichen  E-ID  haben.  Kommerzielle 
+Überlegungen  sind  hochrelevant  für  Firmen,  welche  ihre  Nachweise  mit  der  E-ID  verbinden  und 
+somit einen wesentlichen Teil des anzustrebenden E-ID Ökosystem ausmachen. 
+
+5  Abstimmung mit ZertES und GwG 
+
+Die  Voraussetzungen  zur  Erlangung  einer  E-ID  und  einer  QES  müssen  aufeinander  abgestimmt 
+werden,  wobei  klarzustellen  ist,  dass  auf  jeden  Fall  die  Einhaltung  der  GwG-rechtlichen 
+Anforderungen einer Video- oder Onlineidentifikation genügt.  
+
+Wichtig  ist  zudem,  dass  klar  festgehalten  wird,  dass  mit  einer  Identifizierung  mittels  E-ID  die 
+Anforderungen  an  die  Ausstellung  einer  QES  erfüllt  werden  (vgl.  Bericht,  S.  7:  "So  können  die 
+bestehenden  (Online)-Identifizierungsprozesse,  die  viel  komplexer  sind,  ersetzt  werden.  Die  E-ID 
+kann auf dem Smartphone installiert und so ebenfalls in der physischen Welt verwendet werden."). 
+
+Die Anpassung von Art. 9 ZertES (vgl. Bericht, S. 20) sollte entsprechend klar formuliert werden: 
+
+Änderung anderer Erlasse: 
+
+ZertES Art. 9 Ausstellung geregelter Zertifikate 
+
+1 Die anerkannten Anbieterinnen von Zertifizierungsdiensten müssen von den Personen, die 
+einen Antrag auf Ausstellung eines geregelten Zertifikats stellen, verlangen: 
+
+a.  bei natürlichen Personen: dass sie persönlich erscheinen und oder durch eine E-ID 
+
+gemäss BGEID den Nachweis ihrer Identität erbringen; 
+
+Im  Bereich  des  Finanzmarktrechts  könnten  mit  der  Einführung  der  E-ID  wesentliche 
+Effizienzgewinne  resultieren.  Das  GwG  geht  in  Art.  3  immer  noch  von  einer  Identifikation  durch 
+beweiskräftige Dokumente aus. Es stellt sich daher die Frage, ob die E-ID als solches Dokument 
+gilt. Wir schlagen aber vor hier Klarheit zu schaffen und die Identifikation durch die E-ID ausdrücklich 
+vorzusehen. Damit hätte diese Art der Identifikation ihre Grundlage auf der richtigen Stufe, d.h. im 
+formellen Gesetz. 
+
+ 
+
+ 
+
+ 
+
+Swiss Fintech Innovations | Rämistrasse 5 | CH-8024 Zürich 
+www.swissfintechinnovations.ch 
+
+ 
+
+Seite 7/9 
+
+ 
+
+Änderung anderer Erlasse: 
+
+GwG Art. 3 Identifizierung der Vertragspartei 
+
+1 Der  Finanzintermediär  muss  bei  der  Aufnahme  von  Geschäftsbeziehungen  die  Vertragspartei 
+aufgrund  eines  beweiskräftigen  Dokumentes  oder  einer  E-ID  gemäss  BGEID  identifizieren. 
+Handelt es sich bei der Vertragspartei um eine juristische Person, so muss der Finanzintermediär 
+die  Bevollmächtigungsbestimmungen  der  Vertragspartei  zur  Kenntnis  nehmen  und  die  Identität 
+der  Personen  überprüfen,  die  im  Namen  der  juristischen  Person  die  Geschäftsbeziehung 
+aufnehmen. 
+
+6  Technologieneutralität und technische Umsetzung 
+
+Die technische Umsetzung darf nicht auf Gesetzesstufe erfolgen. Dies ist bereits notwendige Folge 
+davon, dass der VE-BGEID nach bewährter Schweizer Gesetzgebungstradition nicht nur prinzipien- 
+und  risikobasiert,  sondern  auch  wettbewerbs-  und  technologieneutral  ausgestaltet  ist.  Damit  wird 
+das Regulierungsziel festgelegt, der Weg ins Ziel muss aber offenbleiben. Aber auch aufgrund des 
+raschen 
+technischen  Fortschritts  soll  und  muss  der  Bund  die  Kompetenz  haben,  auf 
+Verordnungsstufe einen Technologie-Kontext zu wählen, welcher im Zeitpunkt der Einführung dem 
+Zweck  des  Gesetzes  und  den  Anforderungen  –  wie  z.B.  Datenschutz  durch  Technik, 
+Datensicherheit,  Datensparsamkeit  und  dezentrale  Datenspeicherung  -  am  besten  gerecht  wird. 
+Deshalb ist die Bundeskompetenz gemäss Art. 25 VE-BGEID zu begrüssen. 
+
+Messlatte der technischen Umsetzung muss sein, dass der Erfolg der Vertrauensinfrastruktur davon 
+abhängt,  wie  konsequent  und  überzeugend  das  Gesetz  aus  der  Perspektive  der  Nutzer  und 
+Nutzerinnen  zu  Ende  gedacht  und  umgesetzt  wird  (z.B.  "elektronische  Brieftasche",  System  für 
+Sicherungskopien,  etc.).  Die  technologische  Gesetzesumsetzung  beinhaltet  sowohl  die  User 
+Experience (UX) im Generellen wie auch matchentscheidende ‘Momente’ in der Customer Journey, 
+besonders  weil  SSI  die  Verantwortung  der  Identität  dem  User  überträgt.  Das  Spannungsfeld 
+zwischen  Sicherheit,  User  Experience  und  dem  dezentralen  Ansatz  ist  noch  nicht  abschliessend 
+geklärt.  Gerade  weil  die  Mehrheit  solcher  Fragen  im  Zusammenhang  mit  der  technologischen 
+Umsetzung nicht auf Gesetzesstufe zu regeln ist, erwarten wir eine Plattform für Privatwirtschaft und 
+die Wissenschaft, welche es erlaubt, Diskussionsbeiträge beizusteuern und somit die Umsetzung – 
+innerhalb des erwähnten Spannungsfeldes – für den Bund zu erleichtern bzw. allfällige Blindspots 
+zu  vermeiden.  Dies  sollte  in  Form  einer  gemischten  Arbeitsgruppe  geschehen.  Dies  entspricht 
+jedenfalls  dem  bewährten  Regulierungsansatz  der  Bundesverwaltung,  zumindest  bei  besonders 
+vielfältigen  und  entsprechend  komplexen  Themen,  wie  sie  vorliegend  sicher  gegeben  sind, 
+gemischte Arbeitsgruppen einzusetzen. 
+
+Dementsprechend schlagen wir eine entsprechende Ausführungsbestimmung als neuen Absatz 2 
+von Art. 28 VE-BGEID vor: 
+
+Art. 28 Ausführungsbestimmungen 
+ 
+1 Der Bundesrat erlässt … [unverändert] 
+ 
+2  Der  Bundesrat  zieht  bei  Erarbeitung  der  Ausführungsbestimmungen  Experten  der 
+Privatwirtschaft und der Wissenschaft bei. 
+
+ 
+
+ 
+
+Swiss Fintech Innovations | Rämistrasse 5 | CH-8024 Zürich 
+www.swissfintechinnovations.ch 
+
+ 
+
+Seite 8/9 
+
+ 
+
+7  Periodische Überprüfung 
+
+Zudem schlagen wir vor, das BGEID und die darauf basierenden technischen Infrastrukturen einer 
+periodischen Überprüfung zu unterziehen. Diese soll klären, ob die technische Funktionalitäten zur 
+Sicherstellung  von  Datenschutz  (inkl.  Bankkundengeheimnis)  und  Cybersecurity  jeweils  dem 
+aktuellen Stand der Technik entsprechen und somit "state of the art" sind (Art. 1 Abs. 2 Bst. c VE-
+BGEID) und die E-ID ihren Zweck zur Förderung digitaler Geschäftsmodelle erfüllen kann. 
+
+8  Gültigkeitsdauer der E-ID 
+
+Schliesslich erscheint aus unserer Sicht sehr wichtig, dass die Gültigkeitsdauer der E-ID gemäss 
+Art. 6 VE-BGEID die Gültigkeitsdauer des Identitäts- oder Legitimationsdokuments, das im Rahmen 
+der Ausstellung/Erstellung der E-ID verwendet wurde, nicht überschreiten darf. 
+
+Zudem ist sicherzustellen, dass auch die zeitliche Kontinuität der Gültigkeit einer E-ID gewährleistet 
+werden  kann,  das  heisst,  dass  ein  zu  einem  bestimmten  Zeitpunkt  überprüfter  und  zertifizierter 
+Ausweis auch zum Beispiel 10 Jahre später als überprüft und zertifiziert gilt. Es sollte eine Vorgabe 
+bestehen,  dass  ein  entsprechendes  technisches  Verfahren  vorhanden  sein  muss,  analog  zur 
+heutigen Long Term Validation (LTV) im Bereich der elektronischen Signaturen. 
+
+ 
+
+ 
+
+Abschliessend  danken  wir  Ihnen  bestens  für  die  Berücksichtigung  unserer  Anliegen.  Für  eine 
+vertiefte  Diskussion  und  für  die  weitere  Zusammenarbeit  stehen  wir  Ihnen  jederzeit  gerne  zur 
+Verfügung. 
+
+ 
+
+Freundliche Grüsse 
+
+ 
+
+Sig. Werner W. Wyss 
+
+Sig. Prof. Dr. Cornelia Stengel 
+
+Leiter SFTI-Arbeitsgruppe Regulations 
+
+Co-SFTI- Director/Mitglied Arbeitsgruppe Regulations 
+
+Swiss Fintech Innovations | Rämistrasse 5 | CH-8024 Zürich 
+www.swissfintechinnovations.ch 
+
+ 
+
+Seite 9/9 
+
+

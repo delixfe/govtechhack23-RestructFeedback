@@ -1,0 +1,158 @@
+ 
+
+Département fédéral de justice et police DFJP  
+ 
+ 
+Par e-mail : rechtsinformatik@bj.admin.ch    
+
+Berne, le 18 octobre 2022 
+
+Loi fédérale sur l’identité électronique et les autres moyens de preuve électroniques 
+(loi sur l’e-ID, LeID) 
+
+ 
+ 
+Madame la Conseillère fédérale, 
+ 
+Nous vous remercions de nous donner l'occasion de prendre position sur cette proposition de loi fédé-
+rale sur l’identité électronique. L'Union des villes suisses représente les villes, les communes urbaines 
+et les agglomérations de notre pays, soit bien trois quarts de la population suisse. 
+
+Considérations générales 
+
+L’UVS salue cet avant-projet de qualité, mis en consultation à peine plus d’un an seulement après le 
+rejet par le peuple de la première monture. Les doutes exprimés par la population lors de la votation 
+de mars 2021 ont été pris en compte, puisque c’est désormais une infrastructure d’identité électro-
+nique étatique, gérée par la Confédération et qui pourra être utilisée par les acteurs du secteur privé 
+et public, qui est proposée. 
+
+Les villes partagent également les principes de base de ce nouveau projet, à savoir le respect de la 
+vie privée dès la conception (privacy by design), de l'économie et de l’enregistrement décentralisé des 
+données.  
+
+Plusieurs villes soulignent l’importance de reprendre les derniers standards internationaux au moment 
+de concrétiser la mise en œuvre de l’identité électronique. Le Conseil fédéral devra veiller à ce que le 
+système suisse soit compatible avec les systèmes multilatéraux. Il devra par ailleurs dialoguer de ma-
+nière proactive avec les entités publiques – cantons et communes - qui connaissent déjà des solutions 
+numériques sur leur territoire, afin de chercher des synergies et d’assurer une continuité entre les 
+deux systèmes. 
+
+ 
+
+ 
+
+ 
+
+Demandes concernant les différentes dispositions 
+
+•  Art. 2 al. 3 (contenu de l’E-ID) : il est indiqué dans le rapport que le numéro AVS sera col-
+
+lecté, mais sans qu’il soit fait mention d’une possible utilisation de ce numéro comme clé d’ap-
+pariement. Le Conseil fédéral est invité à préciser cet élément dans son message. 
+Par ailleurs le Conseil fédéral devra également éclaircir la situation des personnes ne bénéfi-
+ciant pas (encore) de numéro AVS au moment de l’établissement de l’identité électronique : 
+est-ce que l’E-ID ne contiendra dans ce cas pas de numéro AVS ou est-ce qu’un numéro AVS 
+devra en parallèle être créé ? 
+ 
+
+•  Art. 3 let. a et art. 18 al. 1 (personnes morales) : les formulations retenues à ces articles ne 
+sont pas suffisamment claires en ce qui concerne les personnes morales. Le fonctionnement 
+concret de l’identité électronique au sein des entreprises, ainsi que le lien entre personnes 
+physiques et morales dans cette situation, devront être expliqués de manière plus détaillée 
+dans le message du Conseil fédéral. 
+ 
+
+•  Art 5 « Révocation » : En cas de révocation de l’E-ID, utilisateurs et utilisatrices devraient en 
+
+être informés de manière active. Le projet de loi devra prévoir un tel mécanisme.  
+ 
+
+•  Art. 6 « Durée de validité » : il serait judicieux de faire coïncider la durée de validité de l’E-ID 
+
+avec celle du document physique sur laquelle elle repose (carte d’identité, passeport, etc.). 
+Cette précision pourrait être apportée au niveau de la loi. 
+ 
+
+•  Art. 8 « Points de contact cantonaux » : les villes doivent pouvoir assumer ce rôle de coor-
+dination, afin que l'E-ID puisse y être commandée comme les cartes d'identité et passeports 
+actuels. Cette précision pourrait être apportée au niveau législatif. 
+ 
+
+•  Art. 11 al. 5 (conservation des données) : le Conseil fédéral propose de limiter à cinq ans la 
+
+durée de conservation des données autorisée après la date de validité ou révocation de l’E-
+ID. Des recherches sur l’existence d’une identification électronique devant toutefois pouvoir 
+être réalisées au-delà de cette période, l’UVS invite le Conseil fédéral à prévoir un délai plus 
+long. 
+ 
+
+•  Art. 15 « Transmissibilité des moyens de preuve électroniques » : à l’al. 2 de cet article, il 
+
+devrait être précisé qu’une transmission des moyens de preuve électronique est autorisée 
+dans tous les cas. La possibilité de transférer l'E-ID sur un autre support technique doit faire 
+partie de ses fonctionnalités de base. Renoncer à cette fonctionnalité pourrait remettre en 
+question l'acceptation de ce nouvel instrument par les détenteurs d'identités électroniques et 
+donc sa diffusion à grande échelle. 
+Proposition :  
+
+Art. 15 al.2 : Le Conseil fédéral autorise la transmission des moyens de preuve élec-
+troniques qui ne sont pas émis au nom d'une personne physique. 
+ 
+
+•  Art. 20 « Application pour la vérification des moyens de preuve électronique » : Le sys-
+
+tème devrait être construit dès le départ de manière à inspirer confiance. Par ailleurs, pour 
+des raisons de coûts, il faudrait éviter que chaque service de vérification doive mettre à 
+
+Page 2 / 3 
+
+ 
+
+disposition ses propres applications de vérification de manière décentralisée. Une possibilité 
+de vérification indépendante et crédible fait partie intégrante d'une infrastructure de confiance. 
+Proposition :  
+
+Art. 20 : La Confédération met à disposition une application permettant de vérifier la 
+validité des moyens de preuve électronique. 
+ 
+
+•  Art. 21 « Système des copies de sécurité » : suivant la même logique qu’à l’art. 15, le Con-
+
+seil fédéral devrait mettre à disposition un système de copies de sécurité. 
+Proposition :  
+
+Art. 21 al. 1 : la Confédération met à disposition un système informatique dans lequel 
+les titulaires de moyens de preuves électroniques peuvent en déposer une copie de 
+sécurité pour qu’elle y soit conservée. 
+ 
+
+•  Art. 24 « Exploitation de l’infrastructure de confiance » : L’UVS soutient la formulation pro-
+
+posée, mais souhaiterait apporter la précision suivante : une externalisation – partielle ou 
+complète - de l'infrastructure vers des fournisseurs de services extérieurs à l'administration 
+fédérale devrait être explicitement rendue impossible, ceci afin de préserver la souveraineté 
+numérique de la Suisse. 
+ 
+
+•  Art. 8a, al. 2bis Loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite (de-
+mande d’extrait) : dans son commentaire de cette disposition, le Conseil fédéral cite les por-
+tails de la Confédération, des cantons et du secteur privé pour le dépôt d’une demande d’in-
+formations tirées du registre des poursuites. Or, certaines villes et communes disposent éga-
+lement d’un portail propre. Cela devra être précisé dans le message. 
+
+Union des villes suisses 
+Président 
+
+Directeur 
+
+Anders Stokholm 
+
+Martin Flügel 
+
+Copie 
+
+Association des Communes suisses 
+
+Page 3 / 3 
+
+

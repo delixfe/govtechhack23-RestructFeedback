@@ -1,0 +1,241 @@
+swimag GmbH 
+Mattenstrasse 14 
+CH-5436 Würenlos  
+
+Einschreiben
+
+Bundesamt für Justiz 
+Bundesrain 20 
+CH-3003 Bern 
+
+ 
+
+ 
+
+Würenlos, 20.10.2022
+
+Vorab per Mail: rechtsinformatik@bj.admin.ch, rolf.rauschenbach@bj.admin.ch, info@bj.admin.ch
+
+Vernehmlassung bzw. Stellungnahme zum:
+
+Bundesgesetz über den elektronischen Identitätsnachweis und andere elektronische Nachweise; 
+bzw. (E-ID-Gesetz, BGEID).    
+
+ 
+
+Sehr geehrte Frau Bundesrätin  
+Sehr geehrter Herr Rauschenbach 
+Sehr geehrte Damen und Herren
+
+Gestützt auf das Vernehmlassungsgesetz (VlG) und die Vernehmlassungsverordnung (VlV) wie auch unseren gesammelten 
+Praxiserfahrungen  gerade  im  Zusammenhang  mit  dem  Datenschutz  ersuchen  wir  Sie  im  Rahmen  des  vorbezeichneten 
+Vernehmlassungsverfahrens  bzw.  -prozesses  als  Zugehörige  der  interessierten  Kreise  höflich  um  Ihre  überaus  geschätzte 
+Kenntnisnahme  und  wohlwollende  Berücksichtigung  der  folgenden  Ausführungen,  wobei  die  jeweiligen  rechtlichen 
+Bestimmungen  kursiv  und  darin  weiter  angebrachte  Änderungswünsche  fett  oder  durchgestrichen  sowie  nachfolgend
+zugehörige Kommentare "normal", also ohne Schriftauszeichnung, erscheinen.
+
+ 
+
+Art. 1 Abs. 2 lit. b Ziff. 5
+
+Förderung des gleichberechtigten Datenzugangs.
+
+Mit  Einführen  der  E-ID  besteht  darüber  hinaus  die  Chance,  für  berechtigte  Personen  den  Datenzugang  mit  einem 
+Höchstmass  an  Sicherheit  nicht  nur  überaus  effizient  sondern  auch  für  die  E-ID-Inhaber  in  gleichberechtigter  Form 
+nachhaltig  zu  gestalten,  so  dass  individuelle  Interessen  oder  gar  persönliche  Präferenzen  bestimmter  "Datenwächter  oder 
+Zugangsentscheider" gegenüber objektiven Kriterien und Rechtsansprüchen definitiv zurücktreten.   
+
+Für die Aufnahme eines solchen Zusatzes bzw. einer solchen Grundsatzregelung sprechen insbesondere: 
+Art. 2 Abs. 3 BV, Art. 8 BV und Art. 29 BV.
+
+ 
+
+Art. 1 Abs. 2 lit. c
+
+zu gewährleisten, dass die E-ID und die Vertrauens diesbezüglich zu sichernde bzw. sicherzustellende  Infrastruktur  dem 
+aktuellen Stand der Wissenschaft und Technik entsprechen;
+
+Die  Präsenz  des  Standes  der  Wissenschaft  stellt  gegenüber  der  Technik  in  nahezu  jedem  erdenklichen  Fall  ein 
+anzustrebendes  deutlich  höheres  Mass  an  Sicherheit  dar  und  bereitet  aufgrund  der  quasi  überall  uneingeschränkten 
+Verfügbarkeit  keine  zusätzlichen  Hemmnisse.  Im  Übrigen  gehört  der  Stand  der  Wissenschaft  im  Qualitätswesen  und  der 
+Produkthaftung seit mehreren Jahrzehnten zum allseits bewährten und geschätzten Standard. Warum sollte er dann bei solch 
+wichtigen Themen wie der Personenidentifizierung und dem Datenschutz fehlen? 
+
+Bei  Rückgriff  auf  hochgesteckte  bzw.  moralisch  arg  strapazierte  Begriffe  wie  Vertrauen  und  Vertrauensinfrastruktur 
+innerhalb  von  Gesetzestexten  bedarf  es  zwingend  genauer  Auslegungsnormen,  ähnlich  dem  fest  verankerten  Gebot  der 
+vertrauensvollen Zusammenarbeit im Personalrecht einiger europäischer Mitgliedstaaten, um ein konstruktives und ziel- wie 
+ergebnisorientiertes Vorgehen zu forcieren und nicht wie immer wieder an andersartig skandalösen Fällen zu beobachten, 
+unter Verwendung bzw. dem Anschein von "Vertrauen" genau das Gegenteil erwirkt und den über Generationen geprägten 
+und  nur  zu  häufig  stets  bestätigten  Erfahrungssatz,  "Vertrauen  ist  gut,  Kontrolle  ist  besser!",  leidigerweise  mehr  als 
+vernachlässigt  zu  sehen.  Hier,  also  zur  rechtsverständlichen  wie  -sicheren  begrifflichen  Manifestierung  einer 
+Vertrauensinfrastruktur,  reichen  von  daher  keinesfalls  die  Bezüge  auf  Art.  81  BV  und  die  unter  Abschnitt  5  gefassten 
+Ausführungen aus.
+
+ 
+
+Art. 2 Abs. 1
+
+Die E-ID wird mittels der Infrastruktur nach dem 5. Abschnitt als elektronischer Nachweis ausgestellt.
+
+Die E-ID zählt zu den elektronischen Nachweisen, die mittels der Infrastruktur und den Bestimmungen nach Abschnitt 5 
+Ausfertigung bzw. Ausstellung erlangen.
+
+ 
+
+Art. 2 Abs. 2 lit. g
+
+Gesichtsbild amtliche und personenspezifische Ergänzungen
+
+Für die digitale Personenidentifizierung bedarf es nach derzeitigem Verständnis nicht notwendiger Weise ein Gesichtsbild, 
+dessen Verwendung zudem den Grundsätzen der Datensparsamkeit und elementarer Persönlichkeitsrechte, wie dem Recht 
+am  eigenen  Bild,  entgegensteht  und  darüber  hinaus  vermehrt  zu  Missbrauch  Anlass  gibt.  Von  daher  gilt  es  diesen  Punkt 
+vollständig  zu  streichen  und  ggf.  durch  amtliche  sowie  personenspezifische  Ergänzungen  zu  ersetzen,  wie  beispielsweise 
+Künstlername oder gar lebensrettende bzw. überlebenswichtige Informationen etc. 
+
+Sofern  sich  in  naher  Zukunft  oder  aus  anderweitig  zwingend  erforderlichen  Gründen  ein  Bezug  zum  Gesichtsbild  nicht 
+vollständig  vermeiden  lässt,  so  gilt  es  in  den  Personenidentifizierungsdaten  allenfalls  eine  Prüfsumme  der  Bilddatei  des 
+Gesichtsbildes zu vermerken.
+
+ 
+
+Art. 2 Abs. 3 lit. f
+
+Angaben zum Ausstellungsprozess.
+
+Ersatzlos  streichen,  da  Angaben  zum  Ausstellungsprozess  für  den  E-ID-Inhaber  kein  erkennbaren  Zweck  und  Nutzen 
+besitzen und eine solche Erhebung auch nicht dem sparsamen Umgang mit Daten entspricht.
+
+  
+
+Art. 3 lit. c
+
+oder ohne gültige Ausweispapiere ein Sonderbewilligungsverfahren bei einer dafür legitimierten Institution erfolgreich 
+durchläuft.
+
+Diese  Regelung  hilft  auch  Personen  und  Fälle  zu  berücksichtigen,  die  aus  welcherlei  Gründen  auch  immer  über  keine 
+Ausweispapiere  verfügen,  deren  Identität  und  Integrität  aber  keinerlei  Anlass  für  eine  Ausgrenzung  von  einer  E-ID-
+Inhaberschaft bietet. Die dafür zu legitimierenden Institutionen gilt es durch eine gesonderte Verordnung zu erfassen und mit 
+entsprechenden Rechtspflichten wie Befugnissen auszustatten.  
+
+ 
+
+Art. 4 Abs. 4
+
+Zum Zweck der Gesichtsbildverifikation der antragstellenden Person können während dem Ausstellungsprozess biometrische 
+Daten erhoben und mit dem Gesichtsbild aus dem ISA oder dem ZEMIS verglichen werden.
+
+Für das komplette Streichen dieses Absatzes sprechen nicht nur die bereits unter Art. 2 Abs. 2 lit. g vermerkten Gründe, wie 
+Datensparsamkeit  etc.,  sondern  insbesondere  die  ausgeprägte  bevölkerungsweite  Skepsis  gegenüber  dem  Erheben 
+biometrischer Daten, was letztlich sogar eine schwerwiegende Gefahr für das Gelingen des gesamten E-ID-Projektes darstellt
+speziell  durch  zu  befürchtende  Zurückhaltung  oder  noch  schlimmer  vollständige  Abkehr  des  überwiegenden  Teils 
+potentieller  Nutzerinnen  und  Nutzer,  also  letztlich  ein  grossmehrheitliches  Akzeptanzproblem  verursacht.  Hinzu  kommt, 
+dass der Einsatz der E-ID in absehbarer Zeit analog zu den qualifiziert elektronischen Signaturen allein auf nationale Ebene 
+nicht  zuletzt  bedingt  durch  die  Abschnitt  5  erklärte  Infrastruktur  beschränkt  bleibt  und  insofern  keinem  internationalen 
+Erfordernis biometrischer Datenerhebung unterliegt.
+
+Sofern  sich  in  naher  Zukunft  oder  aus  anderweitig  zwingend  erforderlichen  Gründen  ein  Bezug  zum  Gesichtsbild    oder 
+biometrischer Daten nicht vollständig vermeiden lässt, so gilt es dieses allenfalls über Prüfsummenvergleiche zu den mit den 
+Ausweispapieren  verbundenen  Bild-  und  Biometriedateien  sicherzustellen  und  zugleich  die  E-IDs  bzw.  deren  Inhabern 
+gänzlich vor der Gefahr zu bewahren, sich der direkten Les- wie Bearbeitbarkeit einschliesslich technisch leicht möglicher 
+Bevorratung solchen Bild- und Biometriematerials gegenüber bekannten oder unbekannten Dritten ausgesetzt zu sehen.
+
+ 
+
+Art. 6 Gültigkeitsdauer
+
+E-IDs  sind  befristet  gültig.  Der  Bundesrat  regelt  ihre  Gültigkeitsdauer  einschliesslich  diesbezüglicher  Übergangs-  und 
+Nachfolgeregelungen.
+
+Nach  Ablauf  der  E-ID-Gültigkeit  bedarf  es  Regelungen  zur  ggf.  erforderlichen  bzw.  notgedrungenen  Weiterverwendung, 
+wenn es aus welcherlei Gründen auch immer nicht gelingt, die jeweilige E-ID bzw. dessen Gültigkeit zu aktualisieren. 
+
+ 
+
+Art. 7 Sorgfaltspflichten
+
+Statt  eines  evtl.  direkt  PIN-basierten  Zuganges  zur  E-ID  bieten  hier  beispielsweise  Zwei-Faktor-Authentisierungen  u.a. 
+mittels  Mobilgeräte,  wie  Mobiltelefone  und  Smartphones,  ein  deutliches  Mehr  an  Sicherheit  und  kommen  somit  dem 
+erleichterten Erfüllen der nach Art. 7 unbedingt einzuhaltenden Sorgfaltspflichten ein grosses Stück näher. Dazu braucht es 
+auch  keinesfalls  biometrischer  Charakteristika,  die  sich  zudem  auf  vielen  im  Handel  befindlichen  Gräten  gar  nicht  erst 
+erfassen lassen.
+
+Darüber  hinaus  besteht  noch  weitgehend  Unklarheit  über  schadensersatz-    und  haftpflichtrechtlicher  Regelungen  in 
+Missbrauchfällen.
+
+ 
+
+Art. 9 Pflicht zur Akzeptanz der E-ID
+
+Jede Behörde oder andere Stelle, die öffentliche Aufgaben erfüllt, muss die E-ID zur Personenidentifikation  akzeptieren, 
+wenn  sie  eine  elektronische  Identifizierung  vornimmt  und  zugleich  neben  Nachweisausstellungen  anbieten,  weitere 
+Vorgänge, wie in jedem Fall Kommunikation und Dateneditionsverfahren etc., sofern technisch irgendmöglich auf rein 
+elektronischem Wege insbesondere über anerkannt sichere Zustellplattformen zu erledigen.
+
+Der deutliche Nutzen der E-ID ergibt sich unmittelbar aus den grundsätzlichen Einsatzmöglichkeiten in all den Bereichen, 
+wo  es  um  den  Aus-  wie  Nachweis  der  Identität  von  natürlichen  Personen  und  um  Wahrung  derer  Rechte  geht.  Jeder 
+diesbezüglich  indentifizierende  Vorgang,  der  kontaktlos  auf  digitalem  Wege  geschieht,  bedeutet  in  letzter  Konsequenz 
+unabhängig  der  damit  sowieso 
+in  Coronazeiten  einhergehenden  Vorteile  neben  erheblich  höherer  Be-  und 
+Verarbeitungsgeschwindigkeit bei gleichzeitiger Schonung von Personal, Material und Umwelt einen beachtlichen Gewinn 
+an  Rechtssicherheit  sowie  Transparenz  auch  und  gerade  hinsichtlich  des  Datenschutzes  und  der  informationellen 
+Selbstbestimmung einschliesslich deren Weitung, also genau das Gegenteil, was Digitalisierungsgegner und gewisse Teile 
+der Bevölkerung vorschnell zum Vorwurf erheben und durchaus bei unklarer oder nicht angepasster Gesetzeslage gerade im 
+Bereich nicht verfolgbarer oder unsanktionierbar bleibenden Datenschutzverletzungen tatsächlich Berechtigung erlangt bis 
+hin zum Eintritt schwerwiegender Folgen wie nicht wiedergutzumachender Schädigungen.
+
+Von  daher  gilt  es  auf  jeden  Fall  gerade  diesen  Art.  9  zu  begrüssen,  der  jede  Behörde  oder  andere  Stelle,  die  öffentliche 
+Aufgaben  erfüllt,  anweist,  die  E-ID  zu  akzeptieren.  Die  konsequente  Ausgestaltung  dieser  Bestimmung  verlangt  darüber 
+hinaus die Ergänzung, nach Akzeptanz der E-ID anzubieten, neben Nachweisausstellungen weitere Vorgänge, wie in jedem 
+Fall  Kommunikation  und  Dateneditionsverfahren  etc.,  sofern  technisch  irgendmöglich  auf  rein  elektronischem  Wege
+insbesondere über anerkannt sichere Zustellplattformen zu erledigen.
+
+ 
+
+5. Abschnitt: Vertrauensinfrastruktur E-ID-Bundesinfrastruktur
+
+Statt  der  Verwendung  des  bereits  unter  Art.  1  Abs.  2 
+  für  eher  unglücklich  gehaltenen  Begriffes 
+"Vertrauensinfrastruktur"  bietet  sich  beispielsweise  der  weit  treffendere  bzw.  aussagekräftigere  Terminus  "E-ID-
+Bundesinfrastruktur" an. 
+
+lit.  c 
+
+Zur  Infrastruktur  dürfte  zudem  ganz  im  Sinne  des  Datenschutzes  und  der  informationellen  Selbstbestimmung  bzw.  des 
+Öffentlichkeitsgesetzes,  BGÖ,  und  Einhaltung  des  Legalitätsprinzipes  gehören,  als  Inhaber  einer  E-ID  oder 
+Nachweisausteller  sich  jederzeit  Kenntnis  mittels  einer  präzis  abgefassten  lückenlosen  Dokumention,  namentlich 
+Aufstellung,  der  kontinuierlich  bzw.  chronologisch  durchzunummerierenden  vollzogenen  Prozessvorgänge  verschaffen  zu 
+können,  also  welche  Handlungen  [Prozess-Schritt]  auf  Veranlasssung  bzw.  Bearbeitung  von  wem  [Frau/Herr/Code]  zu 
+welchem Zeitpunkt [Datum/Zeit] nach welcher gesetzlichen Vorgabe [rechtlichen Bestimmung] zu welchem Zweck [zwecks] 
+unter welchen Massgaben und Folgerungen [Bemerkungen] stattfanden, etwa nach dem Schema:
+
+Prozess-Schritt
+
+ggf. bearbeitet von
+
+am
+
+zwecks
+
+Folgerungen
+
+ 
+
+Frau/Herr/Code
+
+Datum/Zeit
+
+rechtlicher Bestimmung
+
+Bemerkungen
+
+Allenfalls gilt es durch einen zusätzlich einzufügenden Sonderartikel mit Verweis aud das Öffentlichkeitrsprinzip nochmals 
+auf diesen überaus wichtigen Umstand aufmerksam zu machen, wobei selbstverständlich davon der Nichtzugriff gegenüber 
+Dritten  unberührt bleibt. 
+
+ 
+
+ 
+
+ 
+
+

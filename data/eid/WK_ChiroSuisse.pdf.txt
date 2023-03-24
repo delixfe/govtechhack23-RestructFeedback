@@ -1,0 +1,507 @@
+ 
+
+Per Mail an: rechtsinformatik@bj.admin.ch 
+Bundesrätin Karin Keller-Suter 
+Vorsteherin des Eidgenössischen  
+Justiz- und Polizeidepartements 
+EJPD Bundeshaus West 
+3003 Bern 
+ 
+ 
+ 
+Bern, 20. Oktober 2022 
+ 
+ 
+Vernehmlassung Bundesgesetz über den elektronischen Identitätsnachweis und andere 
+elektronische Nachweise (E-ID-Gesetz, BGEID) 
+ 
+
+ 
+Sehr geehrte Bundesrätin, sehr geehrte Damen und Herren 
+ 
+ChiroSuisse bedankt sich für die Gelegenheit zur Stellungnahme. 
+ 
+Die Schaffung einer gesetzlichen Grundlage für einen elektronischen Identitätsnachweises 
+erachten wir als dringend notwendig, die vorgeschlagene Umsetzung als weitgehend gelungen. 
+ 
+Im Übrigen schliessen wir uns den Stellungnahmen der IG ehealth und von HIN an. 
+ 
+ 
+Freundliche Grüsse 
+ChiroSuisse 
+
+ 
+
+Mireille Schläppi  
+Vorstand ChiroSuisse 
+Departement Digitalisierung 
+
+Sabine Schläppi 
+CEO 
+
+ 
+
+ 
+
+ 
+
+ 
+IG eHealth, Amthausgasse 18 3011 Bern 
+
+Per Mail an: rechtsinformatik@bj.admin.ch 
+
+ 
+
+Bundesrätin Karin Keller-Sutter  
+Vorsteherin des Eidgenössischen Justiz- und Polizeidepartements 
+EJPD Bundeshaus West  
+3003 Bern  
+
+ 
+ 
+
+ 
+
+Bern, 29. September 2022 
+
+ 
+
+ 
+
+Vernehmlassung Bundesgesetz über den elektronischen Identitätsnachweis und andere 
+elektronische Nachweise (E-ID-Gesetz, BGEID) 
+
+ 
+
+Sehr geehrte Frau Bundesrätin, sehr geehrte Damen und Herren 
+
+Die IG eHealth bedankt sich beim eidgenössischen Justiz- und Polizeidepartement EJPD und beim 
+Bundesamt für Justiz BJ für den partizipativen Prozess bei der Erarbeitung des Entwurfs des E-ID-
+Gesetzes, den wir als mustergültig und nachahmenswert erachten. Wir bedanken uns auch für die 
+rasche Ausarbeitung der Vernehmlassungsvorlage, die wir insgesamt als sehr gelungen und 
+praxistauglich einschätzen. 
+
+Für das Gesundheitswesen ist ein elektronischer Identitätsnachweis (E-ID) eine zentrale 
+Voraussetzung für die Nutzung von digitalen Dienstleistungen und eine vertrauenswürdige 
+Kommunikation zwischen Gesundheitsfachpersonen und PatientInnen. Insofern wünschen wir eine 
+zeitnahe Verabschiedung und Überweisung der Botschaft und des Gesetzesentwurfs ans Parlament. 
+
+Gemäss dem Gesetzesentwurf ist die Ausstellung und die Verwendung der neuen E-ID freiwillig. Wir 
+begrüssen es, dass die Bevölkerung und die Gesundheitsfachpersonen die Wahl haben, wie sie auf 
+das EPD zugreifen wollen. Die E-ID gemäss vorliegendem Gesetzesentwurf ist ein digitales Pendant 
+zum physischen Pass oder zur Identitätskarte. Es ist kein «Login» im Sinne einer Authentifikation. Zu 
+prüfen ist, ob dieser Punkt im Gesetz aufzunehmen ist. 
+
+Wir möchten einen Punkt zu Art. 16 Abs 1 Vorweisen von elektronischen Nachweisen anfügen. Der 
+Artikel ist gut formuliert, wir erachten aber die Erläuterungen als unpräzise. Gemäss des 
+Gesetzesartikels bestimmt die InhaberIn der E-ID, welche Bestandteile vom Verifikator geprüft 
+werden. In den Erläuterungen steht unserer Meinung nach fälschlicherweise, dass dies der Verifikator 
+bestimmt. Die Verifikatorin darf im Sinne der Datensparsamkeit nicht mehr Inhalte verlangen als 
+absolut notwendig sind. 
+
+Nachfolgend gehen wir auf ausgewählte Elemente im Gesetzesentwurf ein, die aus unserer Sicht zu 
+präzisieren sind: 
+
+ 
+
+Interessengemeinschaft eHealth, Amthausgasse 18, 3011 Bern 
+
+Tel. 031 560 00 24, Fax 031 560 00 25, info@ig-ehealth.ch 
+
+Artikel 1 
+
+Entwurf Bundesrat 
+
+Änderungsvorschlag 
+
+Begründung 
+
+2 Es hat zum Zweck: 
+a. die sichere Identifizierung mittels E-ID unter Privaten und mit 
+Behörden zu gewährleisten; 
+b. den Schutz der Persönlichkeit und der Grundrechte von Personen zu 
+gewährleisten, über die im Zusammenhang mit der Verwendung der E-
+ID Daten bearbeitet werden, insbesondere durch die Umsetzung der 
+folgenden Grundsätze: 
+
+1. Datenschutz durch Technik, 
+2. Datensicherheit, 
+3. Datensparsamkeit, und 
+4. dezentrale Datenspeicherung; 
+
+c. zu gewährleisten, dass die E-ID und die Vertrauensinfrastruktur dem 
+aktuellen Stand der Technik entsprechen; 
+d. die Standardisierung der E-ID sowie die Sicherheit der Infrastruktur 
+und der Ausstellung und Überprüfung der elektronischen Nachweise zu 
+gewährleisten, ohne die technische Entwicklung unnötig 
+einzuschränken. 
+
+… 
+b. den Schutz der Persönlichkeit und der Grundrechte von Personen zu 
+gewährleisten, über die im Zusammenhang mit der Verwendung der E-
+ID Daten bearbeitet werden, insbesondere durch die Umsetzung der 
+folgenden Grundsätze: 
+
+1. Datenschutz durch Technik, 
+2. Datenschutz durch datenschutzfreundliche Voreinstellungen 
+3. Datensicherheit, 
+4. Datensparsamkeit, und 
+5. dezentrale Datenspeicherung; 
+
+… 
+
+Das revidierte Datenschutzgesetz verankert die Prinzipien «Privacy by 
+Design» (Datenschutz durch Technik) sowie «Privacy by Default» 
+(Datenschutz durch datenschutzfreundliche Voreinstellungen). Im E-ID-
+Gesetz wird nur das Prinzip «Datenschutz durch Technik» explizit 
+erwähnt. Aus unserer Sicht ist ebenfalls der «Datenschutz durch 
+datenschutzfreundliche Voreinstellungen» aufzunehmen. Somit kann 
+sichergestellt werden, dass beispielsweise die Voreinstellungen von 
+Apps, die digitale Nachweise speichern, auf das nötige Mindestmass 
+beschränkt werden. 
+
+Art. 8 Anlaufstellen der Kantone 
+
+Entwurf Bundesrat 
+
+Die Kantone bezeichnen die Stellen, die in Zusammenhang mit der 
+Ausstellung und dem Einsatz der E-ID Unterstützung anbieten. 
+
+Änderungsvorschlag 
+
+Die Kantone bezeichnen die öffentlichen oder privaten Stellen, die in 
+Zusammenhang mit der Ausstellung und dem Einsatz der E-ID 
+Unterstützung anbieten. 
+
+Begründung 
+
+Der Gesetzesartikel ist so zu präzisieren, dass die Kantone öffentliche 
+und private Stellen für die Unterstützung bezeichnen können. 
+
+2 
+
+Art. 14 Form und Aufbewahrung von elektronischen Nachweisen 
+
+Entwurf Bundesrat 
+
+Änderungsvorschlag 
+
+Begründung 
+
+Die Inhaberin oder der Inhaber erhält den elektronischen Nachweis als 
+Datenpaket und bewahrt ihn mithilfe selbst gewählter technischer Mittel 
+unter ihrer oder seiner alleinigen Kontrolle auf. 
+
+Die Inhaberin oder der Inhaber erhält den elektronischen Nachweis als 
+Datenpaket und bewahrt ihn mithilfe selbst gewählter, den Vorgaben des 
+Bundes entsprechenden technischer Mittel unter ihrer oder seiner 
+alleinigen Kontrolle auf.  
+
+Die technischen Mittel sollen frei gewählt werden können, sofern diese 
+Voraussetzungen erfüllen, die der Bundesrat auf Stufe Verordnung zu 
+definieren hat. So muss beispielsweise sichergestellt sein, dass das 
+Datenpaket nicht von unbefugten Dritten eingesehen oder kopiert 
+werden kann. 
+
+Art. 16 Abs 3 Vorweisen von elektronischen Nachweisen 
+
+Entwurf Bundesrat 
+
+Änderungsvorschlag 
+
+Begründung 
+
+3 Die Betreiberin der Systeme nach dem 5. Abschnitt hat keine Kenntnis 
+des Inhalts der vorgewiesenen elektronischen Nachweise und kann 
+möglichst keine Rückschlüsse über deren Verwendung und die 
+Beteiligten ziehen. 
+
+3 Die Betreiberin der Systeme nach dem 5. Abschnitt hat keine Kenntnis 
+des Inhalts der vorgewiesenen elektronischen Nachweise und kann 
+möglichst darf keine Rückschlüsse über deren Verwendung und die 
+Beteiligten ziehen können. 
+
+Die E-ID muss technisch so ausgestaltet sein, dass keine Rückschlüsse 
+möglich sind. Ansonsten würde das das Prinzip «privacy by default» 
+verletzt. 
+
+Art. 17 Basisregister 
+
+Entwurf Bundesrat 
+
+3 Die Ausstellerinnen und Verifikatorinnen tragen ihre Daten in das 
+Basisregister ein. 
+
+Änderungsvorschlag 
+
+3 Der Bundesrat regelt, welche Daten die Austellerinnen und 
+Verifikatorinnen in das Basisregister einstellen dürfen. 
+
+Begründung 
+
+Gemäss dem Artikel müssen Ausstellerinnen und Verifikatorinnen ihre 
+Daten in das Basisregister eintragen. Eine Eintragung ohne vorgängige 
+Prüfung durch die entsprechende Stelle des Bundes öffnet dem 
+Identitätsdiebstahl Tür und Tor. Es dürfte dem Vertrauen in das 
+Basisregister schaden, wenn Einträge von Ausstellerinnen und 
+Verifikatorinnen widerrufen werden müssen. Es ist eine Delegationsnorm 
+zu schaffen, damit der Prozess der Überprüfung auf Verordnungsstufe 
+präzisiert werden kann.  
+
+ 
+
+ 
+
+ 
+
+3 
+
+Art. 18 System zur Bestätigung von Identifikatoren 
+
+Entwurf Bundesrat 
+
+… 
+
+2 Der Bundesrat kann vorsehen, dass der Bund auch die Zuordnung von 
+Identifikatoren und Schlüsseln von privaten Ausstellerinnen und 
+Verifikatorinnen bestätigt. 
+
+... 
+
+Änderungsvorschlag  … 
+
+2 Der Bundesrat sieht vor kann vorsehen, dass der Bund die Zuordnung 
+von Identifikatoren und Schlüsseln von privaten Ausstellerinnen und 
+Verifikatorinnen bestätigt. 
+
+... 
+
+Begründung 
+
+Das Gesetz muss die Anbindung von markt- und sektorspezifischen 
+Nachweisen und deren Ausstellung und Überprüfung gewährleisten und 
+aktiv fördern bzw. unterstützen.  
+
+Art. 24bis (neu) Überprüfung der Vertrauensinfrastruktur 
+
+Entwurf Bundesrat 
+
+- 
+
+Ergänzungsvorschlag  Der Bundesrat stellt sicher, dass die Vertrauensinfrastruktur des Bundes 
+regelmässig von einer unabhängigen Stelle überprüft und dem aktuellen 
+Stand der Technik angepasst wird. 
+
+Begründung 
+
+Gemäss Art 24 betreibt eine Leistungserbringerin innerhalb der 
+Bundesverwaltung die Vertrauensinfrastruktur. Diese soll von einer 
+unabhängigen Stelle regelmässig überprüft und dem Stand der Technik 
+angepasst werden. Dies leistet einen Beitrag zur Sicherheit und erhöht 
+das Vertrauen der Anwenderinnen in die Infrastruktur. 
+
+ 
+Wir bedanken uns für die Prüfung und ggf. Berücksichtigung unserer Eingabe im Rahmen der 
+Erarbeitung der Botschaft des Bundesrats und des Gesetzesentwurfs, der zu Handen des Parlaments 
+verabschiedet wird. 
+
+Freundliche Grüsse 
+Im Namen des Vorstands 
+
+  
+
+Anna Winter 
+Präsidentin IG eHealth 
+
+Walter Stüdeli 
+Geschäftsführer IG eHealth 
+
+4 
+
+ 
+
+ 
+
+Bundesrätin Karin Keller-Sutter  
+Vorsteherin des Eidgenössischen Justiz- und Polizeideparte-
+ments EJPD Bundeshaus West  
+CH-3003 Bern  
+ 
+Einreichung per Mail an: rechtsinformatik@bj.admin.ch 
+ 
+ 
+ 
+ 
+ 
+ Wallisellen, 17. Oktober 2022 
+ 
+ 
+Vernehmlassung Bundesgesetz über den elektronischen Identitätsnachweis und andere 
+elektronische Nachweise (E-ID-Gesetz, BGEID) 
+ 
+ 
+
+Sehr geehrte Frau Bundesrätin  
+Sehr geehrte Damen und Herren 
+ 
+Wir danken Ihnen für die Gelegenheit, uns zum neuen Vorschlag für ein E-ID-Gesetz äus-
+sern zu können, welche wir hiermit gerne wahrnehmen. Einleitend möchten wir dem EJPD 
+für den partizipativen Prozess der Erarbeitung des BG E-ID danken, den wir als mustergültig 
+und nachahmenswert erachten. 
+ 
+Grundsätzlich sind wir der Überzeugung, dass der Vorschlag für das E-ID-Gesetz eine sehr 
+gute Basis darstellt und den Rahmen für eine Vertrauensinfrastruktur setzt, in dem eine 
+staatlich herausgegebene E-ID das Kernelement darstellt. Wir begrüssen den Paradigma-
+Wechsel im Umgang mit personenbezogenen Daten und die Schaffung eines Rechtsrah-
+mens für eine Vertrauensinfrastruktur.  
+Eine verlässliche Vertrauensinfrastruktur hat für das Gesundheitswesen und dessen Digitali-
+sierung eine zentrale Bedeutung. Wir erachten es als äusserst wichtig, dass die Vertrau-
+ensinfrastruktur offen, sicher und verlässlich gestaltet ist und diese von allen Marktteilneh-
+mern gleichermassen genutzt werden kann. Zudem sollte sie auch regelmässig von einer 
+unabhängigen Instanz überprüft werden. Die E-ID soll sich darin als zentraler Nachweis der 
+Identität von Personen verstehen und für die verschiedensten sektorspezifischen Anwen-
+dungen eingesetzt werden können. Grosse Wichtigkeit wird auch der zeitnahen Anpassung 
+der Gesetze zugeschrieben, welche die Verwendung von elektronischen Identitäten definie-
+ren. Insbesondere sollte das Bundesgesetz über das elektronische Patientendossier EPDG 
+entsprechend angepasst werden. Gemäss EPDG zertifizierte Identity Provider IDP sind per 
+Inkraftsetzung des BG E-ID von Zertifizierungspflichten des EPDGs zu entbinden. 
+ 
+ 
+ 
+
+HEALTH INFO NET AG | Seidenstrasse 4 | 8304 Wallisellen 
+info@hin.ch| www.hin.ch | HIN Call Desk 0848 830 740 
+
+ 
+
+ 
+
+Spezifisch sehen wir folgende Punkte, die im Gesetzesentwurf präzisiert werden müssen: 
+ 
+Art. 14 Form und Aufbewahrung von elektronischen Nachweisen 
+Entwurf Bundesrat 
+
+Die Inhaberin oder der Inhaber erhält den elektronischen Nach-
+weis als Datenpaket und bewahrt ihn mithilfe selbst gewählter 
+technischer Mittel unter ihrer oder seiner alleinigen Kontrolle auf. 
+
+Änderungsvorschlag  Die Inhaberin oder der Inhaber erhält den elektronischen Nach-
+weis als Datenpaket und bewahrt ihn mithilfe selbst gewählter, 
+den Vorgaben des Bundes entsprechenden technischer Mittel un-
+ter ihrer oder seiner alleinigen Kontrolle auf.  
+Die technischen Mittel sollen frei gewählt werden können, sofern 
+diese Voraussetzungen erfüllen, die der Bundesrat auf Stufe Ver-
+ordnung definieren muss. So muss beispielsweise sichergestellt 
+sein, dass das Datenpaket nicht von unbefugten Dritten eingese-
+hen oder kopiert werden kann. 
+
+Begründung 
+
+ 
+Art 15 Übertragbarkeit von elektronischen Nachweisen 
+Entwurf Bundesrat 
+
+Art. 15 Übertragbarkeit von elektronischen Nachweisen 
+1 Elektronische Nachweise können nicht einer anderen Inhaberin 
+oder einem anderen Inhaber übertragen werden. 
+… 
+
+Änderungsvorschlag  Art. 15 Übertragbarkeit von elektronischen Nachweisen 
+
+1 Elektronische Nachweise können nicht einer anderen Inhaberin 
+oder einem anderen Inhaber übertragen werden. 
+1bis (neu) Der Bundesrat sieht Ausnahmen für die Vormundschaft 
+gemäss Art. 327a ff. ZGB für Minderjährige und die umfassende 
+Beistandschaft gemäss Art. 388 ff. ZGB von Erwachsenen vor. 
+… 
+Es braucht eine Ausnahmeregelung für die Vormundschaft für 
+Minderjährige und die umfassende Beistandschaft bei Erwachse-
+nen mit einer entsprechenden Referenzierung der relevanten 
+ZGB-Artikel. 
+
+Begründung 
+
+ 
+Art. 18 System zur Bestätigung von Identifikatoren 
+Entwurf Bundesrat 
+
+… 
+2 Der Bundesrat kann vorsehen, dass der Bund auch die Zuord-
+nung von Identifikatoren und Schlüsseln von privaten Ausstelle-
+rinnen und Verifikatorinnen bestätigt. 
+... 
+Änderungsvorschlag  … 
+
+Begründung 
+
+2 Der Bundesrat sieht vor kann vorsehen, dass der Bund auch die 
+Zuordnung von Identifikatoren und Schlüsseln von privaten Aus-
+stellerinnen und Verifikatorinnen bestätigt. 
+... 
+Das Gesetz muss eine die Anbindung von markt- und sektorspezi-
+fischen Nachweisen und deren Ausstellung und Überprüfung ge-
+währleisten und aktiv fördern bzw. unterstützen.  
+
+HEALTH INFO NET AG 
+
+ 
+
+2/3 
+
+Ein konkretes Beispiel: die Erteilung von Facharzttiteln durch das 
+Schweizerische Institut für ärztliche Weiter- und Fortbildung 
+SIWF.  
+ 
+
+ 
+Art. 24bis (neu) Überprüfung der Vertrauensinfrastruktur 
+Entwurf Bundesrat 
+Änderungsvorschlag  Der Bundesrat stellt sicher, dass die Vertrauensinfrastruktur des 
+
+- 
+
+Begründung 
+
+Bundes regelmässig von einer unabhängigen Stelle überprüft und 
+dem aktuellen Stand der Technik angepasst wird. 
+Gemäss Art 24 betreibt eine Leistungserbringerin innerhalb der 
+Bundesverwaltung die Vertrauensinfrastruktur. Diese soll von ei-
+ner unabhängigen Stelle regelmässig überprüft und dem Stand 
+der Technik angepasst werden. Dies leistet einen Beitrag zur Si-
+cherheit und erhöht das Vertrauen der Anwenderinnen in die Inf-
+rastruktur. 
+
+ 
+Wir bitten den Bundesrat, Experten der Zivilgesellschaft, der Wissenschat und der Wirt-
+schaft für die Ausarbeitung der entsprechenden Verordnung und Ausführungsbestimmung 
+beizuziehen. 
+ 
+Wir sind davon überzeugt, dass mit einer speditiven Implementierung der Vertrauensinfra-
+struktur in der Schweiz der Digitalisierung in den verschiedenen Bereichen eine signifikante 
+Weiterentwicklung ermöglicht wird. 
+ 
+ 
+Freundliche Grüsse 
+ 
+HEALTH INFO NET AG 
+ 
+ 
+ 
+ 
+Lucas Schult 
+Geschäftsführer (CEO) 
+ 
+ 
+
+Peer Hostettler 
+Leiter Vertrieb 
+
+ 
+
+HEALTH INFO NET AG 
+
+ 
+
+3/3 
+
+

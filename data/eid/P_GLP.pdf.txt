@@ -1,0 +1,109 @@
+ 
+
+Grünliberale Partei Schweiz 
+Monbijoustrasse 30, 3011 Bern 
+ 
+Bundesamt für Justiz 
+Bundesrain 20 
+CH-3003 Bern 
+ 
+Per E-Mail an: rechtsinformatik@bj.admin.ch  
+ 
+20. Oktober 2022 
+Ihr Kontakt: Noëmi Emmenegger, Geschäftsführerin der Bundeshausfraktion, Tel. +41 31 311 33 03, E-Mail: 
+schweiz@grunliberale.ch 
+ 
+ 
+Stellungnahme der Grünliberalen zum Bundesgesetz über den elektronischen Identitäts-
+nachweis und andere elektronische Nachweise (E-ID-Gesetz, BGEID) 
+ 
+Sehr geehrte Frau Bundesrätin 
+Sehr geehrte Damen und Herren 
+ 
+Die Grünliberalen erachten die Möglichkeit für einen staatlich anerkannten elektronischen Identitäts-
+nachweis (E-ID) als wichtiges Element in der digitalen Transformation. Wir sind deshalb erfreut, dass 
+der Bund die Ausgestaltung der gesetzlichen Rahmenbedingungen für eine E-ID nach der Ablehnung 
+durch die Stimmbevölkerung rasch wiederaufgenommen hat. Das Vertrauen der Bevölkerung in die 
+E-ID ist essenziell, weshalb wir es als zwingend erachten, dass die neue Lösung die Bedürfnisse der 
+Stimmbevölkerung berücksichtigt. Dies ist mit der vorliegenden Lösung gelungen, wonach die E-ID 
+zwar auf privatwirtschaftlich entwickelten Produkten und Diensten beruhen darf, der Ausstellungs-
+prozess und der Gesamtbetrieb der Lösung aber in der Verantwortung spezialisierter Behörden er-
+folgt. Dass die E-ID auf den Grundsätzen der Privacy by Design, der Datensicherheit, der Datenspar-
+samkeit und der dezentralen Datenspeicherung beruht, unterstreicht diese Anforderungen und wird 
+von uns ausdrücklich begrüsst. Zugleich orten wir in den folgenden vier Feldern Anpassungsbedarf: 
+ 
+
+-  Datensparsamkeit: Die Datensparsamkeit ist wie erwähnt eines der Grundprinzipien, auf de-
+nen die E-ID beruht. Wir erachten sie als zentrales Element, um die Akzeptanz und Nutzung 
+der E-ID in der Bevölkerung zu stärken. Im weiteren Sinn dient die Datensparsamkeit auch der 
+Vermeidung einer Überidentifikation, die mit einer einfachen digitalen Identifikation potenziell 
+besteht. Um einer solchen Entwicklung entgegenzuwirken, fordern wir eine Präzisierung im 
+Gesetz, wonach der elektronische Nachweis als Voraussetzung für die Erbringung einer 
+Dienstleistung oder die Gewährung eines Zugangs nur insoweit gestellt wird, als sie unbedingt 
+erforderlich ist.  
+
+-  Diskriminierungsfreier Zugang: Der Zugang zur E-ID ist gemäss Vorentwurf auf jene Personen 
+
+begrenzt, die über eine Aufenthaltsbewilligung in der Schweiz verfügen. Damit werden ge-
+wisse Personen von der Nutzung einer E-ID per Gesetz ausgeschlossen. Zugleich gibt es auch 
+Personen, welche aus persönlichen Gründen oder aufgrund mangelnder technischer Kennt-
+nisse und Mittel auf eine E-ID verzichten. Der diskriminierungsfreie Zugang zu sämtlichen 
+Dienstleistungen und Zugängen muss gewährleistet werden, indem eine attraktive und zu-
+mutbare Alternative zur Übermittlung der notwendigen Informationen zur Verfügung gestellt 
+wird. 
+
+-  Sicherstellung der Barrierefreiheit: Unter Berücksichtigung der UNO-Behindertenrechtskon-
+
+vention sowie des Bundesgesetzes über die Beseitigung von Benachteiligungen von Men-
+schen mit Behinderungen (BehiG) ist das BGEID um den Grundsatz der barrierefreien Nutz-
+barkeit zu ergänzen. Die E-Accessability ist Voraussetzung dafür, dass Menschen mit Sehbe-
+einträchtigung von der Nutzung eines staatlichen elektronischen Identitätsnachweises sowie 
+einer staatlichen elektronischen Brieftasche nicht ausgeschlossen werden. 
+
+-  Ausweitung des Anwendungsbereichs: Als Ergänzung möchten wir anregen, dass die Anwen-
+dung der E-ID auf Prozesse ausgeweitet werden können soll, in denen eine Identifikation über 
+einen Pass/Ausweis nicht erforderlich ist, bspw. auf private Authentifizierungsmittel. In diesen 
+Anwendungsbereichen soll die E-ID den Nutzerinnen und Nutzern als optionale Möglichkeit 
+zur Verfügung stehen. Unter Berücksichtigung des Grundsatzes der Datensparsamkeit ist in 
+diesem Bereich eine möglichst datensparsame Ausgestaltung anzustreben. 
+
+ 
+
+Seite 1 von 2 
+
+ 
+
+ 
+Wir begrüssen, dass mit der Vorlage ein schrittweiser Ausbau der Anwendungsfälle der E-ID ermög-
+licht wird. So kann der elektronische Ausweis, der für die Identifikation und Bestätigung verschiedener 
+Merkmale verwendet werden kann, möglichst zeitnah umgesetzt werden. Für die Ausarbeitung eines 
+integrierten Ökosystems digitaler Beweise (z.B. ärztliche Rezepte, Impfbüchlein), das ebenfalls Ziel des 
+Vorhabens sein soll, steht mehr Zeit für Verfügung, was grundsätzlich sinnvoll ist. Sie muss aber zeit-
+nah angegangen werden, um das Potenzial der E-ID vollumfänglich auszuschöpfen. 
+ 
+Ebenfalls unterstützen wir die internationale Interoperabilität unserer E-ID, möchten aber darauf hin-
+weisen, dass diese künftig im Gleichschritt mit anderen Staaten, insbesondere mit der EU, weiterent-
+wickelt werden muss. 
+ 
+Wir danken Ihnen für die Gelegenheit zur Stellungnahme und die Prüfung unserer Anmerkungen. Bei 
+Fragen stehen Ihnen die Unterzeichnenden sowie unsere zuständigen Fraktionsmitglieder, Nationalrä-
+tin Judith Bellaiche und die Nationalräte Jörg Mäder und François Pointet, gerne zur Verfügung. 
+ 
+Mit freundlichen Grüssen 
+ 
+ 
+ 
+ 
+ 
+ 
+Jürg Grossen 
+Parteipräsident 
+
+Noëmi Emmenegger 
+Geschäftsführerin der Bundeshausfraktion 
+
+ 
+
+Seite 2 von 2 
+
+

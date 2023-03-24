@@ -1,0 +1,129 @@
+ 
+
+Frau Bundesrätin 
+Karin Keller-Sutter 
+Eidgenössisches Justiz- und 
+Polizeidepartement (EJPD) 
+Per E-Mail: 
+rechtsinformatik@bj.admin.ch 
+
+ 
+ 
+Stiftung für Konsumentenschutz 
+Nordring 4 
+Postfach 
+3001 Bern 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rückfragen:  
+Lucien Jucker, Leiter Datenschutz / Digitalisierung / IT 
+l.jucker@konsumentenschutz.ch  
+ 
+ 
+Bern, 18. Oktober 2022 
+ 
+Vernehmlassung zum Vorentwurf des Bundesgesetzes 
+über den elektronischen Identitätsnachweis und andere 
+elektronische Nachweise (E-ID-Gesetz, BGEID) 
+ 
+ 
+Sehr geehrte Frau Bundesrätin Keller-Sutter 
+Sehr geehrte Damen und Herren 
+ 
+ 
+Vielen Dank für die Möglichkeit, an der Vernehmlassung zum Vorentwurf des Bundesgesetzes 
+über  den  elektronischen  Identitätsnachweis  und  andere  elektronische  Nachweise  (E-ID-
+Gesetz) teilzunehmen. 
+Die Stiftung für Konsumentenschutz ist eine Nichtregierungs-Organisation, die sich seit 1964 
+für die Rechte und Interessen von Konsumentinnen und Konsumenten einsetzt.  
+ 
+Der Konsumentenschutz nimmt zum Vorentwurf des BGEID wie folgt Stellung: 
+ 
+Die Richtung des E-ID-Gesetzes und den Einbezug interessierter Kreise auf dem Weg zum 
+Vorentwurf  begrüssen  wir  sehr.  Der  offene  Austausch  über  Partizipationsmeetings  war  der 
+richtige  Weg  –  es  wäre  wünschenswert,  wenn  ein  solches  Vorgehen  auch  für  zukünftige 
+Gesetzgebungsprozesse öfters gewählt würde. 
+ 
+Die  wichtigsten  drei  Anforderungen,  die  der  Konsumentenschutz  in  der  öffentlichen 
+Konsultation geäussert hat, werden durch den Vorentwurf erfüllt. 
+Wir  freuen  uns  besonders  darüber,  dass  der  Datenschutz  durch  Technik  und  die 
+Datensparsamkeit  im  Vorentwurf  in  Art.  1  Abs.  2  lit.  b  Ziff.  1  und  3  BGEID  explizit  als 
+Gesetzeszweck aufgeführt wurden. Damit nimmt das E-ID-Gesetz Bezug zu Art. 7 des neuen 
+Datenschutzgesetzes, das im September 2023 in Kraft tritt. 
+
+ 
+
+ 
+ 
+Leider  wird  –  wie  beim  nDSG  –  auch  im  E-ID-Gesetz  zu  wenig  für  die  Einhaltung  dieser 
+Prinzipien getan: Es gibt keine Gesetzesnorm, die Verifikatorinnen unter Strafandrohung dazu 
+verpflichtet, nur die für den Zweck unbedingt erforderlichen Daten zu erheben. Folglich kann 
+ein Sammeln von nicht unbedingt erforderlichen Daten nicht sanktioniert  werden. Auch das 
+nDSG kennt keine Sanktionen für einen Verstoss gegen das Prinzip der Datensparsamkeit. 
+Das Sammeln von nicht  unbedingt erforderlichen Daten wird also weder nach BGEID noch 
+nach  nDSG  mit  rechtlichen  Konsequenzen  bewehrt.  Folglich  haben  Verifikatoren,  die  nicht 
+unbedingt erforderliche Daten verlangen, höchstens einen Reputationsschaden zu befürchten. 
+Immerhin kann nach Art. 16 BGEID letztendlich die Inhaberin der E-ID entscheiden, ob sie alle 
+angeforderten  Daten  übertragen  möchte.  De  facto  werden  die  E-ID-Inhaber  aber  –  wie  im 
+digitalen  Raum  leider  üblich  –  in  der  schwächeren,  abhängigen  Position  sein.  Die  E-ID-
+Inhaberinnen  können  nur  wählen,  ob  sie  sämtliche  Daten  übertragen  wollen,  oder  auf  die 
+Erbringung der Leistung verzichten. Aufgrund dieses Machtgefälles und weil die hinterlegten 
+Daten eine besonders hohe Qualität aufweisen, ist die Widerspruchslösung als einziges Mittel 
+gegen eine solche drohende Überidentifikation nicht ausreichend. 
+Der  Konsumentenschutz  befürchtet,  dass  einzelne  Unternehmen  die  staatlich  verifizierten 
+Daten  straflos  horten  und  für  eigene  Zwecke  missbrauchen.  Deshalb  fordert  er  eine 
+Sanktionsmöglichkeit  für  Unternehmen  und  Behörden,  die  sich  nicht  an  den  Grundsatz  der 
+Datensparsamkeit halten. 
+ 
+Das  Erstellen  einer  Wallet-App  zur  Aufbewahrung  und  Vorweisung  von  elektronischen 
+Nachweisen durch den Bund nach Art. 19 BGEID erscheint uns sinnvoll. Es erschliesst sich 
+uns  aber  nicht,  wieso  Art.  20  BGEID  keine  Pflicht  zur  Erstellung  einer  Prüfungs-App  für 
+elektronische  Nachweise  vorsieht.  Die  Voraussetzung,  dass  der  Bevölkerung  ermöglicht 
+werden soll, die Authentizität einer E-ID zu überprüfen, hat der Konsumentenschutz bereits in 
+der öffentlichen Konsultation geäussert. Dafür ist eine Prüfungs-App unerlässlich, weshalb der 
+Bund eine solche App zur Verfügung stellen muss. Falls die Integration einer Prüffunktion in 
+der Wallet-App technisch möglich ist, wäre das einer Lösung mit zwei unterschiedlichen Apps 
+vorzuziehen. 
+ 
+ 
+Wir danken Ihnen für die Kenntnisnahme unserer Antwort und stehen Ihnen bei Rückfragen 
+gerne zur Verfügung.  
+ 
+Freundliche Grüsse 
+ 
+
+  
+
+Sig. Sara Stalder 
+Geschäftsleiterin 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+Sig. Lucien Jucker 
+Leiter Datenschutz / 
+Digitalisierung / IT  
+
+

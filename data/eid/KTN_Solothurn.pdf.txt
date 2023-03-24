@@ -1,0 +1,128 @@
+Regierungsrat 
+
+Rathaus 
+Barfüssergasse 24 
+4509 Solothurn 
+so.eh 
+
+'II_!;' K A N r O
+
+N so I o t h ur n 
+
+Eidg. Justiz- und 
+Polizeidepartement EJPD 
+Bundesamt für Justiz 
+Bundesrain 20 
+3003 Bern 
+
+per Mail an: 
+rechtsinformatik@bj.admin.ch 
+
+27. September 2022 
+
+Vernehmlassung zum Vorentwurf des Bundesgesetzes über den elektronischen 
+Identitätsnachweis und andere elektronische Nachweise (E-ID-Gesetz, BGEID) 
+
+Sehr geehrte Damen und Herren 
+
+Wir nehmen Bezug auf Ihr Schreiben vom 29. Juni 2022 in oben genannter Angelegenheit, 
+danken Ihnen für die Gelegenheit zur Stellungnahme und äussern uns dazu gernewie folgt: 
+Grundsätzl ich es 
+Wir unterstützen eine staatlich geregelte E-ID für den medienbruchfreien Zugang zu 
+Behördengeschäften als grundlegende Voraussetzung und sehen die Eröffnung der 
+Vernehmlassung des Vorentwurfs für das Bundesgesetz über den elektronischen 
+Identitätsnachweis und andere elektronische Nachweise (E-ID-Gesetz, BGEID) als wichtigen 
+Meilenstein in der Entwicklung zu einer digitaleren Gesellschaft in der Schweiz. 
+Für den Erfolg der E-ID ist unserer Ansicht nach von besonderer Wichtigkeit, dass Nutzerinnen 
+und Nutzern der zukünftigen staatlichen E-ID die grösstmögliche Kontrolle über ihre dezentral 
+gespeicherten Daten haben und die E-ID nach den «Seif-Sovereign ldentity» und «Privacy by 
+Design» Prinzipien umgesetzt wird. 
+Wir begrüssen es, wenn die zukünftige E-ID auf einer staatlich betriebenen Infrastruktur 
+aufgebaut und betrieben wird, welche staatlichen und privaten Akteuren für die Ausstellung 
+unterschiedlicher digitaler Nachweise standardisiert zur Verfügung steht.  In diesem Kontext wird 
+es wichtig sein, den Nutzerinnen und Nutzern ein bestmögliches Nutzererlebnis mit adäquaten 
+Begleit- und Hilfestellungsmassnahmen während allen Prozessphasen der E-ID-Anwendung zu 
+gewährleisten. 
+E-ID im Kontext des elektronischen Patientendossiers EPD 
+Ein zentraler Aspekt ist, dass die E-ID die Einführung und Ausbreitung des elektronischen 
+Patientendossiers (EPD) unterstützt, einfach anwendbar ist und keine neuen Hürden entstehen 
+lässt.  Die Ausgestaltung der staatlichen E-ID als Seif-Sovereign ldentity lässt befürchten, dass für 
+die EPD-Nutzung zusätzlich zur E-ID-Eröffnung noch ergänzende Informationen zur EPD 
+Inhaberin/zum EPD Inhaber erhoben werden müssen. Ein zweistufiger Eröffnungsprozess, unter 
+Umständen an zwei verschiedenen Stellen, wird die Ausbreitung des EPD nicht unterstützen und 
+ist deshalb zu vermeiden. 
+Des Weiteren sollte die Verwendung der E-ID kostengünstiger sein, als die gegenwärtig für das 
+EPD genutzten E-IDs. Dies ist unseres Erachtens entscheidend für den Erfolg des EPD und wichtig 
+
+8 
+
+0 
+
+für weitere gesundheitsbezogene Dienstleistungen, wie beispielsweise den Zugriff von 
+Gesundheitsfachpersonen auf Gesundheitsdaten ihrer Patientinnen und Patienten.  Es ist davon 
+auszugehen, dass die Stammgemeinschaften gemäss Bundesgesetz über das elektronische 
+Patientendossier vom 19. Juni 2015 (EPDG; SR 816.1) als Anbieterinnen einer Dienstleistung mit 
+E-ID-Zugang zu Ausstellerinnen resp. Verifikatorinnen werden und gemäss dem vorliegenden 
+Gesetzesentwurf Gebühren an den Bund entrichten müssen. Abhängig von deren Höhe kann 
+dies zu finanziellen Problemen für das  EPD führen. Deshalb ist eine Möglichkeit zu schaffen, dass 
+bundesgesetzlich begründete Dienstleistungen, zu welchen auch das EPD zählt, von solchen 
+Gebühren ausgenommen werden. 
+Bemerkungen zu einzelnen Bestimmungen 
+Zu Art. 8 (Anlaufstellen der Kantone) 
+Der Kanton Solothurn wird eine entsprechende Anlaufstelle für den First-Level-Support 
+bezeichnen müssen. Derzeit scheint noch nicht klar zu sein, welche Stelle diese Aufgabe 
+übernimmt.  Ebenso ist noch unklar, mit welchen personellen und finanziellen Folgen dies 
+verbunden ist. 
+Zu Art. 16 Abs. 3 (Vorweisen von elektronischen Nachweisen) 
+Die Regelung ist eine Ausprägung des Grundsatzes «Datenschutz durch Technik» (Art.  1  Abs. 2 
+Bst.  b Ziff.  1). Unüblich ist in diesem Zusammenhang aber die Einschränkung durch das Wort 
+«möglichst». Dieses ist wegzulassen und das System so zu erstellen, dass keine Rückschlüsse 
+möglich sind. 
+Art. 17 Abs. 2 Buchstabe b Ziffer 1  (Basisregister) 
+Hier scheint das Wort «daraufhin» überflüssig zu sein, bzw.  bleibt unklar, auf was sich dieses 
+Wort bezieht. 
+Zu Art. 19 und Art. 20 (Anwendung zur Aufbewahrung und Vorweisung von 
+elektronischen Nachweisen; Anwendung zur Prüfung von elektronischen Nachweisen) 
+Art.  19 und Art. 20 erwähnen, dass der Bund je eine Anwendung zur Verfügung stellt, mittels 
+derer elektronische Nachweise aufbewahrt und vorgewiesen werden können, bzw. die 
+Gültigkeit der elektronischen Identifikation geprüft werden kann. Es erscheint uns wichtig, dass 
+diese Anwendungen auf lokalen und mobilen Endgeräten installiert werden können und 
+entsprechende Support-Prozesse für die Handhabung und bei Nicht-Funktionieren vorhanden 
+sind. 
+Art. 21 (System für Sicherungskopien) 
+Es ist darauf zu achten, dass eine einheitliche Terminologie verwendet wird. In der 
+Sachüberschrift wird von «Sicherungskopien» gesprochen, in den Absätzen 1  und 2 dann aber 
+von «Sicherheitskopien». 
+Art. 24 (Betrieb der Vertrauensinfrastruktur) 
+«Elemente» scheint hier nicht der passende Begriff zu sein. Gemeint sein dürften am ehesten die 
+«Grundlagen» der Vertrauensinfrastruktur. 
+Art. 25 Abs. 2 Buchstabe b (Technische Entwicklung) 
+Nicht abgedeckt ist der Fall, dass das Volk die Gesetzesbestimmung in einem Referendum 
+ablehnt. Dies müsste noch ergänzt werden. 
+
+Im Übrigen verweisen wir auf die Stellungnahme der Konferenz der schweizerischen 
+Datenschutzbeauftragten (Privatim), welcher wir uns anschliessen. 
+
+Gesamthaft erachten wir den vorgeschlagenen Vorentwurf als gelungene Umsetzung der 
+vorgenommenen Ziele im Zeichen des digitalen Wandels. 
+
+2/3 
+
+Wir danken Ihnen für die uns zur Verfügung gestellten Dokumentationen und für die 
+eingeräumte Gelegenheit zur Stellungnahme. 
+
+IM NAMEN DES REGIERUNGSRATES 
+
+t.ll. 
+
+Dr. Remo Ankli 
+Landammann 
+
+- J( 
+
+Andreas Eng 
+Staatsschreiber 
+
+3/3 
+
+

@@ -1,0 +1,98 @@
+Schweizerischer Verband der Telekommunikation  |  Association Suisse des Télécommunications  |  Swiss Telecommunications Association 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+Bundesrätin Karin Keller-Sutter 
+Eidgenössischen Justiz- und Polizeideparte-
+ments EJPD 
+Bundeshaus West 
+CH-3003 Bern 
+ 
+Einreichung per Mail an: 
+rechtsinformatik@bj.admin.ch 
+ 
+ 
+ 
+Per E-Mail an: tp-secretariat@bakom.admin.ch 
+ 
+Bern, 20. Oktober 2022 
+
+ 
+ 
+ 
+Stellungnahme zum Vorentwurf des E-ID-Gesetzes  
+ 
+ 
+Sehr geehrte Damen und Herren  
+ 
+
+Wir nehmen Bezug auf die am 29. Juni 2022 eröffnete Vernehmlassung zum Vorentwurf des Bundesgeset-
+zes über den elektronischen Identitätsnachweis und andere elektronische Nachweise (E-ID-Gesetz, BGEID) 
+und übermitteln Ihnen fristgerecht die Einschätzung des Schweizerischen Verbandes der Telekommunika-
+tion (asut). 
+
+Für die Telekommunikations-Branche ist die Schaffung einer funktionierenden und allgemein akzeptierten 
+E-ID ein Anliegen höchster Priorität. Ebenso begrüssen wir den richtungsweisenden Ansatz, mittels eines 
+datensparsamen Konzepts wie "Self Sovereign Identity" (SSI) ein eigentliches Vertrauensökosystem für di-
+gitale Nachweise aller Art zu etablieren. 
+
+Denn  eine solche Basisinfrastruktur bietet Gewähr für eine digitale Landschaft, auf deren Grundlage sich 
+bereits bestehende Anwendungen überhaupt erst in der Breite etablieren und neue digitale Angebote ge-
+deihen können. 
+
+Neben der technologieneutralen Regulierung sehen wir eine zeitnahe praktische Umsetzung als zentralen 
+Erfolgsfaktor des Vorhabens.  
+
+Damit die Digitalisierung der Schweiz keine weitere Verzögerung erleidet, möchten wir daher eine überlap-
+pende Vorgehensweise zwischen Rechtsetzung und technischer Umsetzung anregen, sodass der Aufbau 
+des Vertrauensökosystems ab Inkrafttreten des vorliegenden Gesetzes starten kann. Mit Blick auf den ho-
+hen volkswirtschaftlichen Nutzen sowie die breit abgestützte, politische Akzeptanz des vorliegenden Vorha-
+bens erscheint uns dieses gerechtfertigt. 
+
+Schliesslich muss der inklusive Charakter des Vorhabens auch konsequent in die Praxis überführt werden, 
+so dass die für die Etablierung und Aufrechterhaltung des Ökosystems notwendigen Anreize an alle Akteure 
+gesetzt und erhalten werden können. 
+
+Wir  danken  Ihnen  für  den  Entwurf,  den  wir  im  vorstehenden  Sinne  begrüssen.  Für  die  Berücksichtigung 
+unserer Punkte danken wir Ihnen im Voraus. 
+
+ 
+Freundliche Grüsse 
+asut – Schweizerischer Verband der Telekommunikation 
+
+Peter Grütter, Präsident  
+
+ 
+
+ 
+ 
+
+asut 
+Schweizerischer Verband der Telekommunikation 
+Hirschengraben 8 
+3011 Bern 
+
+ 
++41 (0)31 560 66 66 
+info@asut.ch 
+www.asut.ch 
+
+@asut_ch 
+
+

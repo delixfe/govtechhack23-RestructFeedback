@@ -1,0 +1,1171 @@
+Frau Bundesrätin 
+
+Karin Keller-Sutter 
+
+Eidgenössisches Justiz- und Polizeidepartement (EJPD) 
+
+Bundeshaus West  
+
+3003 Bern 
+
+Per Mail zugestellt an: rechtsinformatik@bj.admin.ch 
+
+Basel, 20. Oktober 2022 
+
+RHE / NGR I +41 58 330 62 51 
+
+Stellungnahme zum Vorentwurf des Bundesgesetzes über den elektronischen Identitätsnachweis 
+
+und andere elektronische Nachweise (VE-E-ID-Gesetz, VE-BGEID) 
+
+Sehr geehrte Frau Bundesrätin, 
+
+sehr geehrte Damen und Herren 
+
+Wir beziehen uns auf die am 29. Juni 2022 eröffnete Vernehmlassung des Eidgenössischen Justiz- und Poli-
+
+zeidepartements zum Vorentwurf des Bundesgesetzes über den elektronischen Identitätsnachweis und an-
+
+dere elektronische Nachweise (VE-E-ID-Gesetz, VE-BGEID).  
+
+Wir bedanken uns bestens für die Konsultation in dieser für die Finanzbranche wichtigen Vernehmlassung. 
+
+Gerne nehmen wir die Gelegenheit zur Stellungnahme wahr und unterbreiten Ihnen nachfolgend unsere An-
+
+liegen.  
+
+Die aus unserer Sicht wichtigsten Anliegen lauten wie folgt: 
+
+  Der VE-BGEID muss als Rahmengesetz die wichtigsten Regulierungsgrundsätze enthal-
+
+ten, die eine allgemeine Tragweite haben und technologieneutral ausgestaltet sind. Von 
+
+entscheidender Bedeutung sind die Ausführungsbestimmungen, die in der Verordnung 
+
+enthalten sein werden. Bei der Erarbeitung derselben sind angesichts der Komplexität der 
+
+Materie Experten aus der Privatwirtschaft und Wissenschaft beizuziehen. 
+
+  Die rechtlichen Grundlagen sollten schnell und pragmatisch in die Praxis umgesetzt 
+
+werden, damit die Schweiz in diesem Bereich nicht (noch weiter) ins Hintertreffen gerät. 
+
+  Die Konsistenz mit anderen Gesetzen, welche eine Identifizierung vorsehen, muss si-
+
+chergestellt werden, namentlich im Bereich des Bundesgesetzes über die Bekämpfung der 
+
+Geldwäscherei und der Terrorismusfinanzierung (Geldwäschereigesetz, GwG) und im Be-
+
+reich der digitalen Signaturen gemäss Bundesgesetz über die elektronische Signatur (Zer-
+
+tES). 
+
+Schweizerische Bankiervereinigung 
+Association suisse des banquiers 
+Associazione Svizzera dei Banchieri 
+Swiss Bankers Association 
+
+Aeschenplatz 7 
+Postfach 4182 
+CH-4002 Basel 
+
+office@sba.ch 
+www.swissbanking.ch 
+
+1 
+
+ 
+
+ 
+
+  Die internationale Interoperabilität und Anerkennung vergleichbarer ausländischer E-ID 
+
+in der Schweiz und vice versa soll sichergestellt werden. 
+
+  Allfällige Vertretungsrechte von natürlichen Personen an juristischen Personen soll-
+
+ten auf der E-ID der natürlichen Person abgebildet werden. 
+
+ 
+
+A.  Grundsätzliche Bemerkungen 
+
+Die Schaffung einer E-ID mit der vorgesehenen, umfassenden staatlichen Vertrauensinfrastruktur und 
+
+der Ermöglichung, dass Akteure sowohl des öffentlichen als auch des privaten Sektors die E-ID bzw. 
+
+weitere elektronische Nachweise verwenden bzw. ausstellen können, ist sehr zu begrüssen.  
+
+Wichtig ist aus unserer Sicht eine schnelle und pragmatische Umsetzung der rechtlichen Grundlagen in 
+
+die Praxis, damit die Schweiz in diesem Bereich nicht (noch weiter) ins Hintertreffen gerät. Zudem sollte die 
+
+neue E-ID bei den Benutzerinnen und Benutzern rasch zum Standard werden. Deren Verwendung muss 
+
+daher leicht zugänglich und verständlich, zuverlässig und weit verbreitet sein. 
+
+Während wir die Vorlage im Wesentlichen unterstützen, möchten wir dennoch einzelne Verbesserungsvor-
+
+schläge anbringen. Diese betreffen folgende Bereiche: 
+
+  Förderung der E-ID und der Entwicklung neuer Geschäftsmodelle: Ein staatlich anerkannter elektroni-
+
+scher Nachweis ist auch ein wichtiger Baustein von innovativen Geschäftsmodellen, namentlich von sol-
+
+chen, die von privatwirtschaftlichen Akteuren entwickelt werden. In diesem Sinne sollte die aktive Förde-
+
+rung der Akzeptanz und Weiterentwicklung der E-ID als Zweckbestimmung im Gesetz festgehalten werden 
+
+(siehe nachfolgend Ziffer B.1). 
+
+  Abbildung von Vertretungsrechten an juristischen Personen: Auch wenn die E-ID richtigerweise nur 
+
+für natürliche Personen konzipiert ist, müsste es aus unserer Sicht dennoch möglich sein, auch allfällige 
+
+Vertretungsrechte dieser natürlichen Personen an juristischen Personen auf der E-ID (der natürlichen Per-
+
+son) abzubilden, allenfalls durch eine Verbindung des Basisregisters mit dem Handelsregister und/oder 
+
+dem SHAB (siehe nachfolgend Ziffer B.2). 
+
+  Gültigkeitsdauer der E-ID: Die Gültigkeitsdauer der E-ID darf jene des Identitäts- oder Legitimationsdoku-
+
+ments, welches im Rahmen der Ausstellung der E-ID verwendet wurde, nicht überschreiten. Zudem sollte 
+
+die zeitliche Kontinuität der Gültigkeit einer E-ID gewährleistet werden, d.h. ein zu einem bestimmten Zeit-
+
+punkt überprüfter und zertifizierter Ausweis soll beispielsweise auch 10 Jahre später als überprüft und zer-
+
+tifiziert gelten (siehe nachfolgend Ziffer B.3).  
+
+  Internationale Interoperabilität: Vergleichbare ausländische E-ID sollten in der Schweiz explizit aner-
+
+kannt werden. In einer international verwobenen Wirtschaft ist es unabdingbar, dass die Prozesse auch in 
+
+diesem Bereich durch technische Lösungen vereinfacht werden (siehe nachfolgend Ziffer B.4). 
+
+  Datenschutz und Datensicherheit: Dem Datenschutz sollte insbesondere in Bezug auf die Aufbewah-
+
+rungsfristen noch mehr Rechnung getragen werden. Die vorgeschlagenen Fristen erachten wir als zu 
+
+lange (siehe nachfolgend Ziffer B.5)
+
+ 
+Schweizerische Bankiervereinigung 
+Association suisse des banquiers 
+Associazione Svizzera dei Banchieri 
+Swiss Bankers Association 
+
+ 
+
+Aeschenplatz 7 
+Postfach 4182 
+CH-4002 Basel 
+
+office@sba.ch 
+www.swissbanking.ch 
+
+2 
+
+ 
+
+ 
+
+  Vorweisen von elektronischen Nachweisen: Es sollte festgehalten werden, dass der Aussteller weder 
+
+einen Nachweis noch spezifische Daten für die Validierung aufbewahren darf. Zudem eröffnet der Wortlaut 
+
+der Vorschrift der Betreiberin der Systeme über den gewählten Begriff «möglichst» die Möglichkeit, einen 
+
+Rückschluss zur Verwendung des elektronischen Nachweises ziehen zu können (siehe nachfolgend Ziffer 
+
+B.6). 
+
+  Rechtssicherheit und Verantwortlichkeit: Die Folgen des Missbrauchs der E-ID sowie weiterer elektro-
+
+nischer Nachweise sind im Gesetz nur marginal geregelt. Vor diesem Hintergrund schlagen wir vor, im Ge-
+
+setz eine Haftungsnorm aufzunehmen. Zudem soll auch über die privaten Identifikatoren und Nachweise 
+
+eine gewisse Kontrolle bestehen, weshalb dies im Gesetz besser reflektiert werden sollte (siehe nachfol-
+
+gend Ziffer B.7). 
+
+  Konsequente Umsetzung der Technologieneutralität: Zukünftige Entwicklungen sollten weder vorweg-
+
+genommen noch durch ein zu eng formuliertes Gesetz verhindert werden. Wir sehen diesbezüglich verein-
+
+zelt noch Verbesserungspotenzial (siehe nachfolgend Ziffer B.8). 
+
+  Weitere Verbesserungsvorschläge: Wir schlagen Ergänzungen zu Form und Inhalt, Akzeptanz und Vor-
+
+weisung einer E-ID sowie der Ausstellung anderer elektronischer Nachweise, der Nutzung von elektroni-
+
+schen Nachweisen und der Verbesserung in Bezug auf die Vertrauensinfrastruktur vor (siehe nachfolgend 
+
+Ziffer B.9). 
+
+  Änderung weiterer Erlasse (siehe nachfolgend Ziffer B.10). 
+
+  Verwendung der E-ID im Finanzsektor: Die Schaffung der E-ID kann im Finanzbereich (vor allem beim 
+
+Onboarding) viel Effizienz schaffen. Entsprechend sollten bereits mit dem BGEID die entsprechenden 
+
+expliziten rechtlichen Grundlagen im Bundesgesetz über die Bekämpfung der Geldwäscherei und der 
+
+Terrorismusfinanzierung (Geldwäschereigesetz, GwG) geschaffen werden. 
+
+  Abstimmung mit dem Bundesgesetz über Zertifizierungsdienste im Bereich der elektronischen 
+
+Signatur und anderer Anwendungen digitaler Zertifikate (Bundesgesetz über die elektronische Sig-
+
+natur, ZertES): Die Voraussetzungen zur Erlangung einer E-ID und einer qualifizierten elektronischen 
+
+Signatur (QES) müssen aufeinander abgestimmt werden. Die Identifizierung mit der E-ID muss der Iden-
+
+tifikation durch persönliches Erscheinen gleichgestellt sein. 
+
+  Periodische Überprüfung: Der Sicherheitsaspekt, insbesondere im Bereich der Cybersicherheit, muss 
+
+selbstverständlich eine kontinuierliche Priorität bleiben. Dies nicht nur bei der Einführung der elektroni-
+
+schen Identität, sondern auch während ihrer gesamten Anwendung. Die angewandten Standards müssen 
+
+regelmässig überprüft werden, um einen hohen Schutz der Privatsphäre und eine hohe Widerstandsfähig-
+
+keit gegen Cyberangriffe zu gewährleisten (siehe nachfolgend Ziffer B.11). 
+
+Wir erlauben uns schliesslich den Hinweis, dass der VE-BGEID ein Rahmengesetz ist, das die wichtigsten 
+
+Regulierungsgrundsätze im Zusammenhang mit der elektronischen Identität enthalten muss. Diese haben 
+
+daher eine allgemeine Tragweite und müssen technologieneutral sein. Von noch grösserer Bedeutung 
+
+sind hingegen die Ausführungsbestimmungen, die in der Verordnung enthalten sein werden. Bei der Erar-
+
+beitung derselben sind angesichts der Komplexität der Materie Experten aus der Privatwirtschaft und 
+
+Wissenschaft beizuziehen (siehe nachfolgend Ziffer B.12).
+
+ 
+Schweizerische Bankiervereinigung 
+Association suisse des banquiers 
+Associazione Svizzera dei Banchieri 
+Swiss Bankers Association 
+
+ 
+
+Aeschenplatz 7 
+Postfach 4182 
+CH-4002 Basel 
+
+office@sba.ch 
+www.swissbanking.ch 
+
+3 
+
+ 
+
+ 
+
+B. 
+
+Im Einzelnen  
+
+1.  Förderung der E-ID und der Entwicklung neuer Geschäftsmodelle  
+
+Damit eine staatlich anerkannte elektronische Identität rasch in der Breite angewandt wird, muss sie einfach 
+
+erhältlich sowie weit verbreitet und akzeptiert sein. Die aktive Förderung der Akzeptanz und Weiterentwick-
+
+lung der E-ID sollte daher im Zweck des Gesetzes festgehalten werden.  
+
+Ein staatlich anerkannter elektronischer Nachweis ist auch ein wichtiger Baustein von zukünftigen innovati-
+
+ven Geschäftsmodellen, namentlich von solchen, die von privatwirtschaftlichen Akteuren entwickelt werden. 
+
+Innovative Geschäftsmodelle sollten wo immer möglich und sinnvoll weiter gefördert werden und entspre-
+
+chend als Zweckbestimmung im Gesetz festgehalten werden. Wir schlagen folgende Ergänzung im Geset-
+
+zestext vor: 
+
+Art. 1 Abs. 2 VE-BGEID 
+[…] 
+2 Es hat zum Zweck: 
+[…] 
+e. die Akzeptanz und Weiterentwicklung der E-ID sowie auf der E-ID basierende  
+    Geschäftsmodelle laufend zu fördern. 
+
+ 
+
+2.  Vertretungsrechte an juristischen Personen 
+
+Die digitale Abbildung der Vertretungsrechte für eine juristische Person entspricht einem grossen Bedürfnis 
+
+der Wirtschaft. Während eine E-ID für juristische Personen kaum zu realisieren ist, wäre es dennoch denk-
+
+bar, solche Vertretungsrechte auf der E-ID der natürlichen Personen abzubilden und entsprechend im Basis-
+
+register als Nachweis einzutragen. Vorstellbar wäre dabei, das Basisregister mit HR und SHAB zu verbin-
+
+den, damit die entsprechenden Identifikatoren im Register abgebildet werden können. Eine solche Lösung 
+
+würde den Schweizer Standort bezüglich Digitalisierung wesentlich stärken und wäre zudem auch im Inte-
+
+resse der Verbreitung der E-ID, da man diese nicht nur für private, sondern auch für kommerzielle Zwecke 
+
+einsetzen könnte. Wir schlagen daher eine Ergänzung von Art. 1 Abs. 1 VE-BGEID sowie einen neuen Art. 
+
+12bis VE-BGEID vor:  
+
+Art. 1 Abs. 1 VE-BGEID 
+1 Dieses Gesetz regelt: 
+a. den staatlichen elektronischen Identitätsnachweis natürlicher Personen (E-ID) und andere  
+     elektronische Nachweise;  
+b. die Infrastruktur zum Ausstellen, Widerrufen, Überprüfen, Aufbewahren und Vorweisen 
+  von elektronischen Nachweisen (Vertrauensinfrastruktur); 
+c. die Rollen und Verantwortlichkeiten bei der Bereitstellung und Nutzung dieser Infrastruk
+ 
+d.  den Nachweis der Vertretungsrechte an juristischen Personen.  
+
+tur. 
+
+[…]  
+
+ 
+
+ 
+Schweizerische Bankiervereinigung 
+Association suisse des banquiers 
+Associazione Svizzera dei Banchieri 
+Swiss Bankers Association 
+
+ 
+
+Aeschenplatz 7 
+Postfach 4182 
+CH-4002 Basel 
+
+office@sba.ch 
+www.swissbanking.ch 
+
+4 
+
+ 
+
+ 
+
+Art. 12bis VE-BGEID (neu) 
+Vertretungsrechte an juristischen Personen, können als Nachweise auf der E-ID geführt wer-
+den. Der Bundesrat regelt die Einzelheiten, insbesondere den dafür notwendigen Datenaus-
+tausch zwischen den Handelsregistern und dem Basisregister gemäss diesem Gesetz. 
+
+ 
+
+3.  Gültigkeitsdauer der E-ID  
+
+Es ist aus unserer Sicht sehr wichtig, dass die Gültigkeitsdauer der E-ID gemäss Art. 6 VE-BGEID die Gültig-
+
+keitsdauer des Identitäts- oder Legitimationsdokuments, das im Rahmen der Ausstellung/Erstellung der E-ID 
+
+verwendet wurde, nicht überschreiten darf. 
+
+Zudem ist sicherzustellen, dass auch die zeitliche Kontinuität der Gültigkeit einer E-ID gewährleistet werden 
+
+kann, das heisst, dass ein zu einem bestimmten Zeitpunkt überprüfter und zertifizierter Ausweis auch zum 
+
+Beispiel 10 Jahre später als überprüft und zertifiziert gilt. Es sollte eine Vorgabe bestehen, dass ein entspre-
+
+chendes technisches Verfahren vorhanden sein muss, analog zur heutigen Long Term Validation (LTV) im 
+
+Bereich der elektronischen Signaturen. 
+
+ 
+
+4. 
+
+Internationale Interoperabilität  
+
+Die Interoperabilität mit vergleichbaren ausländischen E-ID-Lösungen ist für die international stark verwo-
+
+bene Schweizer Wirtschaft wichtig. Damit könnten die ohnehin schon komplexen grenzüberschreitenden 
+
+Wirtschaftsprozesse zumindest in diesem Bereich vereinfacht werden. In Frage für eine Anerkennung kä-
+
+men dabei insbesondere die nach der eIDAS ausgestellten Identitäten in der EU. Wir schlagen daher vor, 
+
+die Anerkennung und Herstellung der Interoperabilität mit vergleichbaren ausländischen E-ID-Systemen be-
+
+reits bei der Zielsetzung des Gesetzes aufzunehmen und Art. 1 VE-BGEID entsprechend zu ergänzen. 
+
+Aus unserer Sicht käme zudem eine einseitige Anerkennung durch die Schweiz in Frage (vgl. Art. 27 VE-
+
+BGEID). Dies könnte relativ unkompliziert geschehen. Ein Staatsvertrag wäre dazu nicht notwendig. Art. 27 
+
+VE-BGEID müsste daher entsprechend erweitert und dem Bundesrat die Kompetenz einer einseitigen Aner-
+
+kennung eingeräumt werden. 
+
+Wir schlagen vor, Art. 1 Abs. 2 VE-BGEID und Art. 27 VE-BGEID (inkl. Überschrift des 7. Abschnitts) wie 
+
+folgt zu ergänzen resp. anzupassen:  
+
+Art. 1 Abs. 2 VE-BGEID 
+[…] 
+2 Es hat zum Zweck: 
+[…] 
+f.  Interoperabilität und Anerkennung mit vergleichbaren ausländischen Identitätsnachweisen 
+    sicherzustellen.  
+ 
+
+ 
+
+ 
+Schweizerische Bankiervereinigung 
+Association suisse des banquiers 
+Associazione Svizzera dei Banchieri 
+Swiss Bankers Association 
+
+ 
+
+Aeschenplatz 7 
+Postfach 4182 
+CH-4002 Basel 
+
+office@sba.ch 
+www.swissbanking.ch 
+
+5 
+
+ 
+
+ 
+
+7. Abschnitt: Internationale AbkommenAnerkennung 
+
+Art. 27 VE-BGEID 
+[…] 
+3 Der Bundesrat kann vergleichbare ausländische E-ID anerkennen. 
+ 
+
+ 
+
+5.  Datenschutz und Datensicherheit  
+
+ 
+
+5.1 Widerruf einer E-ID und anderer elektronischer Nachweise  
+
+Der Widerruf einer E-ID (nach Art. 5 VE-BGEID) und anderer elektronischer Nachweise (Art. 13 VE-BGEID) 
+
+sollte auch bei einer betrügerischen Erlangung der E-ID resp. des elektronischen Nachweises und nicht nur 
+
+bei Missbrauch der E-ID resp. des elektronischen Nachweises möglich sein. Eine betrügerisch erlangte E-ID 
+
+ebenso wie deren Missbrauch rechtfertigen auf jeden Fall deren Widerruf. Art. 5 und Art. 13 VE-BGEID sind 
+
+daher wie folgt zu ergänzen:  
+
+Art. 5 lit. f VE-BGEID 
+[…] 
+f.   der begründete Verdacht besteht, dass die E-ID betrügerisch erlangt wurde.  
+
+ 
+
+ 
+
+Art. 13 Abs. 2 lit. d VE-BGEID 
+[…] 
+d. der begründete Verdacht besteht, dass der elektronische Nachweis betrügerisch erlangt 
+    wurde.  
+
+5.2 Sorgfaltspflichten  
+
+Im dezentralen System kommt den Sorgfaltspflichten der Inhaberinnen und Inhaber besondere Bedeutung 
+
+zu. Sie sind damit selber verantwortlich für die Sicherheit der E-ID-Träger und der darauf gespeicherten Da-
+
+ten, gerade weil diese dezentral, d.h. bei der Nutzerin oder beim Nutzer gespeichert werden. Entsprechend 
+
+müssten diese Pflichten der Inhaberinnen und Inhaber genauer definiert werden. Diese müssen genau wis-
+
+sen, welche Sorgfaltspflichten sie treffen. Wir schlagen daher folgende Ergänzung von Art. 7 Abs. 1 VE-
+
+BGEID vor: 
+
+Art. 7 VE-BGEID  
+1 Die Inhaberin oder der Inhaber einer E-ID muss die notwendigen und zumutbaren Mass- 
+  nahmen treffen, damit ihre oder seine E-ID nicht missbräuchlich verwendet werden kann. 
+  Der Bundesrat regelt die notwendigen Massnahmen, welche die E-ID Träger ausreichend 
+  schützen. 
+
+ 
+
+ 
+Schweizerische Bankiervereinigung 
+Association suisse des banquiers 
+Associazione Svizzera dei Banchieri 
+Swiss Bankers Association 
+
+ 
+
+Aeschenplatz 7 
+Postfach 4182 
+CH-4002 Basel 
+
+office@sba.ch 
+www.swissbanking.ch 
+
+6 
+
+ 
+
+ 
+
+5.3 Aufbewahrungsfristen  
+
+Gemäss Art. 11 Abs. 5 BGEID obliegt dem Bund die Kompetenz zur Regelung der Aufbewahrungsfrist der 
+
+E-ID. Eine solche Aufbewahrung soll gemäss BGEID höchstens bis fünf Jahre nach Ablauf oder Widerruf der 
+
+E-ID gestattet sein. Laut Erläuterungsbericht (vgl. Seite 11) verfolgt die Datenaufbewahrung den Zweck, «all-
+
+fällige Fälle von Missbrauch untersuchen zu können».  
+
+Erklärungsbedürftig erscheint uns, weshalb die Daten noch weitere fünf Jahre nach Ablauf der E-ID aufbe-
+
+wahrt werden sollen, wenn der ursprüngliche Zweck bereits erloschen ist. Auch erscheint uns eine Aufbe-
+
+wahrungsfrist von 5 Jahren grundsätzlich zu lang. Wir sehen keine Rechtfertigung für eine über ein Jahr 
+
+dauernde Frist. So sind beispielsweise Randdaten des Fernmeldeverkehrs durch die Anbieterinnen von 
+
+Fernmeldediensten während 6 Monaten aufzubewahren (siehe Art. 26 Abs. 5 BÜPF).  
+
+Aus unserer Sicht sollte die Datenerhebung Anknüpfungspunkt für den Beginn der Frist sein und nicht der 
+
+Ablauf oder der Widderruf der E-ID. Nur Daten, die zum Betrieb der E-ID notwendig sind, sollen selbstver-
+
+ständlich während der Gültigkeit der E-ID weiter aufbewahrt werden dürfen, allerdings erscheint auch hier 
+
+eine Aufbewahrung von 5 Jahren über die Gültigkeit der E-ID hinaus als unverhältnismässig, mehr als ein 
+
+Jahr ist aus unserer Sicht nicht zu rechtfertigen. 
+
+Art. 11 VE-BGEID 
+
+[…] 
+
+5 Der Bundesrat regelt die Aufbewahrungsfristen. Die Daten dürfen längstens bis fünf Jahre 
+  nach Ablauf oder Widerruf der E-ID bis ein Jahr ab deren Erhebung aufbewahrt werden, 
+  sofern sie nicht zur Nutzung der E-ID unabdingbar sind. Die zur Nutzung notwendigen  
+  Daten dürfen längstens bis ein Jahr nach Ablauf oder Widerruf der E-ID aufbewahrt  
+  werden. 
+
+ 
+
+6.  Vorweisen von elektronischen Nachweisen 
+
+Ein wichtiger Grundsatz der E-ID ist die Gewährleistung des Datenschutzes durch eine dezentrale Datenver-
+
+waltung (vgl. Art. 1 Abs. 2 lit. b Ziff. 4 VE-BGEID).  
+
+Klärungsbedürftig ist aus unserer Sicht, ob die Hinterlassung von Spuren bei der Verwendung des digitalen 
+
+Ausweises (beispielsweise beim Abschluss eines Vertrages zur Eröffnung einer Bankbeziehung oder bei der 
+
+Inanspruchnahme einer Dienstleistung) gänzlich ausgeschlossen werden kann.  
+
+Damit zusammenhängend stellt sich die Frage, ob allenfalls durch den Staat oder durch Private (z.B. Verifi-
+
+katorinnen) Daten getrackt resp. gespeichert werden. Diese Frage ist unseres Erachtens aufgrund des 
+
+Bankkundengeheimnis von zentraler Bedeutung, da es um eine Offenbarung von Daten geht. Aus dem er-
+
+läuternden Bericht ist diesbezüglich keine hinreichende Erklärung erkennbar.  
+
+Weiter ist aus unserer Sicht unklar, wie ein Aussteller einen Beweis "zertifizieren" bzw. mit seiner Datenbank 
+
+überprüfen kann, ob das Zertifikat korrekt ist, ohne Kenntnis von diesem Zertifikat zu haben. Es sollte im Ge-
+
+setz festgehalten werden, dass der Aussteller weder einen Nachweis noch spezifische Daten für die Validie-
+
+rung aufbewahren darf. Dies bedeutet aber auch, dass es nach der "Zertifizierung" schwierig sein wird, den 
+
+Beweis zu erbringen, dass der Aussteller die Daten validiert hat. 
+
+ 
+Schweizerische Bankiervereinigung 
+Association suisse des banquiers 
+Associazione Svizzera dei Banchieri 
+Swiss Bankers Association 
+
+ 
+
+Aeschenplatz 7 
+Postfach 4182 
+CH-4002 Basel 
+
+office@sba.ch 
+www.swissbanking.ch 
+
+7 
+
+ 
+
+ 
+
+Die aktuelle Formulierung in Art. 16 Abs. 3 VE-BGEID mindert unter Umständen die Beweiskraft dieser Aus-
+
+sage. Der Wortlaut der Vorschrift eröffnet der Betreiberin der Systeme über den gewählten Begriff «mög-
+
+lichst» die Möglichkeit, einen Rückschluss zur Verwendung des elektronischen Nachweises ziehen zu kön-
+
+nen. Unseres Erachtens bedarf es in diesem Zusammenhang jedoch einer klaren Verbotsnorm, die - soweit 
+
+erforderlich - mit Ausnahmetatbeständen versehen wird. Der Bundesrat soll diese regeln. Er muss prüfen, in 
+
+welchen Fällen es Ausnahmen braucht und diese auf Verordnungsstufe regeln. Grundsätzlich sind aus un-
+
+serer Sicht zwei Grundkategorien an Ausnahmefällen denkbar: Einerseits aufgrund zwingender rechtlicher 
+
+Anforderungen und andererseits in begründeten Ausnahmefällen (bspw. aus Sicherheitsgründen). Es ist 
+
+wichtig, diese Ausnahmetatbestände eng mit der Wirtschaft abzustimmen. Wir würden hierbei unterstützen. 
+
+Wir schlagen daher folgende präzisierende Formulierung vor:  
+
+Art. 16 VE-BGEID 
+1 Die Inhaberin oder der Inhaber des elektronischen Nachweises bestimmt, welche Bestand
+  teile des Nachweises oder davon abgeleiteten Informationen an die Behörde oder den  
+  Privaten, die oder der elektronische Nachweise überprüft (Verifikatorin), übermittelt  
+  werden.  
+2 Das Vorweisen und Überprüfen eines elektronischen Nachweises erfolgt ohne dass die 
+  Ausstellerin davon Kenntnis hat.  
+3 Die Betreiberin der Systeme nach dem 5. Abschnitt muss durch technische und  
+   organisatorische Massnahmen sicherstellen, dass sie weder hat keine Kenntnis zumdes  
+  Inhalts der vorgewiesenen elektronischen Nachweise erlangt, und kann möglichst keine  
+   noch Rückschlüsse über deren Verwendung und die Beteiligten ziehten.   
+
+ 
+
+7.  Rechtssicherheit und Verantwortlichkeit  
+
+Das Basisregister wird durch den Bund geführt und muss daher gewissen inhaltlichen Anforderungen genü-
+
+gen. Das gilt sowohl für die öffentlichen als auch für die privaten Identifikatoren und Nachweise, die im Re-
+
+gister enthalten sind. Wer das Basisregister nutzt, muss auf die Richtigkeit des Inhaltes vertrauen können. 
+
+Klar ist, dass der Bund selbst nicht absolute Richtigkeit garantieren kann. Er sollte allerdings einen Prüfme-
+
+chanismus einführen, um zumindest Missbräuche zu vermeiden und eine hohe Qualität des Registers zu ge-
+
+währleisten. Sofern das Vertrauen in diese Einträge öfters enttäuscht wird, wird es auch nicht benützt wer-
+
+den. Es ist daher im Interesse der Herausgeber der E-ID als auch der Nutzenden, dass die Qualität des Re-
+
+gisters stimmt. Vor diesem Hintergrund schlagen wir vor, in Art. 18 VE-BGEID anstelle einer «kann»-Formu-
+
+lierung eine Pflicht vorzusehen. 
+
+Art. 18 Abs. 2 VE-BGEID  
+1 Der Bund stellt ein System zur Verfügung, mit dem er bestätigt, dass ein im Basisregister 
+  enthaltener Identifikator und allfällige kryptografische Schlüssel einer Bundes-, Kantons-
+  oder Gemeindebehörde zugeordnet sind. 
+2 Der Bundesrat kann vorsehenregelt das Verfahren und die Voraussetzungen, wonach  
+  dass der Bund auch die Zuordnung von Identifikatoren und Schlüsseln von privaten  
+   Ausstellerinnen und Verifikatorinnen bestätigt.  
+3 Alle Behörden und Privaten können die Zuordnungen durch Abfragen im System  
+   überprüfen. 
+
+ 
+Schweizerische Bankiervereinigung 
+Association suisse des banquiers 
+Associazione Svizzera dei Banchieri 
+Swiss Bankers Association 
+
+ 
+
+Aeschenplatz 7 
+Postfach 4182 
+CH-4002 Basel 
+
+office@sba.ch 
+www.swissbanking.ch 
+
+8 
+
+ 
+
+ 
+
+Darüber hinaus muss sich die Relying Party auf die Gültigkeit der elektronischen Nachweise sowie die im 
+
+Basisregister eingetragenen Informationen verlassen können. D.h. es darf keine Haftbarkeit zu Lasten desje-
+
+nigen entstehen, der sich auf diese elektronischen Nachweise und Informationen verlässt, wenn sich später 
+
+ein Mangel manifestiert. Wenn ein Schaden entsteht, soll dafür jene Partei haften, die die inhaltlich falsche 
+
+Information eingeliefert hat. Aus Gründen der Rechts(-verkehrs)sicherheit ist dies so im Gesetz aufzuneh-
+
+men. 
+
+ 
+
+Art. 18bis Haftung VE-BGEID (neu)  
+Wenn ein Schaden entsteht, haftet dafür jene Partei, die die inhaltlich falsche Information ein-
+geliefert hat.  
+
+8.  Technologieneutralität  
+
+Gemäss Erläuternder Bericht soll die Vorlage technologieneutral ausgestaltet sein (vgl. bspw. Erläuternder 
+
+Bericht, S. 22). Dies ist allerdings nur sehr bedingt der Fall, da diese auf die kryptographische Verschlüsse-
+
+lung gestützt wird (vgl. Art. 17 VE-BGEID). Daher wird nicht berücksichtigt, dass künftig allenfalls bessere 
+
+technische Möglichkeiten bestehen als die kryptographische Verschlüsselung. Ausserdem ist dies auch vor 
+
+dem Hintergrund problematisch, dass die Ausgestaltung der E-ID dem aktuellen Stand der Technik entspre-
+
+chen soll (vgl. Art. 1 Abs. 2 Bst. c VE-BGEID; Erläuternder Bericht, S. 23). 
+
+Art. 17 VE-BGEID  
+1 Der Bund stellt ein öffentlich zugängliches Register (Basisregister) zur Verfügung, das 
+  Daten enthält über: 
+a. die Ausstellerinnen elektronischer Nachweise; 
+b. die Verifikatorinnen; 
+c. den Widerruf von elektronischen Nachweisen. 
+2 Die Daten umfassen: 
+a. die Identifikatoren der Ausstellerinnen und Verifikatorinnen; 
+b. die kryptografischen Schlüssel der Ausstellerinnen Informationen, die erforderlich sind, um 
+    1. die Authentizität und Integrität der ausgestellten elektronischen Nachweise darauf hin zu 
+    überprüfen, 
+    2. deren Identifikatoren zu überprüfen; 
+c. die kryptografischen Schlüssel der Informationen zu den Verifikatorinnen, die erforderlich 
+    sind, um deren Identifikatoren zu überprüfen; 
+d. Daten über widerrufene elektronische Nachweise; diese dürfen keine Rückschlüsse über 
+    die Inhaberin oder den Inhaber oder über den Inhalt ermöglichen. 
+3 Die Ausstellerinnen und Verifikatorinnen tragen ihre Daten in das Basisregister ein. 
+4 Das Basisregister enthält keine Daten über die einzelnen elektronischen Nachweise 
+  mit Ausnahme über deren Widerruf. 
+
+ 
+
+ 
+
+ 
+
+ 
+Schweizerische Bankiervereinigung 
+Association suisse des banquiers 
+Associazione Svizzera dei Banchieri 
+Swiss Bankers Association 
+
+ 
+
+Aeschenplatz 7 
+Postfach 4182 
+CH-4002 Basel 
+
+office@sba.ch 
+www.swissbanking.ch 
+
+9 
+
+ 
+
+ 
+
+9.  Weitere Verbesserungsvorschläge 
+
+ 
+
+9.1 E-ID und andere elektronische Nachweise  
+
+ 
+
+a)  Form und Inhalt der E-ID 
+
+Im VE-BGEID ist vom Ausstellungsdatum der E-ID die Rede (siehe Art. 2 Abs. 3 lit. c VE-BGEID). Unseres 
+
+Erachtens wird damit wohl eher das Datum der Zertifizierung der Daten gemeint sein.  
+
+Des Weiteren sollten idealerweise die nachfolgenden Daten sowohl für den physischen Ausweis als auch für 
+
+die E-ID vorhanden sein: 
+
+  Ausstellungsdatum;  
+
+  Datum des Gültigkeitsendes;  
+
+  Datum der Zertifizierung (für die E-ID; auch wenn diese später ausgestellt wird); 
+
+  Datum der Annullierung (sofern eine regelmässige automatische Aktualisierung der E-ID möglich ist). 
+
+Schliesslich bestimmt jeweils die Inhaberin oder der Inhaber die Informationen, welche er einer Privatperson, 
+
+einer juristischen Person oder einer Behörde übermitteln möchte (Art. 16 Abs. 1 VE-BGEID). Die Adresse 
+
+des Wohnsitzes könnte u.a. auch für die Aufenthalts- oder Arbeitsgenehmigung sinnvoll sein. Wir schlagen 
+
+daher vor, die Adresse des Wohnsitzes in Art. 2 Abs. 2 VE-BGEID aufzunehmen.  
+
+b)  Akzeptanz der E-ID   
+
+Der Vorentwurf des E-ID-Gesetzes hält nicht klar fest, ob die E-ID "nur" als elektronisches Identifikationsmit-
+
+tel in der virtuellen Welt ausgestaltet werden soll (als Gegenstück zu ID/Pass in der physischen Welt) oder 
+
+auch in der physischen Welt einsetzbar sein soll (E-ID als umfassendes Identifikationsmittel für physische 
+
+und virtuelle Welt; vgl. bspw. den erläuternden Bericht zu Art. 1 Abs. 2 Bst. a VE-BGEID [«Die E-ID kann auf 
+
+dem Smartphone installiert und so ebenfalls in der physischen Welt verwendet werden.», S. 7] und zu Art. 9 
+
+[«(…) die E-ID als staatliches elektronisches Identifikationsmittel zum Nachweis der eigenen Identität in der 
+
+virtuellen Welt ausgestaltet (…).» [S. 11]). Eine Verwendung der E-ID auch in der physischen Welt wäre 
+
+wünschenswert und würde nicht zuletzt auch zu deren Verbreitung beitragen. Entsprechend wäre die Pflicht 
+
+zur Akzeptanz der E-ID nicht an eine elektronische Identifizierung zu koppeln. Wir schlagen daher folgende 
+
+Anpassung von Art. 9 VE-BGEID vor: 
+
+Art. 9 VE-BGEID 
+Jede Behörde oder andere Stelle, die öffentliche Aufgaben erfüllt, muss die E-ID akzeptieren, 
+wenn sie eine elektronische Identifizierung vornimmt. 
+
+Der VE-BGEID hat namentlich den Zweck, eine «sichere Identifizierung» mittels E-ID unter Privaten und mit 
+
+Behörden zu gewährleisten (vgl. Art. 1 Abs. 2 lit. a VE-BGEID). Zudem beruht die E-ID auf Ausweisen ge-
+
+mäss AwG oder nach der Bundesgesetzgebung über Ausländerinnen und Ausländer, Integration und Asyl 
+
+(vgl. Art. 3 VE-BGEID). Es ist daher angebracht, dass überall, wo im Geschäftsverkehr eine Identifikations-
+
+pflicht besteht, diese hinsichtlich der Personenidentifizierungsdaten ohne weitere Massnahmen (wie bspw. 
+
+ein persönliches Erscheinen der betreffenden Person) mit der E-ID erfüllt werden kann. Damit wird die effizi-
+
+ente Digitalisierung von Geschäftsprozessen möglich, so zum Beispiel im Rahmen der Identifikation nach 
+
+ 
+Schweizerische Bankiervereinigung 
+Association suisse des banquiers 
+Associazione Svizzera dei Banchieri 
+Swiss Bankers Association 
+
+ 
+
+Aeschenplatz 7 
+Postfach 4182 
+CH-4002 Basel 
+
+office@sba.ch 
+www.swissbanking.ch 
+
+10 
+
+ 
+
+ 
+
+GwG. Zur Sicherstellung der Harmonisierung und da sich solche Pflichten nicht ausschliesslich aus Geset-
+
+zen ergeben, erachten wir eine generelle Auffangnorm für die Identifizierung unter Abwesenden als sinnvoll. 
+
+Art. 9bis Nachweis der Identität unter Abwesenden VE-BGEID (neu)  
+Sofern eine Pflicht zur Identifikation besteht und die Ausweise gemäss Art. 3 dieses Geset-
+zes akzeptiert werden, ist die E-ID für die Personenidentifizierungsdaten ohne weitere Mass-
+nahmen ausreichend. Insbesondere besteht keine Pflicht des persönlichen Erscheinens der 
+betreffenden Person. 
+
+c)  Vorweisen einer E-ID  
+
+Die Formulierung von Art. 10 VE-BGEID scheint uns unklar, da er insbesondere Wiederholungen enthält. Er 
+
+sollte daher vereinfacht werden.  
+
+d)  Ausstellung anderer elektronischer Nachweise  
+
+Die Ausführungen zur Nutzung der Infrastruktur zur Ausstellung von elektronischen Nachweisen gemäss 
+
+Art. 12 Abs. 1 VE-BGEID sind sehr weit gefasst. Gleichzeitig sollten neben dem Ausstellungsdatum auch 
+
+Angaben zur Validierung der Daten enthalten sein. Dementsprechend schlagen wir für Art. 12 Abs. 1 VE-
+
+BGEID folgende Ergänzungen vor: 
+
+Art. 12 VE-BGEID 
+1 Wer als staatliche Stelle oder als Teil der Privatwirtschaft elektronische Nachweise  
+  ausstellen möchte, kann die Infrastruktur nach dem 5. Abschnitt nutzen. 
+2 Diese elektronischen Nachweise müssen neben dem von der Ausstellerin festgelegten  
+  Inhalt den Identifikator der Ausstellerin, sowie das Ausstellungsdatum sowie das Datum der 
+  Validierung der Daten enthalten. 
+
+ 
+
+9.2 Nutzung von elektronischen Nachweisen  
+
+ 
+
+a)  Aufbewahrung von elektronischen Nachweisen 
+
+Art. 14 VE-BGEID sollte um den Begriff der Sicherheit ergänzt werden:  
+
+Art. 14 VE-BGEID 
+Die Inhaberin oder der Inhaber erhält den elektronischen Nachweis als Datenpaket  
+und bewahrt ihn mithilfe selbst gewählter gesicherter technischer Mittel seiner Wahl und un-
+ter ihrer oder seiner alleinigen Kontrolle auf. 
+
+ 
+
+b)  Übertragbarkeit von elektronischen Nachweisen  
+
+Es sollte möglich sein, bestimmte elektronische Beweismittel an eine andere Inhaberin oder an einen ande-
+
+ren Inhaber zu übertragen, wenn diese gesetzliche Vertreterin bzw. dieser gesetzliche Vertreter der- oder 
+
+desselben ist (Eltern, gesetzliche Vertreterin bzw. gesetzlicher Vertreter von Personen unter Beistandschaft, 
+
+eingetragene Ehepartnerin oder eingetragener Ehepartner).  
+
+ 
+Schweizerische Bankiervereinigung 
+Association suisse des banquiers 
+Associazione Svizzera dei Banchieri 
+Swiss Bankers Association 
+
+ 
+
+Aeschenplatz 7 
+Postfach 4182 
+CH-4002 Basel 
+
+office@sba.ch 
+www.swissbanking.ch 
+
+11 
+
+ 
+
+ 
+
+9.3 Verbesserungsvorschläge in Bezug auf die Vertrauensinfrastruktur 
+
+  
+
+a)  Missbrauch der Vertrauensinfrastruktur  
+
+Der Zeitpunkt, ab dem eine Nutzung missbräuchlich wird, ist nicht eindeutig festgelegt. Zudem suggeriert der 
+
+erläuternde Bericht, dass mit Missbrauchsfällen gerechnet werden muss, was unbefriedigend ist. Es geht 
+
+vielmehr darum, solche Fälle so wirksam wie möglich zu bekämpfen. Wir empfehlen daher, diesen Umstand 
+
+im Gesetzestext entsprechend zu berücksichtigen. 
+
+ 
+
+b)  Quellcode der Vertrauensinfrastruktur 
+
+Die Veröffentlichung des Quellcodes der Elemente der Vertrauensinfrastruktur im Internet ist grundsätzlich 
+
+begrüssenswert. Aus Gründen der Technologieneutralität empfehlen wir für Art. 25 VE-BGEID eine «kann»-
+
+Formulierung. 
+
+Art. 25 VE-BGEID 
+Der Bund kann veröffentlicht den Quellcode der von ihm zur Verfügung gestellten Elemente 
+der Vertrauensinfrastruktur veröffentlichen. 
+
+ 
+
+10. Änderung weiterer Erlasse 
+
+ 
+
+10.1  Verwendung der E-ID im Finanzsektor 
+
+Im Bereich des Finanzsektors könnten mit der Einführung der E-ID wesentliche Effizienzgewinne resultieren. 
+
+Im Allgemeinen sollte eine E-ID, die die Informationen eines Ausweises enthält, diesem gleichwertig sein, so 
+
+dass auch andere Erlasse (z.B. GwG/GwV) abgedeckt sind – es sei denn, es ist bspw. eine Beglaubigung 
+
+durch einen Notar erforderlich. Das GwG geht in Art. 3 von einer Identifikation durch beweiskräftige Doku-
+
+mente aus. Es stellt sich daher die Frage, ob die E-ID als solches Dokument gilt. Wir schlagen vor, hier Klar-
+
+heit zu schaffen und die Identifikation durch die E-ID ausdrücklich vorzusehen. Damit hätte diese Art der 
+
+Identifikation ihre Grundlage auf der richtigen Stufe, d.h. im formellen Gesetz.  
+
+Art. 3 GwG 
+1 Der Finanzintermediär muss bei der Aufnahme von Geschäftsbeziehungen die  
+  Vertragspartei aufgrund eines beweiskräftigen Dokumentes oder einer E-ID gemäss  
+  Bundesgesetz über den elektronischen Identitätsnachweis und andere elektronische  
+  Nachweise vom… identifizieren. Handelt es sich bei der Vertragspartei um eine juristische 
+  Person, so muss der Finanzintermediär die Bevollmächtigungsbestimmungen der  
+  Vertragspartei zur Kenntnis nehmen und die Identität der Personen überprüfen, die im  
+  Namen der juristischen Person die Geschäftsbeziehung aufnehmen. 
+
+ 
+
+10.2  Abstimmung mit dem ZertEs 
+
+Die Anpassung von Art. 9 ZertES (vgl. Erläuternder Bericht, S. 20) sollte klar festhalten, dass eine Identifizie-
+
+rung mit der E-ID der Identifikation durch persönliches Erscheinen gleichgestellt ist. Wichtig ist, dass klar 
+
+ 
+Schweizerische Bankiervereinigung 
+Association suisse des banquiers 
+Associazione Svizzera dei Banchieri 
+Swiss Bankers Association 
+
+ 
+
+Aeschenplatz 7 
+Postfach 4182 
+CH-4002 Basel 
+
+office@sba.ch 
+www.swissbanking.ch 
+
+12 
+
+ 
+
+ 
+
+festgehalten wird, dass mit einer Identifizierung mittels E-ID die Anforderungen an die Ausstellung einer QES 
+
+erfüllt werden (vgl. Bericht, S. 7: "So können die bestehenden (Online)-Identifizierungs-prozesse, die viel 
+
+komplexer sind, ersetzt werden. Die E-ID kann auf dem Smartphone installiert und so ebenfalls in der physi-
+
+schen Welt verwendet werden."). 
+
+Art. 9 ZertES 
+1 Die anerkannten Anbieterinnen von Zertifizierungsdiensten müssen von den Personen, die 
+  einen Antrag auf Ausstellung eines geregelten Zertifikats stellen, verlangen: 
+a. bei natürlichen Personen: dass sie persönlich erscheinen und oder durch eine E-ID  
+    gemäss dem Bundesgesetz über den elektronischen Identitätsnachweis und andere  
+    elektronische Nachweise vom … den Nachweis ihrer Identität erbringen; 
+    […] 
+
+ 
+
+11. Periodische Überprüfung  
+
+Das BGEID und die darauf basierenden technischen Infrastrukturen müssen einer periodischen Überprüfung 
+
+unterzogen werden, welche klären soll, ob die technischen Funktionalitäten zur Sicherstellung von Daten-
+
+schutz (inkl. Bankkundengeheimnis) und Cybersicherheit jeweils dem aktuellen Stand der Technik entspre-
+
+chen und somit «state of the art» sind (Art. 1 Abs. 2 lit. c VE-BGEID) und die E-ID ihren Zweck zur Förde-
+
+rung digitaler Geschäftsmodelle erfüllen kann.  
+
+ 
+
+12. Beizug von Experten bei der Erarbeitung der Ausführungsbestimmungen  
+
+Wir erlauben uns schliesslich den Hinweis, dass der VE-BGEID ein Rahmengesetz ist, das die wichtigsten 
+
+Regulierungsgrundsätze im Zusammenhang mit der elektronischen Identität enthalten muss. Diese haben 
+
+daher eine allgemeine Tragweite und müssen technologieneutral sein. Von noch grösserer Bedeutung sind 
+
+hingegen die Ausführungsbestimmungen, die in der Verordnung enthalten sein werden. Bei der Erarbeitung 
+
+derselben sind angesichts der Komplexität der Materie Experten aus der Privatwirtschaft und Wissenschaft 
+
+beizuziehen.  
+
+Dementsprechend schlagen wir eine entsprechende Ausführungsbestimmung als neuen Absatz 2 von Art. 
+
+28 VE-BGEID vor:  
+
+Art. 28 VE-BGEID  
+1 Der Bundesrat erlässt die Ausführungsbestimmungen, insbesondere: […] 
+2 Der Bundesrat zieht bei der Erarbeitung der Ausführungsbestimmungen Experten der  
+  Privatwirtschaft und der Wissenschaft bei.  
+ 
+
+ 
+
+ 
+
+ 
+Schweizerische Bankiervereinigung 
+Association suisse des banquiers 
+Associazione Svizzera dei Banchieri 
+Swiss Bankers Association 
+
+ 
+
+Aeschenplatz 7 
+Postfach 4182 
+CH-4002 Basel 
+
+office@sba.ch 
+www.swissbanking.ch 
+
+13 
+
+ 
+
+ 
+
+Wir danken Ihnen für die Kenntnisnahme unserer Stellungnahme und die Berücksichtigung unserer Überle-
+
+gungen für die weiteren Arbeiten. Gerne stehen wir Ihnen für ergänzende Auskünfte zur Verfügung. 
+
+ 
+
+Freundliche Grüsse 
+
+Schweizerische Bankiervereinigung 
+
+Richard Hess 
+
+Leiter Digitalisierung 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Natalie Graf 
+
+Fachverantwortliche Legal 
+
+ 
+Schweizerische Bankiervereinigung 
+Association suisse des banquiers 
+Associazione Svizzera dei Banchieri 
+Swiss Bankers Association 
+
+ 
+
+Aeschenplatz 7 
+Postfach 4182 
+CH-4002 Basel 
+
+office@sba.ch 
+www.swissbanking.ch 
+
+14 
+
+
