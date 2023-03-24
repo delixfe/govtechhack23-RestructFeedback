@@ -47,8 +47,8 @@ try
 
 catch (Exception e)
 {
-    Console.WriteLine("That did not went well");
-    Console.WriteLine(e);
+    Console.Error.WriteLine("That did not went well");
+    Console.Error.WriteLine(e);
 }
 finally
 {
