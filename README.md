@@ -8,6 +8,7 @@
 
 ### OpenAI
 
+- Playground -> test prompts against different models: <https://platform.openai.com/playground>
 - Chat completion
   - Guide: <https://platform.openai.com/docs/guides/chat>
   - API reference (including parameters): https://platform.openai.com/docs/api-reference/chat/create>
