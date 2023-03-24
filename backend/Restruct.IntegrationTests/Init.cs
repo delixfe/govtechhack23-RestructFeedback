@@ -1,11 +1,14 @@
+using System.Diagnostics;
+
 namespace Restruct.IntegrationTests;
 
 [SetUpFixture]
-public class AssemblySetup
+public class Init
 {
     [OneTimeSetUp]
     public void RunBeforeAnyTests()
     {
+        Trace.Listeners.Add(new ConsoleTraceListener());
         DotNetEnv.Env.TraversePath().Load();
     }
 

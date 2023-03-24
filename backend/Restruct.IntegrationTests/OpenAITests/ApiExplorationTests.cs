@@ -1,6 +1,7 @@
 using OpenAI;
 using OpenAI.Chat;
 using OpenAI.Models;
+using Restruct.IntegrationTests.Extensions;
 
 namespace Restruct.IntegrationTests.OpenAITests;
 
@@ -21,6 +22,11 @@ public class ApiExplorationTests
         
         var chatRequest = new ChatRequest(chatPrompts);
         var result = await api.ChatEndpoint.GetCompletionAsync(chatRequest)!;
+        
+        TestContext.WriteLine();
+        TestContext.WriteLine(result.ToJson());
+        TestContext.WriteLine();
+        
         Assert.IsNotNull(result);
         Assert.That(result.Object, Is.EqualTo("chat.completion"));
         
@@ -54,6 +60,10 @@ public class ApiExplorationTests
     {
         var api = new OpenAIClient();
         var result = await api.CompletionsEndpoint.CreateCompletionAsync("1, 1, 2, 3, 5,", temperature: 0.1, model: Model.Davinci);
+        
+        TestContext.WriteLine();
+        TestContext.WriteLine(result.ToJson());
+        TestContext.WriteLine();
         
         Assert.IsNotNull(result);
         Assert.That(result.Object, Is.EqualTo("text_completion"));
