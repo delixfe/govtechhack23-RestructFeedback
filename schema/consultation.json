@@ -29,7 +29,7 @@
                 "feedback": false,
                 "sentiment": 0,
                 "law_articles": [],
-                "summary": ""
+                "summary": "Der Regierungsrat des Kantons Schwyz verzichtet auf eine Vernehmlassung zur Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern."
             },
 	    {
                 "sender": "Hauptstadtregion Schweiz",
@@ -54,6 +54,22 @@
                 "sentiment": 0,
                 "law_articles": [],
                 "summary": "Der Regierungsrat des Kantons Luzern hat im Zusammenhang mit der Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern keine konkreten Bemerkungen zu den Rechtsbestimmungen gemacht. Allerdings regt der Kanton Luzern an, dass der Sinn der Finanzhilfe des Bundes für die Führung der kantonalen Schule französischer Sprache in Bern noch einmal überdacht werden sollte, da die Mitfinanzierung des Bundes aufgrund der enormen Verbesserung der Mobilität seit der Gründung der Schule im Jahr 1960 kaum mehr gerechtfertigt ist."
+            },
+	    {
+                "sender": "Kanton Obwalden",
+                "has_answer": true,
+                "feedback": true,
+                "sentiment": 0,
+                "law_articles": [],
+                "summary": "Das Bildungs- und Kulturdepartement des Kantons Obwalden verzichtet auf eine Stellungnahme zur Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern, da kein Bedarf besteht."
+            },
+            {
+                "sender": "Kanton Jura",
+                "has_answer": true,
+                "feedback": true,
+                "sentiment": 1,
+                "law_articles": [],
+                "summary": "Der Kanton Jura begrüßt die Fortsetzung der finanziellen Unterstützung durch den Bund für die französischsprachige Schule in Bern und betont die Bedeutung eines qualitativ hochwertigen französischen Unterrichts in der Stadt, die den Hauptsitz der Bundesverwaltung beherbergt. Der Kanton Jura fordert die Confédération jedoch auf, sich nicht nur auf die Finanzierung der Schule zu beschränken, sondern auch in deren Organisation und Entwicklung aktiv zu sein und sich für die Vertretung sprachlicher Minderheiten in der Bundesverwaltung einzusetzen. Die Förderung der sprachlichen Vielfalt sollte insgesamt konkrete Maßnahmen im Bereich der Bildung beinhalten, um die Verständigung und den Austausch zwischen den Sprachgemeinschaften zu fördern."
             },
 	    {
                 "sender": "Testkanton",
