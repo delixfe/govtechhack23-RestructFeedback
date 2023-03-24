@@ -46,6 +46,22 @@
                 "sentiment": 0.6,
                 "law_articles": [],
                 "summary": "Der Schweizerische Gewerkschaftsbund (SGB) begrüßt den Bundesratsentscheid, dass sich der Bund weiterhin mittels Finanzhilfen an den Betriebskosten der kantonalen Schule französischer Sprache (ECLF) in Bern beteiligt. Der SGB fordert jedoch, dass die neue Definition der Höhe und Bemessung der Finanzhilfen durch den Bund nicht zu versteckten Einsparungen führen darf, welche zulasten des Personals gehen und letztendlich der Bildungsqualität schaden. Der Bund soll sich künftig nur noch an Betriebskosten beteiligen, aber nicht mehr an Bauinvestitionen für ein allfälliges neues Schulgebäude."
+            },
+	    {
+                "sender": "Kanton Luzern",
+                "has_answer": true,
+                "feedback": true,
+                "sentiment": 0,
+                "law_articles": [],
+                "summary": "Der Regierungsrat des Kantons Luzern hat im Zusammenhang mit der Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern keine konkreten Bemerkungen zu den Rechtsbestimmungen gemacht. Allerdings regt der Kanton Luzern an, dass der Sinn der Finanzhilfe des Bundes für die Führung der kantonalen Schule französischer Sprache in Bern noch einmal überdacht werden sollte, da die Mitfinanzierung des Bundes aufgrund der enormen Verbesserung der Mobilität seit der Gründung der Schule im Jahr 1960 kaum mehr gerechtfertigt ist."
+            },
+	    {
+                "sender": "Testkanton",
+                "has_answer": true,
+                "feedback": true,
+                "sentiment": 0,
+                "law_articles": [],
+                "summary": "summary"
             }
         ]
     }
