@@ -30,6 +30,14 @@
                 "sentiment": 0,
                 "law_articles": [],
                 "summary": ""
+            },
+	    {
+                "sender": "Hauptstadtregion Schweiz",
+                "has_answer": true,
+                "feedback": true,
+                "sentiment": -0.4,
+                "law_articles": [],
+                "summary": ""
             }
         ]
     }
