@@ -38,4 +38,8 @@
     <ProjectReference Include="..\Restruct.Cli\Restruct.Cli.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Extensions" />
+  </ItemGroup>
+
 </Project>

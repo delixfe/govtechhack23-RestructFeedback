@@ -1,7 +1,7 @@
 using OpenAI;
 using OpenAI.Chat;
 using OpenAI.Models;
-using Restruct.IntegrationTests.Extensions;
+using Restruct.Cli.Extensions;
 
 namespace Restruct.IntegrationTests.OpenAITests;
 

@@ -1,11 +1,10 @@
 using System.Text.Encodings.Web;
 using System.Text.Json;
 using System.Text.Json.Serialization;
-using OpenAI;
 using OpenAI.Chat;
 using OpenAI.Completions;
 
-namespace Restruct.IntegrationTests.Extensions;
+namespace Restruct.Cli.Extensions;
 
 
 
@@ -42,7 +41,7 @@ public static class ResponseExtensions
 
 }
 
-[JsonSourceGenerationOptions(WriteIndented = true, GenerationMode = JsonSourceGenerationMode.Serialization)]
+[JsonSourceGenerationOptions(WriteIndented = true, GenerationMode = JsonSourceGenerationMode.Serialization )]
 [JsonSerializable(typeof(ChatResponse))]
 internal partial class ChatResponseSerializerContext : JsonSerializerContext
 {

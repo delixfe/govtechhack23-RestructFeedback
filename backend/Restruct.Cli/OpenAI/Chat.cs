@@ -1,11 +1,15 @@
 using OpenAI;
 using OpenAI.Chat;
+using Restruct.Cli.Input;
 
 namespace Restruct.Cli.OpenAI;
 
-public class Chat
+public record OurRequest(string Attribute, Func<FileInfo, string> Prompt);
+
+
+public static class Chat
 {
-    public OurRequest[] Prompts =
+    public static OurRequest[] Prompts =
     {
         new("sender", file => $"""
                 Analysiere diesen Text. Von welcher Organisation wurde der Text verfasst? Antwort darf maximal 5 Wörter umfassen.
@@ -36,13 +40,16 @@ public class Chat
             {File.ReadAllText(file.FullName)}
             """)
     };
+    
 
-    public async Task<ChatResponse> Prompt(IEnumerable<ChatPrompt> chatPrompts, double? temperature, int? number = null)
+    public static async Task<ChatResponse> Prompt(FileInfo fileInfo, OurRequest ourRequest, double? temperature = null, int? number = null)
     {
         var api = new OpenAIClient();
 
+        var content = ourRequest.Prompt(fileInfo);
+
         var chatRequest =
-            new ChatRequest(chatPrompts, user: GetType().FullName, temperature: temperature, number: number);
+            new ChatRequest(new ChatPrompt[]{new ChatPrompt("user", content)}, user: "i_am_legion", temperature: temperature, number: number);
 
         var result = await api.ChatEndpoint.GetCompletionAsync(chatRequest)!;
 
@@ -50,5 +57,4 @@ public class Chat
         return result;
     }
 
-    public record OurRequest(string Attribute, Func<FileInfo, string> Prompt);
 }
