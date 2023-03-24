@@ -38,6 +38,14 @@
                 "sentiment": -0.4,
                 "law_articles": [],
                 "summary": ""
+            },
+	    {
+                "sender": "Schweizerischer Gewerkschaftsbund",
+                "has_answer": true,
+                "feedback": true,
+                "sentiment": 0.6,
+                "law_articles": [],
+                "summary": "Der Schweizerische Gewerkschaftsbund (SGB) begrüßt den Bundesratsentscheid, dass sich der Bund weiterhin mittels Finanzhilfen an den Betriebskosten der kantonalen Schule französischer Sprache (ECLF) in Bern beteiligt. Der SGB fordert jedoch, dass die neue Definition der Höhe und Bemessung der Finanzhilfen durch den Bund nicht zu versteckten Einsparungen führen darf, welche zulasten des Personals gehen und letztendlich der Bildungsqualität schaden. Der Bund soll sich künftig nur noch an Betriebskosten beteiligen, aber nicht mehr an Bauinvestitionen für ein allfälliges neues Schulgebäude."
             }
         ]
     }
