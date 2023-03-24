@@ -8,6 +8,8 @@
 
 ### OpenAI
 
+- Chatbot: <https://chat.openai.com/chat>
+- OpenAI Cookbook -> must read: <https://github.com/openai/openai-cookbook>
 - Playground -> test prompts against different models: <https://platform.openai.com/playground>
 - Chat completion
   - Guide: <https://platform.openai.com/docs/guides/chat>
