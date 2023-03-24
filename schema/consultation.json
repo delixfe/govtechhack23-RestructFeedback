@@ -71,6 +71,14 @@
                 "law_articles": [],
                 "summary": "Der Kanton Jura begrüßt die Fortsetzung der finanziellen Unterstützung durch den Bund für die französischsprachige Schule in Bern und betont die Bedeutung eines qualitativ hochwertigen französischen Unterrichts in der Stadt, die den Hauptsitz der Bundesverwaltung beherbergt. Der Kanton Jura fordert die Confédération jedoch auf, sich nicht nur auf die Finanzierung der Schule zu beschränken, sondern auch in deren Organisation und Entwicklung aktiv zu sein und sich für die Vertretung sprachlicher Minderheiten in der Bundesverwaltung einzusetzen. Die Förderung der sprachlichen Vielfalt sollte insgesamt konkrete Maßnahmen im Bereich der Bildung beinhalten, um die Verständigung und den Austausch zwischen den Sprachgemeinschaften zu fördern."
             },
+            {
+                "sender": "Schweizerischer Gewerbeverband",
+                "has_answer": true,
+                "feedback": true,
+                "sentiment": -0.3,
+                "law_articles": [],
+                "summary": "Der Schweizerische Gewerbeverband hat als Antwort auf die Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern Bedenken geäußert und fordert mehr Transparenz hinsichtlich der Anzahl der Schüler und der finanziellen Unterstützung durch den Bund. Der Verband schlägt vor zu überprüfen, ob die Schule nicht als Teilschule an eine andere Institution angeschlossen werden kann, da mehr als die Hälfte der Schüler nicht Kinder von Bundesangestellten oder von Eltern sind, die bei Organisationen arbeiten, an denen ein Bundesinteresse besteht."
+            },
 	    {
                 "sender": "Testkanton",
                 "has_answer": true,
