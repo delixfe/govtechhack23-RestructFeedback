@@ -1,0 +1,2 @@
+namespace Restruct.Cli.Input;
+

@@ -7,6 +7,9 @@ namespace Restruct.IntegrationTests.OpenAITests;
 [TestFixture]
 public class PromptTests
 {
+
+
+    
     [Test]
     public async Task Summary()
     {
@@ -17,7 +20,7 @@ public class PromptTests
         {
             new ChatPrompt("system", "Du bist ein präziser Assistent und drückst Dich so kurz wie möglich aus."),
             new ChatPrompt("user", $"""
-                Ich stelle die folgenden 2 Datein und ihre Dateinamen zur Verfügung.
+                Ich stelle die folgenden 2 Dateien und ihre Dateinamen zur Verfügung.
         
                 Datei: entwurf.txt
                 Inhalt:

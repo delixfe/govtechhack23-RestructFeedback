@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restruct.IntegrationTests", "Restruct.IntegrationTests\Restruct.IntegrationTests.csproj", "{1B7E693E-8B1D-4933-B5E8-72E10EE3D949}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restruct.Cli", "Restruct.Cli\Restruct.Cli.csproj", "{AEAD69E8-21C9-4C55-A7DD-F778F08DA91D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{1B7E693E-8B1D-4933-B5E8-72E10EE3D949}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B7E693E-8B1D-4933-B5E8-72E10EE3D949}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B7E693E-8B1D-4933-B5E8-72E10EE3D949}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEAD69E8-21C9-4C55-A7DD-F778F08DA91D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEAD69E8-21C9-4C55-A7DD-F778F08DA91D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEAD69E8-21C9-4C55-A7DD-F778F08DA91D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEAD69E8-21C9-4C55-A7DD-F778F08DA91D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
