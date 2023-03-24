@@ -24,4 +24,13 @@
     <PackageReference Include="OpenAI-DotNet" Version="6.4.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="Fixtures\2021__3\Vernehmlassung_BE_20210331.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Fixtures\2021__3\ecfl_vn_bundesgesetz_d.pdf.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
