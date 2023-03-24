@@ -20,12 +20,13 @@
 
     <main class="main">
       <h2 class="main__title">Stellungsnahmen</h2>
+      <p>⚠ Die Zusammenfassung und Stimmung sind elektronisch generiert und dienen einzig der Orientierung. ⚠</p> 
       <table id="answers-table" class="table">
         <thead>
           <tr>
             <th>Stellungsnehmer</th>
-            <th>Stellungsnahme</th>
-            <th></th>
+            <th>Stellungsnahme (Zusammenfassung)</th>
+            <th>Stimmung</th>
             <th>Abschnitte</th>
           </tr>
         </thead>
@@ -65,10 +66,10 @@
             tableRow.innerHTML = `
               <td>${answer.sender}</td>
               <td>${answer.feedback?answer.summary:'-'}</td>
-              <td>${answer.feedback?senSym(answer.sentiment):''}</td>
+	   <td align="center"><span style="font-weight: bold; font-size: 25px;" title="{$answer.sentiment}">${answer.feedback?senSym(answer.sentiment):''}</span></td>
               <td>
                 <ul class="list-unstyled">
-                  ${answer.law_articles.map(article => `<li>${article.name} ${senSym(article.sentiment)}</li>`).join('')}
+                  ${answer.law_articles.map(article => `<li>[${senSym(article.sentiment)}]  ${article.name}</li>`).join('')}
                 </ul>
               </td>
             `;
