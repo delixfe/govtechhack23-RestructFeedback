@@ -80,12 +80,12 @@
                 "summary": "Der Schweizerische Gewerbeverband hat als Antwort auf die Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern Bedenken geäußert und fordert mehr Transparenz hinsichtlich der Anzahl der Schüler und der finanziellen Unterstützung durch den Bund. Der Verband schlägt vor zu überprüfen, ob die Schule nicht als Teilschule an eine andere Institution angeschlossen werden kann, da mehr als die Hälfte der Schüler nicht Kinder von Bundesangestellten oder von Eltern sind, die bei Organisationen arbeiten, an denen ein Bundesinteresse besteht."
             },
 	    {
-                "sender": "Testkanton",
+                "sender": "Stadt Bern",
                 "has_answer": true,
                 "feedback": true,
-                "sentiment": 0,
+                "sentiment": -0.7,
                 "law_articles": [],
-                "summary": "summary"
+                "summary": "Die Stadt Bern äußert ihre Ablehnung gegenüber der vorgeschlagenen Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern. Die ECLF ist eine gut funktionierende Schule, die eine wichtige Rolle bei der Förderung der Mehrsprachigkeit und des sprachlichen und kulturellen Austauschs zwischen den Sprachregionen spielt. Der Gesetzesentwurf erweckt den Eindruck, dass es sich bei den Interessen des Bundes an der ECLF um rein personalpolitische Interessen handelt und zieht sich faktisch aus der Mitverantwortung zurück. Die Stadt Bern fordert daher auf, auf die Totalrevision des Gesetzes zu verzichten."
             }
         ]
     }
