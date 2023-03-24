@@ -8,8 +8,8 @@
                 "sender": "Kanton Bern",
                 "has_answer": true,
                 "feedback": true,
-		"summary": "Summary",
-                "sentiment": -0.9,
+		"summary": "Der Kanton Bern hat eine Stellungnahme zur Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern (Ecole cantonale de langue française – ECLF) abgegeben. Der Kanton Bern lehnt die Totalrevision ab, da er der Meinung ist, dass die Verantwortung für die Verständigung zwischen der französisch- und deutschsprachigen Gemeinschaft in der Bundeshauptstadt eine in der Verfassung verbriefte Aufgabe ist, die Bund und Kanton auch weiterhin gemeinsam wahrnehmen müssen. Der Kanton Bern beantragt eine grundlegende Überarbeitung des vorliegenden Entwurfs, damit die ECLF weiterhin eine gemeinsame Aufgabe von Bund und Kanton Bern zur Förderung der Verständigung zwischen den Sprachgemeinschaften in der Bundeshauptstadt bleibt. Die Verantwortung, inklusive die finanzielle für Betrieb und Investitionen, soll weiterhin von Bund und Kanton getragen werden.",
+                "sentiment": -0.5,
                 "law_articles": [
                     {
                         "name": "Allgemein",
