@@ -7,10 +7,9 @@ namespace Restruct.IntegrationTests.OpenAITests;
 [TestFixture]
 public class PromptTests
 {
-
-
     
     [Test]
+    [Ignore("The message is too long. We will have to wait for GPT4.")]
     public async Task Summary()
     {
         var consultation = Fixtures.EcflVnBundesgesetzD;

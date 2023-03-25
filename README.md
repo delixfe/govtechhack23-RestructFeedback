@@ -2,8 +2,11 @@
 
 ## Resources
 
+
+
 ### Domain
 
+- The sematic web in Fedlex <https://fedlex.data.admin.ch/en-CH/home/intro>
 - Vernehmlassungsverordnung, VlV <https://fedlex.data.admin.ch/eli/cc/2005/543>
 
 ### OpenAI

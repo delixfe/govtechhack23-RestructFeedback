@@ -1,52 +1,54 @@
 using OpenAI;
 using OpenAI.Chat;
-using Restruct.Cli.Input;
+using Restruct.Cli.Model;
 
 namespace Restruct.Cli.OpenAI;
 
-public record OurRequest(string Attribute, Func<FileInfo, string> Prompt);
+public record Prompt(string Attribute, Func<PromptInput, string> InterpolateFunc);
+
 
 
 public static class Chat
 {
-    public static OurRequest[] Prompts =
+    public static Prompt[] Prompts =
     {
-        new("sender", file => $"""
+        new("sender", input => $"""
                 Analysiere diesen Text. Von welcher Organisation wurde der Text verfasst? Antwort darf maximal 5 Wörter umfassen.
 
                 Datei: Stellungname.txt
                 Inhalt:
-                {File.ReadAllText(file.FullName)}
-                """),
+                {input.Submission}
+                """),   
 
-        new("sender_group", file => $"""
+        new("sender_group", input => $"""
             Analysiere diesen Text. Von welcher Organisation wurde der Text verfasst? Antwort darf maximal 5 Wörter umfassen.
 
             Datei: Stellungname.txt
             Inhalt:
-            {File.ReadAllText(file.FullName)}
+            {input.Submission}
             """),
 
-        new("sentiment", file => $"""
+        new("sentiment", input => $"""
             what sentiment between -1 to +1 would you attribute to this response  
-            {File.ReadAllText(file.FullName)}
+            {input.Submission}
             """),
 
-        new("summary", file => $"""
+        new("summary", input => $"""
             Fasse den Text zusammen.
 
             Datei: Stellungname.txt
             Inhalt:
-            {File.ReadAllText(file.FullName)}
+            {input.Submission}
             """)
     };
     
+    
 
-    public static async Task<ChatResponse> Prompt(FileInfo fileInfo, OurRequest ourRequest, double? temperature = null, int? number = null)
+    public static async Task<ChatResponse> Prompt(PromptInput input, Prompt prompt, double? temperature = null, int? number = null)
     {
         var api = new OpenAIClient();
 
-        var content = ourRequest.Prompt(fileInfo);
+        var content = prompt.InterpolateFunc(input);
 
         var chatRequest =
             new ChatRequest(new ChatPrompt[]{new ChatPrompt("user", content)}, user: "i_am_legion", temperature: temperature, number: number);
