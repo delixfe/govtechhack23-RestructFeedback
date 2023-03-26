@@ -1,4 +1,6 @@
-namespace Restruct.Cli.Model;
+using Restruct.Cli.Model;
+
+namespace Restruct.Cli.Input;
 
 public class SubfolderNameBasedBinaryClassLabelReader : IFileInfoLabelReader<BinaryClassificationLabel, bool> {
     readonly BinaryClassificationLabel _falseLabel;
@@ -20,7 +22,7 @@ public class SubfolderNameBasedBinaryClassLabelReader : IFileInfoLabelReader<Bin
     public string Name { get; }
 
     public BinaryClassificationLabel ReadLabel(FileInfo file) {
-        var fileDirectoryName = file.DirectoryName!;
+        var fileDirectoryName = file.Directory!.Name;
 
         var match = string.Equals(_subfolder, fileDirectoryName);
         var result = _resultMappingFunc(match);

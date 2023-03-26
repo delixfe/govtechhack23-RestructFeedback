@@ -1,3 +1,5 @@
+using Restruct.Cli.Input;
+
 namespace Restruct.Cli.Model;
 
 // static for now -> configurable later
