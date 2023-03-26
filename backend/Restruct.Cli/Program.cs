@@ -20,6 +20,7 @@ var jsonWriterOptions =
 var jsonSerializerOptions = new JsonSerializerOptions { WriteIndented = true, };
 var metrics = new Metrics();
 var start = DateTime.Now;
+var submissionCounter = 0;
 
 // TODO: add polly
 var openAIClient = new OpenAIClient();
@@ -89,14 +90,16 @@ try {
             } catch (Exception e) {
                 metricsForFile.IncrementFailed();
                 Console.Error.WriteLine($"Error requesting prompt {prompt.Attribute} for file {file.Name}");
-                Console.Error.WriteLine(e);
+                if (e is HttpRequestException he) { Console.Error.WriteLine(he.Message); } else {
+                    Console.Error.WriteLine(e);
+                }
             }
         }
 
         metricsForFile.WriteToJsonTextWriter(writer);
         writer.WriteEndObject();
         metrics.Add(metricsForFile);
-        Console.WriteLine($"Processed {file.Name}");
+        Console.WriteLine($"Processed {submissionCounter++:000} {file.Name}");
     }
 
 
