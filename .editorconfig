@@ -45,6 +45,7 @@ dotnet_style_require_accessibility_modifiers = never:suggestion
 # ReSharper properties
 resharper_arguments_skip_single = true
 resharper_autodetect_indent_settings = false
+resharper_blank_lines_after_block_statements = 0
 resharper_braces_redundant = true
 resharper_csharp_blank_lines_around_field = 0
 resharper_csharp_empty_block_style = together_same_line

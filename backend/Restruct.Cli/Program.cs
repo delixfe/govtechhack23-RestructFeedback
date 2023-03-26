@@ -43,15 +43,10 @@ try {
 
     writer.WriteStartObject();
     if (consultation.FedlexId is not null) { writer.WriteString("fedlex_id"u8, consultation.FedlexId); }
-
     if (consultation.FedlexUri is not null) { writer.WriteString("fedlex_uri"u8, $"{consultation.FedlexUri}"); }
-
     if (consultation.Title is not null) { writer.WriteString("title"u8, consultation.Title); }
-
     if (consultation.Date.HasValue) { writer.WriteString("date"u8, $"{consultation.Date!:O}"); }
-
     if (consultation.Sender is not null) { writer.WriteString("sender"u8, consultation.Sender); }
-
     if (consultation.SenderUrl is not null) { writer.WriteString("sender_url"u8, $"{consultation.SenderUrl}"); }
 
     writer.WriteStartArray("answers"u8);
