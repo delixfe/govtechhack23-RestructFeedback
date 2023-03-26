@@ -5,6 +5,8 @@ using System.Text.Json;
 
 using DotNetEnv;
 
+using OpenAI;
+
 using Restruct.Cli.Input;
 using Restruct.Cli.Model;
 using Restruct.Cli.OpenAI;
@@ -18,6 +20,9 @@ var jsonWriterOptions =
 var jsonSerializerOptions = new JsonSerializerOptions { WriteIndented = true, };
 var metrics = new Metrics();
 var start = DateTime.Now;
+
+// TODO: add polly
+var openAIClient = new OpenAIClient();
 
 try {
     // TODO factor the following declarations into an config
@@ -53,7 +58,7 @@ try {
 
     foreach (var file in submissions) {
         var metricsForFile = new Metrics();
-        var promptInput = new PromptInput(file);
+        var promptInput = new PlaceholderAccessor(file);
         var labels = consultation.LabelReaders.Select(
                 reader => reader switch {
                     SubfolderNameBasedBinaryClassLabelReader r => r.ReadLabel(file),
@@ -78,10 +83,11 @@ try {
 
         foreach (var prompt in Chat.Prompts) {
             try {
-                var response = await Chat.Prompt(promptInput, prompt);
+                var response = await Chat.Prompt(openAIClient, promptInput, prompt);
                 writer.WriteString(prompt.Attribute, response.FirstChoice);
                 metricsForFile.Add(response.Usage);
             } catch (Exception e) {
+                metricsForFile.IncrementFailed();
                 Console.Error.WriteLine($"Error requesting prompt {prompt.Attribute} for file {file.Name}");
                 Console.Error.WriteLine(e);
             }

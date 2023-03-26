@@ -1,9 +1,9 @@
 namespace Restruct.Cli.Model;
 
-public class PromptInput {
+public class PlaceholderAccessor {
     readonly Lazy<string> _submission;
 
-    public PromptInput(FileInfo submission) {
+    public PlaceholderAccessor(FileInfo submission) {
         _submission = new Lazy<string>(() => File.ReadAllText(submission.FullName));
     }
 
