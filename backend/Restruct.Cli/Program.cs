@@ -17,11 +17,11 @@ var jsonWriterOptions =
     new JsonWriterOptions { Indented = true, Encoder = JavaScriptEncoder.UnsafeRelaxedJsonEscaping, };
 var jsonSerializerOptions = new JsonSerializerOptions { WriteIndented = true, };
 var metrics = new Metrics();
-
+var start = DateTime.Now;
 
 try {
     // TODO factor the following declarations into an config
-    const int maxSubmissions = 1;
+    const int maxSubmissions = 100;
     const string inputPathPattern = "*.txt";
     var dataRootFolder = Files.FindDataRootFolder();
     Directory.SetCurrentDirectory(dataRootFolder.FullName);
@@ -50,6 +50,7 @@ try {
     if (consultation.SenderUrl is not null) { writer.WriteString("sender_url"u8, $"{consultation.SenderUrl}"); }
 
     writer.WriteStartArray("answers"u8);
+
     foreach (var file in submissions) {
         var metricsForFile = new Metrics();
         var promptInput = new PromptInput(file);
@@ -89,6 +90,7 @@ try {
         metricsForFile.WriteToJsonTextWriter(writer);
         writer.WriteEndObject();
         metrics.Add(metricsForFile);
+        Console.WriteLine($"Processed {file.Name}");
     }
 
 
@@ -99,4 +101,7 @@ try {
 } catch (Exception e) {
     Console.Error.WriteLine("That did not went well");
     Console.Error.WriteLine(e);
-} finally { JsonSerializer.Serialize(metrics, jsonSerializerOptions); }
+} finally {
+    JsonSerializer.Serialize(metrics, jsonSerializerOptions);
+    Console.WriteLine($"Duration {DateTime.Now - start}");
+}
