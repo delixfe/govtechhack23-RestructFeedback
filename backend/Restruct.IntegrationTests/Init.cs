@@ -5,18 +5,15 @@ using DotNetEnv;
 namespace Restruct.IntegrationTests;
 
 [SetUpFixture]
-public class Init
-{
+public class Init {
     [OneTimeSetUp]
-    public void RunBeforeAnyTests()
-    {
+    public void RunBeforeAnyTests() {
         Trace.Listeners.Add(new ConsoleTraceListener());
         Env.TraversePath().Load();
     }
 
     [OneTimeTearDown]
-    public void RunAfterAnyTests()
-    {
+    public void RunAfterAnyTests() {
         // ...
     }
 }

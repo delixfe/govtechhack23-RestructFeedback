@@ -1,11 +1,9 @@
 namespace Restruct.Cli.Model;
 
 // static for now -> configurable later
-public static class Instances
-{
+public static class Instances {
     public static Consultation Feldlex_2021_3 =>
-        new()
-        {
+        new() {
             FedlexId = "2021:3",
             FedlexUri = new Uri("https://fedlex.data.admin.ch/eli/dl/proj/6021/3/cons_1", UriKind.Absolute),
             Sender = "Das Staatssekretariat für Bildung, Forschung und Innovation",
@@ -17,15 +15,13 @@ public static class Instances
                 "Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern",
             Date = new DateOnly(2021, 01, 20),
             FolderName = "2021__3",
-            LabelReaders = new ILabelReader[]
-            {
-                new SubfolderNameBasedBinaryClassLabelReader("no_statement", "no_statement", found => found)
-            }
+            LabelReaders = new ILabelReader[] {
+                new SubfolderNameBasedBinaryClassLabelReader("no_statement", "no_statement", found => found),
+            },
         };
 
     public static Consultation Feldlex_2022_19 =>
-        new()
-        {
+        new() {
             FedlexId = "2022:19",
             FedlexUri = new Uri("https://fedlex.data.admin.ch/eli/dl/proj/2022/19/cons_1", UriKind.Absolute),
             Sender = "Bundesamt für Justiz",
@@ -33,6 +29,6 @@ public static class Instances
             Title = "Bundesgesetz über den elektronischen Identitätsnachweis und andere elektronische Nachweise",
             Date = new DateOnly(2022, 06, 29),
             FolderName = "2022__19",
-            LabelReaders = Array.Empty<ILabelReader>()
+            LabelReaders = Array.Empty<ILabelReader>(),
         };
 }

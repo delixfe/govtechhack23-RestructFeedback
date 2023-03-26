@@ -1,12 +1,10 @@
 namespace Restruct.Cli.Model;
 
-public interface IFileInfoLabelReader<out TLabel, out TValue> : ILabelReader where TLabel : ILabel<TValue>
-{
+public interface IFileInfoLabelReader<out TLabel, out TValue> : ILabelReader where TLabel : ILabel<TValue> {
     TLabel ReadLabel(FileInfo file);
 }
 
-public readonly record struct Consultation
-{
+public readonly record struct Consultation {
     #region Metadata
 
     public string? FedlexId { get; init; }

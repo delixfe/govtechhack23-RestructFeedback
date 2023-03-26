@@ -7,18 +7,15 @@ using Restruct.Cli.Extensions;
 namespace Restruct.IntegrationTests.OpenAITests;
 
 [TestFixture]
-public class ApiExplorationTests
-{
+public class ApiExplorationTests {
     [Test]
-    public async Task Chat()
-    {
+    public async Task Chat() {
         var api = new OpenAIClient();
-        var chatPrompts = new List<ChatPrompt>
-        {
+        var chatPrompts = new List<ChatPrompt> {
             new("system", "You are a helpful assistant."),
             new("user", "Who won the world series in 2020?"),
             new("assistant", "The Los Angeles Dodgers won the World Series in 2020."),
-            new("user", "Where was it played?")
+            new("user", "Where was it played?"),
         };
 
         var chatRequest = new ChatRequest(chatPrompts);
@@ -57,8 +54,7 @@ public class ApiExplorationTests
     }
 
     [Test]
-    public async Task Completions()
-    {
+    public async Task Completions() {
         var api = new OpenAIClient();
         var result =
             await api.CompletionsEndpoint.CreateCompletionAsync(

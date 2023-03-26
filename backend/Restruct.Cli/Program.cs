@@ -14,13 +14,12 @@ Env.TraversePath().Load();
 var consultation = Instances.Feldlex_2021_3;
 
 var jsonWriterOptions =
-    new JsonWriterOptions { Indented = true, Encoder = JavaScriptEncoder.UnsafeRelaxedJsonEscaping };
-var jsonSerializerOptions = new JsonSerializerOptions { WriteIndented = true };
+    new JsonWriterOptions { Indented = true, Encoder = JavaScriptEncoder.UnsafeRelaxedJsonEscaping, };
+var jsonSerializerOptions = new JsonSerializerOptions { WriteIndented = true, };
 var metrics = new Metrics();
 
 
-try
-{
+try {
     // TODO factor the following declarations into an config
     const int maxSubmissions = 1;
     const string inputPathPattern = "*.txt";
@@ -43,29 +42,26 @@ try
     await using var writer = new Utf8JsonWriter(targetStream, jsonWriterOptions);
 
     writer.WriteStartObject();
-    if (consultation.FedlexId is not null)
-        writer.WriteString("fedlex_id"u8, consultation.FedlexId);
-    if (consultation.FedlexUri is not null)
-        writer.WriteString("fedlex_uri"u8, $"{consultation.FedlexUri}");
-    if (consultation.Title is not null)
-        writer.WriteString("title"u8, consultation.Title);
-    if (consultation.Date.HasValue)
-        writer.WriteString("date"u8, $"{consultation.Date!:O}");
-    if (consultation.Sender is not null)
-        writer.WriteString("sender"u8, consultation.Sender);
-    if (consultation.SenderUrl is not null)
-        writer.WriteString("sender_url"u8, $"{consultation.SenderUrl}");
+    if (consultation.FedlexId is not null) { writer.WriteString("fedlex_id"u8, consultation.FedlexId); }
+
+    if (consultation.FedlexUri is not null) { writer.WriteString("fedlex_uri"u8, $"{consultation.FedlexUri}"); }
+
+    if (consultation.Title is not null) { writer.WriteString("title"u8, consultation.Title); }
+
+    if (consultation.Date.HasValue) { writer.WriteString("date"u8, $"{consultation.Date!:O}"); }
+
+    if (consultation.Sender is not null) { writer.WriteString("sender"u8, consultation.Sender); }
+
+    if (consultation.SenderUrl is not null) { writer.WriteString("sender_url"u8, $"{consultation.SenderUrl}"); }
 
     writer.WriteStartArray("answers"u8);
-    foreach (var file in submissions)
-    {
+    foreach (var file in submissions) {
         var metricsForFile = new Metrics();
         var promptInput = new PromptInput(file);
         var labels = consultation.LabelReaders.Select(
-                reader => reader switch
-                {
+                reader => reader switch {
                     SubfolderNameBasedBinaryClassLabelReader r => r.ReadLabel(file),
-                    _ => throw new InvalidOperationException()
+                    _ => throw new InvalidOperationException(),
                 }
             )
             .ToArray();
@@ -73,11 +69,9 @@ try
         writer.WriteStartObject();
         writer.WriteString("_fileName"u8, file.Name);
 
-        if (labels.Length > 0)
-        {
+        if (labels.Length > 0) {
             writer.WriteStartArray("labels"u8);
-            foreach (var label in labels)
-            {
+            foreach (var label in labels) {
                 writer.WriteStartObject();
                 label.WriteToJsonWriter(writer);
                 writer.WriteEndObject();
@@ -86,17 +80,16 @@ try
             writer.WriteEndArray();
         }
 
-        foreach (var prompt in Chat.Prompts)
-            try
-            {
+        foreach (var prompt in Chat.Prompts) {
+            try {
                 var response = await Chat.Prompt(promptInput, prompt);
                 writer.WriteString(prompt.Attribute, response.FirstChoice);
                 metricsForFile.Add(response.Usage);
-            } catch (Exception e)
-            {
+            } catch (Exception e) {
                 Console.Error.WriteLine($"Error requesting prompt {prompt.Attribute} for file {file.Name}");
                 Console.Error.WriteLine(e);
             }
+        }
 
         metricsForFile.WriteToJsonTextWriter(writer);
         writer.WriteEndObject();
@@ -108,8 +101,7 @@ try
     metrics.WriteToJsonTextWriter(writer);
 
     writer.WriteEndObject();
-} catch (Exception e)
-{
+} catch (Exception e) {
     Console.Error.WriteLine("That did not went well");
     Console.Error.WriteLine(e);
 } finally { JsonSerializer.Serialize(metrics, jsonSerializerOptions); }

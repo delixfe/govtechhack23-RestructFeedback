@@ -1,12 +1,10 @@
 namespace Restruct.IntegrationTests;
 
-public static class Fixtures
-{
-    private static readonly Lazy<string> _ecflVnBundesgesetzD;
-    private static readonly Lazy<string> _vernehmlassungBe20210331;
+public static class Fixtures {
+    static readonly Lazy<string> _ecflVnBundesgesetzD;
+    static readonly Lazy<string> _vernehmlassungBe20210331;
 
-    static Fixtures()
-    {
+    static Fixtures() {
         _ecflVnBundesgesetzD = new Lazy<string>(
             () =>
                 File.ReadAllText(Path.Combine("Fixtures", "2021__3", "ecfl_vn_bundesgesetz_d.pdf.txt"))
