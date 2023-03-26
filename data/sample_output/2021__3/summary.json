@@ -1,0 +1,1186 @@
+{
+  "fedlex_id": "2021:3",
+  "fedlex_uri": "https://fedlex.data.admin.ch/eli/dl/proj/6021/3/cons_1",
+  "title": "Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern",
+  "date": "2021-01-20",
+  "sender": "Das Staatssekretariat für Bildung, Forschung und Innovation",
+  "sender_url": "https://www.sbfi.admin.ch/sbfi/de/home/bildung/bildungsraum-schweiz/bildungszusammenarbeit-bund-kantone/gemeinsame-grundlagen/vernehmlassung.html",
+  "answers": [
+    {
+      "_fileName": "Vernehmlassung_Zurich_20210331.pdf.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "sender": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+      "sender_group": "Bundesministerium (Eidgenössisches Departement für Wirtschaft, Bildung und Forschung)",
+      "sentiment": "The sentiment in this response is neutral, as it is a formal and objective letter providing information and an opinion in a detached manner.",
+      "summary": "Die Stellungnahme bezieht sich auf die Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern. Der Kanton Zürich äußert sich positiv und stimmt dem Gesetzesentwurf zu. Es werden keine zusätzlichen finanziellen oder personellen Konsequenzen für den Bund erwartet. Die französischsprachige Schule in Bern ist für den Bund ein wichtiger Faktor in Bezug auf die Attraktivität als Arbeitgeber.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 1676,
+        "completion_tokens": 191,
+        "total_tokens": 1867
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_Hauptstadtregion Schweiz_20210331.docx.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "sender": "Hauptstadtregion Schweiz",
+      "sender_group": "WBF",
+      "sentiment": "-0.7 (negative sentiment)",
+      "summary": "Die Hauptstadtregion Schweiz lehnt die Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern ab. Sie argumentieren, dass die Institution seit fast 70 Jahren von Bund, Kanton und Stadt gemeinsam verantwortet und gut funktionierend sei. Eine Revision würde die Förderung der Zweisprachigkeit und den kulturellen Austausch schwächen und die Existenz der Institution gefährden. Die Hauptstadtregion Schweiz fordert, dass die ECLF auch weiterhin von Bund und Kanton finanziert wird.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 5884,
+        "completion_tokens": 147,
+        "total_tokens": 6031
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_VS_20210421.docx.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "sender": "Das textverfassende Organ ist der Kanton Valais.",
+      "sender_group": "Valais",
+      "sentiment": "Neutral sentiment (0). The response provides factual information and a request for clarification, without expressing any strong positive or negative emotions.",
+      "summary": "Die Stellungnahme betrifft die Revision der Gesetze zur Allokation von Subventionen an die Ecole cantonale de langue française de Berne. Der Kanton Valais begrüßt die Aktualisierung, fordert aber die Unterstützung der Confédération bei der Pluralität und Repräsentation von Minderheitensprachen innerhalb der Bundesverwaltung. Es wird darauf hingewiesen, dass die Confédération bereits vor 1960 in der Kommission der Schule tätig war und ihre Präsenz in den Kontrollorganen fortsetzen sollte. Die Stellungnahme stammt vom Valais Council und wurde an den Präsidenten der Confederation gerichtet.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 4996,
+        "completion_tokens": 198,
+        "total_tokens": 5194
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_Jura_20210123.docx.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "sender": "Gouvernement jurassien.",
+      "sender_group": "Gouvernement jurassien.",
+      "sentiment": "The sentiment in this response is positive, with a score of around +0.8. The response expresses gratitude for the opportunity to provide input, agreement with the need for quality French-language education in the city where the federal administration is located, and a call for concrete measures to encourage linguistic diversity and understanding. There is also a suggestion that the role of the federal government should extend beyond financial support to active involvement in the organization and development of such structures. However, the response also requests a correction to the proposed law to ensure that the federal government's commitment to linguistic diversity is clearly stated. Overall, the response is supportive and constructive, indicating a positive sentiment.",
+      "summary": "Der Gouvernement jurassien begrüßt die Subventionierung der École cantonale de langue française de Berne durch die Konföderation, um eine qualitativ hochwertige Französischausbildung anzubieten und diesen bevorzugt Kindern des Verwaltungspersonals zur Verfügung zu stellen. Er fordert jedoch eine aktive Vertretung der sprachlichen Minderheiten in der Bundesverwaltung und konkrete Maßnahmen zur Förderung der sprachlichen Vielfalt im Bildungsbereich. Der Gouvernement fordert die Konföderation auf, ihr Engagement gemäß Artikel 70 der Bundesverfassung zu bekräftigen, indem sie die Verständigung und den Austausch zwischen Sprachgemeinschaften fördert. Der Projektgesetzentwurf muss diesbezüglich korrigiert werden.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 3096,
+        "completion_tokens": 339,
+        "total_tokens": 3435
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_StGallen_20210315.pdf.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "sender": "Kanton St.Gallen.",
+      "sender_group": "Regierung des Kantons St. Gallen.",
+      "sentiment": "0. The response is informative and neutral, without expressing strong positive or negative emotions.",
+      "summary": "Die Regierung des Kantons St. Gallen hat in Bezug auf die Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern eine Vernehmlassungsantwort veröffentlicht. Sie sieht die Subventionierung einer einzelnen Schule durch den Bund als fragwürdig und schlägt vor, dass auch Kinder von Bundesangestellten an anderen Standorten als Bern den Schulunterricht in französischer Sprache subventioniert bekommen sollten. Zudem wird aus pädagogischer Sicht angemerkt, dass Kinder mit französischer Muttersprache im Primarschulalter gut an eine deutschsprachige Schule wechseln können. Letztendlich wird festgestellt, dass eine Subventionierung einer einzelnen Schule durch den Bund nicht mehr zu rechtfertigen ist.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 3580,
+        "completion_tokens": 225,
+        "total_tokens": 3805
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_VD_20210423.pdf.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "sender": "Kein Text vorhanden.",
+      "sender_group": "Kein Text vorhanden. Keine Organisation erkennbar.",
+      "sentiment": "As an AI language model, I do not have access to any response. Please provide me with more information so that I can assist you better.",
+      "summary": "Es gibt keine Zusammenfassung, da der Inhalt der Datei nicht angegeben ist.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 152,
+        "completion_tokens": 68,
+        "total_tokens": 220
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_Fribourg_20210323.docx.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "sender": "Conseil d'Etat Fribourg.",
+      "sender_group": "Conseil d'Etat du canton de Fribourg.",
+      "sentiment": "Neutral (0) sentiment. The response is a formal letter addressing a consultation on a project of revision of a federal law related to a language school in Bern. The letter presents remarks and observations from the Council of State of the Canton of Fribourg on the matter. The tone is professional and formal, with no apparent emotional charge or bias. The letter acknowledges the principles of the revision and proposes corrections to the project, but overall does not express a positive or negative sentiment towards it.",
+      "summary": "Der Text bezieht sich auf die Konsultation eines Projekts zur Änderung des Gesetzes über die Bereitstellung von Subventionen an die Ecole cantonale de langue française de Berne. Der Conseil d'Etat des Kantons Fribourg begrüßt die Aktualisierung des Gesetzes, hat aber Bedenken hinsichtlich der neuen Darstellung der Rolle der Bundesregierung bei der Unterstützung der französischen Minderheit in der Verwaltung. Der Rat fordert die Bundesregierung auf, ihr öffentliches Engagement für den Sprachenpluralismus zu bekräftigen und darauf zu achten, dass die Ecole cantonale de langue française de Berne eine gemeinsame Aufgabe zwischen der Bundesregierung und dem Kanton Bern bleibt.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 6340,
+        "completion_tokens": 300,
+        "total_tokens": 6640
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_Jura_20210323.pdf.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "sender": "Kein Inhalt vorhanden. (0 Wörter)",
+      "sender_group": "Kein Inhalt vorhanden.",
+      "sentiment": "As an AI language model, I am unable to determine the response that is being referred to. Please provide more context or the response itself.",
+      "summary": "Es fehlt der Inhalt der Stellungnahme.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 152,
+        "completion_tokens": 60,
+        "total_tokens": 212
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_Centre Patronal_20210415.docx.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "sender": "Centre Patronal.",
+      "sender_group": "Centre Patronal",
+      "sentiment": "The sentiment of this response would likely be around +0.8, as it expresses support and agreement with the proposed revision, while also acknowledging the importance of the Swiss plurilingualism and the need for the Confederation to continue to support the Ecole cantonale de langue française de Berne.",
+      "summary": "Das Centre Patronal unterstützt die totale Revision der Gesetzesvorlage zur Gewährung von Subventionen an die Ecole cantonale de langue française de Berne. Sie halten es für gerechtfertigt, dass die Confédération weiterhin an den Betriebskosten der Schule beteiligt bleibt, da fast die Hälfte der Schüler Kinder von Angestellten der Bundesverwaltung oder Organisationen sind, die der Confédération dienen. Die neuen Bestimmungen entsprechen den geltenden Regeln für Subventionsrechte und helfen, potenzielle finanzielle Risiken für die Confédération zu minimieren.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 2556,
+        "completion_tokens": 209,
+        "total_tokens": 2765
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_AR_20210331.docx.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "sender": "Staatssekretariat für Bildung, Forschung und Innovation.",
+      "sender_group": "Staatssekretariat für Bildung, Forschung und Innovation",
+      "sentiment": "The sentiment of this response is neutral, as it is a formal letter acknowledging receipt of information, expressing thanks for the opportunity to comment, and providing a statement of position without any emotional language.",
+      "summary": "Der Regierungsrat von Appenzell Ausserrhoden hat keine direkte Betroffenheit von der Vernehmlassung zur Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern festgestellt. Er betont jedoch, dass finanzielle Unterstützung durch den Bund nicht zu Lasten des nationalen Bildungsbudgets gehen darf. Die Stellungnahme wurde am 29. März 2021 von Alfred Stricker unterzeichnet.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 1768,
+        "completion_tokens": 180,
+        "total_tokens": 1948
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_Graubuenden_20210413.pdf.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "sender": "Kanton Graubünden.",
+      "sender_group": "Kanton Graubünden",
+      "sentiment": "The sentiment of this response is positive, with a score of around +0.8.",
+      "summary": "Die Regierung des Kantons Graubünden begrüßt die geplante Totalrevision des Bundesgesetzes über Beiträge für die kantonale französisch-sprachige Schule in Bern und befürwortet die Gesetzesvorlage. Der Bund leistet durch die finanzielle Unterstützung der Schule einen wichtigen Beitrag zur Förderung der Mehrsprachigkeit und Diversität der Angestellten der Bundesverwaltung und von Organisationen im Interesse des Bundes.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 1628,
+        "completion_tokens": 142,
+        "total_tokens": 1770
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_AI_20210415.docx.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "sender": "Kanton Appenzell I.Rh.",
+      "sender_group": "Kanton Appenzell I.Rh.",
+      "sentiment": "The sentiment in this response is neutral (0).",
+      "summary": "Die Standeskommission des Kantons Appenzell I.Rh. ist mit der Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern einverstanden. Sie bedankt sich für die Möglichkeit zur Stellungnahme. Die Unterstützung des Bundes für die Schule wird als singuläre Finanzierungsform angesehen. Die Stellungnahme wurde im Namen des Landammanns und der Standeskommission vom Ratschreiber Markus Dörig verfasst. Zur Kenntnis genommen wurde die Stellungnahme vom Erziehungsdepartement Appenzell I.Rh., Ständerat Daniel Fässler und Nationalrat Thomas Rechsteiner.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 2288,
+        "completion_tokens": 188,
+        "total_tokens": 2476
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_BERNBilingue_20210421.pdf.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "sender": "BERNbilingue",
+      "sender_group": "BERNbilingue.",
+      "sentiment": "The sentiment of this response would be -0.7 as it expresses strong disagreement with the proposed reforms and emphasizes the importance of the federal government's responsibility to support and fund the school.",
+      "summary": "Die Stellungnahme von BERNbilingue bezieht sich auf den Vorschlag des Bundes zur Totalrevision des Bundesgesetzes über Beiträge an die kantonale französischsprachige Schule in Bern (ECLF). BERNbilingue lehnt den Vorschlag ab, da er ihre Grundprinzipien aufgeben würde. Die Schule erfülle ein wesentliches Bedürfnis der französischsprachigen Bevölkerung in Bern und sei ein Pfeiler der Mehrsprachigkeit der Schweiz. BERNbilingue fordert, dass der Bund auch weiterhin eine Verantwortung für die ECLF trägt und weitere Schulen unterstützt, die zur Koexistenz der Landessprachen beitragen. Zudem fordert BERNbilingue eine Überprüfung des Unterrichts in Landessprachen in der gesamten Bundeshauptstadt. Die Ecole française internationale de Berne (EFIB) sei eine unterstützungswürdige Schule.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 6320,
+        "completion_tokens": 275,
+        "total_tokens": 6595
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_Stadt_Bern_20210408.pdf.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "sender": "Stadt Bern.",
+      "sender_group": "Stadt Bern",
+      "sentiment": "Neutral (0) sentiment.",
+      "summary": "Die Stadt Bern gibt in einer Stellungnahme ihre Ablehnung zur Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern bekannt. Die Stadt betont die Bedeutung der Schule für den sprachlichen und kulturellen Austausch sowie die Förderung der Mehrsprachigkeit. Sie kritisiert den Eindruck, dass der Bund sich lediglich aus personalpolitischen Interessen zurückziehe. Die Stadt bittet daher, auf die Totalrevision zu verzichten.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 4632,
+        "completion_tokens": 132,
+        "total_tokens": 4764
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_VD_20210423.docx.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "sender": "Verfasser: Regierung des Kantons Vaud",
+      "sender_group": "Kanton Vaud",
+      "sentiment": "+0.5 (Slightly positive)",
+      "summary": "Der Kanton Vaud reicht eine Stellungnahme zum geplanten Gesetz zur Neufassung der Bundesgesetzgebung zur Gewährung von Subventionen an die französische kantonale Schule in Bern ein. Der Kanton begrüßt die Initiative zur Einhaltung der aktuellen rechtlichen Grundlagen, äußert jedoch Bedenken hinsichtlich der Verantwortung der Schule. Der Kanton Vaud fordert, dass die Schule eine gemeinsame Aufgabe zwischen dem Kanton Bern und dem Bund bleibt und dass die Förderung der Schule weiterhin ein wichtiger Aspekt für die Förderung des Verständnisses zwischen linguistischen Gemeinschaften in der Schweiz ist.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 6616,
+        "completion_tokens": 180,
+        "total_tokens": 6796
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_PS-SP_20210423.pdf.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "sender": "Keine Informationen vorhanden.",
+      "sender_group": "Organisation gibt Statement ab.",
+      "sentiment": "As an AI language model, I cannot attribute a sentiment score to a response without context. Please provide the response for me to analyze.",
+      "summary": "Es gibt keine Zusammenfassung, da der Inhalt der Datei nicht bekannt ist.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 152,
+        "completion_tokens": 58,
+        "total_tokens": 210
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_SGB_20210331.pdf.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "sender": "Schweizerischer Gewerkschaftsbund (SGB)",
+      "sender_group": "Schweizerischer Gewerkschaftsbund (SGB)",
+      "sentiment": "+0.7 (slightly positive)",
+      "summary": "Der Schweizerische Gewerkschaftsbund begrüßt die Totalrevision des Bundesgesetzes über Finanzhilfen an die kantonale Schule französischer Sprache in Bern. Der Bund soll weiterhin mittels Finanzhilfen beteiligt sein, jedoch nicht an Bauinvestitionen für ein neues Schulgebäude. Der SGB fordert, dass die Höhe und Bemessung der Finanzhilfen nicht zu Einsparungen führen dürfen, die der Bildungsqualität schaden.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 3032,
+        "completion_tokens": 152,
+        "total_tokens": 3184
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_Uri_20210325.pdf.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "sender": "Organisation: Bildungs- und Kulturdirektion.",
+      "sender_group": "Organisation: Bildungs- und Kulturdirektion.",
+      "sentiment": "Sentiment score: +0.6 (Positive)",
+      "summary": "Die Bildungs- und Kulturdirektion des Kantons Uri stimmt der Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern zu und hat ihre Stellungnahme im Rahmen des Vernehmlassungsverfahrens abgegeben. Sie begrüßt die Förderung der Mehrsprachigkeit und sieht die Attraktivität des Bundes als Arbeitgeber gestärkt. Die Kontaktdaten der Bildungs- und Kulturdirektion sind am Ende des Textes zu finden.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 1524,
+        "completion_tokens": 157,
+        "total_tokens": 1681
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_AI_20210415.pdf.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "sender": "Unbekannt, keine Angaben im Text vorhanden.",
+      "sender_group": "Unklar, es gibt keinen Textinhalt.",
+      "sentiment": "As an AI language model, I cannot give a sentiment analysis without any context or specific response. Please provide me with the necessary information to analyze the sentiment.",
+      "summary": "Es liegt eine Datei mit dem Namen \"Stellungname.txt\" vor, jedoch ist der Inhalt nicht bekannt.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 148,
+        "completion_tokens": 78,
+        "total_tokens": 226
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_Basel_Stadt_20210414.docx.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "sender": "Kanton Basel-Stadt",
+      "sender_group": "Kanton Basel-Stadt",
+      "sentiment": "Neutral sentiment (0)",
+      "summary": "Der Regierungsrat des Kantons Basel-Stadt unterstützt die Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern. Die Bestimmungen sollten den geltenden rechtlichen Vorgaben angepasst werden und der Bund sollte sich deutlicher als Arbeitgeber positionieren können, um die Mehrsprachigkeit und Diversität der Mitarbeitenden zu fördern. Die Stellungnahme wurde an das Eidgenössische Departement für Wirtschaft, Bildung und Forschung WBF gesendet.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 2708,
+        "completion_tokens": 138,
+        "total_tokens": 2846
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_SVP-UDC_20210423.pdf.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "sender": "UDC Suisse.",
+      "sender_group": "UDC Suisse",
+      "sentiment": "The sentiment in this response is slightly negative, with a score of around -0.3 to -0.5. The UDC Suisse is critical of the current system and proposes to reject the revision and abrogate the law currently in force. While they are in favor of promoting national languages and cohesion, they believe the current situation is unfair and creates inequality of treatment towards other cantons.",
+      "summary": "The Swiss People's Party has issued a response to the consultation procedure regarding the total revision of the Federal Law on subsidies to the Canton of Berne's French Language School. The party believes that the current funding for the school is unjustified, and proposes to abolish the current law in favor of renouncing the proposed revision. The party emphasizes the need for equality and fairness in the distribution of subsidies for schools, and argues that the funding provided to the French Language School cannot be justified by a clear constitutional mandate. The party also suggests that other schools in Switzerland that are not currently receiving subsidies, but are located near federal institutions, would be subject to unfair treatment if the proposed revision were to be approved. Nonetheless, the party recognizes the importance of encouraging linguistic diversity and cohesion in the country.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 7872,
+        "completion_tokens": 244,
+        "total_tokens": 8116
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_Luzern_20210329.pdf.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "sender": "Unbekannt, keine Informationen zur Organisation im Text vorhanden.",
+      "sender_group": "Unbekannt (keine Information im Text vorhanden)",
+      "sentiment": "As an AI language model, I cannot provide the response as it has not been provided in the prompt. Please provide me with more context or information to assist you better.",
+      "summary": "Es gibt keine Zusammenfassung des Textes, da kein Textinhalt angegeben wurde.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 148,
+        "completion_tokens": 79,
+        "total_tokens": 227
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_Uri_20210325.docx.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "sender": "SBFI",
+      "sender_group": "SBFI",
+      "sentiment": "+0.7 (slightly positive)",
+      "summary": "Das Staatssekretariat für Bildung, Forschung und Innovation begrüßt die Totalrevision des Bundesgesetzes über Beiträge für die französischsprachige Schule in Bern im Hinblick auf die Förderung der Mehrsprachigkeit in der Schweiz und die Attraktivität des Bundes als Arbeitgeber. Der Kanton Uri ist mit dem Gesetzesentwurf einverstanden.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 1784,
+        "completion_tokens": 103,
+        "total_tokens": 1887
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_AR_20210331.pdf.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "sender": "Staatliche Organisation.",
+      "sender_group": "Organisation: Appenzell Ausserrhoden Bildung und Kultur Department.",
+      "sentiment": "Neutral (0) sentiment. The response is a formal letter discussing a government matter, with no emotional language or opinions expressed.",
+      "summary": "Der Regierungsrat von Appenzell Ausserrhoden hat eine Stellungnahme zur Vernehmlassung der Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern eingereicht. Obwohl der Kanton direkt nicht betroffen ist, betont der Regierungsrat, dass die finanzielle Unterstützung der französischsprachigen Schule nicht auf Kosten des nationalen Bildungsbudgets gehen darf.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 1920,
+        "completion_tokens": 157,
+        "total_tokens": 2077
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_SVP-UDC_20210423.docx.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "sender": "UDC Suisse.",
+      "sender_group": "UDC Suisse.",
+      "sentiment": "Sentiment: -0.5 (moderately negative) \n\nThe response expresses a disagreement with the proposed revision of the law and raises concerns about the unequal treatment of the Canton of Berne compared to other cantons. The tone is critical and assertive, but not overly aggressive. However, the overall sentiment is slightly negative due to the rejection of the proposal and the criticism of the current law.",
+      "summary": "UDC Switzerland favors federal cohesion and language interactions, but proposes avoiding the revision and abolishing the law currently in effect. A school in Berne, the only one subventioned by the federation, is unfairly treated, and UDC Switzerland recommends that subsidies should only be justified by a clear constitutional mandate, which is missing in this case. They argue that all competencies not explicitly given to the Confederation remain under the cantons' jurisdiction. The current law should therefore be repealed to achieve equity. UDC Switzerland applauds the encouragement of national languages, but not at the expense of one canton.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 6160,
+        "completion_tokens": 212,
+        "total_tokens": 6372
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_sgv_20210426.docx.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "sender": "Schweizerischer Gewerbeverband (sgv)",
+      "sentiment": "Neutral (0) sentiment. The response is professional and does not contain any clear emotional tone.",
+      "summary": "Der Schweizerische Gewerbeverband, als größte Dachorganisation der Schweizer Wirtschaft, hat eine Stellungnahme zur Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern veröffentlicht. Er fordert angemessene Transparenz bezüglich der finanziellen Unterstützung der Schule durch den Bund und kritisiert, dass keine Überlegungen gemacht wurden, ob die Strukturen vereinfacht werden könnten. Der Verband setzt sich für die Anerkennung und Gleichbehandlung von beruflicher und akademischer Bildung ein und sieht Bildungsfragen als Kerngeschäft des Verbands.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 1,
+        "prompt_tokens": 2589,
+        "completion_tokens": 187,
+        "total_tokens": 2776
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_Zurich_20210331.docx.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "sender": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung.",
+      "sender_group": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",
+      "sentiment": "+0.8",
+      "summary": "Die Regierung des Kantons Zürich äußert sich positiv zur Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern. Das Angebot der Schule trage wesentlich zur Attraktivität des Bundes als Arbeitgeber bei und die Revision führe für den Bund zu keinen zusätzlichen finanziellen oder personellen Konsequenzen. Daher könne dem Gesetzesentwurf zugestimmt werden.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 2204,
+        "completion_tokens": 146,
+        "total_tokens": 2350
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_Zug_20210506.pdf.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "sender": "Regierungsrat des Kantons Zug.",
+      "sender_group": "Kanton Zug",
+      "sentiment": "Neutral (0) sentiment. The response is a formal letter stating a request and providing reasoning for it without any emotional content.",
+      "summary": "Der Regierungsrat des Kantons Zug hat in Bezug auf die Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern eine Stellungnahme abgegeben. Der Regierungsrat fordert, dass das Gesetz ersatzlos aufgehoben wird und begründet dies damit, dass die bestehende Privilegierung französischsprachiger Bundesangestellter aus der Zeit gefallen ist und eine gewisse Vorbildfunktion von Bundesangestellten im Hinblick auf die Mehrsprachigkeit erwartet werden kann. Aus ökonomischer Sicht sei zudem der Kanton Bern als Träger der bisher subventionierten Schule ausreichend entschädigt. Der Regierungsrat bedankt sich für die Berücksichtigung seines Anliegens.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 4208,
+        "completion_tokens": 229,
+        "total_tokens": 4437
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_CAF__CJB_Bienne_20210413.docx.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "sender": "DEFR",
+      "sender_group": "DEFR",
+      "sentiment": "Neutral (0)",
+      "summary": "Zusammenfassung:\n\nDer Conseil des affaires francophones de l'arrondissement de Biel/Bienne und der Conseil du Jura bernois zeigen ihre Überraschung und Besorgnis im Zusammenhang mit der Veröffentlichung des Entwurfs zur Revision der Gesetzgebung für die finanzielle Unterstützung der Ecole cantonale de langue française de Berne (ECLF). Für die beiden Räte ist es von zentraler Bedeutung, dass die Verantwortung für das Bestehen und die strategische Führung dieser Schule zwischen dem Bund und dem Kanton Bern geteilt wird. Die ECLF ist ein Symbol für die Kohäsion zwischen den Sprachregionen und der Respektierung der Mehrsprachigkeit in der Schweiz. Daher fordern die Räte, dass der Bund seine Rolle in der Überwachung und Kontrolle dieser Institution auf strategischer Ebene beibehält, die über die Frage der Finanzierung hinausgeht. Die ECLF ist ein außerordentlich konkreter Beitrag zur nationalen Kohäsion und sollte daher von beiden, dem Bund und dem Kanton Bern, gemeinsam unterstützt werden.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 5120,
+        "completion_tokens": 271,
+        "total_tokens": 5391
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_Conseil d'Etat_Geneve_20210414.docx.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "sender": "Conseil d'Etat",
+      "sender_group": "Conseil d'Etat Berne",
+      "sentiment": "0 (neutral)",
+      "summary": "Der Conseil d'Etat hat eine Stellungnahme zur geplanten Revision der Gesetze zur Subventionierung der Ecole cantonale de langue française de Berne abgegeben. Der Rat sieht die Zusammenarbeit zwischen der Confédération und den beteiligten Akteuren als essentiell für die Schule und betont die Bedeutung der finanziellen Unterstützung für die nationale Kohäsion und die Förderung der Erforschung verschiedener Sprachen der Schweiz. Der Rat fordert die Confédération auf, die aktuellen Standards in Bezug auf Finanzierung und Sprachenvielfalt zu berücksichtigen und ihre Mitverantwortung für die Schule beizubehalten.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 2964,
+        "completion_tokens": 175,
+        "total_tokens": 3139
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_Fribourg_20210323.pdf.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "sender": "Conseil d'Etat du canton de Fribourg.",
+      "sender_group": "Conseil d’Etat du canton de Fribourg.",
+      "sentiment": "Neutral (0)",
+      "summary": "Der Conseil d'Etat du canton de Fribourg hat eine Stellungnahme zum Projekt der Revision der gesetzlichen Regelungen zur finanziellen Unterstützung der Ecole cantonale de langue française de Berne abgegeben. Sie finden es richtig, dass die Confédération ihre finanzielle Unterstützung beibehält und ihre praktischen Regelungen an aktuelle gesetzliche Regelungen anpasst. Allerdings fordern sie eine Korrektur des vorgeschlagenen Gesetzestextes, da dieser die Rolle der Confédération bei der Gründung und Entwicklung der französischen Schule in Bern nicht ausreichend berücksichtige. Der Rat fordert die Confédération auf, ihre klare Verpflichtung zur Förderung des Verständnisses und des Austauschs zwischen den Sprachgemeinschaften zu bekräftigen und die sprachliche Vielfalt zu unterstützen. Die Ecole cantonale de langue française de Berne sollte weiterhin eine gemeinsame Aufgabe zwischen der Confédération und dem Kanton Bern sein.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 5924,
+        "completion_tokens": 269,
+        "total_tokens": 6193
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_CAF-CJB_Bienne_20210413.pdf.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "sender": "Conseil des affaires francophones.",
+      "sender_group": "Conseil des affaires francophones",
+      "sentiment": "The sentiment in this response is difficult to quantify on a scale of -1 to +1 as it primarily consists of a formal, informative statement rather than an emotional opinion. However, it does express surprise and concern regarding the proposed revision of the law concerning subsidies to the Ecole cantonale de langue française de Berne (ECLF), emphasizing the importance of shared responsibility between the Confederation and the Canton of Berne for the existence and strategic direction of the school. It also stresses the symbolic value of the ECLF in promoting national cohesion and plurilingualism, and calls upon the Confederation to maintain its role in the school's governance beyond mere financial support. Overall, the sentiment could be interpreted as cautious and respectfully critical.",
+      "summary": "Der Conseil des affaires francophones de l'arrondissement de Biel/Bienne (CAF) und der Conseil du Jura bernois (CJB) haben eine Stellungnahme zur Neuregelung der Finanzhilfen für die École cantonale de langue française de Berne (ECLF) abgegeben. Beide Räte sind besorgt darüber, dass die Verantwortung der Confédération für die Schule auf rein finanzielle Aspekte reduziert wird und fordern, dass die Confédération ihre Verantwortung in der strategischen Führung der Schule beibehält, um die nationale Zusammenarbeit und das plurilinguale Gleichgewicht in der Schweiz zu fördern. Die ECLF dient als praktisches Beispiel für die nationale Kohäsionspolitik und sollte als solches erhalten bleiben.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 5928,
+        "completion_tokens": 353,
+        "total_tokens": 6281
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_BERNBilingue_20210421.docx.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "sender": "BERNbilingue",
+      "sender_group": "BERNbilingue",
+      "sentiment": "The sentiment in this response is negative, possibly around -0.7 to -0.8. The response expresses disappointment and disagreement with the proposed revision of the law and the potential withdrawal of the federal government's responsibility towards the kantonale französischsprachige Schule in Bern. The response also highlights the importance of preserving the multilingualism of Switzerland and the need for federal support in achieving this goal.",
+      "summary": "Die Vereinigung BERNbilingue hat eine Stellungnahme zur Vernehmlassung des Bundes über die Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern veröffentlicht. Sie lehnen den Vorschlag des Bundes ab, die Finanzierung der Schule von der Höhe der verfügbaren Mittel abhängig zu machen und den Bundeszuschuss als Maximalbetrag zu definieren. BERNbilingue argumentiert, dass der Bund seine Verantwortung für die ECLF nicht aufgeben sollte, da die Schule eine wichtige Rolle für die Mehrsprachigkeit der Schweiz spielt. Die Vereinigung fordert auch die Überprüfung des Unterrichts in Landessprachen in der Bundeshauptstadt und schlägt vor, die Unterstützung auf weitere Schulen auszudehnen.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 5596,
+        "completion_tokens": 294,
+        "total_tokens": 5890
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_Graubuenden_20210413.docx.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "sender": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung WBF",
+      "sender_group": "WBF (Eidgenössisches Departement für Wirtschaft, Bildung und Forschung)",
+      "sentiment": "+0.8 (positive sentiment)",
+      "summary": "Die Regierung des Kantons Graubünden begrüßt die Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern und befürwortet die Gesetzesvorlage. Sie sieht die finanzielle Unterstützung der Schule als wesentlichen Beitrag zur Förderung der Mehrsprachigkeit und Diversität der Angestellten der Bundesverwaltung und von Organisationen im Interesse des Bundes an.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 2060,
+        "completion_tokens": 155,
+        "total_tokens": 2215
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_TI_20210421.pdf.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "sender": "Cantonal government of Ticino.",
+      "sender_group": "Consiglio di Stato.",
+      "sentiment": "Neutral (0) sentiment. The response is a formal letter expressing the Canton Ticino's opinion on a federal law regarding financial support to a French language school in Bern. The response does not contain any particularly positive or negative emotions.",
+      "summary": "Der Text ist eine Stellungnahme des Consiglio di Stato aus Bellinzona zur Revision der Bundesgesetzgebung betreffend Subventionen für die französischsprachige kantonale Schule in Bern. Der Cantone Ticino hat Bedenken bezüglich der Auswirkungen des neuen Gesetzes auf die Förderung des Mehrsprachigkeitsgedankens und schlägt eine Überarbeitung des Gesetzes in Zusammenarbeit mit dem Kanton Bern und den französischsprachigen Kantonen vor. Eine Kopie der Stellungnahme wird verschiedenen Adressaten zugeschickt und im Internet veröffentlicht.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 3992,
+        "completion_tokens": 205,
+        "total_tokens": 4197
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_SGB_20210331.docx.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "sender": "Schweizerischer Gewerkschaftsbund (SGB)",
+      "sender_group": "Schweizerischer Gewerkschaftsbund (SGB)",
+      "sentiment": "+0.7 (slightly positive)",
+      "summary": "Der Schweizerische Gewerkschaftsbund begrüßt die Totalrevision des Bundesgesetzes über Beiträge für die ECLF und den Bundesbeitrag an den Kanton Bern, um den Betrieb der Schule französischer Sprache zu finanzieren. Es ist wichtig, dass Minderheiten Zugang zu qualitativ hochwertigem Unterricht in ihrer Erstsprache haben. Der Bund soll weiterhin Finanzhilfen leisten, um die Betriebskosten zu decken. Der SGB betont jedoch, dass die neue Definition der Finanzhilfen nicht zu Einsparungen führen darf, die zu Lasten des Personals und der Bildungsqualität gehen. Der Bund will sich künftig nicht mehr an Bauinvestitionen beteiligen.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 2704,
+        "completion_tokens": 209,
+        "total_tokens": 2913
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_Luzern_20210329.docx.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "sender": "Kanton Luzern",
+      "sender_group": "Kanton Luzern",
+      "sentiment": "Neutral sentiment (0).",
+      "summary": "Die Stellungnahme des Kantons Luzern zur Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern enthält keine Bemerkungen zu den einzelnen Rechtsbestimmungen. Allerdings regt der Kanton Luzern an, den Sinn der Finanzhilfe des Bundes für die Führung der Schule noch einmal zu überdenken, da die Mitfinanzierung des Bundes kaum mehr gerechtfertigt werden könne.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 2404,
+        "completion_tokens": 121,
+        "total_tokens": 2525
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_sgv_20210426.pdf.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "sender": "Schweizerischer Gewerbeverband (sgv)",
+      "sender_group": "Schweizerischer Gewerbeverband (sgv)",
+      "sentiment": "The sentiment of this response would be neutral (0).",
+      "summary": "Der Schweizerische Gewerbeverband (sgv) hat eine Vernehmlassungsantwort zur Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern vorgelegt. Als größte Dachorganisation der Schweizer Wirtschaft und Vertreter von über 99,8 Prozent der Unternehmen des Landes setzt sich der sgv für optimale wirtschaftliche und politische Rahmenbedingungen ein. In der Antwort stellt der sgv Fragen zur Transparenz der Finanzhilfen und schlägt vor, die Strukturen der Schule zu vereinfachen. Bildungsfragen gehören zum Kerngeschäft des sgv und er setzt sich für die Anerkennung und Gleichbehandlung von beruflicher und akademischer Bildung ein.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 4156,
+        "completion_tokens": 218,
+        "total_tokens": 4374
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_VS_20210421.pdf.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "sender": "Kein Text vorhanden - keine Analyse möglich.",
+      "sender_group": "Kein Text vorhanden.",
+      "sentiment": "I'm sorry, but there is no response provided for me to analyze the sentiment. Please provide the response so I can assist you better.",
+      "summary": "Leider kann die Datei \"Stellungname.txt\" nicht zusammengefasst werden, da der Inhalt fehlt. Bitte reiche den Inhalt der Datei nach.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 152,
+        "completion_tokens": 83,
+        "total_tokens": 235
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_Centre Patronal_20210415.pdf.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "sender": "Centre Patronal.",
+      "sender_group": "Centre Patronal",
+      "sentiment": "Sentiment score: +0.6 (mildly positive)",
+      "summary": "Das Zentrum Patronal hat eine Stellungnahme zur Revision der Bundesgesetzgebung in Bezug auf die Subventionszuweisung an die französischsprachige Kantonal-schule in Bern verfasst. Es wird betont, dass die finanzielle Unterstützung der Schule durch die Bundesregierung - trotz deren Zuständigkeit als Kantonsangelegenheit - aufgrund der Bedeutung des Multilingualismus und der Diversität der Schweiz und der Rolle von Bern als Bundeshaupstadt gerechtfertigt sei. Die Einhaltung der aktuellen Regeln zur Subventionsvergabe sei notwendig, um mögliche finanzielle Risiken für die Regierung zu verringern. Das Zentrum Patronal stimmt daher der vorgeschlagenen Gesetzesrevision vollständig zu.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 2424,
+        "completion_tokens": 199,
+        "total_tokens": 2623
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_StGallen_20210315.docx.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "sender": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung.",
+      "sender_group": "Eidgenössisches Departement für Wirtschaft, Bildung und Forschung.",
+      "sentiment": "The sentiment of this response would be negative or critical, with a score around -0.5 to -0.7, due to the objections raised about the proposed revision of the federal law on subsidies for a specific French-speaking school, and the suggestion of unequal treatment of children of federal employees.",
+      "summary": "Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung in St.Gallen hat eine Stellungnahme zur Vernehmlassung zur Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern eingereicht. Es wird kritisiert, dass die Subventionierung einer einzelnen Schule durch den Bund grundsätzlich fragwürdig ist und zu einer Ungleichbehandlung der Kinder von Bundesangestellten führt. Es wird zudem darauf hingewiesen, dass Kinder mit französischer Muttersprache im Primarschulalter gut an eine deutschsprachige Schule wechseln können. Der Kanton St.Gallen kann eine Subventionierung einer einzelnen Schule durch den Bund nicht mehr rechtfertigen. Die Stellungnahme wurde per Brief und E-Mail zugestellt.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 3736,
+        "completion_tokens": 292,
+        "total_tokens": 4028
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_BE_20210331.pdf.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 4,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "total_tokens": 0
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_Zug_20210506.docx.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "sender": "Kanton Zug.",
+      "sender_group": "Kanton Zug",
+      "sentiment": "Sentiment score: -0.7 (negative)",
+      "summary": "Der Kanton Zug fordert in seiner Stellungnahme zur Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern, dass das Gesetz ersatzlos aufgehoben wird. Die Privilegierung französischsprachiger Bundesangestellter sei aus der Zeit gefallen und es bestünde kein Bedarf mehr für eine solche Schule. Zudem könnten die Kinder der betroffenen Angestellten auch eine lokale französischsprachige Schule besuchen. Der Bund solle stattdessen eine Vorbildfunktion hinsichtlich der Mehrsprachigkeit einnehmen. Der Kanton Bern werde durch den NFA bereits kompensiert und es bedürfe keiner zusätzlichen Bundessubvention.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 4240,
+        "completion_tokens": 197,
+        "total_tokens": 4437
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_PS-SP_20210423.docx.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "sender": "Parti socialiste suisse",
+      "sender_group": "Parti socialiste suisse",
+      "sentiment": "Sentiment: +1 (Positive)",
+      "summary": "Der Parti Socialiste Suisse unterstützt die vorgeschlagene Revision der Bundesgesetzes über die Beiträge an die Ecole cantonale de langue française in Bern. Die Beibehaltung der finanziellen Unterstützung durch den Bund ist wichtig für die Förderung der sprachlichen Vielfalt in der Schweiz. Es ist jedoch wichtig, dass die Qualität des Unterrichts und der Schüler nicht aufgrund möglicher Kürzungen leidet. Die Teilnahme des Bundes an den Infrastrukturinvestitionen wird in Zukunft nicht mehr stattfinden.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 3268,
+        "completion_tokens": 146,
+        "total_tokens": 3414
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_BE_20210331.docx.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 4,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "total_tokens": 0
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_Basel_Stadt_20210414.pdf.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "sender": "Regierungsrat Basel-Stadt.",
+      "sender_group": "Regierungsrat Basel-Stadt.",
+      "sentiment": "The sentiment of this response would be neutral (0).",
+      "summary": "Der Regierungsrat des Kantons Basel-Stadt gibt eine unterstützende Stellungnahme zur Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern an das Eidgenössische Departement für Wirtschaft, Bildung und Forschung ab. Der Regierungsrat befürwortet die Anpassung der Bestimmungen und die Förderung von Mehrsprachigkeit und Diversität der Mitarbeitenden.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 2020,
+        "completion_tokens": 132,
+        "total_tokens": 2152
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_Solothurn_20210412.pdf.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "sender": "Regierungsrat",
+      "sender_group": "Regierungsrat",
+      "sentiment": "Neutral (0) sentiment. The response simply acknowledges the receipt of a letter and expresses support for the proposed revision, without any particularly positive or negative language.",
+      "summary": "Die Stellungnahme des Regierungsrats Solothurn bezieht sich auf die Vernehmlassung zur Totalrevision des Bundesgesetzes über Beiträge an die kantonale französischsprachige Schule in Bern. Der Regierungsrat unterstützt die vorgeschlagene Totalrevision und begrüßt den Erhalt der Tradition seit 1960, die es Angestellten der Bundesverwaltung und Organisationen im Interesse des Bundes ermöglicht, ihre Kinder in Bern auf einer französischsprachigen Schule zu unterrichten, um die Attraktivität des Bundes als mehrsprachiger Arbeitgeber zu fördern. Der Brief wurde am 6. April 2021 an das Eidgenössische Departement für Wirtschaft, Bildung und Forschung in Bern gesendet.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 1756,
+        "completion_tokens": 219,
+        "total_tokens": 1975
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_Hauptstadtregion Schweiz_20210331.pdf.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "sender": "Hauptstadtregion Schweiz",
+      "sender_group": "Hauptstadtregion Schweiz.",
+      "sentiment": "The sentiment of the response would be negative (-0.678).",
+      "summary": "Die Hauptstadtregion Schweiz lehnt die Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern ab, da diese eine gut funktionierende Institution in Frage stellt, inkohärent ist, die gemeinsame Verständigung zwischen den Sprachgemeinschaften gefährdet, die Attraktivität der Hauptstadtregion als nationales Politikzentrum schwächt und die Existenz einer Institution gefährdet, die für den kulturellen und sprachlichen Austausch in der Region steht. Die Hauptstadtregion sieht die Förderung der Zweisprachigkeit als zentrales Anliegen und betont die Mitverantwortung des Bundes für die ECLF als gelebte Massnahme zur Förderung eben dieser Zweisprachigkeit. Die ECLF blickt auf eine fast 70-jährige Geschichte zurück und sollte weiterhin von Bund und Kanton finanziert werden. Die Totalrevision gefährdet die langfristige Existenz der ECLF, schwächt die Attraktivität der Hauptstadtregion und sendet ein falsches Signal aus.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 5648,
+        "completion_tokens": 272,
+        "total_tokens": 5920
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_forum_bilinguisme_20210412.pdf.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "sender": "Forum du Bilinguisme",
+      "sender_group": "Forum du bilinguisme.",
+      "sentiment": "+0.5 (slightly positive) - This response expresses disagreement with a proposed revision and argues that it goes against the language policy of the Confederation. However, the tone remains professional and polite without any extreme emotions or sentiments.",
+      "summary": "Die Stellungnahme einer Fondation aus Biel/Bienne und des Forums zum Bilinguismus betrifft die geplante Revision der Gesetze zur Förderung der Ecole cantonale de langue française de Berne (ECLF). Die Fondation kritisiert, dass die vorgeschlagene Revision gegen die Sprachpolitik der Schweiz verstoße und dass das Engagement der Confederatio Helvetica für die ECLF ein wichtiger Baustein zur Förderung des Multilingualismus sei. Die ECLF wurde von der Confederatio Helvetica, dem Kanton Bern und der Stadt Bern ins Leben gerufen, um die Verständigung der Sprachgemeinschaften innerhalb der Stadt Bern zu erleichtern. Die Fondation argumentiert, dass die Confederatio Helvetica ihrer langjährigen Verantwortung gegenüber der ECLF nicht ohne weiteres entkommen sollte, indem sie ihre finanzielle Unterstützung einstellt. Die Fondation fordert, dass die Confederatio Helvetica weiterhin die Verantwortung für die ECLF übernehmen sollte.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 6820,
+        "completion_tokens": 288,
+        "total_tokens": 7108
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_Stadt_Bern_20210408.docx.txt",
+      "labels": [
+        {
+          "no_statement": false
+        }
+      ],
+      "sender": "Stadt Bern.",
+      "sender_group": "Stadt Bern",
+      "sentiment": "0.2 (slightly positive)",
+      "summary": "Die Stadt Bern lehnt die vorgeschlagene Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern ab. Die ECLF leistet einen Beitrag zur Koexistenz der Landessprachen und Förderung der Mehrsprachigkeit und ist dementsprechend nicht einfach ein kantonales Projekt, das Unterstützung des Bundes erhält, sondern eine gemeinsam getragene Schule von überregionalem und nationalem sprachenpolitischem Interesse. Der vorliegende Gesetzesentwurf zieht sich aus der Mitverantwortung für die Schule zurück und stellt eine gut funktionierende Institution sowie die gemeinsame Verantwortung zur Verständigung zwischen den Sprachgemeinschaften in Frage. Die Stadt Bern bittet daher, auf die Totalrevision des Bundesgesetzes zu verzichten.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 4052,
+        "completion_tokens": 206,
+        "total_tokens": 4258
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_NE_pas_de_remarque_20210318.pdf.txt",
+      "labels": [
+        {
+          "no_statement": true
+        }
+      ],
+      "sender": "Département de l'Éducation et de la Famille.",
+      "sender_group": "Organisation: Département de l'Éducation et de la Famille.",
+      "sentiment": "The sentiment of the response is neutral (0).",
+      "summary": "Das Departement für Bildung und Familie des Kantons Neuchâtel hat eine Antwort auf eine Anfrage bezüglich der Änderung des Bundesgesetzes zur Gewährung von Subventionen an die Kantonale Französischsprachige Schule in Bern erhalten. Der Kanton Neuchâtel ist jedoch nicht betroffen und hat keine Bemerkungen zu formulieren. Die Antwort wurde direkt an das Bundesamt für Berufsbildung und Technologie geschickt.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 2284,
+        "completion_tokens": 145,
+        "total_tokens": 2429
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_Nidwalden_Verzicht_20210303.docx.txt",
+      "labels": [
+        {
+          "no_statement": true
+        }
+      ],
+      "sender": "Regierungsrat",
+      "sender_group": "Staatskanzlei NW.",
+      "sentiment": "The sentiment of the response is neutral, with a score of 0.",
+      "summary": "Die Staatskanzlei des Kantons Nidwalden hat eine Einladung zur Stellungnahme bezüglich der Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern erhalten. Sie haben jedoch beschlossen, auf eine Stellungnahme zu verzichten. Der Brief wurde an das Eidgenössische Departement für Wirtschaft, Bildung und Forschung sowie an den Bundespräsidenten Guy Parmelin geschickt.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 1540,
+        "completion_tokens": 134,
+        "total_tokens": 1674
+      }
+    },
+    {
+      "_fileName": "Staedteverband_Verzicht_20210202.pdf.txt",
+      "labels": [
+        {
+          "no_statement": true
+        }
+      ],
+      "sender": "Schweizerischer Städteverband.",
+      "sender_group": "Schweizerischer Städteverband.",
+      "sentiment": "Neutrale sentiment as there is no positive or negative emotion conveyed in the response.",
+      "summary": "Der Schweizerische Städteverband verzichtet aus Kapazitätsgründen auf eine Stellungnahme zur Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 980,
+        "completion_tokens": 91,
+        "total_tokens": 1071
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_Aargau_Zustimmung_20210318.pdf.txt",
+      "labels": [
+        {
+          "no_statement": true
+        }
+      ],
+      "sender": "Regierungsrat des Kantons Aargau",
+      "sender_group": "Regierungsrat Aargau.",
+      "sentiment": "+0.6 (slightly positive)",
+      "summary": "Der Regierungsrat des Kantons Aargau befürwortet die vorgeschlagene Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern und hat seine Stellungnahme dazu abgegeben.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 1540,
+        "completion_tokens": 87,
+        "total_tokens": 1627
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_Glarus_Verzicht_20210209.docx.txt",
+      "labels": [
+        {
+          "no_statement": true
+        }
+      ],
+      "sender": "Regierungsrat.",
+      "sender_group": "Regierungsrat.",
+      "sentiment": "The sentiment towards this response would be neutral (0).",
+      "summary": "Der Regierungsrat von Glarus wurde gebeten, zur Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern Stellung zu nehmen. Der Regierungsrat verzichtet jedoch auf eine Stellungnahme und drückt seine Hochachtung aus. Die E-Mail-Adresse für die Zustellung der Stellungnahme wird angegeben.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 2204,
+        "completion_tokens": 107,
+        "total_tokens": 2311
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_BL_einverstanden_20210308.pdf.txt",
+      "labels": [
+        {
+          "no_statement": true
+        }
+      ],
+      "sender": "Kanton Basel-Landschaft.",
+      "sender_group": "Kanton Basel-Landschaft",
+      "sentiment": "+0.7 (slightly positive)",
+      "summary": "Monica Gschwind, Vorsteherin der Bildungs-, Kultur- und Sportdirektion im Kanton Basel-Landschaft, hat eine Stellungnahme zur Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern abgegeben. Der Kanton begrüßt die Revision und stimmt dem Entwurf der Änderung der gesetzlichen Grundlagen zu. Die Stellungnahme wurde an das Eidgenössische Departement für Wirtschaft, Bildung und Forschung per E-Mail gesendet und auch an die Landeskanzlei des Kantons Basel-Landschaft und an Martin Weber kopiert.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 1776,
+        "completion_tokens": 169,
+        "total_tokens": 1945
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_Schwyz_Verzicht_20210316.pdf.txt",
+      "labels": [
+        {
+          "no_statement": true
+        }
+      ],
+      "sender": "Kanton Schwyz",
+      "sender_group": "Kanton Schwyz",
+      "sentiment": "0 (neutral)",
+      "summary": "Der Regierungsrat des Kantons Schwyz veröffentlicht eine Stellungnahme zum Bundesgesetz über Beiträge für die kantonale französischsprachige Schule in Bern. Der Regierungsrat gibt an, dass er auf eine Vernehmlassung verzichtet und dankt für die Gelegenheit zur Stellungnahme. Die Stellungnahme wurde an die Schwyzer Mitglieder der Bundesversammlung kopiert.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 1652,
+        "completion_tokens": 108,
+        "total_tokens": 1760
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_NE_pas_de_commentaire_20210318.docx.txt",
+      "labels": [
+        {
+          "no_statement": true
+        }
+      ],
+      "sender": "DEFR",
+      "sender_group": "DEFR",
+      "sentiment": "Neutral (0)",
+      "summary": "Das Département fédéral de l'économie, de la formation et de la recherche wird in einem Schreiben um Stellungnahme zur Revision der Gesetzgebung betreffend die Subventionszuteilung an die École cantonale de langue française de Berne gebeten. Der Kanton Neuchâtel gibt zurück, dass er nicht betroffen ist und keine Kommentare abzugeben hat.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 1628,
+        "completion_tokens": 97,
+        "total_tokens": 1725
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_Aargau_Zustimmung_20210318.docx.txt",
+      "labels": [
+        {
+          "no_statement": true
+        }
+      ],
+      "sender": "Regierungsrat.",
+      "sender_group": "Regierungsrat des Kantons Aargau.",
+      "sentiment": "+0.8 (Positive sentiment)",
+      "summary": "Der Regierungsrat des Kantons Aargau stimmt der Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern zu und hat dies in einer Stellungnahme mitgeteilt.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 2164,
+        "completion_tokens": 80,
+        "total_tokens": 2244
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_Nidwalden_Verzicht_20210303.pdf.txt",
+      "labels": [
+        {
+          "no_statement": true
+        }
+      ],
+      "sender": "Staatskanzlei Nidwalden",
+      "sender_group": "Kanton Nidwalden.",
+      "sentiment": "Neutral (0) sentiment. This response is a formal and courteous message declining to provide a statement on a certain matter, but does not express any specific emotions or opinions that would indicate a positive or negative sentiment.",
+      "summary": "Der Kanton Nidwalden gibt in einer Stellungnahme bekannt, dass er auf eine Stellungnahme zur Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern verzichtet. Die Mitteilung wurde an das Eidg. Departement für Wirtschaft, Bildung und Forschung WBF sowie an Herrn Bundespräsident Guy Parmelin gesendet und trägt das Datum 2. März 2021.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 1636,
+        "completion_tokens": 164,
+        "total_tokens": 1800
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung Glarus_Verzicht_20210209.pdf.txt",
+      "labels": [
+        {
+          "no_statement": true
+        }
+      ],
+      "sender": "Regierungsrat Glarus",
+      "sender_group": "Regierungsrat Glarus",
+      "sentiment": "The response does not contain any clear sentiment to attribute a numerical value between -1 and +1.",
+      "summary": "Der Kanton Glarus wurde aufgefordert, zu einer Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern Stellung zu nehmen. Der Regierungsrat hat jedoch beschlossen, darauf zu verzichten und dankt für die Möglichkeit zur Stellungnahme. Die Verfügung wird an das Eidgenössische Departement für Wirtschaft, Bildung und Forschung übermittelt.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 1448,
+        "completion_tokens": 129,
+        "total_tokens": 1577
+      }
+    },
+    {
+      "_fileName": "Vernehmlassung_BL_einverstanden-ohne Kommentar_20210308_.pdf.txt",
+      "labels": [
+        {
+          "no_statement": true
+        }
+      ],
+      "sender": "Kanton Basel-Landschaft",
+      "sender_group": "Regierungsorganisation.",
+      "sentiment": "Neutral (0) sentiment. The response is a formal statement providing feedback and agreement with the proposed revision of a law, but does not contain any emotional tone or opinion that would influence the sentiment.",
+      "summary": "Der Kanton Basel-Landschaft begrüßt die französischsprachige Schule in Bern und die Revision der Rechtsgrundlagen für die Bundesbeiträge. Sie stimmen dem Entwurf der Änderung der gesetzlichen Grundlagen zu. Die Stellungnahme geht an das Eidgenössische Departement für Wirtschaft, Bildung und Forschung. Eine Kopie geht an die Landeskanzlei Kanton Basel-Landschaft und Martin Weber.",
+      "_usage": {
+        "request_count": 4,
+        "request_failure_count": 0,
+        "prompt_tokens": 1776,
+        "completion_tokens": 154,
+        "total_tokens": 1930
+      }
+    }
+  ],
+  "_usage": {
+    "request_count": 248,
+    "request_failure_count": 9,
+    "prompt_tokens": 181725,
+    "completion_tokens": 10543,
+    "total_tokens": 192268
+  }
+}
