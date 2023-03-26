@@ -1,80 +1,80 @@
 {
-    "$schema": "http://json-schema.org/draft-04/schema#",
-    "title": "consultation",
-    "type": "object",
-    "properties": {
-        "consultation": {
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "title": "consultation",
+  "type": "object",
+  "properties": {
+    "consultation": {
+      "type": "object",
+      "properties": {
+        "title": {
+          "type": "string"
+        },
+        "date": {
+          "type": "string"
+        },
+        "sender": {
+          "type": "string"
+        },
+        "answers": {
+          "type": "array",
+          "items": {
             "type": "object",
             "properties": {
-                "title": {
-                    "type": "string"
-                },
-                "date": {
-                    "type": "string"
-                },
-                "sender": {
-                    "type": "string"
-                },
-                "answers": {
-                    "type": "array",
-                    "items": {
-                        "type": "object",
-                        "properties": {
-                            "sender": {
-                                "type": "string"
-                            },
-                            "has_answer": {
-                                "type": "boolean"
-                            },
-                            "feedback": {
-                                "type": [
-                                    "string",
-                                    "null"
-                                ]
-                            },
-                            "sentiment": {
-                                "type": [
-                                    "number",
-                                    "null"
-                                ]
-                            },
-                            "law_articles": {
-                                "type": "array",
-                                "items": {
-                                    "type": "object",
-                                    "properties": {
-                                        "name": {
-                                            "type": "string"
-                                        },
-                                        "sentiment": {
-                                            "type": "number"
-                                        },
-                                        "summary": {
-                                            "type": "string"
-                                        }
-                                    },
-                                    "required": [
-                                        "name",
-                                        "sentiment",
-                                        "summary"
-                                    ]
-                                }
-                            },
-                            "summary": {
-                                "type": "string"
-                            }
-                        },
-                        "required": [
-                            "sender",
-                            "has_answer",
-                            "feedback",
-                            "sentiment",
-                            "law_articles",
-                            "summary"
-                        ]
+              "sender": {
+                "type": "string"
+              },
+              "has_answer": {
+                "type": "boolean"
+              },
+              "feedback": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              },
+              "sentiment": {
+                "type": [
+                  "number",
+                  "null"
+                ]
+              },
+              "law_articles": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "name": {
+                      "type": "string"
+                    },
+                    "sentiment": {
+                      "type": "number"
+                    },
+                    "summary": {
+                      "type": "string"
                     }
+                  },
+                  "required": [
+                    "name",
+                    "sentiment",
+                    "summary"
+                  ]
                 }
-            }
+              },
+              "summary": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "sender",
+              "has_answer",
+              "feedback",
+              "sentiment",
+              "law_articles",
+              "summary"
+            ]
+          }
         }
+      }
     }
+  }
 }

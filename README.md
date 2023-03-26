@@ -2,8 +2,6 @@
 
 ## Resources
 
-
-
 ### Domain
 
 - The sematic web in Fedlex <https://fedlex.data.admin.ch/en-CH/home/intro>

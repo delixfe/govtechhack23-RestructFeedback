@@ -24,10 +24,5 @@ public readonly record struct BinaryClassificationLabel : ILabel<bool>
     public string Name { get; init; }
     public bool Value { get; init; }
 
-    public void WriteToJsonWriter(Utf8JsonWriter writer)
-    {
-        writer.WriteBoolean(Name, Value);
-    }
+    public void WriteToJsonWriter(Utf8JsonWriter writer) { writer.WriteBoolean(Name, Value); }
 }
-
-

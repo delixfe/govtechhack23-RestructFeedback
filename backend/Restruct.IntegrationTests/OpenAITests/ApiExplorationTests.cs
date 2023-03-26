@@ -1,6 +1,7 @@
 using OpenAI;
 using OpenAI.Chat;
 using OpenAI.Models;
+
 using Restruct.Cli.Extensions;
 
 namespace Restruct.IntegrationTests.OpenAITests;
@@ -14,22 +15,22 @@ public class ApiExplorationTests
         var api = new OpenAIClient();
         var chatPrompts = new List<ChatPrompt>
         {
-            new ChatPrompt("system", "You are a helpful assistant."),
-            new ChatPrompt("user", "Who won the world series in 2020?"),
-            new ChatPrompt("assistant", "The Los Angeles Dodgers won the World Series in 2020."),
-            new ChatPrompt("user", "Where was it played?"),
+            new("system", "You are a helpful assistant."),
+            new("user", "Who won the world series in 2020?"),
+            new("assistant", "The Los Angeles Dodgers won the World Series in 2020."),
+            new("user", "Where was it played?")
         };
-        
+
         var chatRequest = new ChatRequest(chatPrompts);
         var result = await api.ChatEndpoint.GetCompletionAsync(chatRequest)!;
-        
+
         TestContext.WriteLine();
         TestContext.WriteLine(result.ToJson());
         TestContext.WriteLine();
-        
+
         Assert.IsNotNull(result);
         Assert.That(result.Object, Is.EqualTo("chat.completion"));
-        
+
         // response
         // {
         //     "id": "chatcmpl-6xNrkal5SyMQnW8KrvRc6hkXiafKn",
@@ -59,15 +60,20 @@ public class ApiExplorationTests
     public async Task Completions()
     {
         var api = new OpenAIClient();
-        var result = await api.CompletionsEndpoint.CreateCompletionAsync("1, 1, 2, 3, 5,", temperature: 0.1, model: Model.Davinci);
-        
+        var result =
+            await api.CompletionsEndpoint.CreateCompletionAsync(
+                "1, 1, 2, 3, 5,",
+                temperature: 0.1,
+                model: Model.Davinci
+            );
+
         TestContext.WriteLine();
         TestContext.WriteLine(result.ToJson());
         TestContext.WriteLine();
-        
+
         Assert.IsNotNull(result);
         Assert.That(result.Object, Is.EqualTo("text_completion"));
-        
+
         // response
         // 8, 13, 21, 34, 55, 89]\n\n\#for
     }

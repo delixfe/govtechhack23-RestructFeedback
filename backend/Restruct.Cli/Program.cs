@@ -1,22 +1,21 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-
 using System.Text.Encodings.Web;
 using System.Text.Json;
+
+using DotNetEnv;
+
 using Restruct.Cli.Input;
 using Restruct.Cli.Model;
 using Restruct.Cli.OpenAI;
 
-DotNetEnv.Env.TraversePath().Load();
+Env.TraversePath().Load();
 
 var consultation = Instances.Feldlex_2021_3;
 
-var jsonWriterOptions = new JsonWriterOptions
-{
-    Indented = true,
-    Encoder = JavaScriptEncoder.UnsafeRelaxedJsonEscaping,
-};
-var jsonSerializerOptions = new JsonSerializerOptions() { WriteIndented = true };
+var jsonWriterOptions =
+    new JsonWriterOptions { Indented = true, Encoder = JavaScriptEncoder.UnsafeRelaxedJsonEscaping };
+var jsonSerializerOptions = new JsonSerializerOptions { WriteIndented = true };
 var metrics = new Metrics();
 
 
@@ -62,11 +61,14 @@ try
     {
         var metricsForFile = new Metrics();
         var promptInput = new PromptInput(file);
-        var labels = consultation.LabelReaders.Select(reader => reader switch
-        {
-             SubfolderNameBasedBinaryClassLabelReader r => r.ReadLabel(file),
-            _ => throw new InvalidOperationException(),
-        }).ToArray();
+        var labels = consultation.LabelReaders.Select(
+                reader => reader switch
+                {
+                    SubfolderNameBasedBinaryClassLabelReader r => r.ReadLabel(file),
+                    _ => throw new InvalidOperationException()
+                }
+            )
+            .ToArray();
 
         writer.WriteStartObject();
         writer.WriteString("_fileName"u8, file.Name);
@@ -80,42 +82,34 @@ try
                 label.WriteToJsonWriter(writer);
                 writer.WriteEndObject();
             }
+
             writer.WriteEndArray();
         }
 
         foreach (var prompt in Chat.Prompts)
-        {
             try
             {
                 var response = await Chat.Prompt(promptInput, prompt);
                 writer.WriteString(prompt.Attribute, response.FirstChoice);
                 metricsForFile.Add(response.Usage);
-            }
-            catch (Exception e)
+            } catch (Exception e)
             {
                 Console.Error.WriteLine($"Error requesting prompt {prompt.Attribute} for file {file.Name}");
                 Console.Error.WriteLine(e);
-                continue;
             }
-        }
+
         metricsForFile.WriteToJsonTextWriter(writer);
         writer.WriteEndObject();
         metrics.Add(metricsForFile);
     }
 
-   
+
     writer.WriteEndArray();
     metrics.WriteToJsonTextWriter(writer);
 
     writer.WriteEndObject();
-}
-
-catch (Exception e)
+} catch (Exception e)
 {
     Console.Error.WriteLine("That did not went well");
     Console.Error.WriteLine(e);
-}
-finally
-{
-    JsonSerializer.Serialize(metrics, jsonSerializerOptions);
-}
+} finally { JsonSerializer.Serialize(metrics, jsonSerializerOptions); }

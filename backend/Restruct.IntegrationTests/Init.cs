@@ -1,5 +1,7 @@
 using System.Diagnostics;
 
+using DotNetEnv;
+
 namespace Restruct.IntegrationTests;
 
 [SetUpFixture]
@@ -9,7 +11,7 @@ public class Init
     public void RunBeforeAnyTests()
     {
         Trace.Listeners.Add(new ConsoleTraceListener());
-        DotNetEnv.Env.TraversePath().Load();
+        Env.TraversePath().Load();
     }
 
     [OneTimeTearDown]
@@ -17,6 +19,4 @@ public class Init
     {
         // ...
     }
-    
 }
-

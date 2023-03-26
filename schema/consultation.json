@@ -1,92 +1,92 @@
 {
-    "consultation": {
-        "title": "Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern",
-        "date": "20. Januar 2021",
-        "sender": "Das Staatssekretariat für Bildung, Forschung und Innovation",
-        "answers": [
-            {
-                "sender": "Kanton Bern",
-                "has_answer": true,
-                "feedback": true,
-		"summary": "Der Kanton Bern hat eine Stellungnahme zur Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern (Ecole cantonale de langue française – ECLF) abgegeben. Der Kanton Bern lehnt die Totalrevision ab, da er der Meinung ist, dass die Verantwortung für die Verständigung zwischen der französisch- und deutschsprachigen Gemeinschaft in der Bundeshauptstadt eine in der Verfassung verbriefte Aufgabe ist, die Bund und Kanton auch weiterhin gemeinsam wahrnehmen müssen. Der Kanton Bern beantragt eine grundlegende Überarbeitung des vorliegenden Entwurfs, damit die ECLF weiterhin eine gemeinsame Aufgabe von Bund und Kanton Bern zur Förderung der Verständigung zwischen den Sprachgemeinschaften in der Bundeshauptstadt bleibt. Die Verantwortung, inklusive die finanzielle für Betrieb und Investitionen, soll weiterhin von Bund und Kanton getragen werden.",
-                "sentiment": -0.5,
-                "law_articles": [
-                    {
-                        "name": "Allgemein",
-                        "sentiment": -0.8,
-                        "summary": ""
-                    },
-                    {
-                        "name": "Article B",
-                        "sentiment": 0.2,
-                        "summary": ""
-                    }
-                ]
-            },
-            {
-                "sender": "Kanton Schwyz",
-                "has_answer": true,
-                "feedback": false,
-                "sentiment": 0,
-                "law_articles": [],
-                "summary": "Der Regierungsrat des Kantons Schwyz verzichtet auf eine Vernehmlassung zur Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern."
-            },
-	    {
-                "sender": "Hauptstadtregion Schweiz",
-                "has_answer": true,
-                "feedback": true,
-                "sentiment": -0.4,
-                "law_articles": [],
-                "summary": "Die Hauptstadtregion Schweiz lehnt die Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern ab. Die Revision stellt eine gut funktionierende Institution in Frage und schwächt die Attraktivität der Hauptstadtregion als nationales Politikzentrum. Die Förderung der Zweisprachigkeit ist ein zentrales Anliegen der Hauptstadtregion Schweiz. Die ECLF als gelebte, gut etablierte und konkrete Massnahme zur Förderung eben dieser Zweisprachigkeit wird mit der vorgeschlagenen Totalrevision ohne Not aufs Spiel gesetzt. Die ECLF leistet einen wichtigen Beitrag zur Koexistenz von vier Landessprachen und zur kulturellen Vielfalt als eine Grundlage der Identität und des Funktionierens der Schweiz. Die ECLF muss weiterhin von Bund und Kanton finanziert werden, da sie auf einer soliden gesetzlichen Grundlage partnerschaftlich verantwortet wird"
-            },
-	    {
-                "sender": "Schweizerischer Gewerkschaftsbund",
-                "has_answer": true,
-                "feedback": true,
-                "sentiment": 0.6,
-                "law_articles": [],
-                "summary": "Der Schweizerische Gewerkschaftsbund (SGB) begrüßt den Bundesratsentscheid, dass sich der Bund weiterhin mittels Finanzhilfen an den Betriebskosten der kantonalen Schule französischer Sprache (ECLF) in Bern beteiligt. Der SGB fordert jedoch, dass die neue Definition der Höhe und Bemessung der Finanzhilfen durch den Bund nicht zu versteckten Einsparungen führen darf, welche zulasten des Personals gehen und letztendlich der Bildungsqualität schaden. Der Bund soll sich künftig nur noch an Betriebskosten beteiligen, aber nicht mehr an Bauinvestitionen für ein allfälliges neues Schulgebäude."
-            },
-	    {
-                "sender": "Kanton Luzern",
-                "has_answer": true,
-                "feedback": true,
-                "sentiment": 0,
-                "law_articles": [],
-                "summary": "Der Regierungsrat des Kantons Luzern hat im Zusammenhang mit der Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern keine konkreten Bemerkungen zu den Rechtsbestimmungen gemacht. Allerdings regt der Kanton Luzern an, dass der Sinn der Finanzhilfe des Bundes für die Führung der kantonalen Schule französischer Sprache in Bern noch einmal überdacht werden sollte, da die Mitfinanzierung des Bundes aufgrund der enormen Verbesserung der Mobilität seit der Gründung der Schule im Jahr 1960 kaum mehr gerechtfertigt ist."
-            },
-	    {
-                "sender": "Kanton Obwalden",
-                "has_answer": true,
-                "feedback": true,
-                "sentiment": 0,
-                "law_articles": [],
-                "summary": "Das Bildungs- und Kulturdepartement des Kantons Obwalden verzichtet auf eine Stellungnahme zur Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern, da kein Bedarf besteht."
-            },
-            {
-                "sender": "Kanton Jura",
-                "has_answer": true,
-                "feedback": true,
-                "sentiment": 1,
-                "law_articles": [],
-                "summary": "Der Kanton Jura begrüßt die Fortsetzung der finanziellen Unterstützung durch den Bund für die französischsprachige Schule in Bern und betont die Bedeutung eines qualitativ hochwertigen französischen Unterrichts in der Stadt, die den Hauptsitz der Bundesverwaltung beherbergt. Der Kanton Jura fordert die Confédération jedoch auf, sich nicht nur auf die Finanzierung der Schule zu beschränken, sondern auch in deren Organisation und Entwicklung aktiv zu sein und sich für die Vertretung sprachlicher Minderheiten in der Bundesverwaltung einzusetzen. Die Förderung der sprachlichen Vielfalt sollte insgesamt konkrete Maßnahmen im Bereich der Bildung beinhalten, um die Verständigung und den Austausch zwischen den Sprachgemeinschaften zu fördern."
-            },
-            {
-                "sender": "Schweizerischer Gewerbeverband",
-                "has_answer": true,
-                "feedback": true,
-                "sentiment": -0.3,
-                "law_articles": [],
-                "summary": "Der Schweizerische Gewerbeverband hat als Antwort auf die Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern Bedenken geäußert und fordert mehr Transparenz hinsichtlich der Anzahl der Schüler und der finanziellen Unterstützung durch den Bund. Der Verband schlägt vor zu überprüfen, ob die Schule nicht als Teilschule an eine andere Institution angeschlossen werden kann, da mehr als die Hälfte der Schüler nicht Kinder von Bundesangestellten oder von Eltern sind, die bei Organisationen arbeiten, an denen ein Bundesinteresse besteht."
-            },
-	    {
-                "sender": "Stadt Bern",
-                "has_answer": true,
-                "feedback": true,
-                "sentiment": -0.7,
-                "law_articles": [],
-                "summary": "Die Stadt Bern äußert ihre Ablehnung gegenüber der vorgeschlagenen Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern. Die ECLF ist eine gut funktionierende Schule, die eine wichtige Rolle bei der Förderung der Mehrsprachigkeit und des sprachlichen und kulturellen Austauschs zwischen den Sprachregionen spielt. Der Gesetzesentwurf erweckt den Eindruck, dass es sich bei den Interessen des Bundes an der ECLF um rein personalpolitische Interessen handelt und zieht sich faktisch aus der Mitverantwortung zurück. Die Stadt Bern fordert daher auf, auf die Totalrevision des Gesetzes zu verzichten."
-            }
+  "consultation": {
+    "title": "Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern",
+    "date": "20. Januar 2021",
+    "sender": "Das Staatssekretariat für Bildung, Forschung und Innovation",
+    "answers": [
+      {
+        "sender": "Kanton Bern",
+        "has_answer": true,
+        "feedback": true,
+        "summary": "Der Kanton Bern hat eine Stellungnahme zur Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern (Ecole cantonale de langue française – ECLF) abgegeben. Der Kanton Bern lehnt die Totalrevision ab, da er der Meinung ist, dass die Verantwortung für die Verständigung zwischen der französisch- und deutschsprachigen Gemeinschaft in der Bundeshauptstadt eine in der Verfassung verbriefte Aufgabe ist, die Bund und Kanton auch weiterhin gemeinsam wahrnehmen müssen. Der Kanton Bern beantragt eine grundlegende Überarbeitung des vorliegenden Entwurfs, damit die ECLF weiterhin eine gemeinsame Aufgabe von Bund und Kanton Bern zur Förderung der Verständigung zwischen den Sprachgemeinschaften in der Bundeshauptstadt bleibt. Die Verantwortung, inklusive die finanzielle für Betrieb und Investitionen, soll weiterhin von Bund und Kanton getragen werden.",
+        "sentiment": -0.5,
+        "law_articles": [
+          {
+            "name": "Allgemein",
+            "sentiment": -0.8,
+            "summary": ""
+          },
+          {
+            "name": "Article B",
+            "sentiment": 0.2,
+            "summary": ""
+          }
         ]
-    }
+      },
+      {
+        "sender": "Kanton Schwyz",
+        "has_answer": true,
+        "feedback": false,
+        "sentiment": 0,
+        "law_articles": [],
+        "summary": "Der Regierungsrat des Kantons Schwyz verzichtet auf eine Vernehmlassung zur Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern."
+      },
+      {
+        "sender": "Hauptstadtregion Schweiz",
+        "has_answer": true,
+        "feedback": true,
+        "sentiment": -0.4,
+        "law_articles": [],
+        "summary": "Die Hauptstadtregion Schweiz lehnt die Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern ab. Die Revision stellt eine gut funktionierende Institution in Frage und schwächt die Attraktivität der Hauptstadtregion als nationales Politikzentrum. Die Förderung der Zweisprachigkeit ist ein zentrales Anliegen der Hauptstadtregion Schweiz. Die ECLF als gelebte, gut etablierte und konkrete Massnahme zur Förderung eben dieser Zweisprachigkeit wird mit der vorgeschlagenen Totalrevision ohne Not aufs Spiel gesetzt. Die ECLF leistet einen wichtigen Beitrag zur Koexistenz von vier Landessprachen und zur kulturellen Vielfalt als eine Grundlage der Identität und des Funktionierens der Schweiz. Die ECLF muss weiterhin von Bund und Kanton finanziert werden, da sie auf einer soliden gesetzlichen Grundlage partnerschaftlich verantwortet wird"
+      },
+      {
+        "sender": "Schweizerischer Gewerkschaftsbund",
+        "has_answer": true,
+        "feedback": true,
+        "sentiment": 0.6,
+        "law_articles": [],
+        "summary": "Der Schweizerische Gewerkschaftsbund (SGB) begrüßt den Bundesratsentscheid, dass sich der Bund weiterhin mittels Finanzhilfen an den Betriebskosten der kantonalen Schule französischer Sprache (ECLF) in Bern beteiligt. Der SGB fordert jedoch, dass die neue Definition der Höhe und Bemessung der Finanzhilfen durch den Bund nicht zu versteckten Einsparungen führen darf, welche zulasten des Personals gehen und letztendlich der Bildungsqualität schaden. Der Bund soll sich künftig nur noch an Betriebskosten beteiligen, aber nicht mehr an Bauinvestitionen für ein allfälliges neues Schulgebäude."
+      },
+      {
+        "sender": "Kanton Luzern",
+        "has_answer": true,
+        "feedback": true,
+        "sentiment": 0,
+        "law_articles": [],
+        "summary": "Der Regierungsrat des Kantons Luzern hat im Zusammenhang mit der Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern keine konkreten Bemerkungen zu den Rechtsbestimmungen gemacht. Allerdings regt der Kanton Luzern an, dass der Sinn der Finanzhilfe des Bundes für die Führung der kantonalen Schule französischer Sprache in Bern noch einmal überdacht werden sollte, da die Mitfinanzierung des Bundes aufgrund der enormen Verbesserung der Mobilität seit der Gründung der Schule im Jahr 1960 kaum mehr gerechtfertigt ist."
+      },
+      {
+        "sender": "Kanton Obwalden",
+        "has_answer": true,
+        "feedback": true,
+        "sentiment": 0,
+        "law_articles": [],
+        "summary": "Das Bildungs- und Kulturdepartement des Kantons Obwalden verzichtet auf eine Stellungnahme zur Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern, da kein Bedarf besteht."
+      },
+      {
+        "sender": "Kanton Jura",
+        "has_answer": true,
+        "feedback": true,
+        "sentiment": 1,
+        "law_articles": [],
+        "summary": "Der Kanton Jura begrüßt die Fortsetzung der finanziellen Unterstützung durch den Bund für die französischsprachige Schule in Bern und betont die Bedeutung eines qualitativ hochwertigen französischen Unterrichts in der Stadt, die den Hauptsitz der Bundesverwaltung beherbergt. Der Kanton Jura fordert die Confédération jedoch auf, sich nicht nur auf die Finanzierung der Schule zu beschränken, sondern auch in deren Organisation und Entwicklung aktiv zu sein und sich für die Vertretung sprachlicher Minderheiten in der Bundesverwaltung einzusetzen. Die Förderung der sprachlichen Vielfalt sollte insgesamt konkrete Maßnahmen im Bereich der Bildung beinhalten, um die Verständigung und den Austausch zwischen den Sprachgemeinschaften zu fördern."
+      },
+      {
+        "sender": "Schweizerischer Gewerbeverband",
+        "has_answer": true,
+        "feedback": true,
+        "sentiment": -0.3,
+        "law_articles": [],
+        "summary": "Der Schweizerische Gewerbeverband hat als Antwort auf die Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern Bedenken geäußert und fordert mehr Transparenz hinsichtlich der Anzahl der Schüler und der finanziellen Unterstützung durch den Bund. Der Verband schlägt vor zu überprüfen, ob die Schule nicht als Teilschule an eine andere Institution angeschlossen werden kann, da mehr als die Hälfte der Schüler nicht Kinder von Bundesangestellten oder von Eltern sind, die bei Organisationen arbeiten, an denen ein Bundesinteresse besteht."
+      },
+      {
+        "sender": "Stadt Bern",
+        "has_answer": true,
+        "feedback": true,
+        "sentiment": -0.7,
+        "law_articles": [],
+        "summary": "Die Stadt Bern äußert ihre Ablehnung gegenüber der vorgeschlagenen Totalrevision des Bundesgesetzes über Beiträge für die kantonale französischsprachige Schule in Bern. Die ECLF ist eine gut funktionierende Schule, die eine wichtige Rolle bei der Förderung der Mehrsprachigkeit und des sprachlichen und kulturellen Austauschs zwischen den Sprachregionen spielt. Der Gesetzesentwurf erweckt den Eindruck, dass es sich bei den Interessen des Bundes an der ECLF um rein personalpolitische Interessen handelt und zieht sich faktisch aus der Mitverantwortung zurück. Die Stadt Bern fordert daher auf, auf die Totalrevision des Gesetzes zu verzichten."
+      }
+    ]
+  }
 }

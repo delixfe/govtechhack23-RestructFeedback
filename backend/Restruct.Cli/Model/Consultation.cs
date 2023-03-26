@@ -1,13 +1,9 @@
-using System.Text.Json;
-
 namespace Restruct.Cli.Model;
-
 
 public interface IFileInfoLabelReader<out TLabel, out TValue> : ILabelReader where TLabel : ILabel<TValue>
 {
     TLabel ReadLabel(FileInfo file);
 }
-
 
 public readonly record struct Consultation
 {
@@ -21,7 +17,7 @@ public readonly record struct Consultation
     public Uri? SenderUrl { get; init; }
 
     #endregion
-    
+
     #region Execution
 
     public string FolderName { get; init; }
@@ -29,6 +25,4 @@ public readonly record struct Consultation
     public ILabelReader[] LabelReaders { get; init; }
 
     #endregion
-  
-    
 }
