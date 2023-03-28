@@ -1,4 +1,12 @@
-# govtechhack23-RestructFeedback
+# GovTech Hackathon 2023 - RestructFeedback
+
+In this repository you will find code, data and results from our participation on the
+[GovTech Hackathon 2023](https://hack.opendata.ch/event/56).
+
+- Our challenge: <https://hack.opendata.ch/project/941>
+- Pitch presentation: <https://github.com/delixfe/govtechhack23-RestructFeedback/blob/main/docs/GovHack_23.03_V1.pdf>
+- AI created sample output and Excel workbooks to analyze
+  them: <https://github.com/delixfe/govtechhack23-RestructFeedback/tree/main/data/sample_output>.
 
 ## Resources
 
